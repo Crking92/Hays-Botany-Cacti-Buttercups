@@ -1,0 +1,30 @@
+# Curation sources — Opuntia gilvescens
+Reviewed through 2026-10-06
+Scientific status: UNRESOLVED TAXON CONCEPT / RANGE HOLD
+Learner admission: APPROVED
+
+Current Opuntia backbone:
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30002080-2
+
+Historical name now mapped to O. gilvescens:
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:175419-2
+
+Specialist concept reference:
+https://www.opuntiads.com/records/opuntia-gilvescens-forgotten-plant-shaw-hussey-ferguson.pdf
+https://www.opuntiads.com/opuntia-gilvescens/
+
+Decision
+Install for private learner use while preserving TAXON/RANGE HOLD.
+Do not transfer legacy broad phaeacantha records automatically.
+
+EXTERNAL FIRST-PHOTO SOURCE 2026-10-15T02:06:39.520317+00:00
+iNaturalist photo contributor (CC0); CC0 1.0; https://creativecommons.org/publicdomain/zero/1.0/
+https://www.inaturalist.org/photos/717565310 | https://www.inaturalist.org/observations/391597713
+Image saved provisionally from exact-taxon Research Grade observation; photographic diagnostic ID unreviewed. EXIF removed.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T15:24:07.237723+00:00
+Opuntia gilvescens Griffiths
+https://www.gbif.org/occurrence/4028859348
+Sam Kieschnick | CC BY http://creativecommons.org/licenses/by/4.0/
+Target visual view (NOT YET verified): Mature pad shape, areoles, spines and fruit; strict species concept still provisional
+No anatomy arrows; no scientific or native-range changes.

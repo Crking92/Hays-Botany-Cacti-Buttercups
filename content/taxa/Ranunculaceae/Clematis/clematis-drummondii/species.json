@@ -1,0 +1,189 @@
+{
+  "id": "clematis-drummondii",
+  "entry_type": "species",
+  "family": "Ranunculaceae",
+  "genus": "Clematis",
+  "species": "drummondii",
+  "scientific_name": "Clematis drummondii",
+  "authority": "Torr. & A.Gray",
+  "common_name": "Drummond's clematis / Old man's beard",
+  "synonyms": [
+    "Clematis nervata Benth.",
+    "Clematis dioica var. drummondii (Torr. & A.Gray) Kuntze"
+  ],
+  "look_here_first": "FIRST find the slender open starburst of four pale SEPALS (no true petals) and numerous exposed stamens; purple/scarlet leatherflowers instead hang as leathery urns. Notice opposite compound often deeply LOBED leaflets and a twisting LEAF STALK that clasps supports. Male and female flowers occur on separate vines; only female vines produce the famous shaggy long (4–9 cm) silky style/beak heads. Avoid confusing an introduced white sweet autumn clematis with smooth-edged leaflets and massive bisexual bloom sprays.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis"
+  ],
+  "target_zone_count": 2,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED",
+    "range_basis": "Hays — Purola natural flora; Travis — UT PRC herbarium specimens; Williamson — UT PRC county field treatment. [2026-10-13 range audit correction: Williamson County is NOT in the 24-county project target zone and must not count toward the >=3 county PASS rule; verified target-zone counties here currently Hays, Travis (2). No third eligible county checked/confirmed in this pass.]",
+    "native_metric_excluded_pending_evidence": true,
+    "county_threshold_count_verified": 2,
+    "county_threshold_required": 3,
+    "range_audit_note": "Prior PASS incorrectly treated Williamson as a target-zone county. Retain learner admission and actual Williamson observation as external-zone context, but demote PASS pending third approved-zone county evidence."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "woody scrambling/climbing vine",
+      "opposite odd-pinnate leaves usually 5-foliolate and deeply divided",
+      "flowers unisexual and plants dioecious",
+      "four thin white-to-cream sepals spread flat",
+      "achenes with extremely long 4–9 cm plumose beaks"
+    ],
+    "habit": "Woody scrambling/climbing vine, often several meters.",
+    "leaf_arrangement": "Opposite.",
+    "leaf_morphology": "Usually odd-pinnate and 5-foliolate; leaflets often deeply divided or cleft.",
+    "flower": "Open rather than urn-shaped; four thin white/cream spreading sepals; male and female flowers on separate vines.",
+    "fruit": "Aggregate achenes with very long silky plumose beaks forming conspicuous 'old man's beard' masses.",
+    "family_backfill_note": "Ranunculaceae family backfill uses C. drummondii as the open-flower Clematis anchor: petaloid sepals + many free stamens/pistils + aggregate achenes."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Clematis terniflora",
+      "Clematis pitcheri"
+    ],
+    "key_distinctions": "C. terniflora has masses of small bisexual white flowers and mostly entire 3–5-foliolate leaves. C. pitcheri has thick purple urn-shaped flowers."
+  },
+  "tags": [
+    "Ranunculaceae",
+    "Clematis",
+    "Drummond's clematis",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-b006",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-02",
+    "visual_reviewed": true,
+    "last_visual_reviewed": "2026-10-05",
+    "photo_metadata_count": 5,
+    "photo_files_present": 5,
+    "photo_install_status": "verified 2026-10-13",
+    "photo_install_verified": "2026-10-13",
+    "range_count_reconciled_at": "2026-10-13",
+    "range_current_status": "UNRESOLVED (2 valid target-zone counties)"
+  },
+  "photo_note": "A rights-cleared exact-species three-view gallery is staged for download; prior external image references have no physical binaries and are replaced by local paths on install. Silky seedheads and female flower still require specialty verified photos.",
+  "images": [
+    {
+      "file": "images/01-open-staminate-flower.jpg",
+      "role": "Detailed front/side staminate flower: four pale sepals surrounding numerous long stamens",
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Clematis_drummondii_22606250.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "source_photo_id": "22606250",
+      "source_observation_id": "15127843",
+      "caption": "Exact C. drummondii staminate flower in southern New Mexico by Alex Abair, CC BY 4.0. Count four pale SEPALS around the exposed many STAMENS, with no petals. The plant is dioecious: this photo is male; a female flower closeup remains a photo gap.",
+      "diagnostic_roles": [
+        "open four-sepal flower",
+        "long exposed stamens",
+        "staminate reproductive structures"
+      ]
+    },
+    {
+      "file": "images/02-open-flower-and-divided-leaves.jpg",
+      "role": "Flowering vine in the field: open pale flower and divided leaflets adjacent on stem",
+      "creator": "sonnia hill",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Clematis_drummondii_-_52769283625.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "source_photo_id": "52769283625",
+      "caption": "Clematis drummondii in Hidalgo County, Texas, photographed by sonnia hill, CC BY 2.0. Study the small open pale bloom next to deeply cut/lobed leaflets. Compare terniflora which usually has smoother oval leaflet edges and multiple flowers in branching sprays.",
+      "diagnostic_roles": [
+        "open flower on vine",
+        "lobed leaflets",
+        "small buds and branching"
+      ]
+    },
+    {
+      "file": "images/03-twining-leaf-stalk-and-leaf-shape.jpg",
+      "role": "Leaf stalk looped around adjacent stem, demonstrating Clematis climbing method and lobed leaf",
+      "creator": "sonnia hill",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Clematis_drummondii_(2023).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "source_photo_id": "52754401105",
+      "caption": "Clematis drummondii in Hidalgo County, Texas, by sonnia hill, CC BY 2.0. The flexible LEAF STALK winds around another stem to climb: that is not a specialized tendril. A deeply lobed leaflet is visible, a helpful native-vs-terniflora feature.",
+      "diagnostic_roles": [
+        "petiole wrapping support",
+        "leaf lobing",
+        "climbing attachment"
+      ]
+    },
+    {
+      "file": "images/04-mature-plumose-seedheads.jpg",
+      "role": "Mature feathery seedheads showing masses of plumose persistent achene styles",
+      "creator": "Mike (Commons Pompilid)",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Clematis_drummondii.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes with terms",
+      "source_photo_id": "",
+      "caption": "Female Clematis drummondii mature seedheads in Arizona by Mike (Commons Pompilid), CC BY-SA 3.0. Long white featherlike fibers are HAIRS on the persistent STYLES of tiny dry ACHENES. These are fruiting heads, not white petals or dandelion seed pappus.",
+      "diagnostic_roles": [
+        "long plumose styles",
+        "ripe achene clusters",
+        "female seedheads"
+      ]
+    },
+    {
+      "file": "images/05-vine-scrambling-over-shrub.jpg",
+      "role": "Whole vine habit spreading over shrubs in New Mexico; overall recognition context",
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Clematis_drummondii_10442366.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes with terms",
+      "source_photo_id": "10442366",
+      "source_observation_id": "7913310",
+      "caption": "Distant whole-vine landscape photograph, Clematis drummondii covering shrubs in New Mexico, Alex Abair CC BY 4.0. Shows scrambling/cloudlike field habit. Use the close flower or fruit photos for confirmation; this wide shot alone does not resolve species-level detail.",
+      "diagnostic_roles": [
+        "vine covers shrubs",
+        "whole habit",
+        "community/habitat context"
+      ]
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "diagnostic_photo_polish",
+    "image_count": 5,
+    "photo_files_present": 5,
+    "verified_at": "2026-10-13",
+    "note": "All five exact-species licensed photo binaries physically installed and in canonical species card; male flower, leaf arrangement, climbing petiole, ripe feathered female infructescence, and full-vine growth covered. Female flower macro and individual achene with ruler can wait final polish."
+  },
+  "diagnostic_photo_needs": [
+    {
+      "role": "open male staminate flower showing four sepals + stamens",
+      "status": "stage CC BY Alex Abair photo"
+    },
+    {
+      "role": "blooming vine with open pale flower and lobed leaves",
+      "status": "stage CC BY sonnia hill photo"
+    },
+    {
+      "role": "climbing leaf petiole wrapping stem; leaf lobes",
+      "status": "stage CC BY sonnia hill photo"
+    },
+    {
+      "role": "female pistillate flowers",
+      "status": "FINAL POLISH pending exact licensed photo"
+    },
+    {
+      "role": "very long feathery mature achene styles",
+      "status": "LICENSED source photo queued showing mature plumes (individual achene macro still needed)"
+    }
+  ]
+}

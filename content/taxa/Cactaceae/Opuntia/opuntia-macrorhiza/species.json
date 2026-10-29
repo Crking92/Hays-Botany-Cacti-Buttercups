@@ -1,0 +1,151 @@
+{
+  "id": "opuntia-macrorhiza",
+  "entry_type": "species",
+  "family": "Cactaceae",
+  "genus": "Opuntia",
+  "species": "macrorhiza",
+  "scientific_name": "Opuntia macrorhiza",
+  "authority": "Engelm.",
+  "common_name": "Grassland pricklypear / twist-spine pricklypear",
+  "synonyms": [
+    "Opuntia compressa var. macrorhiza (Engelm.) L.D.Benson",
+    "Opuntia mesacantha var. macrorhiza (Engelm.) J.M.Coult."
+  ],
+  "taxonomic_note": "Accepted by current Kew/POWO as Opuntia macrorhiza Engelm. Older infraspecific combinations are synonyms; do not split them into separate learner concepts.",
+  "look_here_first": "Compare the whole plant against Texas pricklypear before counting spines. O. macrorhiza is usually a low, sprawling grassland cactus with smaller pads close to the ground. Then check the areoles: relatively few permanent spines, often with the main spine strongly bent or deflexed near its base, plus orange-brown glochids.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays — Purola Preserve north Hays County natural-flora list includes Opuntia macrorhiza as naturally occurring. Travis — UT Plant Resources Center Travis County Cactaceae specimen index includes O. macrorhiza. Williamson — UT PRC Vascular Plants of Williamson County provides a detailed local treatment.",
+    "range_guardrail": "Exact target-zone county documentation only. This species remains separate from O. engelmannii var. lindheimeri; use comparative morphology rather than pad presence alone."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "low sprawling or radiating succulent shrub, often close to the ground",
+      "flattened photosynthetic cladodes/pads commonly smaller than the large Texas-pricklypear anchor",
+      "true cactus areoles repeated over the pads",
+      "areoles with brown wool and dense orange to brown glochids",
+      "permanent spines commonly few; main spine often strongly bent at the base and deflexed",
+      "large showy flowers yellow with reddish or rose-red pigmentation toward the petal bases in the detailed Williamson treatment",
+      "inferior ovary with areoles on the surrounding pericarpel tissue",
+      "fleshy many-seeded fruit"
+    ],
+    "habit": "Often forms a low radial plant with branches/pads touching the ground rather than a taller shrubby pricklypear.",
+    "areole": "Areoles are the family-defining structure; in this species the wool/glochids and few bent permanent spines are useful comparison characters.",
+    "spines": "The strongest permanent spine is often bent sharply near its base and angles downward. Do not use spine count alone.",
+    "flower": "Large radial flowers with many free perianth segments and numerous stamens; local treatment describes yellow inner segments with rose-red color toward the base.",
+    "comparison_training": "Against O. engelmannii var. lindheimeri, use overall low habit, smaller pad proportions, areole spacing, glochid color, and the bent/deflexed main spine as a character suite—not a single feature."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Opuntia engelmannii var. lindheimeri",
+      "Opuntia phaeacantha",
+      "other low Opuntia spp."
+    ],
+    "key_distinctions": "O. macrorhiza is generally lower and more sprawling than the common Texas pricklypear anchor, with smaller pads and a characteristic tendency for a few strongly bent/deflexed permanent spines. Confirm with multiple traits because Opuntia spine number is variable."
+  },
+  "tags": [
+    "Cactaceae",
+    "Opuntia",
+    "grassland pricklypear",
+    "twist-spine pricklypear",
+    "Hays County",
+    "Visual learner"
+  ],
+  "curation_status": {
+    "version": "1.0-cactaceae-second-anchor+b117-visual",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "visual_reviewed": true,
+    "visual_status": "usable-core",
+    "photo_metadata_count": 5,
+    "last_visual_reviewed": "2026-10-04",
+    "photo_files_present": 2
+  },
+  "photo_note": "B117 visual lock adds three real-photo views covering field habit/spines, flower, and mature fruit. Still desirable later: a tight macro showing the bent/deflexed main spine and orange-brown glochids. Joey Santore photo additions are rights-limited CC BY-NC and botanical ID provisional.",
+  "photo_strategy": {
+    "method": "B117 existing-material-first visual lock; no matching Joey/video frame was available",
+    "target_count": 3,
+    "diagnostic_roles": "habit/pad architecture + reproductive structure + fruit/spine context",
+    "public_release_guardrail": "Use only according to recorded license; retain attribution and noncommercial restriction where applicable."
+  },
+  "images": [
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Opuntia_macrorhiza_-_Flickr_-_aspidoscelis_(1).jpg",
+      "role": "field habit / pad and spine architecture",
+      "creator": "Patrick Alexander",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Opuntia_macrorhiza_-_Flickr_-_aspidoscelis_(1).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Opuntia_macrorhiza_f_NOLFtkAOyp7z.jpeg",
+      "role": "flower and pad close view — yellow flower with reddish center",
+      "creator": "Stuart",
+      "license": "CC BY-NC 2.0",
+      "source_page": "https://plants.ces.ncsu.edu/plants/opuntia-macrorhiza/",
+      "study_use": "yes",
+      "public_reuse": "review-noncommercial"
+    },
+    {
+      "file": "https://s3.amazonaws.com/eit-planttoolbox-prod/media/images/Opuntia_macrorhiza_f_Qq7ky6VR2DIr.jpeg",
+      "role": "mature reddish-purple fruit / pad and spine reference",
+      "creator": "Sonnia Hill",
+      "license": "CC BY 2.0",
+      "source_page": "https://plants.ces.ncsu.edu/plants/opuntia-macrorhiza/",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution"
+    },
+    {
+      "file": "images/joey-review019-98495663862c4834.jpg",
+      "role": "Low sprawling pad-forming cactus habit and close mature pads with areoles and fruit (source determination provisional; no verified anatomy arrows)",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "license_version_note": "License shorthand per image inventory, check original iNaturalist photo for exact version",
+      "source_platform": "Joey Santore iNaturalist Texas observation",
+      "source_page": "https://www.inaturalist.org/photos/367087350",
+      "source_observation": "https://www.inaturalist.org/observations/207523984",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/367087350/large.jpeg",
+      "source_determination": "Opuntia macrorhiza",
+      "photo_id": "367087350",
+      "observation_id": "207523984",
+      "photo_review": "Actual photograph visually screened via JPEG contact sheet; independent botanical identity pending",
+      "anatomy_arrows": "none; exact structures not expert-confirmed",
+      "study_use": "Private noncommercial educational botany project only, with Joey Santore attribution",
+      "public_reuse": "Noncommercial CC BY-NC conditions; commercial reuse not cleared",
+      "modifications": "Re-encoded JPEG and removed EXIF metadata; creator and original CC BY-NC retained"
+    },
+    {
+      "file": "images/joey-review019-2e4b0f7fbfec655a.jpg",
+      "role": "Low sprawling pad-forming cactus habit and close mature pads with areoles and fruit (source determination provisional; no verified anatomy arrows)",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "license_version_note": "License shorthand per image inventory, check original iNaturalist photo for exact version",
+      "source_platform": "Joey Santore iNaturalist Texas observation",
+      "source_page": "https://www.inaturalist.org/photos/367087366",
+      "source_observation": "https://www.inaturalist.org/observations/207523984",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/367087366/large.jpeg",
+      "source_determination": "Opuntia macrorhiza",
+      "photo_id": "367087366",
+      "observation_id": "207523984",
+      "photo_review": "Actual photograph visually screened via JPEG contact sheet; independent botanical identity pending",
+      "anatomy_arrows": "none; exact structures not expert-confirmed",
+      "study_use": "Private noncommercial educational botany project only, with Joey Santore attribution",
+      "public_reuse": "Noncommercial CC BY-NC conditions; commercial reuse not cleared",
+      "modifications": "Re-encoded JPEG and removed EXIF metadata; creator and original CC BY-NC retained"
+    }
+  ]
+}

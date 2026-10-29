@@ -1,0 +1,118 @@
+{
+  "id": "opuntia-phaeacantha",
+  "entry_type": "species",
+  "family": "Cactaceae",
+  "genus": "Opuntia",
+  "species": "phaeacantha",
+  "scientific_name": "Opuntia phaeacantha",
+  "authority": "Engelm.",
+  "common_name": "Brown-spine pricklypear",
+  "synonyms": [],
+  "taxonomic_note": "Strict Opuntia phaeacantha is accepted, but older broad phaeacantha treatments included material now separated as O. gilvescens, O. camanchica, O. spinosibacca, and related concepts.",
+  "look_here_first": "Use the brown-spine/desert pricklypear concept cautiously: low to spreading pads, usually conspicuous brown-gray spines, yellow flowers often with reddish bases, and fleshy reddish-purple fruit. Confirm the modern taxon concept before trusting old Central Texas labels.",
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED TAXON CONCEPT — USER APPROVED LEARNER INCLUSION",
+    "range_basis": "Historical Hays/Travis labels are retained as concept evidence only because the modern split may reassign old broad-name material. Williamson is outside the target zone.",
+    "approval_exception": {
+      "approved_by_user": true,
+      "approved_at": "2026-10-06",
+      "reason": "Private learner inclusion is allowed while the taxon/range HOLD remains explicit."
+    },
+    "native_metrics_excluded": true
+  },
+  "learner_role": "TAXON_CONCEPT_RANGE_UNRESOLVED",
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "low to spreading pricklypear habit",
+      "pads used together with spine pattern",
+      "usually conspicuous brown to gray spines",
+      "yellow flowers often with reddish bases",
+      "fleshy reddish-purple fruit"
+    ],
+    "comparison_training": "These are field-concept cues, not permission to transfer historical broad-name records. Modern taxon identity must still be checked against O. gilvescens, O. camanchica, and related split taxa."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Opuntia gilvescens",
+      "Opuntia camanchica",
+      "Opuntia spinosibacca"
+    ],
+    "key_distinctions": "Use a complete pad/spine/flower/fruit suite and modern expert-identified references. Old 'phaeacantha' labels are not sufficient."
+  },
+  "tags": [
+    "Cactaceae",
+    "Opuntia",
+    "Brown-spine pricklypear",
+    "Taxon concept hold",
+    "Range unresolved",
+    "Learner approved"
+  ],
+  "curation_status": {
+    "version": "1.0-taxonomy-range-hold-2026-10-06",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "range_exception": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-06",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "diagnostic_image_needs": [
+    "whole spreading clump",
+    "mature pad",
+    "brown-gray spine pattern",
+    "flower showing reddish base if present",
+    "ripe fruit",
+    "direct modern-concept comparison set"
+  ],
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling.",
+  "images": [
+    {
+      "file": "images/opuntia-phaeacantha-provisional-face.jpg",
+      "role": "Opuntia phaeacantha cultivated cactus at UC Berkeley botanical garden; later expert-concept pad/spine checks.",
+      "creator": "Stan Shebs",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Opuntia_phaeacantha_1.jpg",
+      "study_use": "yes",
+      "public_reuse": "cc_by_sa"
+    },
+    {
+      "file": "images/gbif-manual-5938036761-fb2fba2a5.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Spine color/pad outline with yellow red-centered flower or red fruit; taxonomy review pending",
+      "creator": "Andrew Dudley",
+      "license": "CC BY",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/5938036761",
+      "gbif_occurrence_id": "5938036761",
+      "source_determination": "Opuntia phaeacantha Engelm.",
+      "accepted_target": "Opuntia phaeacantha",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605141557/original.jpg",
+      "image_dimensions": [
+        759,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-08",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

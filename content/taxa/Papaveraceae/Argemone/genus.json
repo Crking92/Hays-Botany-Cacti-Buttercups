@@ -1,0 +1,243 @@
+{
+  "rank": "genus",
+  "family": "Papaveraceae",
+  "name": "Argemone",
+  "authority": "L.",
+  "common_group": "Prickly poppies",
+  "project_scope": {
+    "selection_mode": "local-occurrence-first",
+    "core_species_count": 4,
+    "species_ids": [
+      "argemone-albiflora-subsp-texana",
+      "argemone-aurantiaca",
+      "argemone-polyanthemos",
+      "argemone-sanguinea"
+    ],
+    "watchlist": [],
+    "local_taxonomic_note": "Argemone albiflora is the parent species concept. The Central Texas learner represents the local field target as Argemone albiflora subsp. texana; do not create a duplicate parent-species card. A. polyanthemos and A. sanguinea are learner-approved represented comparison taxa even while their target-zone native-range labels remain unresolved."
+  },
+  "genus_diagnostics": {
+    "habit": "Spiny annual or biennial herbs with glaucous foliage.",
+    "leaves": "Alternate, deeply lobed, with sharp marginal teeth/spines and often prickles on veins.",
+    "sap": "Colored latex is useful but not sufficient across all four represented taxa: A. aurantiaca is orange to reddish-orange, while the other represented taxa have yellow/pale-yellow latex.",
+    "flower": "Large showy flowers with numerous stamens. Petal color is only a first-pass cue: A. albiflora subsp. texana, A. aurantiaca, and A. polyanthemos are normally white; A. sanguinea can be white or lavender.",
+    "sepals": "Three caducous sepals forming a prickly bud, each with a horn-like tip.",
+    "fruit": "Prickly capsule; prickle length, branching, and density are diagnostic."
+  },
+  "quick_key": [
+    {
+      "if": "Fresh latex is orange to reddish-orange; sepal horns 8–12 mm and prickly; capsule prickles very unequal, often branched, longest about 15–35 mm",
+      "then": "Argemone aurantiaca"
+    },
+    {
+      "if": "Latex yellow/pale-yellow; upper leaf surface unarmed; sepal horns 6–10(–15) mm and usually unarmed; capsule surface plainly visible between widely spaced prickles, longest 4–10(–12) mm",
+      "then": "Argemone polyanthemos"
+    },
+    {
+      "if": "Latex yellow; petals white or lavender; proximal leaves lobed to about 4/5 toward midrib; sepal horns 5–10 mm and slightly prickly basally; capsule prickles unequal, longest 5–7(–10) mm",
+      "then": "Argemone sanguinea"
+    },
+    {
+      "if": "Fresh latex pale/light yellow; sepal horns about 4–6(–10) mm and usually unarmed; capsule prickles mostly simple and shorter, longest about 6–10(–12) mm",
+      "then": "Argemone albiflora subsp. texana"
+    }
+  ],
+  "study_warning": "Do not identify these four from petal color alone. A. sanguinea may be white or lavender, and the other three are commonly white. Start with fresh latex, then upper leaf-surface armature, bud/sepal horns, and mature capsule prickles.",
+  "curation_status": {
+    "version": "1.4-four-species-diagnostic-review",
+    "last_reviewed": "2026-10-06"
+  },
+  "b073_comparison": {
+    "selection_mode": "B073 same-genus comparison",
+    "species_ids": [
+      "argemone-albiflora-subsp-texana"
+    ],
+    "species_count": 1,
+    "holds": [
+      "argemone-polyanthemos",
+      "argemone-sanguinea"
+    ],
+    "anchors": [
+      "argemone-aurantiaca"
+    ]
+  },
+  "b073_study_strategy": {
+    "priority": [
+      "fresh latex color",
+      "mature capsule prickle length and branching",
+      "sepal-horn length and armature",
+      "leaf and stem prickliness",
+      "range and habitat"
+    ],
+    "warning": "Do not separate the two local core species by petal color: both are white-flowered. Use fresh latex plus mature capsule and bud characters."
+  },
+  "b073_comparison_lesson": {
+    "quick_split": [
+      "A. albiflora subsp. texana — white petals; fresh latex pale/light yellow; sepal horns usually 4–6(-10) mm and mostly unarmed; mature capsule prickles mostly simple and much shorter, with the longest about 6–10(-12) mm.",
+      "A. aurantiaca — white petals; fresh latex orange to reddish-orange; sepal horns 8–12 mm and prickly; mature capsule prickles very unequal, often branched, with the longest about 15–35 mm.",
+      "A. polyanthemos — white- to pale-lavender-flowered plains/west-central look-alike; HOLD for target-zone range and use mature fruit/bud characters.",
+      "A. sanguinea — rose/red/lavender-flowered South Texas look-alike; HOLD pending exact target-zone county evidence."
+    ]
+  },
+  "local_field_key": [
+    {
+      "step": 1,
+      "character": "fresh latex",
+      "albiflora_subsp_texana": "pale/light yellow",
+      "aurantiaca": "orange to reddish-orange"
+    },
+    {
+      "step": 2,
+      "character": "mature capsule prickles",
+      "albiflora_subsp_texana": "mostly simple; longest about 6–10(-12) mm",
+      "aurantiaca": "very unequal, often branched; longest about 15–35 mm"
+    },
+    {
+      "step": 3,
+      "character": "sepal horns on buds",
+      "albiflora_subsp_texana": "about 4–6(-10) mm, usually unarmed",
+      "aurantiaca": "about 8–12 mm, prickly"
+    }
+  ],
+  "study_strategy": {
+    "shared_traits": [
+      "glaucous prickly herbs",
+      "alternate sessile leaves with spine-tipped teeth",
+      "large flowers with caducous horned sepals",
+      "prickly capsular fruit",
+      "colored latex"
+    ],
+    "priority": [
+      "fresh latex color",
+      "upper leaf-surface armature",
+      "bud body + sepal-horn length/armature",
+      "mature capsule prickle spacing/length/branching",
+      "leaf lobing and clasping"
+    ],
+    "warning": "Petal color, overall plant height, and generic 'spikiness' overlap. A. sanguinea can flower white, and A. polyanthemos overlaps A. albiflora subsp. texana strongly in white petals, yellow latex, and short capsule prickles."
+  },
+  "visual_comparison": {
+    "title": "Prickly poppy: look at the weapons, not the petals",
+    "subtitle": "These two Central Texas plants both flower white. The capsule and sap are far more useful.",
+    "memory_rule": "Yellow sap = albiflora. Orange sap = aurantiaca.",
+    "items": [
+      {
+        "taxon_id": "argemone-albiflora-subsp-texana",
+        "scientific_name": "Argemone albiflora subsp. texana",
+        "label": "White pricklypoppy",
+        "image_url": "https://web.biosci.utexas.edu/bio406d/images/pics/pap/Aregemone%20albiflora%20fruits.JPG",
+        "image_role": "Central Texas fruit / capsule close-up",
+        "caption": "Capsules have shorter, simple prickles. FNA gives the longest prickles as about 6–10(–12) mm; fresh latex is pale/light yellow.",
+        "markers": [
+          {
+            "target_x": 31,
+            "target_y": 31,
+            "label_x": 5,
+            "label_y": 8,
+            "label": "shorter, simple prickles"
+          },
+          {
+            "target_x": 59,
+            "target_y": 54,
+            "label_x": 52,
+            "label_y": 82,
+            "label": "armed capsule"
+          }
+        ],
+        "creator": "UT Austin BIO406D PlantPics / Plant Resources teaching archive",
+        "license": "study-use; public reuse requires review",
+        "source_page": "https://web.biosci.utexas.edu/bio406d/images/pics/pap/argemone_albiflora.htm",
+        "source_note": "Central Texas teaching image; exact page labels the taxon A. albiflora ssp. texana."
+      },
+      {
+        "taxon_id": "argemone-aurantiaca",
+        "scientific_name": "Argemone aurantiaca",
+        "label": "Texas pricklypoppy",
+        "image_url": "https://www.backyardnature.net/n/13/130519pq.jpg",
+        "image_role": "Texas developing capsule / ovary close-up",
+        "caption": "Capsule prickles are dramatically longer and very unequal, often branched. FNA gives the longest as about 15–35 mm; fresh latex is orange to reddish-orange.",
+        "markers": [
+          {
+            "target_x": 78,
+            "target_y": 32,
+            "label_x": 4,
+            "label_y": 8,
+            "label": "very long, unequal prickles"
+          },
+          {
+            "target_x": 67,
+            "target_y": 49,
+            "label_x": 5,
+            "label_y": 78,
+            "label": "often branched"
+          }
+        ],
+        "creator": "Jim Conrad / Backyard Nature",
+        "license": "CC0 1.0",
+        "source_page": "https://www.backyardnature.net/n/h/prickpop.htm",
+        "source_note": "Photographed in northern Uvalde County, Texas."
+      },
+      {
+        "taxon_id": "argemone-aurantiaca",
+        "scientific_name": "Argemone aurantiaca",
+        "label": "Sap check",
+        "image_url": "https://www.backyardnature.net/n/13/130519pr.jpg",
+        "image_role": "orange latex close-up",
+        "caption": "A broken leaf shows the orange latex directly. This is the fastest field split from A. albiflora subsp. texana, whose fresh latex is pale/light yellow.",
+        "markers": [
+          {
+            "target_x": 82,
+            "target_y": 40,
+            "label_x": 5,
+            "label_y": 10,
+            "label": "orange latex"
+          }
+        ],
+        "creator": "Jim Conrad / Backyard Nature",
+        "license": "CC0 1.0",
+        "source_page": "https://www.backyardnature.net/n/h/prickpop.htm",
+        "source_note": "Same Uvalde County Texas pricklypoppy account."
+      }
+    ],
+    "morphology_sources": [
+      "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500124",
+      "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500126",
+      "https://w3.biosci.utexas.edu/prc/K12/pdf/Argemone%20albiflora%20texana"
+    ],
+    "overlay_note": "Arrows and labels are learner-generated overlays; they are not part of the original photographs."
+  },
+  "diagnostic_review_2026_10_06": {
+    "status": "COMPLETE",
+    "look_here_first": [
+      "1. Nick fresh tissue only when appropriate and note latex color.",
+      "2. Inspect the upper leaf blade itself, not just margins/veins: A. polyanthemos is characteristically unarmed adaxially.",
+      "3. Photograph an unopened bud side-on and measure the sepal horn; note whether the horn itself is prickly.",
+      "4. Use a mature capsule side view to compare prickle spacing, equality, branching, and maximum length."
+    ],
+    "species_differences": {
+      "argemone-albiflora-subsp-texana": "Pale/light-yellow latex; sepal horns about 4–6(–10) mm, usually unarmed; mature capsule prickles mostly simple, longest about 6–10(–12) mm.",
+      "argemone-aurantiaca": "Orange to reddish-orange latex; prickly 8–12 mm sepal horns; mature capsule prickles very unequal, often branched, longest about 15–35 mm.",
+      "argemone-polyanthemos": "Upper leaf surface unarmed; buds 15–22 × 10–15 mm; terete sepal horns 6–10(–15) mm, usually unarmed; capsules 35–50 × 10–17 mm with widely spaced prickles, longest 4–10(–12) mm.",
+      "argemone-sanguinea": "Upper leaf surface unarmed to sparingly prickly on main veins; buds 12–20 × 10–15 mm; sepal horns 5–10 mm, slightly prickly basally; petals white or lavender; capsules 25–40(–50) × 8–15(–18) mm with unequal prickles, longest 5–7(–10) mm."
+    },
+    "unreliable_chars": [
+      "flower color alone",
+      "overall height",
+      "generic glaucous color",
+      "presence of prickles without noting exact structure"
+    ],
+    "exact_photo_roles": [
+      "matched upper-leaf-surface macros for all four taxa",
+      "matched unopened-bud side views showing sepal horn",
+      "fresh latex close-up for each taxon",
+      "matched mature-capsule side views with scale",
+      "A. aurantiaca branched-prickle macro",
+      "A. polyanthemos widely spaced capsule-prickle view",
+      "A. sanguinea white-versus-lavender flower examples paired with bud/fruit confirmation"
+    ],
+    "sources": [
+      "Flora of North America / World Flora Online Argemone treatment",
+      "existing project species packages and provenance"
+    ]
+  }
+}

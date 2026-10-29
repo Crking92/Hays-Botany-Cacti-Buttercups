@@ -1,0 +1,147 @@
+{
+  "id": "clematis-pitcheri",
+  "entry_type": "species",
+  "family": "Ranunculaceae",
+  "genus": "Clematis",
+  "species": "pitcheri",
+  "scientific_name": "Clematis pitcheri",
+  "authority": "Torr. & A.Gray",
+  "common_name": "Purple leatherflower / Pitcher's clematis",
+  "synonyms": [
+    "Viorna pitcheri (Torr. & A.Gray) Britton",
+    "Coriflora pitcheri (Torr. & A.Gray) W.A.Weber"
+  ],
+  "taxonomic_note": "Current Kew accepts C. pitcheri with var. pitcheri and var. dictyota. This learner remains species-level with local evidence centered on var. pitcheri.",
+  "look_here_first": "Look for the nodding leathery urn: dull blue-purple to reddish-purple sepals stay connivent for most of their length, then develop narrow expanded, often crisped/recurved tips.",
+  "county_occurrences_target_zone": [
+    "Travis",
+    "Uvalde",
+    "Kerr"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Travis — prior UT PRC herbarium voucher under Clematis pitcheri var. pitcheri; Uvalde — prior Harvard wild specimen from Nueces River; Kerr — Singhurst et al. (2010), Flora of Kerr Wildlife Management Area, vouchers JS 10559, JS 10823, LS 3861, p.518. These three counties meet the strict 24-county project threshold; old Williamson record is out-of-zone.",
+    "native_metric_excluded_pending_evidence": false,
+    "county_threshold_count_verified": 3,
+    "county_threshold_required": 3,
+    "range_audit_note": "Prior PASS incorrectly treated Williamson as a target-zone county. Retain learner admission and actual Williamson observation as external-zone context, but demote PASS pending third approved-zone county evidence.",
+    "native_range_reconciliation": {
+      "reviewed_at": "2026-10-14",
+      "decision": "PASS",
+      "confidence": "high",
+      "accepted_name": "Clematis pitcheri Torr. & A.Gray",
+      "verified_target_counties": [
+        "Travis",
+        "Uvalde",
+        "Kerr"
+      ],
+      "historical_out_of_zone_counties": [
+        "Williamson"
+      ],
+      "source_links": [
+        {
+          "url": "https://tpwd.texas.gov/huntwild/wild/research/highlights/taxa/publications/Singhurst_etal_2010_KerrWMA.pdf",
+          "role": "Kerr WMA natural flora vouchers JS 10559, JS 10823, LS 3861"
+        },
+        {
+          "url": "https://powo.science.kew.org/taxon/60399-2",
+          "role": "Accepted species and Texas nativity"
+        }
+      ],
+      "note": "Prior 2026-10-13 boundary correction downgraded an unsupported 3-county PASS. New independent Kerr specimen evidence fills the third target county. Species-level determination preserved; no infraspecific assignment."
+    }
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "nodding ovoid-to-urn-shaped flowers",
+      "four thick leathery bluish to reddish-purple sepals",
+      "distal sepal margins narrowly expanded and often crispate/recurved",
+      "leaflets often prominently reticulate",
+      "achene beaks short, about 1–3 cm, nearly glabrous to appressed-pubescent"
+    ],
+    "habit": "Perennial woody-based climber, commonly dying back above ground.",
+    "leaf_arrangement": "Opposite.",
+    "leaf_morphology": "Simple to 1–2-pinnate; leaflets variable and often coarsely reticulate.",
+    "flower": "Nodding leathery purple urn with narrow expanded/crisped distal sepal margins.",
+    "fruit": "Achenes with relatively short 1–3 cm beaks, not strongly plumose."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Clematis texensis",
+      "Clematis reticulata sensu lato"
+    ],
+    "key_distinctions": "C. texensis has true scarlet sepals with non-expanded non-crispate margins and longer plumose achene beaks. Older reticulata concepts require modern taxonomic caution."
+  },
+  "tags": [
+    "Ranunculaceae",
+    "Clematis",
+    "Purple leatherflower",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-b006",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-02",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "photo_attribution_reviewed": "2026-10-13",
+    "range_count_reconciled_at": "2026-10-13",
+    "range_current_status": "UNRESOLVED (2 valid target-zone counties)",
+    "gbif_manual_photo_enrichment": "2026-10-16"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling.",
+  "images": [
+    {
+      "file": "images/clematis-pitcheri-provisional-face.jpg",
+      "role": "Purple urn-shaped flower recognizable face",
+      "creator": "Clay Williams",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://orc.library.atu.edu/clematis/2/",
+      "study_use": "yes",
+      "public_reuse": "no",
+      "caption": "Authentic Clematis pitcheri leathery purple urn photographed by Clay Williams, CC BY-NC 4.0 (noncommercial learner study only). Find the FOUR petaloid sepals, noting expanded/recurved tips. The photograph is a face reference, not a verified same-scale macro of a thin crispate margin or mature achene beak.",
+      "diagnostic_roles": [
+        "nodding leatherflower urn",
+        "purple sepals",
+        "sepal recurved tip when visible"
+      ]
+    },
+    {
+      "file": "images/gbif-manual-6130226094-834d0a787.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Side-view nodding urn sepals with recurved tips; fruits with feathery styles",
+      "creator": "Cesar Rodriguez",
+      "license": "CC BY-NC",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6130226094",
+      "gbif_occurrence_id": "6130226094",
+      "source_determination": "Clematis pitcheri Torr. & A.Gray",
+      "accepted_target": "Clematis pitcheri",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608513277/original.jpg",
+      "image_dimensions": [
+        759,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-05",
+    "note": "One verified CC BY-NC exact-species face; public reuse prohibited; sepal edge and achene fruit macros outstanding.",
+    "photo_files_present": 1
+  }
+}

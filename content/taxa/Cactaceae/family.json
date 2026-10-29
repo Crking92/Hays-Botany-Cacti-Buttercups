@@ -1,0 +1,130 @@
+{
+  "rank": "family",
+  "name": "Cactaceae",
+  "common_name": "Cactus family",
+  "project_scope": {
+    "selection_mode": "Central Texas Opuntia-first reference module",
+    "note": "Two canonical local anchors are live: Opuntia engelmannii var. lindheimeri and O. macrorhiza. Source-row O. senilis remaps to accepted O. orbiculata but remains HOLD because the current Central Texas delimitation/county package is not clean enough. O. phaeacantha also remains HOLD: current Kew accepts the species, but the old Kerr WMA name O. phaeacantha var. major now maps to O. gilvescens and cannot be counted as present-day O. phaeacantha evidence."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Find an areole before anything else. It is the specialized structure that produces spines, hairs, branches and flowers.",
+    "vegetative": "Succulent stems vary widely; mature leaves are often reduced or absent.",
+    "flower": "Usually many perianth segments and many stamens; ovary inferior.",
+    "fruit": "Typically fleshy/berry-like and many-seeded.",
+    "opuntia": "Pads are flattened stem segments (cladodes), not leaves; Opuntioideae adds barbed glochids at areoles.",
+    "field_tip": "Succulence is not enough—true cactus areoles are the key."
+  },
+  "visual_lesson": {
+    "status": "reference_first_pass",
+    "teaching_order": "whole plant → high-value structure → reproductive confirmation → tie-breaker",
+    "intro": "The whole cactus lesson can start with one question: can you find an areole?",
+    "steps": [
+      {
+        "title": "1 · Learn the local Opuntia form",
+        "photo_role": "Texas prickly pear habit",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Opuntia_engelmannii_lindheimeri_2zz.jpg",
+        "image_label": "Opuntia engelmannii var. lindheimeri",
+        "image_credit": "CC BY-SA 4.0 · David J. Stang",
+        "look_for": "Flattened stem segments carrying repeated areoles.",
+        "why_it_matters": "The pad is a stem; the areoles are the defining cactus structures.",
+        "status": "canonical_anchor_reference_image",
+        "anchor_species_id": "opuntia-engelmannii-var-lindheimeri"
+      },
+      {
+        "title": "2 · Put the flower on an areole",
+        "photo_role": "Texas prickly pear flower",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Flower_Opuntia_engelmannii_var_lindheimeri.jpg",
+        "image_label": "O. engelmannii var. lindheimeri flower",
+        "image_credit": "Public Domain · Clarence A. Rechenthin / USDA-NRCS",
+        "look_for": "A large flower arising from an areole near the pad margin.",
+        "why_it_matters": "Shows that areoles produce flowers as well as spines and shoots.",
+        "status": "canonical_anchor_reference_image",
+        "anchor_species_id": "opuntia-engelmannii-var-lindheimeri"
+      },
+      {
+        "title": "3 · Zoom into areole + glochids",
+        "photo_role": "areole and glochids",
+        "look_for": "A small cushion-like areole bearing fine barbed glochids and/or larger spines.",
+        "why_it_matters": "Glochids are an Opuntioideae specialization layered onto the family-wide areole.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "4 · Follow flower to fruit",
+        "photo_role": "inferior ovary and cactus fruit",
+        "look_for": "The ovary is below the perianth; mature fruit is fleshy and many-seeded.",
+        "why_it_matters": "Reproductive anatomy confirms the family beyond the succulent habit.",
+        "status": "photo_polish_pending"
+      },
+      {
+        "title": "5 · Compare the low grassland pricklypear",
+        "photo_role": "grassland pricklypear habit",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Opuntia_macrorhiza.jpg",
+        "image_label": "Opuntia macrorhiza",
+        "image_credit": "CC BY 2.0 · Andrey Zharkikh",
+        "anchor_species_id": "opuntia-macrorhiza",
+        "look_for": "A low, spreading plant with smaller pads, orange-brown glochids, and often a few strongly bent or deflexed permanent spines.",
+        "why_it_matters": "This gives the crew a real local Opuntia comparison against the larger Texas-pricklypear anchor.",
+        "status": "canonical_anchor_reference_image"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Cactaceae vs Euphorbiaceae",
+        "rule": "Succulent Euphorbia can mimic a cactus but lacks true areoles."
+      },
+      {
+        "title": "Cactaceae vs Yucca/Agave",
+        "rule": "Yucca and Agave have true fibrous leaves in rosettes; cacti center their growth on areoles and highly modified/reduced leaves."
+      },
+      {
+        "title": "Cactaceae vs Crassulaceae",
+        "rule": "Look for cactus areoles and an inferior ovary versus true succulent leaves and usually free superior carpels in Crassulaceae."
+      }
+    ],
+    "caveat": "Two taxonomy guardrails: O. lindheimeri is the same learner concept as accepted O. engelmannii var. lindheimeri; source-row O. senilis maps to O. orbiculata but stays HOLD. Do not count historical O. phaeacantha var. major records toward current O. phaeacantha because current Kew treats var. major under O. gilvescens.",
+    "diagnostic_visual_locks": [
+      {
+        "role": "areole_macro",
+        "look_for": "Spine/glochid-bearing cushion, with flower or branch origin labeled; distinguish family-wide areole from Opuntioideae glochids"
+      },
+      {
+        "role": "cactus_euphorbia_same_scale",
+        "look_for": "True areole versus Euphorbia spine-bearing structures; cyathium and three-part capsule as reproductive tie-breakers"
+      },
+      {
+        "role": "cactus_agave_yucca_overlay",
+        "look_for": "Flattened stem pad versus fibrous true rosette leaves, with node/areole labels"
+      },
+      {
+        "role": "flower_ovary_cutaway",
+        "look_for": "Inferior cactus ovary below perianth insertion versus Crassulaceae superior free carpels"
+      },
+      {
+        "role": "fruit_cross_section",
+        "look_for": "Fleshy cactus fruit with numerous seeds, contrasted with Euphorbia capsule"
+      }
+    ],
+    "genus_routing": "Start at stem architecture and areoles: Opuntia flattened pads with glochids; Cylindropuntia cylindrical jointed segments with glochids; Echinocereus generally ribbed cylindrical stems often clustering; Echinocactus barrel-like ribbed stems; Thelocactus and Coryphantha tubercle/areole architecture requires close-up confirmation. These are routing cues, not stand-alone genus proofs."
+  },
+  "curation_status": {
+    "version": "1.3-two-anchors-two-holds-reconciled-video-handoff",
+    "last_reviewed": "2026-10-03",
+    "visual_lock": "family_confusion_text_polished_diagnostic_photos_pending"
+  },
+  "video_handoff": {
+    "source": "research-drafts/reconciliation/video-first-visual-intake-2026-10-03.json",
+    "policy": "Treat the Echinocereus frames as a family/genus breadth asset only until strict target-zone review is complete.",
+    "candidates": [
+      {
+        "taxon": "Echinocereus reichenbachii",
+        "frame_count": 3,
+        "roles": [
+          "dense interlacing radial-spine screen / cactus body",
+          "post-flower swollen ovary / developing fruit / spine pattern",
+          "dense white new spines / limestone-crevice habit"
+        ],
+        "status": "range_pending"
+      }
+    ]
+  }
+}

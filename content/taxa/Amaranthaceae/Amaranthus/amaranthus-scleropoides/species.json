@@ -1,0 +1,67 @@
+{
+  "id": "amaranthus-scleropoides",
+  "entry_type": "provisional_species",
+  "family": "Amaranthaceae",
+  "genus": "Amaranthus",
+  "species": "scleropoides",
+  "scientific_name": "Amaranthus scleropoides",
+  "authority": "Uline & W.L.Bray",
+  "common_name": "Bonebract amaranth",
+  "look_here_first": "Low annual with axillary flower clusters from base to top; the cluster axes become thick, inflated and hard at maturity, with uniquely keeled flower bracts.",
+  "county_occurrences_target_zone": [
+    "Hays"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "project_inclusion": {
+    "target_zone_status": "PROVISIONAL",
+    "range_basis": "Hays-local source; Kew accepts species native from Oklahoma through Texas to Mexico.",
+    "range_guardrail": "Installed for visual learning; only current native-range evidence should feed native metrics."
+  },
+  "learner_role": "PROVISIONAL_LEARNER",
+  "morphology_keys": {
+    "family_pattern": "Amaranthaceae/Amaranthus: alternate petiolate leaves and dense clusters of tiny unisexual flowers. Habit, plant sex, hairiness, nodal spines, cluster position, bract/tepal form, and fruit dehiscence are high-value characters.",
+    "best_field_traits": [
+      "annual",
+      "glabrous",
+      "ascending to prostrate",
+      "small elliptic to lanceolate leaves",
+      "axillary clusters from base to top",
+      "inflorescence axes thickened/indurate",
+      "pistillate bracts keeled"
+    ],
+    "comparison_training": "The hardened swollen cluster axes and keeled bracts are the key. Much lower and more axillary-clustered than tall Palmer or redroot pigweed."
+  },
+  "curation_status": {
+    "version": "1.0-b114",
+    "taxonomy_reviewed": true,
+    "range_reviewed": false,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-04",
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "images": [
+    {
+      "file": "images/amaranthus-scleropoides-provisional-face.jpg",
+      "role": "Whole voucher / habit reference",
+      "creator": "UT Plant Resources Center / University of Texas Herbarium (source attribution; individual photographer not stated)",
+      "license": "reuse rights unverified",
+      "source_page": "https://w3.biosci.utexas.edu/prc/specimens/Amaranthaceae.html",
+      "study_use": "yes",
+      "public_reuse": "review"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-06",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+}

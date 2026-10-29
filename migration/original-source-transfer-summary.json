@@ -1,0 +1,28 @@
+{
+  "status": "ALL_ASSIGNED_FAMILY_ORIGINAL_FILES_BYTE_EXACT_PRIVATE",
+  "repository": "Crking92/Hays-Botany-Cacti-Buttercups",
+  "source_commit": "515387cbc23b8bf8931141ead9c44c92a7793699",
+  "families": [
+    "Amaranthaceae",
+    "Berberidaceae",
+    "Cactaceae",
+    "Caryophyllaceae",
+    "Menispermaceae",
+    "Nyctaginaceae",
+    "Papaveraceae",
+    "Petiveriaceae",
+    "Phytolaccaceae",
+    "Plumbaginaceae",
+    "Polygonaceae",
+    "Portulacaceae",
+    "Ranunculaceae",
+    "Talinaceae"
+  ],
+  "species": 107,
+  "total_original_files": 543,
+  "original_text_files": 349,
+  "source_media_private_quarantine": 194,
+  "original_files_missing": 0,
+  "public_site_deployed": false,
+  "hub_unchanged": true
+}

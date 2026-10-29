@@ -1,0 +1,87 @@
+{
+  "id": "amaranthus-spinosus",
+  "entry_type": "comparison_species",
+  "family": "Amaranthaceae",
+  "genus": "Amaranthus",
+  "species": "spinosus",
+  "scientific_name": "Amaranthus spinosus",
+  "authority": "L.",
+  "common_name": "Spiny amaranth / thorny pigweed",
+  "look_here_first": "Bushy upright amaranth with the easiest character in the genus: a pair of sharp spines at nearly every leaf node.",
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "project_inclusion": {
+    "target_zone_status": "COMPARISON_NONNATIVE",
+    "range_basis": "Hays-local source, but current Kew distribution treats Texas as introduced; retained as a comparison learner.",
+    "range_guardrail": "Installed for visual learning; only current native-range evidence should feed native metrics."
+  },
+  "learner_role": "COMPARISON_LEARNER",
+  "morphology_keys": {
+    "family_pattern": "Amaranthaceae/Amaranthus: alternate petiolate leaves and dense clusters of tiny unisexual flowers. Habit, plant sex, hairiness, nodal spines, cluster position, bract/tepal form, and fruit dehiscence are high-value characters.",
+    "best_field_traits": [
+      "annual",
+      "erect bushy plant",
+      "paired nodal spines",
+      "ovate to lanceolate leaves",
+      "terminal staminate spikes",
+      "axillary mostly pistillate clusters",
+      "green to silvery-green inflorescences"
+    ],
+    "comparison_training": "Paired nodal spines make it nearly immediate. None of the other B114 species routinely has this feature."
+  },
+  "curation_status": {
+    "version": "1.0-b114",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "provisional": false,
+    "last_reviewed": "2026-10-04"
+  },
+  "images": [
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Amaranthus_spinosus_(3166494660).jpg",
+      "role": "Whole-plant flowering habit",
+      "creator": "Dinesh Valke",
+      "license": "CC BY-SA 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Amaranthus_spinosus_(3166494660).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Starr_070215-4587_Amaranthus_spinosus.jpg",
+      "role": "Inflorescences and paired diagnostic thorns",
+      "creator": "Forest & Kim Starr",
+      "license": "CC BY 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Starr_070215-4587_Amaranthus_spinosus.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Amaranthus_spinosus_(2886002110).jpg",
+      "role": "Leaf, stem and flowering branch field view",
+      "creator": "Dinesh Valke",
+      "license": "CC BY-SA 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Amaranthus_spinosus_(2886002110).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/inat-746375316-spiny-amaranth-nodal-spines.jpg",
+      "role": "Paired nodal spines and axillary flower clusters, visually checked",
+      "creator": "Ong Jyh Seng (ongzi)",
+      "license": "CC BY (staged metadata; live recheck pending)",
+      "source_page": "https://www.inaturalist.org/photos/746375316",
+      "photo_id": 746375316,
+      "observation_id": 406259899,
+      "study_use": "yes",
+      "public_reuse": "review",
+      "local_file_present": true,
+      "remote_only": false,
+      "caption": "Paired nodal spines visible; no anatomy arrows. Further macro views needed."
+    }
+  ]
+}

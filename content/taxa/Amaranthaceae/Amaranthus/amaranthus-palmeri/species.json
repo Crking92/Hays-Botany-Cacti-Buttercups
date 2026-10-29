@@ -1,0 +1,138 @@
+{
+  "id": "amaranthus-palmeri",
+  "entry_type": "provisional_species",
+  "family": "Amaranthaceae",
+  "genus": "Amaranthus",
+  "species": "palmeri",
+  "scientific_name": "Amaranthus palmeri",
+  "authority": "S.Watson",
+  "common_name": "Palmer amaranth",
+  "look_here_first": "Tall nearly glabrous dioecious amaranth with long-petioled leaves and long terminal spikes; pistillate plants have sharp bracts longer than the tepals.",
+  "county_occurrences_target_zone": [
+    "Hays"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "project_inclusion": {
+    "target_zone_status": "PROVISIONAL",
+    "range_basis": "Hays-local + 3 wild iNaturalist observations; Kew accepts species native from southern California to Texas and Mexico.",
+    "range_guardrail": "Installed for visual learning; only current native-range evidence should feed native metrics."
+  },
+  "learner_role": "PROVISIONAL_LEARNER",
+  "morphology_keys": {
+    "family_pattern": "Amaranthaceae/Amaranthus: alternate petiolate leaves and dense clusters of tiny unisexual flowers. Habit, plant sex, hairiness, nodal spines, cluster position, bract/tepal form, and fruit dehiscence are high-value characters.",
+    "best_field_traits": [
+      "annual",
+      "usually glabrous",
+      "dioecious",
+      "long-petioled leaves",
+      "terminal linear spikes/panicles",
+      "pistillate bracts 4–6 mm and longer than tepals",
+      "often very tall"
+    ],
+    "comparison_training": "Tall, smooth, dioecious Palmer contrasts with hairy monoecious redroot pigweed. No paired nodal spines."
+  },
+  "curation_status": {
+    "version": "1.0-b114",
+    "taxonomy_reviewed": true,
+    "range_reviewed": false,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-04",
+    "photo_metadata_count": 6,
+    "photo_files_present": 3
+  },
+  "images": [
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Amaranthus_palmeri_23920145.jpg",
+      "role": "Flowering inflorescence close view",
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Amaranthus_palmeri_23920145.jpg",
+      "original_source": "https://www.inaturalist.org/photos/23920145",
+      "observation_source": "https://www.inaturalist.org/observations/15978719",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Amaranthus_palmeri_23920150.jpg",
+      "role": "Second exact-species field view from the same verified observation",
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Amaranthus_palmeri_23920150.jpg",
+      "original_source": "https://www.inaturalist.org/photos/23920150",
+      "observation_source": "https://www.inaturalist.org/observations/15978719",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Amaranthus_palmeri_-_Palmer_amaranth.jpg",
+      "role": "Whole-plant winter habit with long tassel-like panicle branches",
+      "creator": "Matt Lavin",
+      "license": "CC BY-SA 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Amaranthus_palmeri_-_Palmer_amaranth.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/inat-750109709-palmer-amaranth-flowering-stems.jpg",
+      "role": "Flowering stem habit: tall narrow green terminal and lateral spikes, with foliage visible (visually checked; flower sex and bract details unresolved)",
+      "creator": "Sam Kieschnick (sambiology)",
+      "license": "CC BY (staged individual-photo metadata; live photo license recheck pending)",
+      "source_page": "https://www.inaturalist.org/photos/750109709",
+      "original_source": "https://www.inaturalist.org/photos/750109709",
+      "observation_source": "https://www.inaturalist.org/observations/408109594",
+      "photo_id": 750109709,
+      "observation_id": 408109594,
+      "study_use": "yes",
+      "public_reuse": "review",
+      "local_file_present": true,
+      "remote_only": false,
+      "caption": "Green flowering spikes and stem branching are visible. Close bract, flower-sex, petiole, and fruit characters are not resolved; no anatomy arrows."
+    },
+    {
+      "file": "images/joey-review034-5c2fe1dc66bc15f5.jpg",
+      "role": "Branching reddish stem with long petioles, developing inflorescences and leaf axils (source taxon determination provisional; fine structure not independently validated)",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "license_version_note": "License shorthand per image inventory, check original iNaturalist photo for exact version",
+      "source_platform": "Joey Santore iNaturalist Texas observation",
+      "source_page": "https://www.inaturalist.org/photos/551365931",
+      "source_observation": "https://www.inaturalist.org/observations/305778996",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551365931/large.jpg",
+      "source_determination": "Amaranthus palmeri",
+      "photo_id": "551365931",
+      "observation_id": "305778996",
+      "photo_review": "Actual photograph visually screened via JPEG contact sheet; independent botanical identity pending",
+      "anatomy_arrows": "none; exact structures not expert-confirmed",
+      "study_use": "Private noncommercial educational botany project only, with Joey Santore attribution",
+      "public_reuse": "Noncommercial CC BY-NC conditions; commercial reuse not cleared",
+      "modifications": "Re-encoded JPEG and removed EXIF metadata; creator and original CC BY-NC retained"
+    },
+    {
+      "file": "images/joey-review034-48000fb13ffaab1b.jpg",
+      "role": "Close reddish stem internode and leaf axil with spiny-looking bracts or flower buds; exact structure provisional (source taxon determination provisional; fine structure not independently validated)",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "license_version_note": "License shorthand per image inventory, check original iNaturalist photo for exact version",
+      "source_platform": "Joey Santore iNaturalist Texas observation",
+      "source_page": "https://www.inaturalist.org/photos/551366027",
+      "source_observation": "https://www.inaturalist.org/observations/305778996",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551366027/large.jpg",
+      "source_determination": "Amaranthus palmeri",
+      "photo_id": "551366027",
+      "observation_id": "305778996",
+      "photo_review": "Actual photograph visually screened via JPEG contact sheet; independent botanical identity pending",
+      "anatomy_arrows": "none; exact structures not expert-confirmed",
+      "study_use": "Private noncommercial educational botany project only, with Joey Santore attribution",
+      "public_reuse": "Noncommercial CC BY-NC conditions; commercial reuse not cleared",
+      "modifications": "Re-encoded JPEG and removed EXIF metadata; creator and original CC BY-NC retained"
+    }
+  ],
+  "photo_note": "Joey Santore photo additions are rights-limited CC BY-NC and botanical ID provisional."
+}

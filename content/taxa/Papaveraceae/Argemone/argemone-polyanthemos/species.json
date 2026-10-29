@@ -1,0 +1,118 @@
+{
+  "id": "argemone-polyanthemos",
+  "entry_type": "species",
+  "family": "Papaveraceae",
+  "genus": "Argemone",
+  "species": "polyanthemos",
+  "scientific_name": "Argemone polyanthemos",
+  "authority": "(Fedde) Ownbey",
+  "common_name": "White prickly-poppy",
+  "synonyms": [],
+  "taxonomic_note": "Accepted by current Kew treatment. Texas is native at state scale, but only Travis is currently locked inside the project target zone.",
+  "look_here_first": "Do not stop at the white petals. Confirm with glaucous foliage plus bud, sepal-horn, and mature capsule armature because Argemone albiflora subsp. texana can look very similar in flower.",
+  "county_occurrences_target_zone": [
+    "Travis"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED — USER APPROVED LEARNER INCLUSION",
+    "range_basis": "Travis is locked by the UT Plant Resources Center specimen index. Other strong reviewed records were outside the project target-zone list.",
+    "approval_exception": {
+      "approved_by_user": true,
+      "approved_at": "2026-10-06",
+      "reason": "Learner admission is independent from native-range certification."
+    },
+    "native_metrics_excluded": true
+  },
+  "learner_role": "RANGE_UNRESOLVED",
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "spiny prickly-poppy habit",
+      "strongly glaucous gray-green foliage",
+      "large white flowers",
+      "yellow latex",
+      "bud and sepal-horn characters important",
+      "mature capsule armature important"
+    ],
+    "comparison_training": "A. polyanthemos overlaps strongly with A. albiflora subsp. texana in white flower color and yellow latex; use leaf, bud, sepal-horn, and capsule characters rather than flower color alone."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Argemone albiflora subsp. texana",
+      "Argemone aurantiaca"
+    ],
+    "key_distinctions": "White petals are not enough. Confirm with mature fruit and bud/sepal characters; A. aurantiaca has orange to reddish-orange latex and very long capsule prickles."
+  },
+  "tags": [
+    "Papaveraceae",
+    "Argemone",
+    "White prickly-poppy",
+    "Range unresolved",
+    "Learner approved"
+  ],
+  "curation_status": {
+    "version": "1.0-range-hold-2026-10-06",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "range_exception": true,
+    "last_reviewed": "2026-10-06",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "diagnostic_image_needs": [
+    "whole habit",
+    "glaucous leaf close-up",
+    "bud and sepal horns",
+    "fresh latex",
+    "mature capsule armature",
+    "direct A. albiflora subsp. texana comparison"
+  ],
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling.",
+  "images": [
+    {
+      "file": "images/argemone-polyanthemos-provisional-face.jpg",
+      "role": "White prickly-poppy habit by a trail in Colorado; white corolla alone not diagnostic.",
+      "creator": "Izawa Ryu",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Argemone_polyanthemos.jpg",
+      "study_use": "yes",
+      "public_reuse": "cc_by_sa"
+    },
+    {
+      "file": "images/gbif-manual-6159377322-ca93b6e0d.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Prickly bud and mature capsule, horned sepals, spine placement",
+      "creator": "willem9",
+      "license": "CC BY-NC",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6159377322",
+      "gbif_occurrence_id": "6159377322",
+      "source_determination": "Argemone polyanthemos (Fedde) G.B.Ownbey",
+      "accepted_target": "Argemone polyanthemos",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615628470/original.jpg",
+      "image_dimensions": [
+        1350,
+        1014
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-08",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "id": "berberis-swaseyi",
+  "entry_type": "species",
+  "family": "Berberidaceae",
+  "genus": "Berberis",
+  "species": "swaseyi",
+  "scientific_name": "Berberis swaseyi",
+  "authority": "Buckley",
+  "common_name": "Texas Barberry / Texas Oregon-grape",
+  "look_here_first": "Start with leaf architecture, not just leaflet count. Texas barberry usually has 5–9 leaflets, often with a reduced basal pair close to the rachis base, a dull gray-green reticulate surface, and a more open taller shrub form than agarita.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Comal"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "UT field work documents native B. swaseyi populations and hybrids in Hays, NW Travis, and Comal counties within the Edwards Plateau.",
+    "range_guardrail": "Exact county evidence only."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "evergreen Edwards Plateau endemic shrub",
+      "usually 5–9 leaflets",
+      "basal leaflet pair often strongly reduced",
+      "dull gray-green reticulate leaflet surface",
+      "more open less rounded shrub habit",
+      "yellow spring flowers and variable pale-to-reddish fruits"
+    ],
+    "comparison_training": "Agarita is typically trifoliolate and denser. Hybrids commonly have 5–7 leaflets but lack the distinctive reduced basal leaflet pair of true B. swaseyi; use leaflet structure, bracts, and surface texture together."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Berberis trifoliolata",
+      "Berberis swaseyi"
+    ],
+    "key_distinctions": "Agarita is typically trifoliolate and denser. Hybrids commonly have 5–7 leaflets but lack the distinctive reduced basal leaflet pair of true B. swaseyi; use leaflet structure, bracts, and surface texture together."
+  },
+  "curation_status": {
+    "version": "1.0-b044",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03"
+  },
+  "images": [
+    {
+      "file": "images/berberis-swaseyi_habit-source-label_01-20.0.jpg",
+      "role": "Low dense Berberis swaseyi shrub in Edwards Plateau habitat.",
+      "caption": "Berberis swaseyi whole-plant habit in rocky Central Texas habitat. Use this for low dense shrub form and foliage texture, not fine floral characters.",
+      "diagnostic_roles": [
+        "whole-plant habit",
+        "Edwards Plateau shrub context"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=D1qCiiaMJ_I",
+      "source_record_id": "D1qCiiaMJ_I-01",
+      "timestamp": "01:20.0",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained where present."
+    },
+    {
+      "file": "images/berberis-swaseyi_fruit_01-36.0.jpg",
+      "role": "Immature Berberis swaseyi fruit held against the foliage for scale.",
+      "caption": "Immature Berberis swaseyi fruit shown against the plant for size and attachment context. A ripe-fruit view is still worth adding later.",
+      "diagnostic_roles": [
+        "immature fruit",
+        "fruit-size context"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=D1qCiiaMJ_I",
+      "source_record_id": "D1qCiiaMJ_I-02",
+      "timestamp": "01:36.0",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained where present."
+    },
+    {
+      "file": "images/berberis-swaseyi_pinnate-spiny-leaf_01-44.0.jpg",
+      "role": "Pinnate compound leaf showing multiple stiff, spine-toothed leaflets.",
+      "caption": "Berberis swaseyi leaf close-up. Note the multiple pinnately arranged leaflets and rigid spine-toothed margins; this is a strong contrast with trifoliolate B. trifoliolata.",
+      "diagnostic_roles": [
+        "pinnate compound leaf",
+        "spiny leaflet margins"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=D1qCiiaMJ_I",
+      "source_record_id": "D1qCiiaMJ_I-03",
+      "timestamp": "01:44.0",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained where present."
+    },
+    {
+      "file": "images/berberis-swaseyi_abaxial-wax_01-52.0.jpg",
+      "role": "Leaf underside showing the pale glaucous/waxy abaxial surface.",
+      "caption": "Underside of a Berberis swaseyi leaf showing the pale glaucous/waxy surface. Pair this with the pinnate-leaf view for a more complete foliage ID.",
+      "diagnostic_roles": [
+        "abaxial leaf surface",
+        "pale glaucous coating"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=D1qCiiaMJ_I",
+      "source_record_id": "D1qCiiaMJ_I-04",
+      "timestamp": "01:52.0",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained where present."
+    },
+    {
+      "file": "images/public-inat-berberis-swaseyi-713852138.jpg",
+      "role": "Provisional exact-species public first view of Swasey barberry. Check pinnately arranged stiff spine-toothed leaflets and fruit or flowers only when actually visible; fine anatomical arrows remain pending.",
+      "caption": "Individually licensed, research-grade iNaturalist observation photograph of Berberis swaseyi. Plant-part diagnostic anatomy needs a separate visual check before precise arrows or FINALIZED marking.",
+      "creator": "(c) Noland Martin, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/713852138",
+      "source_observation_page": "https://www.inaturalist.org/observations/389699945",
+      "source_photo_id": "713852138",
+      "source_observation_id": "389699945",
+      "source_taxon": "Berberis swaseyi",
+      "source_quality_grade": "research",
+      "source_photo_license_code": "cc-by",
+      "source_type": "iNaturalist individually licensed exact-taxon photo verified by current photo API",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/713852138/large.jpg",
+      "public_reuse": "yes, conditional on recorded CC attribution/NC terms and noncommercial education",
+      "changes": "Downloaded iNaturalist photo, resized and reencoded to JPEG without EXIF/GPS; no annotations added.",
+      "source_sha256": "78bf063c62691d429edda32acc992b7a658332533bbf01cb56ffb9d4c9734041",
+      "published_jpeg_sha256": "81991fe94e7e94057ff5e77068217b002806aadebe28a76afd68fec2d8b420cd",
+      "published_jpeg_dimensions": [
+        576,
+        1024
+      ],
+      "annotation_pending": true,
+      "photo_organ_validation": "pending independent anatomical visual review"
+    }
+  ],
+  "photo_note": "Saved Joey Santore video frames installed locally for private study. The gallery emphasizes diagnostic structures and explicitly preserves public-reuse restrictions.",
+  "diagnostic_image_needs": [
+    "Flower close-up, ripe fruit, and a direct leaf comparison against Berberis trifoliolata."
+  ]
+}
