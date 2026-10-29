@@ -55,8 +55,35 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/portulaca-oleracea/portulaca-oleracea-leaf.jpg",
+      "creator": "Harry Rose",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Portulaca_oleracea_leaf1_(17348847701).jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "5a5079e6283ada216d61804ad59ec0c5319933f1",
+      "role": "Look closer · broad flat fleshy spoon-shaped leaves on a low branching plant; exact axillary hair tufts not resolved",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/portulaca-oleracea/portulaca-oleracea-open-capsule.jpg",
+      "creator": "Didier Descouens / Muséum de Toulouse",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Portulaca_oleracea_Capsule_MHNT.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "d3f06adfef462b2917b67daa697a0519db603fcf",
+      "role": "Confirm clue · source montage shows horizontal opening lid of the seed capsule and many dark seeds beside broad fleshy leaves; original arrow/ruler belong to source photo",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "5baf1e70e3187a6f9eaf5e7183f488ad116c61f208c00d49e45b57c03d394226",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

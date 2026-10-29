@@ -31,8 +31,22 @@
     "names": [],
     "differences": "Distinguish from O. microdasys using expert-confirmed taxon concept, pad/areole distribution, and habitat; its colored glochids alone are not species-proof. Unlike the reviewed strict O. azurea comparison, mature O. rufida usually lacks obvious long rigid spines."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/opuntia-rufida/opuntia-rufida-coahuila-provisional.jpg",
+      "creator": "Amante Darmanin",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Opuntia_rufida_(5668794999).jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "e8f7709251779843946b3d28c7b5dd910d7ecffc",
+      "role": "Habit and pads with reddish glochid tufts; Coahuila wild plant",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "3e87cadf0b5dc3c9ff348caebd1e5c33df9662207c493b5251cbe96d30e19242",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

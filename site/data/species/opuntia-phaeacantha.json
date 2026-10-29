@@ -31,8 +31,22 @@
     "names": [],
     "differences": "These are field-concept cues, not permission to transfer historical broad-name records. Modern taxon identity must still be checked against O. gilvescens, O. camanchica, and related split taxa."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/opuntia-phaeacantha/opuntia-phaeacantha-provisional-face.jpg",
+      "creator": "Stan Shebs",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Opuntia_phaeacantha_1.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "c500b7fdb517588a4458ac667d9db3325ba7c45b",
+      "role": "Opuntia phaeacantha cultivated cactus at UC Berkeley botanical garden; later expert-concept pad/spine checks.",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "da81d481ab22e910522b2454e11d2347cef163f20d79e0525b29525161822c11",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

@@ -55,8 +55,35 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/portulaca-pilosa/portulaca-pilosa-axillary-hairs.jpg",
+      "creator": "Forest & Kim Starr",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Starr-180421-0244-Portulaca_pilosa-pilose_hairs_and_succulent_leaves-Honolua_Lipoa_Point-Maui_(41651210170).jpg",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "source_blob_sha": "bbc5d78e91166bc3b6d577ee8ed56c4684fb888c",
+      "role": "DIAGNOSTIC close-up genuine white trichome tufts at axils with narrowly subterete leaves",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/portulaca-pilosa/portulaca-pilosa-flower-leaf.jpg",
+      "creator": "Forest & Kim Starr",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Starr_021108-0055_Portulaca_pilosa.jpg",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "source_blob_sha": "e57645de8524a0dd46d30a7430657eb4d8031518",
+      "role": "Recognizable P. pilosa pink-purple flower and narrow succulent foliage; supporting habit",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "4818dcd555c153a81c84039cb18c8d21e44503ffa291d54f8c7cd3bbe3292238",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

@@ -31,8 +31,22 @@
     "names": [],
     "differences": "Compared with O. rufida, O. azurea commonly shows conspicuous rigid spines instead of chiefly rusty glochid tufts. Compared with Texas O. aureispina and other glaucous Opuntia, require a verified strict-concept reference; blue pads alone cannot resolve identity."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/opuntia-azurea/opuntia-azurea-mexico-provisional.jpg",
+      "creator": "Juan Carlos Fonseca Mata",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Nopal_coyotito_(Opuntia_azurea).jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "4f5b77bf1322137384380d0553bcd48a4b132db8",
+      "role": "Mature glaucous pads and spine arrangement; Guanajuato Mexico",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "1534cdcd39670c613646ee5d180eafeecad9d91cf00a5f7e8b5d30224295a75c",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
