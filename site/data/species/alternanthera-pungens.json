@@ -1,0 +1,34 @@
+{
+  "id": "alternanthera-pungens",
+  "family": "Amaranthaceae",
+  "genus": "Alternanthera",
+  "scientific_name": "Alternanthera pungens",
+  "common_name": "Creeping chaffweed",
+  "look_here_first": "Inspect opposite leaves, creeping stems and the sharp yellowish bracts on small dense flower heads.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Prostrate herb; creeping stems may root at nodes."
+    },
+    {
+      "label": "Leaves attachment",
+      "text": "Opposite obovate to rounded leaves."
+    },
+    {
+      "label": "Flower reproductive",
+      "text": "Ellipsoid heads with sharp straw-colored bracts."
+    },
+    {
+      "label": "Fruit seed",
+      "text": "Mature fruit closeup still needed."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "898e4f55b1a0a8c7f8281acdc49ba9385268818709dc0ff5aea8443cdc86be5e",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

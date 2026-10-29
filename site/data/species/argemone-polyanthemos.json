@@ -1,0 +1,42 @@
+{
+  "id": "argemone-polyanthemos",
+  "family": "Papaveraceae",
+  "genus": "Argemone",
+  "scientific_name": "Argemone polyanthemos",
+  "common_name": "White prickly-poppy",
+  "look_here_first": "Do not stop at the white petals. Confirm with glaucous foliage plus bud, sepal-horn, and mature capsule armature because Argemone albiflora subsp. texana can look very similar in flower.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "spiny prickly-poppy habit"
+    },
+    {
+      "label": "Identification",
+      "text": "strongly glaucous gray-green foliage"
+    },
+    {
+      "label": "Identification",
+      "text": "large white flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "yellow latex"
+    },
+    {
+      "label": "Identification",
+      "text": "bud and sepal-horn characters important"
+    },
+    {
+      "label": "Identification",
+      "text": "mature capsule armature important"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "A. polyanthemos overlaps strongly with A. albiflora subsp. texana in white flower color and yellow latex; use leaf, bud, sepal-horn, and capsule characters rather than flower color alone."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "91d5728b4d4a67ab8977c83b6b1c85bab54a661978322b0be4fa3d0da30e686e",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

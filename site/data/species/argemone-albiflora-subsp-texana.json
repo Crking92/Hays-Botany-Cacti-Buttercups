@@ -1,0 +1,66 @@
+{
+  "id": "argemone-albiflora-subsp-texana",
+  "family": "Papaveraceae",
+  "genus": "Argemone",
+  "scientific_name": "",
+  "common_name": "White Pricklypoppy",
+  "look_here_first": "",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Annual or biennial."
+    },
+    {
+      "label": "Habit",
+      "text": "Robust, erect, spiny herb; stems sparsely to moderately prickly."
+    },
+    {
+      "label": "Foliage",
+      "text": "Conspicuously glaucous; basal/proximal leaves deeply lobed nearly to the midrib."
+    },
+    {
+      "label": "Leaf prickles",
+      "text": "Upper surface often unarmed or only sparsely prickly; lower surface prickly especially along major veins."
+    },
+    {
+      "label": "Latex",
+      "text": "Light to pale yellow when fresh."
+    },
+    {
+      "label": "Flower",
+      "text": "Large white flower; petals white; numerous lemon-yellow stamens."
+    },
+    {
+      "label": "Bud sepals",
+      "text": "Sepal horns about 4–6(-10) mm; typically unarmed or only sparingly prickly near the base."
+    },
+    {
+      "label": "Capsule",
+      "text": "Usually narrowly ellipsoid; longer prickles widely spaced and mixed with numerous shorter unequal prickles; longest prickles much shorter than in A. aurantiaca."
+    },
+    {
+      "label": "Flowering",
+      "text": "Early spring through summer; fruiting spring through fall."
+    },
+    {
+      "label": "Identification",
+      "text": "Fresh latex is pale/light yellow; A. aurantiaca is orange to reddish-orange."
+    },
+    {
+      "label": "Identification",
+      "text": "Mature capsule prickles are mostly simple and much shorter; longest about 6–10(-12) mm."
+    },
+    {
+      "label": "Identification",
+      "text": "Sepal horns are about 4–6(-10) mm and usually unarmed or only sparingly prickly near the base."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "468fc77f7fb0b32486f260617287720a673f80aeb35c94536fb83092cf32d863",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "allionia-incarnata",
+  "family": "Nyctaginaceae",
+  "genus": "Allionia",
+  "scientific_name": "Allionia incarnata",
+  "common_name": "Trailing windmills",
+  "look_here_first": "Look closely at one apparent windmill: three separate asymmetric flowers open together within three involucral bracts. Then inspect a mature winged anthocarp and its glands to separate Allionia incarnata from A. choisyi.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Trailing branched stems with paired unequal leaves."
+    },
+    {
+      "label": "Identification",
+      "text": "Three simultaneously open asymmetric flowers make one flower-like display."
+    },
+    {
+      "label": "Identification",
+      "text": "Mature fruiting perianth (anthocarp) has five ribs, wings and glands; inspect both surfaces."
+    },
+    {
+      "label": "Habit",
+      "text": "Trailing or spreading herb; the selected photo shows stems against the ground, leaves and several flowering units."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite leaves in unequal pairs; close node photo still needed."
+    },
+    {
+      "label": "Flower",
+      "text": "Each apparent flower-like unit comprises three separate asymmetric flowers with three involucral bracts."
+    },
+    {
+      "label": "Fruit",
+      "text": "Winged/glandular five-ribbed anthocarp, typically 2.9–4.7 mm in the existing review, variable."
+    },
+    {
+      "label": "Lookalike separators",
+      "text": "Allionia choisyi requires mature fruit convexity, rib and gland-pattern comparison. Magenta color alone is inadequate. Varieties of A. incarnata overlap in dimensions; no variety assigned from source-only name or this habit photograph."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "23697714464e2ad697742f7d25d02af016fb389f6b25e824078514e2c10123ee",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

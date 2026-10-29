@@ -1,0 +1,17 @@
+{
+  "id": "anemone-edwardsiana",
+  "family": "Ranunculaceae",
+  "genus": "Anemone",
+  "scientific_name": "Anemone edwardsiana",
+  "common_name": "Edwards Plateau anemone",
+  "look_here_first": "Look for petal-like sepals surrounding numerous stamens; examine divided basal leaves and the fruiting head.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "765fdb4a32ddb23867a69ccb435f8b5f8fb3d13e52aa0d5ae485e07f5a44750e",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

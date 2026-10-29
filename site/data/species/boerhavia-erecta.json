@@ -1,0 +1,30 @@
+{
+  "id": "boerhavia-erecta",
+  "family": "Nyctaginaceae",
+  "genus": "Boerhavia",
+  "scientific_name": "Boerhavia erecta",
+  "common_name": "Erect spiderling",
+  "look_here_first": "LOOK FIRST at a mature anthocarp: it should be glabrous, with relatively acute five ribs and a truncate to low-conic apex. Then inspect the loose branching flower clusters and whether leaves are mostly on the lower part of an often annual plant.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Small white to pinkish flowers in diffuse branching clusters; single petaloid perianth whorl."
+    },
+    {
+      "label": "Identification",
+      "text": "Mature anthocarps about 2.7–4 mm, glabrous, with acute ribs and truncate/low-conic apex."
+    },
+    {
+      "label": "Identification",
+      "text": "Usually annual habit; leaves concentrated mostly in the lower half of the plant. Leaf distribution alone is not decisive."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "64f0b6f7f672a3dc36b9aaa64d5413d4f244103f6e41902d28be9345c1d645c6",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

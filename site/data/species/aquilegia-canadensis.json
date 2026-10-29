@@ -1,0 +1,50 @@
+{
+  "id": "aquilegia-canadensis",
+  "family": "Ranunculaceae",
+  "genus": "Aquilegia",
+  "scientific_name": "Aquilegia canadensis",
+  "common_name": "Red Columbine / Wild Columbine",
+  "look_here_first": "Start with the flower architecture: nodding red-and-yellow flowers have five long backward-pointing nectar spurs, while the leaves are divided into rounded fan-shaped leaflets. In Central Texas, look in shaded limestone canyon bottoms and mesic cliffs.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial rhizomatous herb"
+    },
+    {
+      "label": "Identification",
+      "text": "basal leaves twice 3-parted"
+    },
+    {
+      "label": "Identification",
+      "text": "rounded fan-shaped leaflet segments"
+    },
+    {
+      "label": "Identification",
+      "text": "nodding red and yellow flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "five long backward-projecting nectar spurs"
+    },
+    {
+      "label": "Identification",
+      "text": "numerous stamens"
+    },
+    {
+      "label": "Identification",
+      "text": "several erect follicles developing after flowering"
+    },
+    {
+      "label": "Identification",
+      "text": "mesic limestone canyon habitat"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Five red-and-yellow spurred sepals/petals plus rounded divided leaves are the fast ID package."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "60592982ba5cc902f38308d9de0835688042bbcba983e6f7cbe06a17c8c3560c",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

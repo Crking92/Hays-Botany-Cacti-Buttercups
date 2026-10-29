@@ -1,0 +1,38 @@
+{
+  "id": "acleisanthes-longiflora",
+  "family": "Nyctaginaceae",
+  "genus": "Acleisanthes",
+  "scientific_name": "Acleisanthes longiflora",
+  "common_name": "Angel's trumpets",
+  "look_here_first": "Find an OPEN flower and measure the entire slender perianth tube from its base to the expanded limb: about 7–17 cm long and only 1–2 mm wide. Compare A. obtusa, whose open perianth is much shorter (about 2.5–5.5 cm total). Confirm narrow wedge-based opposite leaves and the thin ridges of a mature anthocarp; closed self-pollinating flowers do not provide the same tube comparison.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Perennial dry-country herb or small subshrub with branched ascending to trailing stems; flowering habit and solitary versus paired flowers vary."
+    },
+    {
+      "label": "Leaves",
+      "text": "Mostly opposite unequal paired simple leaves, usually lanceolate to narrow triangular-lanceolate with cuneate or decurrent bases; margins may be wavy or crispate."
+    },
+    {
+      "label": "Open flower",
+      "text": "Single petaloid perianth (NOT a true corolla plus calyx); very long narrow tube 7–17 cm × 1–2 mm, spreading limb roughly 10–20 mm across."
+    },
+    {
+      "label": "Fruit",
+      "text": "One-seeded oblong anthocarp commonly 6–10 mm, with five thin often translucent longitudinal ridges and shallow paired grooves; inspect mature fruits under magnification."
+    },
+    {
+      "label": "Reproduction",
+      "text": "Open chasmogamous flowers and reduced closed cleistogamous flowers may coexist; lack of a large open trumpet is not species exclusion."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "de15631ac66857d7e005ee2f3db3c6228c8e29cd3ece630189b205cad9430cca",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

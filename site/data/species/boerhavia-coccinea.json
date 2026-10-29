@@ -1,0 +1,30 @@
+{
+  "id": "boerhavia-coccinea",
+  "family": "Nyctaginaceae",
+  "genus": "Boerhavia",
+  "scientific_name": "Boerhavia coccinea",
+  "common_name": "Scarlet spiderling",
+  "look_here_first": "LOOK FIRST at a fully mature anthocarp under magnification: conspicuous stalked-glandular hairs and rounded longitudinal ribs favor B. coccinea. Then confirm perennial growth and leaves continuing up the stems; do not key from reddish flower color.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Small clustered flowers and ribbed anthocarps; a petaloid perianth without a separate true corolla."
+    },
+    {
+      "label": "Identification",
+      "text": "Mature anthocarps about 2.6–4 mm, densely stalked-glandular, with rounded ribs."
+    },
+    {
+      "label": "Identification",
+      "text": "Perennial habit, leaves distributed along the stems; flower color is variable."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "e13f3a4dac1979057bbc7022ae161e6ddfc5215b7881aaa1a870ad1d371ddf86",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

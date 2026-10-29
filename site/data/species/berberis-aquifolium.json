@@ -1,0 +1,34 @@
+{
+  "id": "berberis-aquifolium",
+  "family": "Berberidaceae",
+  "genus": "Berberis",
+  "scientific_name": "Berberis aquifolium",
+  "common_name": "Oregon Grape",
+  "look_here_first": "Treat as a nursery/lookalike comparison: pinnate evergreen leaves with many holly-like leaflets and blue-purple berry clusters. It is not native to Texas under the current Kew concept.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "many holly-like pinnate leaflets"
+    },
+    {
+      "label": "Identification",
+      "text": "yellow flower clusters"
+    },
+    {
+      "label": "Identification",
+      "text": "blue-purple berry clusters"
+    },
+    {
+      "label": "Identification",
+      "text": "western North American shrub"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "dc32a96e1b666f70940d56f14724e1d152c76d3fed7aefe22af2443f997fb105",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

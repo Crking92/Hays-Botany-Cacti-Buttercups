@@ -1,0 +1,66 @@
+{
+  "id": "clematis-texensis",
+  "family": "Ranunculaceae",
+  "genus": "Clematis",
+  "scientific_name": "Clematis texensis",
+  "common_name": "Scarlet leatherflower / Texas clematis",
+  "look_here_first": "Look for the true scarlet leatherflower: a nodding ovoid-to-urn-shaped flower with thick rose-red to scarlet sepals and sharply recurved tips, but without the expanded crispate margins of C. pitcheri.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "low perennial climbing vine"
+    },
+    {
+      "label": "Identification",
+      "text": "1-pinnate leaves with 6–10 leaflets plus tendril-like terminal leaflet"
+    },
+    {
+      "label": "Identification",
+      "text": "nodding scarlet ovoid-to-urn-shaped flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "four thick scarlet sepals with non-expanded non-crispate margins"
+    },
+    {
+      "label": "Identification",
+      "text": "acute/acuminate sepal tips recurved outward"
+    },
+    {
+      "label": "Identification",
+      "text": "achenes with 4–7 cm plumose beaks"
+    },
+    {
+      "label": "Habit",
+      "text": "Perennial climbing vine to roughly 3 m."
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Opposite."
+    },
+    {
+      "label": "Leaf morphology",
+      "text": "1-pinnate; 6–10 leathery leaflets plus a tendril-like terminal leaflet; often glaucous beneath and reticulate."
+    },
+    {
+      "label": "Flower",
+      "text": "Axillary scarlet leathery urn; sepal margins not expanded or crispate; tips recurved."
+    },
+    {
+      "label": "Fruit",
+      "text": "Achenes with 4–7 cm plumose beaks."
+    },
+    {
+      "label": "Joey field observation",
+      "text": "Joey Santore's West Texas native-plant landscaping video includes an exact Clematis texensis frame showing vine habit and leaf context."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c5378b7f55dd83a3e26e93ec3e75613185e768ca7c30964cd9fe2eed9b55a6fd",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

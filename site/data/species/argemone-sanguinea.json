@@ -1,0 +1,42 @@
+{
+  "id": "argemone-sanguinea",
+  "family": "Papaveraceae",
+  "genus": "Argemone",
+  "scientific_name": "Argemone sanguinea",
+  "common_name": "Red prickly-poppy",
+  "look_here_first": "Start with the unusually colored flower: rose, pink, red, lavender, or occasionally pale petals above glaucous prickly foliage. Confirm Argemone with yellow latex plus prickly buds and capsules.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "annual or perennial prickly-poppy"
+    },
+    {
+      "label": "Identification",
+      "text": "glaucous gray-green prickly foliage"
+    },
+    {
+      "label": "Identification",
+      "text": "large rose, pink, red, lavender, or occasionally pale flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "numerous stamens"
+    },
+    {
+      "label": "Identification",
+      "text": "yellow latex"
+    },
+    {
+      "label": "Identification",
+      "text": "prickly buds and capsules"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Flower color is the quickest clue, but confirm with latex, bud, and capsule characters because pale-flowered individuals reduce the value of color alone."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "d423136791854dacfe30d0325c6601066dc1a3eba3038d4ada69f97c7103b1dd",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

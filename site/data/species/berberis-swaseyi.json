@@ -1,0 +1,42 @@
+{
+  "id": "berberis-swaseyi",
+  "family": "Berberidaceae",
+  "genus": "Berberis",
+  "scientific_name": "Berberis swaseyi",
+  "common_name": "Texas Barberry / Texas Oregon-grape",
+  "look_here_first": "Start with leaf architecture, not just leaflet count. Texas barberry usually has 5–9 leaflets, often with a reduced basal pair close to the rachis base, a dull gray-green reticulate surface, and a more open taller shrub form than agarita.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "evergreen Edwards Plateau endemic shrub"
+    },
+    {
+      "label": "Identification",
+      "text": "usually 5–9 leaflets"
+    },
+    {
+      "label": "Identification",
+      "text": "basal leaflet pair often strongly reduced"
+    },
+    {
+      "label": "Identification",
+      "text": "dull gray-green reticulate leaflet surface"
+    },
+    {
+      "label": "Identification",
+      "text": "more open less rounded shrub habit"
+    },
+    {
+      "label": "Identification",
+      "text": "yellow spring flowers and variable pale-to-reddish fruits"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Agarita is typically trifoliolate and denser. Hybrids commonly have 5–7 leaflets but lack the distinctive reduced basal leaflet pair of true B. swaseyi; use leaflet structure, bracts, and surface texture together."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "b98f7b3821e1f2de3d5687abe25585c7d092e414b00ca9bca13b13a281a645c8",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

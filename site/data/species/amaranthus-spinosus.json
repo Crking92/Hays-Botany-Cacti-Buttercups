@@ -1,0 +1,50 @@
+{
+  "id": "amaranthus-spinosus",
+  "family": "Amaranthaceae",
+  "genus": "Amaranthus",
+  "scientific_name": "Amaranthus spinosus",
+  "common_name": "Spiny amaranth / thorny pigweed",
+  "look_here_first": "Bushy upright amaranth with the easiest character in the genus: a pair of sharp spines at nearly every leaf node.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Amaranthaceae/Amaranthus: alternate petiolate leaves and dense clusters of tiny unisexual flowers. Habit, plant sex, hairiness, nodal spines, cluster position, bract/tepal form, and fruit dehiscence are high-value characters."
+    },
+    {
+      "label": "Identification",
+      "text": "annual"
+    },
+    {
+      "label": "Identification",
+      "text": "erect bushy plant"
+    },
+    {
+      "label": "Identification",
+      "text": "paired nodal spines"
+    },
+    {
+      "label": "Identification",
+      "text": "ovate to lanceolate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "terminal staminate spikes"
+    },
+    {
+      "label": "Identification",
+      "text": "axillary mostly pistillate clusters"
+    },
+    {
+      "label": "Identification",
+      "text": "green to silvery-green inflorescences"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Paired nodal spines make it nearly immediate. None of the other B114 species routinely has this feature."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "05074e739e8390e93267ab09d7077ac29d404ae392843a46100c9c8223f1ec34",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

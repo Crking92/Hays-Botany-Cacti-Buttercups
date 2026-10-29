@@ -1,0 +1,54 @@
+{
+  "id": "anemone-caroliniana",
+  "family": "Ranunculaceae",
+  "genus": "Anemone",
+  "scientific_name": "Anemone caroliniana",
+  "common_name": "Carolina anemone / Carolina thimbleweed",
+  "look_here_first": "Look at the entire flowering scape: ONE tier of three involucral bracts sits BELOW the midpoint. Examine multiple basal leaves: at least one is divided similarly to the involucral bracts. Confirm the bract tier and leaf relationship before using the flower.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Low spring-flowering herbaceous perennial from a short tuber-like rhizome; solitary flower on a scape."
+    },
+    {
+      "label": "Leaves",
+      "text": "Basal leaves deeply divided; at least one basal leaf resembles the involucral bracts in division."
+    },
+    {
+      "label": "Involucre",
+      "text": "One tier of leaflike bracts BELOW midpoint of flowering scape; inspect whole scape for accurate position."
+    },
+    {
+      "label": "Flower",
+      "text": "One terminal flower with numerous narrow petaloid sepals; color varies and is not a safe separator."
+    },
+    {
+      "label": "Fruit",
+      "text": "Aggregate achene head; obtain a mature close-up when possible for confirmation."
+    },
+    {
+      "label": "Identification",
+      "text": "one involucral-bract tier BELOW scape midpoint"
+    },
+    {
+      "label": "Identification",
+      "text": "at least one basal leaf divided similarly to bracts"
+    },
+    {
+      "label": "Identification",
+      "text": "solitary spring flower with petaloid sepals"
+    },
+    {
+      "label": "Identification",
+      "text": "often found in sandy habitats, but habitat is supporting only"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "24f89bc8104bcb21be6fb7a2a4727655fe77704664e95e24f820c4a0f0247d62",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

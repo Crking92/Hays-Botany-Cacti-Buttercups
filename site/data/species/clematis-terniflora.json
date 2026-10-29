@@ -1,0 +1,34 @@
+{
+  "id": "clematis-terniflora",
+  "family": "Ranunculaceae",
+  "genus": "Clematis",
+  "scientific_name": "Clematis terniflora",
+  "common_name": "Sweet autumn clematis",
+  "look_here_first": "OPEN masses of WHITE flowers on a climbing vine? Check the leafy stem and flower cluster. Sweet autumn clematis has MANY small white mostly BISEXUAL blooms in branching sprays, and opposite compound leaves with usually 3–5 oval, mostly smooth-edged ENTIRE leaflets. Native C. drummondii has often deeply cut/lobed leaflets and male/female flowers on SEPARATE plants. Both have feathery seedheads: fluff alone cannot distinguish them. This is INTRODUCED in Texas; learner look-alike only.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "woody climbing vine"
+    },
+    {
+      "label": "Identification",
+      "text": "opposite 3–5-foliolate mostly entire leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "branched many-flowered clusters of small open four-sepaled flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "broad flattened rimmed achenes"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "9b5142a756abca53c520c108858b7fabfdae9c6b9c9e5b51c169a32c1f2beabc",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

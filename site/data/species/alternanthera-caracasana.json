@@ -1,0 +1,34 @@
+{
+  "id": "alternanthera-caracasana",
+  "family": "Amaranthaceae",
+  "genus": "Alternanthera",
+  "scientific_name": "Alternanthera caracasana",
+  "common_name": "Mat chaff-flower",
+  "look_here_first": "Check prostrate opposite leaves and compact whitish papery flower heads; magnify bracts and compare with A. pungens.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Low spreading mat on disturbed ground."
+    },
+    {
+      "label": "Leaves attachment",
+      "text": "Opposite leaves; examine nodes."
+    },
+    {
+      "label": "Flower reproductive",
+      "text": "Compact papery heads; inspect bracts."
+    },
+    {
+      "label": "Fruit seed",
+      "text": "Seedhead closeup selected; fruit macro needed."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "7656ff5c83696cc323ecef23eaa58086a12859077538cf505de5996baec201d0",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

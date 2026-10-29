@@ -1,0 +1,50 @@
+{
+  "id": "corydalis-micrantha",
+  "family": "Papaveraceae",
+  "genus": "Corydalis",
+  "scientific_name": "Corydalis micrantha",
+  "common_name": "Slender corydalis / smallflower fumewort",
+  "look_here_first": "Look for the small spurred yellow flowers, then check for erect, often straight capsules and inconspicuous self-pollinating (cleistogamous) flower clusters. Measure mature seeds and inspect the margin; do not rely on raceme height or capsule length alone because subspecies vary.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Glaucous to green, branched winter annual, often 20–40 cm with multiple erect or ascending stems."
+    },
+    {
+      "label": "Leaves",
+      "text": "Finely divided alternate leaves, ultimate lobes ovate to obovate, sometimes with minute abrupt tips."
+    },
+    {
+      "label": "Flowers",
+      "text": "Bilateral yellow flowers in terminal and lateral racemes; four petals, one spurred; spurred outer petal usually 11–15 mm, spur 4–7 mm. Some racemes bear minute cleistogamous flowers."
+    },
+    {
+      "label": "Fruits",
+      "text": "Mostly erect linear capsules, often about 10–35 mm across the species and subspecies; shiny seeds around 1.5 mm diameter lacking a marginal ring in the FNA treatment."
+    },
+    {
+      "label": "Identification",
+      "text": "Check for minute cleistogamous racemes"
+    },
+    {
+      "label": "Identification",
+      "text": "Photograph the side-view flower and rearward spur"
+    },
+    {
+      "label": "Identification",
+      "text": "Check mature capsule angle and shape"
+    },
+    {
+      "label": "Identification",
+      "text": "Use seed margin and size under magnification; assess subspecies variability"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "d2b31180991dca84fa566a8c33efc93d3b6c975830ca48df6a36f1131be53bbe",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

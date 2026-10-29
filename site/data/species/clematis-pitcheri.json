@@ -1,0 +1,58 @@
+{
+  "id": "clematis-pitcheri",
+  "family": "Ranunculaceae",
+  "genus": "Clematis",
+  "scientific_name": "Clematis pitcheri",
+  "common_name": "Purple leatherflower / Pitcher's clematis",
+  "look_here_first": "Look for the nodding leathery urn: dull blue-purple to reddish-purple sepals stay connivent for most of their length, then develop narrow expanded, often crisped/recurved tips.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "nodding ovoid-to-urn-shaped flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "four thick leathery bluish to reddish-purple sepals"
+    },
+    {
+      "label": "Identification",
+      "text": "distal sepal margins narrowly expanded and often crispate/recurved"
+    },
+    {
+      "label": "Identification",
+      "text": "leaflets often prominently reticulate"
+    },
+    {
+      "label": "Identification",
+      "text": "achene beaks short, about 1–3 cm, nearly glabrous to appressed-pubescent"
+    },
+    {
+      "label": "Habit",
+      "text": "Perennial woody-based climber, commonly dying back above ground."
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Opposite."
+    },
+    {
+      "label": "Leaf morphology",
+      "text": "Simple to 1–2-pinnate; leaflets variable and often coarsely reticulate."
+    },
+    {
+      "label": "Flower",
+      "text": "Nodding leathery purple urn with narrow expanded/crisped distal sepal margins."
+    },
+    {
+      "label": "Fruit",
+      "text": "Achenes with relatively short 1–3 cm beaks, not strongly plumose."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "d037bb41bd59ef9d9e9726b430e047111f1049ac80ab6db3adf22247492513c4",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

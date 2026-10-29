@@ -1,0 +1,38 @@
+{
+  "id": "acleisanthes-obtusa",
+  "family": "Nyctaginaceae",
+  "genus": "Acleisanthes",
+  "scientific_name": "Acleisanthes obtusa",
+  "common_name": "Berlandier's trumpets / vine four-o'clock",
+  "look_here_first": "Measure an intact OPEN flower: perianth about 2.5–5.5 cm total, far shorter than the 7–17 cm tube of A. longiflora. Check broadly triangular or delta-ovate leaves with usually truncate, rounded or somewhat heart-shaped bases; confirm ripe anthocarp ribs and small summit knobs. Tiny closed flowers are not comparable to fully open flowers.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Perennial low-spreading or prostrate, sometimes scrambling branched herb or subshrub; flowering shoots can ascend or climb."
+    },
+    {
+      "label": "Leaves",
+      "text": "Mostly opposite, often unequal pairs; blades generally delta-shaped to broadly delta-ovate, with truncate to rounded or shallowly cordate bases; margins mostly flat to slightly wavy."
+    },
+    {
+      "label": "Open flower",
+      "text": "Petaloid fused perianth, not a separate corolla; fully open perianth about 2.5–5.5 cm overall, narrow tube about 1–2 mm in diameter, spreading limb about 13–25 mm across."
+    },
+    {
+      "label": "Fruit",
+      "text": "One-seeded anthocarp about 5–8 mm, with five ribs and deeper paired grooves ending in small inconspicuous glandless knobs; fruit length overlaps A. longiflora."
+    },
+    {
+      "label": "Reproduction",
+      "text": "Solitary flowers or small 2–5-flowered cymes, and reduced cleistogamous flowers; presence of only closed flowers can conceal the larger trumpet."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "348d7e9e6f1e7d0d5b27c39a9d1d66920847fe5f2ab11608752fa536ce9b6c64",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

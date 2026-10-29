@@ -1,0 +1,42 @@
+{
+  "id": "berberis-trifoliolata",
+  "family": "Berberidaceae",
+  "genus": "Berberis",
+  "scientific_name": "Berberis trifoliolata",
+  "common_name": "Agarita",
+  "look_here_first": "Start with the leaves: agarita is usually trifoliolate, with 3 stiff holly-like leaflets, blue- to yellow-green foliage, and a dense rounded shrub habit. Yellow spring flowers are followed by red berries.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "evergreen spiny shrub"
+    },
+    {
+      "label": "Identification",
+      "text": "usually 3 leaflets per leaf"
+    },
+    {
+      "label": "Identification",
+      "text": "rigid holly-like leaflet margins"
+    },
+    {
+      "label": "Identification",
+      "text": "dense rounded habit"
+    },
+    {
+      "label": "Identification",
+      "text": "fragrant yellow spring flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "red edible berries"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "B. swaseyi usually has 5–9 leaflets, more open habit, duller gray-green strongly reticulate foliage, and reduced basal leaflet pairs. Hybrids occur, so leaflet count alone is not sufficient."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "dc74a3cd06a9f7884bdef69c1c04f36a2d10cc31f96a56715261815b6faf1bc1",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

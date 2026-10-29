@@ -1,0 +1,17 @@
+{
+  "id": "delphinium-carolinianum",
+  "family": "Ranunculaceae",
+  "genus": "Delphinium",
+  "scientific_name": "Delphinium carolinianum",
+  "common_name": "Carolina larkspur",
+  "look_here_first": "Look for deeply divided leaves and spurred flowers arranged on elongated racemes.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "321fad4e3312b2fafd8ce4d09deabb83264134bf29178d575e550061750b2460",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

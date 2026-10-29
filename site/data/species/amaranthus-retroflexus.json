@@ -1,0 +1,50 @@
+{
+  "id": "amaranthus-retroflexus",
+  "family": "Amaranthaceae",
+  "genus": "Amaranthus",
+  "scientific_name": "Amaranthus retroflexus",
+  "common_name": "Redroot amaranth / rough pigweed",
+  "look_here_first": "Robust upright pigweed with a reddish lower stem, obvious soft hairs on the upper stem and branches, and a short thick terminal green flower spike.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Amaranthaceae/Amaranthus: alternate petiolate leaves and dense clusters of tiny unisexual flowers. Habit, plant sex, hairiness, nodal spines, cluster position, bract/tepal form, and fruit dehiscence are high-value characters."
+    },
+    {
+      "label": "Identification",
+      "text": "annual"
+    },
+    {
+      "label": "Identification",
+      "text": "erect robust stem"
+    },
+    {
+      "label": "Identification",
+      "text": "reddish near base"
+    },
+    {
+      "label": "Identification",
+      "text": "moderately to densely pubescent upper stem"
+    },
+    {
+      "label": "Identification",
+      "text": "ovate to rhombic leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "short thick terminal and axillary inflorescences"
+    },
+    {
+      "label": "Identification",
+      "text": "bracts longer than tepals"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Hairiness is the fastest cue against smooth Palmer amaranth. It also lacks the paired nodal spines of A. spinosus."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "88046a0bb47df307ff924128cae571834e120709bab8e93d9b30acb0cf8a939e",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

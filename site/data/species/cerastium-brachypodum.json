@@ -1,0 +1,17 @@
+{
+  "id": "cerastium-brachypodum",
+  "family": "Caryophyllaceae",
+  "genus": "Cerastium",
+  "scientific_name": "Cerastium brachypodum",
+  "common_name": "Short-stalk chickweed",
+  "look_here_first": "Inspect opposite hairy leaves and stems, deeply notched flower petals and the elongating seed capsule.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "6641f79629fd4826242b69df34a0f6980b43363c4dec3cc3079ede17c1cf5852",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

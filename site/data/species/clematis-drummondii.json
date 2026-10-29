@@ -1,0 +1,62 @@
+{
+  "id": "clematis-drummondii",
+  "family": "Ranunculaceae",
+  "genus": "Clematis",
+  "scientific_name": "Clematis drummondii",
+  "common_name": "Drummond's clematis / Old man's beard",
+  "look_here_first": "FIRST find the slender open starburst of four pale SEPALS (no true petals) and numerous exposed stamens; purple/scarlet leatherflowers instead hang as leathery urns. Notice opposite compound often deeply LOBED leaflets and a twisting LEAF STALK that clasps supports. Male and female flowers occur on separate vines; only female vines produce the famous shaggy long (4–9 cm) silky style/beak heads. Avoid confusing an introduced white sweet autumn clematis with smooth-edged leaflets and massive bisexual bloom sprays.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "woody scrambling/climbing vine"
+    },
+    {
+      "label": "Identification",
+      "text": "opposite odd-pinnate leaves usually 5-foliolate and deeply divided"
+    },
+    {
+      "label": "Identification",
+      "text": "flowers unisexual and plants dioecious"
+    },
+    {
+      "label": "Identification",
+      "text": "four thin white-to-cream sepals spread flat"
+    },
+    {
+      "label": "Identification",
+      "text": "achenes with extremely long 4–9 cm plumose beaks"
+    },
+    {
+      "label": "Habit",
+      "text": "Woody scrambling/climbing vine, often several meters."
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Opposite."
+    },
+    {
+      "label": "Leaf morphology",
+      "text": "Usually odd-pinnate and 5-foliolate; leaflets often deeply divided or cleft."
+    },
+    {
+      "label": "Flower",
+      "text": "Open rather than urn-shaped; four thin white/cream spreading sepals; male and female flowers on separate vines."
+    },
+    {
+      "label": "Fruit",
+      "text": "Aggregate achenes with very long silky plumose beaks forming conspicuous 'old man's beard' masses."
+    },
+    {
+      "label": "Family backfill note",
+      "text": "Ranunculaceae family backfill uses C. drummondii as the open-flower Clematis anchor: petaloid sepals + many free stamens/pistils + aggregate achenes."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "3321658eb8c82db0e40bc79e42cd5b44a9165b0071f51ab70047dec1bad3f207",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

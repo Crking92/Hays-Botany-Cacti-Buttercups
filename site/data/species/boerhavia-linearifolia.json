@@ -1,0 +1,30 @@
+{
+  "id": "boerhavia-linearifolia",
+  "family": "Nyctaginaceae",
+  "genus": "Boerhavia",
+  "scientific_name": "Boerhavia linearifolia",
+  "common_name": "Narrowleaf spiderling",
+  "look_here_first": "LOOK FIRST at the mature anthocarp: it is glabrous with five broadly rounded ribs and smooth grooves (sulci). Next inspect the relatively large petaloid perianth (about 4–7 mm) and usually five exserted stamens. Narrow leaves alone are not diagnostic.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Opposite narrow linear to lanceolate leaves on a perennial with branching stems; vegetative shape alone can overlap congeners."
+    },
+    {
+      "label": "Identification",
+      "text": "Mature anthocarps about 2.5–3.5 mm, glabrous, broadly rounded ribs and smooth sulci."
+    },
+    {
+      "label": "Identification",
+      "text": "Perianth about 4–7 mm, usually five stamens projecting beyond it; confirm reproductive structures rather than flower color."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "84cde3a949b85a4eb0f512f2f24724bf9445e90488dc77a906d1ae2bb6ace261",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

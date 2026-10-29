@@ -1,0 +1,38 @@
+{
+  "id": "alternanthera-philoxeroides",
+  "family": "Amaranthaceae",
+  "genus": "Alternanthera",
+  "scientific_name": "Alternanthera philoxeroides",
+  "common_name": "Alligatorweed",
+  "look_here_first": "Look at opposite leaves and rounded white flower heads on slender stalks; inspect bracts with a hand lens to distinguish from other Alternanthera.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Sprawling perennial, sometimes forming floating mats in wet habitats."
+    },
+    {
+      "label": "Leaves attachment",
+      "text": "Simple opposite leaves at stem nodes."
+    },
+    {
+      "label": "Flower reproductive",
+      "text": "White papery flowers in rounded stalked heads."
+    },
+    {
+      "label": "Stem nodes",
+      "text": "Creeping stems can root at nodes."
+    },
+    {
+      "label": "Fruit seed",
+      "text": "Tiny fruit; close-up not yet documented."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "883c350371e456712252ffc400fd0a910ef0fffac0116089f8bc38b8d3cd879f",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

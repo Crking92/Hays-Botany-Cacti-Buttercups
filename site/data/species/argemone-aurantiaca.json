@@ -1,0 +1,62 @@
+{
+  "id": "argemone-aurantiaca",
+  "family": "Papaveraceae",
+  "genus": "Argemone",
+  "scientific_name": "",
+  "common_name": "Texas Pricklypoppy",
+  "look_here_first": "",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Annual or biennial."
+    },
+    {
+      "label": "Habit",
+      "text": "Widely branching spiny herb to roughly 0.8 m; stems prickly throughout."
+    },
+    {
+      "label": "Foliage",
+      "text": "Leaves deeply lobed; lower surface sparingly to copiously prickly on and sometimes between veins; upper surface less prickly."
+    },
+    {
+      "label": "Latex",
+      "text": "Orange to reddish-orange when fresh."
+    },
+    {
+      "label": "Flower",
+      "text": "Large white flower, roughly 8–12 cm broad; numerous stamens."
+    },
+    {
+      "label": "Bud sepals",
+      "text": "Bud body about 18–25 × 14–18 mm; sepal horns angular or flattened, about 8–12 mm, prickly."
+    },
+    {
+      "label": "Capsule",
+      "text": "Ovoid, about 40–50 × 15–25 mm excluding prickles; prickles very unequal, often branched, with the longest commonly 15–35 mm."
+    },
+    {
+      "label": "Flowering",
+      "text": "Spring through summer; fruiting summer through fall."
+    },
+    {
+      "label": "Identification",
+      "text": "Fresh latex is orange to reddish-orange; A. albiflora subsp. texana is pale/light yellow."
+    },
+    {
+      "label": "Identification",
+      "text": "Mature capsule prickles are very unequal, often branched, and extremely long; longest about 15–35 mm."
+    },
+    {
+      "label": "Identification",
+      "text": "Sepal horns are about 8–12 mm and prickly."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "730f4a9f2d986be5b548667679a2e858ec7e4510b8aa9c8b68ad12d00396d4e8",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

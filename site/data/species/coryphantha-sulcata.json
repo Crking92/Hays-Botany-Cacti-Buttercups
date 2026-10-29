@@ -1,0 +1,17 @@
+{
+  "id": "coryphantha-sulcata",
+  "family": "Cactaceae",
+  "genus": "Coryphantha",
+  "scientific_name": "Coryphantha sulcata",
+  "common_name": "Grooved nipple cactus",
+  "look_here_first": "Low rounded cactus with pronounced tubercles and spiny areoles; inspect grooves on tubercles and flower position.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "0ba37874940e301e182705fd890bb83527034170d081648680261a5413069035",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

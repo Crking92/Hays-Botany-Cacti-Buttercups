@@ -1,0 +1,54 @@
+{
+  "id": "anemone-berlandieri",
+  "family": "Ranunculaceae",
+  "genus": "Anemone",
+  "scientific_name": "Anemone berlandieri",
+  "common_name": "Tenpetal anemone / tenpetal thimbleweed",
+  "look_here_first": "On a flowering plant, photograph the entire scape: ONE tier of three leaflike involucral bracts sits ABOVE the scape midpoint. Then compare multiple basal leaves to that bract tier: all basal leaves are divided differently from the bracts. Flowers alone are not enough.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Herbaceous spring perennial from underground tuber; flowering stalk (scape) with one showy terminal flower."
+    },
+    {
+      "label": "Leaves",
+      "text": "Basal leaves deeply divided; compare several basal leaves with involucral bracts rather than relying on leaflet outline alone."
+    },
+    {
+      "label": "Involucre",
+      "text": "Single tier of three leaflike bracts above the midpoint of the flowering scape; basal leaves dissimilar in division."
+    },
+    {
+      "label": "Flower",
+      "text": "Numerous narrow petal-like SEPALS, not true petals; white/pink/purple variation overlaps related species."
+    },
+    {
+      "label": "Fruit",
+      "text": "Aggregate head of achenes; mature achenes densely woolly; close-up useful as secondary evidence."
+    },
+    {
+      "label": "Identification",
+      "text": "one involucral-bract tier ABOVE scape midpoint"
+    },
+    {
+      "label": "Identification",
+      "text": "all basal leaves divided differently from bracts"
+    },
+    {
+      "label": "Identification",
+      "text": "single terminal flower with petaloid sepals"
+    },
+    {
+      "label": "Identification",
+      "text": "mature achene head woolly"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "527dd0941cfba6b70fcb3e599279aae4dec2f5f1cf9ad82442e537ca31bf710f",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

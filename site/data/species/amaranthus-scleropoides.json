@@ -1,0 +1,50 @@
+{
+  "id": "amaranthus-scleropoides",
+  "family": "Amaranthaceae",
+  "genus": "Amaranthus",
+  "scientific_name": "Amaranthus scleropoides",
+  "common_name": "Bonebract amaranth",
+  "look_here_first": "Low annual with axillary flower clusters from base to top; the cluster axes become thick, inflated and hard at maturity, with uniquely keeled flower bracts.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Amaranthaceae/Amaranthus: alternate petiolate leaves and dense clusters of tiny unisexual flowers. Habit, plant sex, hairiness, nodal spines, cluster position, bract/tepal form, and fruit dehiscence are high-value characters."
+    },
+    {
+      "label": "Identification",
+      "text": "annual"
+    },
+    {
+      "label": "Identification",
+      "text": "glabrous"
+    },
+    {
+      "label": "Identification",
+      "text": "ascending to prostrate"
+    },
+    {
+      "label": "Identification",
+      "text": "small elliptic to lanceolate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "axillary clusters from base to top"
+    },
+    {
+      "label": "Identification",
+      "text": "inflorescence axes thickened/indurate"
+    },
+    {
+      "label": "Identification",
+      "text": "pistillate bracts keeled"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "The hardened swollen cluster axes and keeled bracts are the key. Much lower and more axillary-clustered than tall Palmer or redroot pigweed."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "49b9bd64c3bd746d2893ce61c170d4bcddf7ae233aea663bc519d48a09cf9c38",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

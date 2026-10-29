@@ -1,0 +1,17 @@
+{
+  "id": "atriplex-canescens",
+  "family": "Amaranthaceae",
+  "genus": "Atriplex",
+  "scientific_name": "Atriplex canescens",
+  "common_name": "Fourwing saltbush",
+  "look_here_first": "Narrow gray-green scaly leaves on woody branches; seed-bearing bracts with four broad wings.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "cd49b78e50da9723d561fb76aee393d41ee04b82e47489c8b2cb3dcb835ccd5e",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

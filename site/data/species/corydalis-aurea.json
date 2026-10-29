@@ -1,0 +1,50 @@
+{
+  "id": "corydalis-aurea",
+  "family": "Papaveraceae",
+  "genus": "Corydalis",
+  "scientific_name": "Corydalis aurea",
+  "common_name": "Golden corydalis / scrambled eggs",
+  "look_here_first": "Inspect the spurred yellow flower from the side, then compare mature capsules and seeds with C. micrantha. Golden corydalis typically has 13–16 mm flowers, and its fruits may spread or hang and curve; seed margin and fruit position depend on subspecies, so neither alone is decisive.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Small, often spreading to ascending, delicate annual or biennial herb with multiple slender stems."
+    },
+    {
+      "label": "Leaves",
+      "text": "Alternate, petiolate, finely divided two to three times into rounded or oval ultimate segments; often bluish green."
+    },
+    {
+      "label": "Flowers",
+      "text": "Bilateral, yellow, four petals, one outer petal with a rearward spur; racemes of several to many flowers; corolla often about 13–16 mm including 4–5 mm spur."
+    },
+    {
+      "label": "Fruits",
+      "text": "Slender capsules about 15–25 mm, spreading to pendent or sometimes erect depending on subspecies; mature seed and capsule characters important."
+    },
+    {
+      "label": "Identification",
+      "text": "Side view of flower showing spur and crest"
+    },
+    {
+      "label": "Identification",
+      "text": "Mature capsule angle and shape, interpreted with subspecies variation"
+    },
+    {
+      "label": "Identification",
+      "text": "Seed size and marginal ring under magnification"
+    },
+    {
+      "label": "Identification",
+      "text": "Flower raceme relative to nearby leaves, not alone"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "681a6f8ea3a71b625a4f0bc05aae58ce0bc4a2e7ee052da3a5a0050f4df26c99",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}
