@@ -47,8 +47,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/anemone-berlandieri/anemone-berlandieri-achene-head.jpg",
+      "creator": "Catsincaves",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Seeds_of_the_tenpetal_anemone.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "24661c8fdc395b6cadc6c7ae50074eb44ca79773",
+      "role": "Mature achene head / reproductive close-up (provisional; bract-tier image still needed)",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "527dd0941cfba6b70fcb3e599279aae4dec2f5f1cf9ad82442e537ca31bf710f",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

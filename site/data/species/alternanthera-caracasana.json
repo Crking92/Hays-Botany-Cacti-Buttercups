@@ -27,8 +27,35 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/alternanthera-caracasana/alternanthera-caracasana-habit-starr.jpg",
+      "creator": "Forest and Kim Starr",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Starr-151213-0954-Alternanthera_caracasana-habit-Hakioawa-Kahoolawe_(25682059283).jpg",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "source_blob_sha": "65a6ee9bd7e4f143ea9b6bf27406dc4a78e654b8",
+      "role": "Prostrate habit and opposite leaves",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/alternanthera-caracasana/alternanthera-caracasana-seedhead-starr.jpg",
+      "creator": "Forest and Kim Starr",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Starr_000911-8001_Alternanthera_caracasana.jpg",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "source_blob_sha": "d115159d08e8416ed1451d80051fb59950463a72",
+      "role": "Flowerhead bracts and developing seedhead",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "7656ff5c83696cc323ecef23eaa58086a12859077538cf505de5996baec201d0",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

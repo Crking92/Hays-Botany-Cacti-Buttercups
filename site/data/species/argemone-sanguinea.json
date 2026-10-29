@@ -35,8 +35,22 @@
     "names": [],
     "differences": "Flower color is the quickest clue, but confirm with latex, bud, and capsule characters because pale-flowered individuals reduce the value of color alone."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/argemone-sanguinea/argemone-sanguinea-provisional-face.jpg",
+      "creator": "Homer Edward Price (homeredwardprice)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Argemone_sanguinea_(homeredwardprice)_001.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "b430e64014a70aae14462004a15af3a844e7789e",
+      "role": "Rose prickly poppy flower first-pass face; reproductive capsule and bud tie-breaker later.",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "d423136791854dacfe30d0325c6601066dc1a3eba3038d4ada69f97c7103b1dd",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

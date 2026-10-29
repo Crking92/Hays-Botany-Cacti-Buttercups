@@ -43,8 +43,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/corydalis-micrantha/corydalis-micrantha-usfws-flowers-leaves.jpg",
+      "creator": "Jessica Bolser USFWS",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Slender_Corydalis_(14132323755).jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "0f9681c4cc307c399e59a74047d5ddf30c8563ab",
+      "role": "Yellow spurred flowers and finely divided leaves visible; fruit and seed not shown",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "d2b31180991dca84fa566a8c33efc93d3b6c975830ca48df6a36f1131be53bbe",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

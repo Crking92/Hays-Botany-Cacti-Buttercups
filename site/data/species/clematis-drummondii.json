@@ -55,8 +55,74 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/clematis-drummondii/01-open-staminate-flower.jpg",
+      "creator": "Alex Abair",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Clematis_drummondii_22606250.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "a44b54d16e4f8adb3be9eca9090bd6767f8181d9",
+      "role": "Detailed front/side staminate flower: four pale sepals surrounding numerous long stamens",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/clematis-drummondii/02-open-flower-and-divided-leaves.jpg",
+      "creator": "sonnia hill",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Clematis_drummondii_-_52769283625.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "d63ae60b28c1dff59921813e2c127112f5756970",
+      "role": "Flowering vine in the field: open pale flower and divided leaflets adjacent on stem",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/clematis-drummondii/03-twining-leaf-stalk-and-leaf-shape.jpg",
+      "creator": "sonnia hill",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Clematis_drummondii_(2023).jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "17a18271d58ec7e891488e70f075ace8ddefc04b",
+      "role": "Leaf stalk looped around adjacent stem, demonstrating Clematis climbing method and lobed leaf",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/clematis-drummondii/04-mature-plumose-seedheads.jpg",
+      "creator": "Mike (Commons Pompilid)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Clematis_drummondii.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "eabbadeb88c25ae0b6d0050a2ff762e8fa8ad970",
+      "role": "Mature feathery seedheads showing masses of plumose persistent achene styles",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/clematis-drummondii/05-vine-scrambling-over-shrub.jpg",
+      "creator": "Alex Abair",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Clematis_drummondii_10442366.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "f25c1a625d5b6d3847ecfba620a6df9b03f560a9",
+      "role": "Whole vine habit spreading over shrubs in New Mexico; overall recognition context",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "3321658eb8c82db0e40bc79e42cd5b44a9165b0071f51ab70047dec1bad3f207",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

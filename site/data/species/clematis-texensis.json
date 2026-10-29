@@ -59,8 +59,35 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/clematis-texensis/01-scarlet-flower.jpg",
+      "creator": "Mason Brock (Masebrock)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Clematis_texensis_Texas.jpg",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_blob_sha": "fab309a681740c6287f4229136d507fcb36874ec",
+      "role": "Wild scarlet urn-shaped flower / side profile",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/clematis-texensis/02-wild-habit.jpg",
+      "creator": "Mason Brock (Masebrock)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Clematis_texensis.jpg",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_blob_sha": "2c08d4822c11ac8cb29dddb09ea895b91d19ce99",
+      "role": "Wild vine / flower context",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "c5378b7f55dd83a3e26e93ec3e75613185e768ca7c30964cd9fe2eed9b55a6fd",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

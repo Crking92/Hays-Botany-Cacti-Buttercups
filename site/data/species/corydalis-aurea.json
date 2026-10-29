@@ -43,8 +43,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/corydalis-aurea/corydalis-aurea-stan-shebs-habit.jpg",
+      "creator": "Stan Shebs",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Corydalis_aurea_3.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "1e1dbbd114a3fc026005ee0e47635ba037d30b70",
+      "role": "Whole flowering plant and foliage",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "681a6f8ea3a71b625a4f0bc05aae58ce0bc4a2e7ee052da3a5a0050f4df26c99",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

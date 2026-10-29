@@ -10,8 +10,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/coccoloba-uvifera/coccoloba-uvifera-hans-hillewaert.jpg",
+      "creator": "Hans Hillewaert",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Coccoloba_uvifera.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "53cd15cadc78f28d56fc2525477bba69411fe65b",
+      "role": "fruit and leaves",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "b65e87ee311acb72de7365fb6ecb64516132f6e0cc507ba2accfd0bd72b5b5ad",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

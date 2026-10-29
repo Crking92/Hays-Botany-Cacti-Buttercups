@@ -27,8 +27,35 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/alternanthera-pungens/alternanthera-pungens-habit-harry-rose.jpg",
+      "creator": "Harry Rose",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Alternanthera_pungens_plant4_(11680281075).jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "0f38d10d8ee1c0ed15c568cb8bd77b59179fff8d",
+      "role": "Prostrate habit",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/alternanthera-pungens/alternanthera-pungens-bracts-harry-rose.jpg",
+      "creator": "Harry Rose",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Alternanthera_pungens_flowers1_(11681144576).jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "8a12353d12f3e004e6e60b8b9ba6edf57bc66a8c",
+      "role": "Sharp flowerhead bracts",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "898e4f55b1a0a8c7f8281acdc49ba9385268818709dc0ff5aea8443cdc86be5e",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

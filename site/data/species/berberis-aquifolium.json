@@ -27,8 +27,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/berberis-aquifolium/berberis-aquifolium-provisional-face.jpg",
+      "creator": "Ellyne Geurts",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Berberis_aquifolium_112083282.jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "7ae6887a5868a6c4e9802255d7144bcc2a1a53bd",
+      "role": "Foliage / shrub recognizable face",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "dc32a96e1b666f70940d56f14724e1d152c76d3fed7aefe22af2443f997fb105",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

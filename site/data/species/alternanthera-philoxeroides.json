@@ -31,8 +31,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/alternanthera-philoxeroides/alternanthera-philoxeroides-flower-nrcs.jpg",
+      "creator": "USDA-NRCS",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Alternanthera_philoxeroides_NRCS-1.jpg",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_blob_sha": "8c6c8d5409e8f72b35884686e4b7a9bdba022fc8",
+      "role": "Flower and leaves",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "883c350371e456712252ffc400fd0a910ef0fffac0116089f8bc38b8d3cd879f",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

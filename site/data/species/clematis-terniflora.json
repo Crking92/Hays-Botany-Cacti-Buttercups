@@ -27,8 +27,35 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/clematis-terniflora/clematis-terniflora-provisional-face.jpg",
+      "creator": "Σ64",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Clematis_terniflora_02.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "e4d443a0e4bd1b5bbe69dd8c70e328b6d8060769",
+      "role": "Climbing vine and white flower clusters; later closeup leaf/fruit comparison required.",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/clematis-terniflora/02-entire-leaflet-closeup.jpg",
+      "creator": "Alpsdake",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Clematis_terniflora_(leaf).jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "17bc02e9286136f8cc832c8699ec5b2e298a2ebb",
+      "role": "Leaflet view: mostly smooth entire edge and compound leaves of introduced sweet autumn clematis",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "9b5142a756abca53c520c108858b7fabfdae9c6b9c9e5b51c169a32c1f2beabc",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
