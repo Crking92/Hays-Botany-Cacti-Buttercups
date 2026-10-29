@@ -1,0 +1,17 @@
+{
+  "id": "sclerocactus-warnockii",
+  "family": "Cactaceae",
+  "genus": "Sclerocactus",
+  "scientific_name": "Sclerocactus warnockii",
+  "common_name": "Warnock's cactus",
+  "look_here_first": "Examine stem tubercles or ribs, number and direction of central spines, and flowers arising near the crown.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "d96d970d6f15095f1fe7d15aac32bfb0d7105fbaa72031ecdef1208ca0f371bd",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

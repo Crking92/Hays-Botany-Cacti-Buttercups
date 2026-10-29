@@ -1,0 +1,17 @@
+{
+  "id": "thelocactus-bicolor",
+  "family": "Cactaceae",
+  "genus": "Thelocactus",
+  "scientific_name": "Thelocactus bicolor",
+  "common_name": "Glory of Texas cactus",
+  "look_here_first": "Recognize ribbed globular to elongate cactus with striking multicolored long spines and large pink-to-purple flowers; compare areoles, ribs, and spine count to other cacti.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "85ff60701da8cda4afafaa5ed6c307a1c16e69a1e0ce43b772066d1cb70283f7",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

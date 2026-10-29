@@ -1,0 +1,17 @@
+{
+  "id": "stellaria-media",
+  "family": "Caryophyllaceae",
+  "genus": "Stellaria",
+  "scientific_name": "Stellaria media",
+  "common_name": "Common chickweed (introduced)",
+  "look_here_first": "Look for small low branching herbs with opposite oval leaves and tiny white flowers whose five petals are deeply divided and look like ten; inspect single line of stem hairs.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "163150e40b3a9cf5f465579ee0556f669b5e80d4b38cbf24a1ee2c5f0ae00814",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}
