@@ -1,0 +1,437 @@
+{
+  "schema_version": 1,
+  "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
+  "species": 107,
+  "photo_species": 25,
+  "photo_count": 37,
+  "entries": {
+    "alternanthera-caracasana": {
+      "count": 2,
+      "first_src": "media/alternanthera-caracasana/alternanthera-caracasana-habit-starr.jpg"
+    },
+    "alternanthera-philoxeroides": {
+      "count": 1,
+      "first_src": "media/alternanthera-philoxeroides/alternanthera-philoxeroides-flower-nrcs.jpg"
+    },
+    "alternanthera-pungens": {
+      "count": 2,
+      "first_src": "media/alternanthera-pungens/alternanthera-pungens-habit-harry-rose.jpg"
+    },
+    "amaranthus-palmeri": {
+      "count": 0,
+      "first_src": null
+    },
+    "amaranthus-polygonoides": {
+      "count": 0,
+      "first_src": null
+    },
+    "amaranthus-retroflexus": {
+      "count": 0,
+      "first_src": null
+    },
+    "amaranthus-scleropoides": {
+      "count": 0,
+      "first_src": null
+    },
+    "amaranthus-spinosus": {
+      "count": 0,
+      "first_src": null
+    },
+    "amaranthus-viridis": {
+      "count": 0,
+      "first_src": null
+    },
+    "atriplex-canescens": {
+      "count": 0,
+      "first_src": null
+    },
+    "blitum-nuttallianum": {
+      "count": 0,
+      "first_src": null
+    },
+    "celosia-nitida": {
+      "count": 0,
+      "first_src": null
+    },
+    "chenopodium-album": {
+      "count": 0,
+      "first_src": null
+    },
+    "froelichia-gracilis": {
+      "count": 0,
+      "first_src": null
+    },
+    "gomphrena-haageana": {
+      "count": 0,
+      "first_src": null
+    },
+    "iresine-latifolia": {
+      "count": 0,
+      "first_src": null
+    },
+    "tidestromia-lanuginosa": {
+      "count": 0,
+      "first_src": null
+    },
+    "berberis-aquifolium": {
+      "count": 1,
+      "first_src": "media/berberis-aquifolium/berberis-aquifolium-provisional-face.jpg"
+    },
+    "berberis-swaseyi": {
+      "count": 0,
+      "first_src": null
+    },
+    "berberis-trifoliolata": {
+      "count": 0,
+      "first_src": null
+    },
+    "nandina-domestica": {
+      "count": 0,
+      "first_src": null
+    },
+    "coryphantha-echinus": {
+      "count": 0,
+      "first_src": null
+    },
+    "coryphantha-sulcata": {
+      "count": 0,
+      "first_src": null
+    },
+    "cylindropuntia-imbricata": {
+      "count": 0,
+      "first_src": null
+    },
+    "cylindropuntia-leptocaulis": {
+      "count": 0,
+      "first_src": null
+    },
+    "echinocactus-horizonthalonius-subsp-horizonthalonius": {
+      "count": 0,
+      "first_src": null
+    },
+    "echinocereus-chisoensis": {
+      "count": 0,
+      "first_src": null
+    },
+    "echinocereus-dasyacanthus-subsp-dasyacanthus": {
+      "count": 0,
+      "first_src": null
+    },
+    "echinocereus-enneacanthus-var-enneacanthus": {
+      "count": 0,
+      "first_src": null
+    },
+    "echinocereus-reichenbachii": {
+      "count": 0,
+      "first_src": null
+    },
+    "echinocereus-stramineus": {
+      "count": 0,
+      "first_src": null
+    },
+    "echinocereus-triglochidiatus": {
+      "count": 0,
+      "first_src": null
+    },
+    "ferocactus-hamatacanthus": {
+      "count": 0,
+      "first_src": null
+    },
+    "grusonia-aggeria": {
+      "count": 0,
+      "first_src": null
+    },
+    "homalocephala-texensis": {
+      "count": 0,
+      "first_src": null
+    },
+    "opuntia-azurea": {
+      "count": 1,
+      "first_src": "media/opuntia-azurea/opuntia-azurea-mexico-provisional.jpg"
+    },
+    "opuntia-engelmannii-var-lindheimeri": {
+      "count": 0,
+      "first_src": null
+    },
+    "opuntia-gilvescens": {
+      "count": 0,
+      "first_src": null
+    },
+    "opuntia-macrorhiza": {
+      "count": 0,
+      "first_src": null
+    },
+    "opuntia-orbiculata": {
+      "count": 0,
+      "first_src": null
+    },
+    "opuntia-phaeacantha": {
+      "count": 1,
+      "first_src": "media/opuntia-phaeacantha/opuntia-phaeacantha-provisional-face.jpg"
+    },
+    "opuntia-rufida": {
+      "count": 1,
+      "first_src": "media/opuntia-rufida/opuntia-rufida-coahuila-provisional.jpg"
+    },
+    "pelecyphora-macromeris-subsp-macromeris": {
+      "count": 0,
+      "first_src": null
+    },
+    "sclerocactus-warnockii": {
+      "count": 0,
+      "first_src": null
+    },
+    "thelocactus-bicolor": {
+      "count": 0,
+      "first_src": null
+    },
+    "arenaria-benthamii": {
+      "count": 0,
+      "first_src": null
+    },
+    "cerastium-brachypodum": {
+      "count": 0,
+      "first_src": null
+    },
+    "paronychia-virginica": {
+      "count": 0,
+      "first_src": null
+    },
+    "saponaria-officinalis": {
+      "count": 0,
+      "first_src": null
+    },
+    "silene-antirrhina": {
+      "count": 0,
+      "first_src": null
+    },
+    "stellaria-cuspidata-subsp-prostrata": {
+      "count": 0,
+      "first_src": null
+    },
+    "stellaria-media": {
+      "count": 0,
+      "first_src": null
+    },
+    "nephroia-carolina": {
+      "count": 0,
+      "first_src": null
+    },
+    "acleisanthes-longiflora": {
+      "count": 0,
+      "first_src": null
+    },
+    "acleisanthes-obtusa": {
+      "count": 0,
+      "first_src": null
+    },
+    "allionia-incarnata": {
+      "count": 1,
+      "first_src": "media/allionia-incarnata/01-trailing-habit-flowering-units.jpg"
+    },
+    "boerhavia-coccinea": {
+      "count": 0,
+      "first_src": null
+    },
+    "boerhavia-erecta": {
+      "count": 0,
+      "first_src": null
+    },
+    "boerhavia-linearifolia": {
+      "count": 1,
+      "first_src": "media/boerhavia-linearifolia/boerhavia-linearifolia-flower.jpg"
+    },
+    "mirabilis-albida": {
+      "count": 0,
+      "first_src": null
+    },
+    "mirabilis-jalapa": {
+      "count": 0,
+      "first_src": null
+    },
+    "mirabilis-linearis": {
+      "count": 0,
+      "first_src": null
+    },
+    "mirabilis-nyctaginea": {
+      "count": 0,
+      "first_src": null
+    },
+    "argemone-albiflora-subsp-texana": {
+      "count": 0,
+      "first_src": null
+    },
+    "argemone-aurantiaca": {
+      "count": 0,
+      "first_src": null
+    },
+    "argemone-polyanthemos": {
+      "count": 1,
+      "first_src": "media/argemone-polyanthemos/argemone-polyanthemos-provisional-face.jpg"
+    },
+    "argemone-sanguinea": {
+      "count": 1,
+      "first_src": "media/argemone-sanguinea/argemone-sanguinea-provisional-face.jpg"
+    },
+    "corydalis-aurea": {
+      "count": 1,
+      "first_src": "media/corydalis-aurea/corydalis-aurea-stan-shebs-habit.jpg"
+    },
+    "corydalis-curvisiliqua": {
+      "count": 0,
+      "first_src": null
+    },
+    "corydalis-micrantha": {
+      "count": 1,
+      "first_src": "media/corydalis-micrantha/corydalis-micrantha-usfws-flowers-leaves.jpg"
+    },
+    "eschscholzia-californica": {
+      "count": 1,
+      "first_src": "media/eschscholzia-californica/eschscholzia-californica-eugene-zelenko.jpg"
+    },
+    "papaver-rhoeas": {
+      "count": 0,
+      "first_src": null
+    },
+    "papaver-somniferum": {
+      "count": 0,
+      "first_src": null
+    },
+    "rivina-humilis": {
+      "count": 0,
+      "first_src": null
+    },
+    "phytolacca-americana": {
+      "count": 0,
+      "first_src": null
+    },
+    "ceratostigma-plumbaginoides": {
+      "count": 0,
+      "first_src": null
+    },
+    "brunnichia-ovata": {
+      "count": 1,
+      "first_src": "media/brunnichia-ovata/brunnichia-ovata-sonnia-hill.jpg"
+    },
+    "coccoloba-uvifera": {
+      "count": 1,
+      "first_src": "media/coccoloba-uvifera/coccoloba-uvifera-hans-hillewaert.jpg"
+    },
+    "eriogonum-longifolium": {
+      "count": 0,
+      "first_src": null
+    },
+    "eriogonum-umbellatum": {
+      "count": 0,
+      "first_src": null
+    },
+    "persicaria-bicornis": {
+      "count": 0,
+      "first_src": null
+    },
+    "persicaria-glabra": {
+      "count": 0,
+      "first_src": null
+    },
+    "persicaria-hydropiperoides": {
+      "count": 0,
+      "first_src": null
+    },
+    "persicaria-lapathifolia": {
+      "count": 0,
+      "first_src": null
+    },
+    "persicaria-pensylvanica": {
+      "count": 0,
+      "first_src": null
+    },
+    "persicaria-punctata": {
+      "count": 0,
+      "first_src": null
+    },
+    "persicaria-setacea": {
+      "count": 0,
+      "first_src": null
+    },
+    "rumex-chrysocarpos": {
+      "count": 0,
+      "first_src": null
+    },
+    "rumex-crispus": {
+      "count": 0,
+      "first_src": null
+    },
+    "rumex-pulcher": {
+      "count": 0,
+      "first_src": null
+    },
+    "portulaca-oleracea": {
+      "count": 2,
+      "first_src": "media/portulaca-oleracea/portulaca-oleracea-leaf.jpg"
+    },
+    "portulaca-pilosa": {
+      "count": 2,
+      "first_src": "media/portulaca-pilosa/portulaca-pilosa-axillary-hairs.jpg"
+    },
+    "portulaca-umbraticola": {
+      "count": 2,
+      "first_src": "media/portulaca-umbraticola/portulaca-umbraticola-winged-capsule.jpg"
+    },
+    "anemone-berlandieri": {
+      "count": 1,
+      "first_src": "media/anemone-berlandieri/anemone-berlandieri-achene-head.jpg"
+    },
+    "anemone-caroliniana": {
+      "count": 1,
+      "first_src": "media/anemone-caroliniana/anemone-caroliniana-flower-face.jpg"
+    },
+    "anemone-edwardsiana": {
+      "count": 0,
+      "first_src": null
+    },
+    "aquilegia-canadensis": {
+      "count": 2,
+      "first_src": "media/aquilegia-canadensis/01-whole-flowering-habit.jpg"
+    },
+    "clematis-drummondii": {
+      "count": 5,
+      "first_src": "media/clematis-drummondii/01-open-staminate-flower.jpg"
+    },
+    "clematis-pitcheri": {
+      "count": 0,
+      "first_src": null
+    },
+    "clematis-terniflora": {
+      "count": 2,
+      "first_src": "media/clematis-terniflora/clematis-terniflora-provisional-face.jpg"
+    },
+    "clematis-texensis": {
+      "count": 2,
+      "first_src": "media/clematis-texensis/01-scarlet-flower.jpg"
+    },
+    "delphinium-carolinianum": {
+      "count": 0,
+      "first_src": null
+    },
+    "ranunculus-fascicularis": {
+      "count": 0,
+      "first_src": null
+    },
+    "ranunculus-macranthus": {
+      "count": 0,
+      "first_src": null
+    },
+    "ranunculus-sardous": {
+      "count": 0,
+      "first_src": null
+    },
+    "ranunculus-sceleratus": {
+      "count": 0,
+      "first_src": null
+    },
+    "talinum-aurantiacum": {
+      "count": 0,
+      "first_src": null
+    }
+  }
+}
