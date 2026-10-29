@@ -1,0 +1,38 @@
+{
+  "id": "opuntia-phaeacantha",
+  "family": "Cactaceae",
+  "genus": "Opuntia",
+  "scientific_name": "Opuntia phaeacantha",
+  "common_name": "Brown-spine pricklypear",
+  "look_here_first": "Use the brown-spine/desert pricklypear concept cautiously: low to spreading pads, usually conspicuous brown-gray spines, yellow flowers often with reddish bases, and fleshy reddish-purple fruit. Confirm the modern taxon concept before trusting old Central Texas labels.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "low to spreading pricklypear habit"
+    },
+    {
+      "label": "Identification",
+      "text": "pads used together with spine pattern"
+    },
+    {
+      "label": "Identification",
+      "text": "usually conspicuous brown to gray spines"
+    },
+    {
+      "label": "Identification",
+      "text": "yellow flowers often with reddish bases"
+    },
+    {
+      "label": "Identification",
+      "text": "fleshy reddish-purple fruit"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "These are field-concept cues, not permission to transfer historical broad-name records. Modern taxon identity must still be checked against O. gilvescens, O. camanchica, and related split taxa."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "da81d481ab22e910522b2454e11d2347cef163f20d79e0525b29525161822c11",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

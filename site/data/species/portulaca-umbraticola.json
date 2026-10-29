@@ -1,0 +1,62 @@
+{
+  "id": "portulaca-umbraticola",
+  "family": "Portulacaceae",
+  "genus": "Portulaca",
+  "scientific_name": "Portulaca umbraticola",
+  "common_name": "Wingpod purslane",
+  "look_here_first": "Turn an INTACT MATURE CAPSULE sideways. At the transverse lid/seam find a distinct thin papery circular WING roughly 0.5–1.5 mm wide, BELOW the opening line, wrapping completely around the green fruit. Verify on multiple mature capsules; with broad flat leaves this is stronger than flower color. Oleracea has a lid without expanded wing; pilosa has narrow leaf blades, prominent white hair tufts and an unwinged fruit. Cultivated 'Wildfire' images are reference only, not a wild Texas taxonomic voucher.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Annual, fleshy branching prostrate to ascending herb with fibrous roots and mostly smooth stems, sparse node hairs."
+    },
+    {
+      "label": "Leaves",
+      "text": "Simple flat succulent leaves, obovate/spatulate or lanceolate, 10–35 × 2–15 mm, apex rounded, truncate or slightly pointed; 4–5 upper subtending leaves near flowers."
+    },
+    {
+      "label": "Flowers",
+      "text": "Usually 8–15 mm diam; typically yellow, or yellow tipped red/copper in certain named taxa and cultivated forms, 7–30 stamens. Color cannot prove wild subspecies."
+    },
+    {
+      "label": "Fruits",
+      "text": "Ovoid/turbinate capsule 3–5 mm diameter with horizontally opening lid and EXPANDED papery wing 0.5–1.5 mm wide beneath suture (unique in local lesson)."
+    },
+    {
+      "label": "Seeds",
+      "text": "Gray flattened 0.5–1 mm, stellate cell pattern with longer tubercles; measured macro needed."
+    },
+    {
+      "label": "Axils",
+      "text": "Sparse/inconspicuous white trichomes at nodes and near inflorescences; not large white clumps like pilosa."
+    },
+    {
+      "label": "Identification",
+      "text": "Mature capsule with full circumference papery wing 0.5–1.5 mm proximal to the lid seam: strongest cue."
+    },
+    {
+      "label": "Identification",
+      "text": "Flat succulent leaves may overlap common purslane; never identify on leaves alone."
+    },
+    {
+      "label": "Identification",
+      "text": "Axillary hairs sparse compared with shaggy purslane."
+    },
+    {
+      "label": "Identification",
+      "text": "Photo of nursery cultivar 'Wildfire' shows species-level wing anatomy but does NOT validate a wild Texas subspecies."
+    },
+    {
+      "label": "Identification",
+      "text": "Native at Texas state level per Kew, but 3-target-county validation remains UNRESOLVED."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "175c6301d39e5591b11bd6f23ccc955002e63612f1c9c8c6206288b094e28928",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

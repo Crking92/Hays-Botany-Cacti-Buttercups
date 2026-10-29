@@ -1,0 +1,74 @@
+{
+  "id": "opuntia-engelmannii-var-lindheimeri",
+  "family": "Cactaceae",
+  "genus": "Opuntia",
+  "scientific_name": "Opuntia engelmannii var. lindheimeri",
+  "common_name": "Texas pricklypear / Lindheimer prickly pear",
+  "look_here_first": "Find an areole before anything else. On the flattened green cladodes, each areole is a specialized short shoot that can carry hairs, glochids, permanent spines, flowers, or new pads. Then compare pad shape, spine/glochid pattern, yellow-to-orange flower, and beet-red berry.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "succulent shrub made of flattened photosynthetic cladodes/pads"
+    },
+    {
+      "label": "Identification",
+      "text": "true defining cactus structure is the areole"
+    },
+    {
+      "label": "Identification",
+      "text": "areoles arranged across pads and bearing glochids plus zero to several permanent spines"
+    },
+    {
+      "label": "Identification",
+      "text": "glochids tiny, barbed, irritating, and clustered at areoles"
+    },
+    {
+      "label": "Identification",
+      "text": "pads commonly obovate and green to bluish-green/glaucous"
+    },
+    {
+      "label": "Identification",
+      "text": "large radial flowers usually yellow to yellow-orange"
+    },
+    {
+      "label": "Identification",
+      "text": "inferior ovary surrounded by stem/pericarpel tissue bearing areoles"
+    },
+    {
+      "label": "Identification",
+      "text": "many-seeded fleshy berry, beet-red with purple-red pulp"
+    },
+    {
+      "label": "Areole",
+      "text": "A specialized axillary short shoot. Learn this before 'spines': flowers, new stems, hairs, glochids and permanent spines arise from areoles."
+    },
+    {
+      "label": "Stem",
+      "text": "The familiar pad is a flattened photosynthetic stem segment (cladode), not an ordinary leaf."
+    },
+    {
+      "label": "Spines",
+      "text": "Permanent spines vary greatly even within the variety; do not require a fixed spine count. Glochids are smaller barbed deciduous spines clustered in the areole."
+    },
+    {
+      "label": "Flower",
+      "text": "Large radial flower with numerous graded perianth segments and more than 200 free stamens in the detailed Williamson County treatment."
+    },
+    {
+      "label": "Ovary",
+      "text": "Inferior; outer stem tissue around it bears tubercles/areoles."
+    },
+    {
+      "label": "Fruit",
+      "text": "Many-seeded fleshy berry, commonly broadly obovoid/top-shaped and beet-colored, with mucilaginous purple-red pulp."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "43e7baf67ab7fae6a8ce84e5cc4436417cf22ea1b66ec08378c90f102e842ff3",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

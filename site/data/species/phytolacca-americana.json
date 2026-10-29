@@ -1,0 +1,17 @@
+{
+  "id": "phytolacca-americana",
+  "family": "Phytolaccaceae",
+  "genus": "Phytolacca",
+  "scientific_name": "Phytolacca americana",
+  "common_name": "American pokeweed",
+  "look_here_first": "Notice coarse soft stems, alternate entire leaves and drooping racemes of shiny purple-black berries on reddish flower stalks; inspect fruit arrangement, flowers and plant size.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "20c1cc5bf68a28682b1bb250a7e1b8ea9dd839f051f422859456f8096eacebf8",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

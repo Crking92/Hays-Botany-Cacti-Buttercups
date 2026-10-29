@@ -1,0 +1,17 @@
+{
+  "id": "opuntia-orbiculata",
+  "family": "Cactaceae",
+  "genus": "Opuntia",
+  "scientific_name": "Opuntia orbiculata",
+  "common_name": "Round-pad pricklypear",
+  "look_here_first": "Inspect flat stem-pad outline, spines, glochid-bearing areoles and flowers or fruits if present.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "6cc24449d86921c4c4d3a9ec4cfcdca674d06107116a6e49f397dd20d721063b",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

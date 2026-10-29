@@ -1,0 +1,17 @@
+{
+  "id": "paronychia-virginica",
+  "family": "Caryophyllaceae",
+  "genus": "Paronychia",
+  "scientific_name": "Paronychia virginica",
+  "common_name": "Whitlow-wort",
+  "look_here_first": "Inspect fine opposite leaves and tiny greenish flowers protected by papery bracts; magnify the crowded nodes.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "03b8f5fbffa06b4453725a9735cb5af5e312e4a559e5f3d19c28be56df96e948",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

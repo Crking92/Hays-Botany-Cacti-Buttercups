@@ -1,0 +1,62 @@
+{
+  "id": "portulaca-pilosa",
+  "family": "Portulacaceae",
+  "genus": "Portulaca",
+  "scientific_name": "Portulaca pilosa",
+  "common_name": "Shaggy purslane / pink purslane",
+  "look_here_first": "At three or more FRESH stem nodes and growing tips look for LONG WHITE silky TUFTS emerging between leaves (axillary trichomes); then check many slender, FLESHY near-cylindrical/semicylindrical sharp-tipped leaves. The capsule is unwinged, unlike P. umbraticola. Flower often bright pink or purple but never use color alone; long hairs may fall from old nodes.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Annual often low trailing or slightly ascending succulent stems 3–25 cm, fibrous to slightly fleshy root."
+    },
+    {
+      "label": "Leaves",
+      "text": "Narrow linear to oblong-lanceolate, subterete to hemispheric (partly round) blades usually 5–20 × 1–3 mm, often sharp pointed tips."
+    },
+    {
+      "label": "Flowers",
+      "text": "Usually 5–12 mm diam with pink-purple petal lobes, petals ephemeral; flower color supports but is not proof."
+    },
+    {
+      "label": "Fruits",
+      "text": "Small unwinged circumscissile capsule 1.5–4.3 mm diam; 6–9 flower-subtending leaflike leaves frequently clustered near tips."
+    },
+    {
+      "label": "Seeds",
+      "text": "Very small black/lead-colored seeds around 0.4–0.6 mm with short tubercles and stellate-rounded seed surface cells; high-resolution microscopy needed."
+    },
+    {
+      "label": "Axils",
+      "text": "Long conspicuous white hair tufts at young nodes and inflorescences, diagnostic when combined with leaf cross-section and capsule."
+    },
+    {
+      "label": "Identification",
+      "text": "REAL white fluffy hair tufts at several fresh leaf axils, unlike mostly nearly hairless oleracea/umbraticola."
+    },
+    {
+      "label": "Identification",
+      "text": "Narrow pointed succulent leaves approximately half-cylindrical to round in section."
+    },
+    {
+      "label": "Identification",
+      "text": "Unwinged capsule; umbraticola requires membranous circular wing below seam."
+    },
+    {
+      "label": "Identification",
+      "text": "Small black seeds need ≥20×/microscopy; never infer sculpture from flower close-up."
+    },
+    {
+      "label": "Identification",
+      "text": "Cultivar and nonlocal species photos demonstrate morphology only, not county nativity."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "4818dcd555c153a81c84039cb18c8d21e44503ffa291d54f8c7cd3bbe3292238",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

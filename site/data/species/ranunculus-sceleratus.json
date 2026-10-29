@@ -1,0 +1,17 @@
+{
+  "id": "ranunculus-sceleratus",
+  "family": "Ranunculaceae",
+  "genus": "Ranunculus",
+  "scientific_name": "Ranunculus sceleratus",
+  "common_name": "Celery-leaved buttercup",
+  "look_here_first": "Moist-site herb with divided or lobed leaves, small yellow flowers and a long cylindrical cluster of many small achenes.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "4b52adcbe7ef931860d1f6e6029a1d1454480e8df2608bc00cfe1fad5d35134b",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

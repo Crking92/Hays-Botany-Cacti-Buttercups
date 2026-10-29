@@ -1,0 +1,17 @@
+{
+  "id": "rumex-chrysocarpos",
+  "family": "Polygonaceae",
+  "genus": "Rumex",
+  "scientific_name": "Rumex chrysocarpos",
+  "common_name": "Rumex chrysocarpos",
+  "look_here_first": "Look for papery ochrea sheaths at leaf nodes and inspect the valves around the developing fruits.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "2edb2288899c740457f7886cc72ceeb78799243e86a7e49f91758b37854e51fe",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

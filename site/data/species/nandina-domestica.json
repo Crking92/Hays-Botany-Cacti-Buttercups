@@ -1,0 +1,17 @@
+{
+  "id": "nandina-domestica",
+  "family": "Berberidaceae",
+  "genus": "Nandina",
+  "scientific_name": "Nandina domestica",
+  "common_name": "Heavenly bamboo",
+  "look_here_first": "Inspect the shrub's multiple-compound leaves, white flowers in large sprays and clusters of persistent red berries.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "dc8e5a8ca24cb3a423dc48c746a68edeecf02c6f87e098de70fbdfb5f522376d",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

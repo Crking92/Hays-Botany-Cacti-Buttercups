@@ -1,0 +1,38 @@
+{
+  "id": "opuntia-gilvescens",
+  "family": "Cactaceae",
+  "genus": "Opuntia",
+  "scientific_name": "Opuntia gilvescens",
+  "common_name": "Yellow-flowered pricklypear",
+  "look_here_first": "Treat this first as a taxon-concept card rather than a finished local key. Confirm current O. gilvescens identity before using historical phaeacantha labels, and prioritize pads, spines, flower, and fruit together when later diagnostic material is added.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "pricklypear growth form"
+    },
+    {
+      "label": "Identification",
+      "text": "pad characters require exact-concept confirmation"
+    },
+    {
+      "label": "Identification",
+      "text": "spine pattern requires exact-concept confirmation"
+    },
+    {
+      "label": "Identification",
+      "text": "flower color and structure should be paired with pad/spine traits"
+    },
+    {
+      "label": "Identification",
+      "text": "fruit characters should be used with vegetative traits"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Do not separate O. gilvescens from O. phaeacantha using an old label alone. Historical broad phaeacantha treatments are part of the confusion."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "5303691c1e3bf2af63f40a9293e80e52a7c5dd9c3c05af28ab057adfdf090a66",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

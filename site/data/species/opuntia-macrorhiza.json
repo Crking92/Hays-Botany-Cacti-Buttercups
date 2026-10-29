@@ -1,0 +1,66 @@
+{
+  "id": "opuntia-macrorhiza",
+  "family": "Cactaceae",
+  "genus": "Opuntia",
+  "scientific_name": "Opuntia macrorhiza",
+  "common_name": "Grassland pricklypear / twist-spine pricklypear",
+  "look_here_first": "Compare the whole plant against Texas pricklypear before counting spines. O. macrorhiza is usually a low, sprawling grassland cactus with smaller pads close to the ground. Then check the areoles: relatively few permanent spines, often with the main spine strongly bent or deflexed near its base, plus orange-brown glochids.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "low sprawling or radiating succulent shrub, often close to the ground"
+    },
+    {
+      "label": "Identification",
+      "text": "flattened photosynthetic cladodes/pads commonly smaller than the large Texas-pricklypear anchor"
+    },
+    {
+      "label": "Identification",
+      "text": "true cactus areoles repeated over the pads"
+    },
+    {
+      "label": "Identification",
+      "text": "areoles with brown wool and dense orange to brown glochids"
+    },
+    {
+      "label": "Identification",
+      "text": "permanent spines commonly few; main spine often strongly bent at the base and deflexed"
+    },
+    {
+      "label": "Identification",
+      "text": "large showy flowers yellow with reddish or rose-red pigmentation toward the petal bases in the detailed Williamson treatment"
+    },
+    {
+      "label": "Identification",
+      "text": "inferior ovary with areoles on the surrounding pericarpel tissue"
+    },
+    {
+      "label": "Identification",
+      "text": "fleshy many-seeded fruit"
+    },
+    {
+      "label": "Habit",
+      "text": "Often forms a low radial plant with branches/pads touching the ground rather than a taller shrubby pricklypear."
+    },
+    {
+      "label": "Areole",
+      "text": "Areoles are the family-defining structure; in this species the wool/glochids and few bent permanent spines are useful comparison characters."
+    },
+    {
+      "label": "Spines",
+      "text": "The strongest permanent spine is often bent sharply near its base and angles downward. Do not use spine count alone."
+    },
+    {
+      "label": "Flower",
+      "text": "Large radial flowers with many free perianth segments and numerous stamens; local treatment describes yellow inner segments with rose-red color toward the base."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Against O. engelmannii var. lindheimeri, use overall low habit, smaller pad proportions, areole spacing, glochid color, and the bent/deflexed main spine as a character suite—not a single feature."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "f40fdf7c6b2bfc5ccf5ca414d38b2fe99c9eddef16f2e7dd67eb430e4f12fc96",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

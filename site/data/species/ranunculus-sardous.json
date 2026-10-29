@@ -1,0 +1,17 @@
+{
+  "id": "ranunculus-sardous",
+  "family": "Ranunculaceae",
+  "genus": "Ranunculus",
+  "scientific_name": "Ranunculus sardous",
+  "common_name": "Hairy buttercup",
+  "look_here_first": "Inspect hairy stems and three-lobed lower leaves; small glossy yellow five-petaled flowers followed by a rounded head of achenes.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "fcfd227d1796c8cad5d09bd85ffc02ca0eefc4beed658bc27f96a6a47b8bf958",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

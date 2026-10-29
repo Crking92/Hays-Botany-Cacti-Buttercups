@@ -1,0 +1,17 @@
+{
+  "id": "ranunculus-macranthus",
+  "family": "Ranunculaceae",
+  "genus": "Ranunculus",
+  "scientific_name": "Ranunculus macranthus",
+  "common_name": "Largeflower buttercup",
+  "look_here_first": "Large yellow many-stamened flowers on herbaceous stems with lobed basal leaves; confirm petal size and mature achene head.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "bb5ba6921540d940719132d7792ea66fda0f7e9ed3162e097f99bb6861fb1191",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

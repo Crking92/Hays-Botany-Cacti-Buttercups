@@ -1,0 +1,17 @@
+{
+  "id": "papaver-somniferum",
+  "family": "Papaveraceae",
+  "genus": "Papaver",
+  "scientific_name": "Papaver somniferum",
+  "common_name": "Opium poppy (cultivated/introduced)",
+  "look_here_first": "Look for showy papery petals, a prominent dark stigmatic disc and glaucous clasping leaves; inspect the round capsule and its radiating stigma for poppy identification.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "1b9e49220682be5777327867574b3df7ecde4516bdc58450ab3b9e35f7202494",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

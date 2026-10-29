@@ -1,0 +1,17 @@
+{
+  "id": "echinocereus-stramineus",
+  "family": "Cactaceae",
+  "genus": "Echinocereus",
+  "scientific_name": "Echinocereus stramineus",
+  "common_name": "Strawberry hedgehog cactus",
+  "look_here_first": "Clumping cylindrical stems with long straw-colored spines and magenta-pink flowers; inspect spines and fruit.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "2fa25bcb5567d7f5cf75650164ff5f22d7e9eaccbaae6672a9f6ccbff12f300b",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "opuntia-azurea",
+  "family": "Cactaceae",
+  "genus": "Opuntia",
+  "scientific_name": "Opuntia azurea",
+  "common_name": "Nopal coyotito / blue pricklypear",
+  "look_here_first": "First examine mature pads and areoles together: blue-green to glaucous pads, often with conspicuous long pale spines, and a woody branching cactus habit. Compare pad-and-spine characters against strict identified material; bluish color by itself is not a diagnosis.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Woody branching pricklypear with flattened pad segments"
+    },
+    {
+      "label": "Identification",
+      "text": "Mature pads often blue-green or glaucous"
+    },
+    {
+      "label": "Identification",
+      "text": "Numerous areoles bearing visible long, pale spines on many pads"
+    },
+    {
+      "label": "Identification",
+      "text": "Flowers can be yellow, but flower color is not sufficient for identification"
+    },
+    {
+      "label": "Identification",
+      "text": "Pad size, areole spacing, spine length and fruit should be examined together"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Compared with O. rufida, O. azurea commonly shows conspicuous rigid spines instead of chiefly rusty glochid tufts. Compared with Texas O. aureispina and other glaucous Opuntia, require a verified strict-concept reference; blue pads alone cannot resolve identity."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "1534cdcd39670c613646ee5d180eafeecad9d91cf00a5f7e8b5d30224295a75c",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "persicaria-punctata",
+  "family": "Polygonaceae",
+  "genus": "Persicaria",
+  "scientific_name": "Persicaria punctata",
+  "common_name": "Dotted smartweed",
+  "look_here_first": "Check alternate leaves and their papery node sheaths (ocreae); inspect gland-dotted flower parts and achenes.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "3ad7f67bf9113959096198e20f17949622db69da2473a45019a010cdbeee42ae",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

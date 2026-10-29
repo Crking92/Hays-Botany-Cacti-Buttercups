@@ -1,0 +1,17 @@
+{
+  "id": "mirabilis-nyctaginea",
+  "family": "Nyctaginaceae",
+  "genus": "Mirabilis",
+  "scientific_name": "Mirabilis nyctaginea",
+  "common_name": "Wild four-o'clock",
+  "look_here_first": "Inspect opposite leaves, clustered small pink flowers held in bract-like involucres and the dark, ribbed mature anthocarps.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c0c4e1b1f65d6ea03fb88a76db53bb97e692f875fcd46d268e231df0d88f0dd1",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

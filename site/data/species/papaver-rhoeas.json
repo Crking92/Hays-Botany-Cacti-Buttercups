@@ -1,0 +1,17 @@
+{
+  "id": "papaver-rhoeas",
+  "family": "Papaveraceae",
+  "genus": "Papaver",
+  "scientific_name": "Papaver rhoeas",
+  "common_name": "Common poppy",
+  "look_here_first": "Inspect hairy stems with lobed leaves and a rounded seed capsule capped by a radiating, disk-like stigma.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "e3d9cba822305fdfe7508be9564bc270ace26c474a86233fe8fecb88e82b9c57",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

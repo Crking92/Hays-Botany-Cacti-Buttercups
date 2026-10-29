@@ -1,0 +1,62 @@
+{
+  "id": "portulaca-oleracea",
+  "family": "Portulacaceae",
+  "genus": "Portulaca",
+  "scientific_name": "Portulaca oleracea",
+  "common_name": "Common purslane",
+  "look_here_first": "Look for BROAD, FLAT spoon/obovate fleshy leaves with round or slightly notched tips and inconspicuous hairs at successive axils. Mature fruits open with a HORIZONTAL detachable lid but have NO expanded encircling wing like P. umbraticola. P. pilosa has narrow, near-cylindrical leaves and conspicuous long white axillary hair tufts. Yellow flower color is secondary.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Prostrate/spreading often reddish succulent annual, low mat-forming stems, short taproot."
+    },
+    {
+      "label": "Leaves",
+      "text": "Flattened obovate or spatulate leaves generally 4–28 × 2–13 mm, apex round to shallowly notched; alternate to subopposite at nodes."
+    },
+    {
+      "label": "Flowers",
+      "text": "Small flowers typically 3–10 mm diam with short yellow petals; ephemeral, often sunshine opening; don't ID by flower color."
+    },
+    {
+      "label": "Fruits",
+      "text": "Ovoid unwinged circumscissile capsule usually 4–9 mm diam, 'hat/lid' detaches transversely to release many black/brown flattened seeds."
+    },
+    {
+      "label": "Seeds",
+      "text": "Dark seeds around 0.6–1.1 mm with granular or rounded-tuberculate cells; macro needed for fine seed-coat differentiation."
+    },
+    {
+      "label": "Axils",
+      "text": "Glabrous or only short inconspicuous trichomes around inflorescence/nodes."
+    },
+    {
+      "label": "Identification",
+      "text": "Broad, flattened spoon-like succulent leaves (not narrow terete)."
+    },
+    {
+      "label": "Identification",
+      "text": "Unwinged mature capsule with transverse cap-like lid; photograph opened and unopened fruit."
+    },
+    {
+      "label": "Identification",
+      "text": "Short or absent axillary hairs at multiple fresh stem nodes."
+    },
+    {
+      "label": "Identification",
+      "text": "Distinguish overlapping flat-leaved P. umbraticola using actual mature capsule wing."
+    },
+    {
+      "label": "Identification",
+      "text": "Do not use reddish stem, prostrate growth or yellow flowers alone."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "5baf1e70e3187a6f9eaf5e7183f488ad116c61f208c00d49e45b57c03d394226",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

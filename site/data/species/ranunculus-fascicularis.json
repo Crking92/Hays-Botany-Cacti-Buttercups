@@ -1,0 +1,17 @@
+{
+  "id": "ranunculus-fascicularis",
+  "family": "Ranunculaceae",
+  "genus": "Ranunculus",
+  "scientific_name": "Ranunculus fascicularis",
+  "common_name": "Early buttercup",
+  "look_here_first": "Early-flowering buttercup with divided basal foliage, several yellow glossy petals and rounded aggregates of small achenes.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "1b0e6f254326d950bb9433d8a3f8dc3624cfe6f95fb1022b092cf0ddeab6d5d7",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

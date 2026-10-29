@@ -1,0 +1,17 @@
+{
+  "id": "homalocephala-texensis",
+  "family": "Cactaceae",
+  "genus": "Homalocephala",
+  "scientific_name": "Homalocephala texensis",
+  "common_name": "Horse crippler cactus",
+  "look_here_first": "Inspect the low, stout ribbed cactus body and deeply ribbed tubercles with strong curved central spines.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "3afb591f955932c920c5b1a32378effb1c5e05c5026656341c2bf9e6e37c835b",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}
