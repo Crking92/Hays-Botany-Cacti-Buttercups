@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 107,
-  "photo_species": 25,
-  "photo_count": 37,
+  "photo_species": 26,
+  "photo_count": 42,
   "entries": {
     "alternanthera-caracasana": {
       "count": 2,
@@ -430,8 +430,8 @@
       "first_src": null
     },
     "talinum-aurantiacum": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/talinum-aurantiacum/inat-635235235.jpg"
     }
   }
 }
