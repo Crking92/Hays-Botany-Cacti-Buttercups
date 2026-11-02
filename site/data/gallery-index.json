@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 107,
-  "photo_species": 26,
-  "photo_count": 42,
+  "photo_species": 32,
+  "photo_count": 98,
   "entries": {
     "alternanthera-caracasana": {
       "count": 2,
@@ -378,56 +378,56 @@
       "first_src": "media/portulaca-umbraticola/portulaca-umbraticola-winged-capsule.jpg"
     },
     "anemone-berlandieri": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/anemone-berlandieri/anemone-berlandieri-achene-head.jpg"
     },
     "anemone-caroliniana": {
-      "count": 1,
+      "count": 5,
       "first_src": "media/anemone-caroliniana/anemone-caroliniana-flower-face.jpg"
     },
     "anemone-edwardsiana": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/anemone-edwardsiana/inat-475604539.jpg"
     },
     "aquilegia-canadensis": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/aquilegia-canadensis/01-whole-flowering-habit.jpg"
     },
     "clematis-drummondii": {
-      "count": 5,
+      "count": 10,
       "first_src": "media/clematis-drummondii/01-open-staminate-flower.jpg"
     },
     "clematis-pitcheri": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/clematis-pitcheri/inat-632779988.jpg"
     },
     "clematis-terniflora": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/clematis-terniflora/clematis-terniflora-provisional-face.jpg"
     },
     "clematis-texensis": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/clematis-texensis/01-scarlet-flower.jpg"
     },
     "delphinium-carolinianum": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/delphinium-carolinianum/inat-633936813.jpg"
     },
     "ranunculus-fascicularis": {
       "count": 0,
       "first_src": null
     },
     "ranunculus-macranthus": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/ranunculus-macranthus/inat-620319494.jpg"
     },
     "ranunculus-sardous": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/ranunculus-sardous/inat-275121225.jpeg"
     },
     "ranunculus-sceleratus": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/ranunculus-sceleratus/inat-480257093.jpg"
     },
     "talinum-aurantiacum": {
       "count": 5,

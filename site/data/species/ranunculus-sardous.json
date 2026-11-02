@@ -10,8 +10,47 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/ranunculus-sardous/inat-275121225.jpeg",
+      "creator": "(c) chenderson, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/275121225",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "8a2e602f903b0d1c740c7564931c2a6b7a29dddd",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
+      "source_review_evidence": "Live iNaturalist observation 159242706, photo 275121225, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9034aac7dad0d19d3c01e1131d357ef59476ed2f68325328297e08ad8e66e512.",
+      "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Ranunculus sardous maps to indexed species ranunculus-sardous; specialist morphology and BONAP range deferred.",
+      "sha256": "9034aac7dad0d19d3c01e1131d357ef59476ed2f68325328297e08ad8e66e512"
+    },
+    {
+      "src": "media/ranunculus-sardous/inat-488628536.jpg",
+      "creator": "(c) Egidio, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/488628536",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "f60832123155bbacb3cc61354c31daa55d31bc7e",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
+      "source_review_evidence": "Live iNaturalist observation 271633040, photo 488628536, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5cd53ffe80a8d94abe9bc01740dae249908bb875722b09087f1370137e16cae9.",
+      "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Ranunculus sardous maps to indexed species ranunculus-sardous; specialist morphology and BONAP range deferred.",
+      "sha256": "5cd53ffe80a8d94abe9bc01740dae249908bb875722b09087f1370137e16cae9"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "fcfd227d1796c8cad5d09bd85ffc02ca0eefc4beed658bc27f96a6a47b8bf958",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

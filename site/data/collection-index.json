@@ -846,7 +846,7 @@
       "genus": "Anemone",
       "scientific_name": "Anemone berlandieri",
       "common_name": "Tenpetal anemone / tenpetal thimbleweed",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -855,7 +855,7 @@
       "genus": "Anemone",
       "scientific_name": "Anemone caroliniana",
       "common_name": "Carolina anemone / Carolina thimbleweed",
-      "photo_count": 1,
+      "photo_count": 5,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -864,8 +864,8 @@
       "genus": "Anemone",
       "scientific_name": "Anemone edwardsiana",
       "common_name": "Edwards Plateau anemone",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "aquilegia-canadensis",
@@ -873,7 +873,7 @@
       "genus": "Aquilegia",
       "scientific_name": "Aquilegia canadensis",
       "common_name": "Red Columbine / Wild Columbine",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -882,7 +882,7 @@
       "genus": "Clematis",
       "scientific_name": "Clematis drummondii",
       "common_name": "Drummond's clematis / Old man's beard",
-      "photo_count": 5,
+      "photo_count": 10,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -891,8 +891,8 @@
       "genus": "Clematis",
       "scientific_name": "Clematis pitcheri",
       "common_name": "Purple leatherflower / Pitcher's clematis",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "clematis-terniflora",
@@ -900,7 +900,7 @@
       "genus": "Clematis",
       "scientific_name": "Clematis terniflora",
       "common_name": "Sweet autumn clematis",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -909,7 +909,7 @@
       "genus": "Clematis",
       "scientific_name": "Clematis texensis",
       "common_name": "Scarlet leatherflower / Texas clematis",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -918,8 +918,8 @@
       "genus": "Delphinium",
       "scientific_name": "Delphinium carolinianum",
       "common_name": "Carolina larkspur",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "ranunculus-fascicularis",
@@ -936,8 +936,8 @@
       "genus": "Ranunculus",
       "scientific_name": "Ranunculus macranthus",
       "common_name": "Largeflower buttercup",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "ranunculus-sardous",
@@ -945,8 +945,8 @@
       "genus": "Ranunculus",
       "scientific_name": "Ranunculus sardous",
       "common_name": "Hairy buttercup",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "ranunculus-sceleratus",
@@ -954,8 +954,8 @@
       "genus": "Ranunculus",
       "scientific_name": "Ranunculus sceleratus",
       "common_name": "Celery-leaved buttercup",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "talinum-aurantiacum",
