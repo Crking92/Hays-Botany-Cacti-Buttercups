@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 274260208, photo 493089829, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 89e7aaaa6b3f6efdaeef83e9c1c626bd08f0423c111920ead24e491d1a90c141. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Rumex chrysocarpos maps to indexed species rumex-chrysocarpos; specialist morphology and BONAP range deferred.",
       "sha256": "89e7aaaa6b3f6efdaeef83e9c1c626bd08f0423c111920ead24e491d1a90c141"
+    },
+    {
+      "src": "media/rumex-chrysocarpos/archived-5ec8faff9f8ffff5.jpg",
+      "creator": "Eric Keith",
+      "source_page": "https://www.inaturalist.org/photos/127593283",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "74dfb9bf8a496d97acdce919e0fa3564229a880d",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 77998010 photo 127593283 individual CC code cc-by-nc; photographer (c) Eric Keith, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 74dfb9bf8a496d97acdce919e0fa3564229a880d; exact image source https://www.inaturalist.org/photos/127593283",
+      "taxon_review_evidence": "Original species record Rumex chrysocarpos linked to an original image and matching current inat photo of source taxon Rumex chrysocarpos. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "5ec8faff9f8ffff584c937b318f3d1a630c7ba8905780d24289f071f827e5b72"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

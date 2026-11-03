@@ -18,7 +18,7 @@
       "genus": "Alternanthera",
       "scientific_name": "Alternanthera philoxeroides",
       "common_name": "Alligatorweed",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -117,7 +117,7 @@
       "genus": "Chenopodium",
       "scientific_name": "Chenopodium album",
       "common_name": "Lamb's quarters",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -126,7 +126,7 @@
       "genus": "Froelichia",
       "scientific_name": "Froelichia gracilis",
       "common_name": "Slender snakecotton",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -153,8 +153,8 @@
       "genus": "Tidestromia",
       "scientific_name": "Tidestromia lanuginosa",
       "common_name": "Woolly tidestromia",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "berberis-aquifolium",
@@ -189,7 +189,7 @@
       "genus": "Nandina",
       "scientific_name": "Nandina domestica",
       "common_name": "Heavenly bamboo",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -225,7 +225,7 @@
       "genus": "Cylindropuntia",
       "scientific_name": "Cylindropuntia leptocaulis",
       "common_name": "Christmas cholla",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -279,7 +279,7 @@
       "genus": "Echinocereus",
       "scientific_name": "Echinocereus stramineus",
       "common_name": "Strawberry hedgehog cactus",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -333,8 +333,8 @@
       "genus": "Opuntia",
       "scientific_name": "Opuntia engelmannii var. lindheimeri",
       "common_name": "Texas pricklypear / Lindheimer prickly pear",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "opuntia-gilvescens",
@@ -369,7 +369,7 @@
       "genus": "Opuntia",
       "scientific_name": "Opuntia phaeacantha",
       "common_name": "Brown-spine pricklypear",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -441,8 +441,8 @@
       "genus": "Saponaria",
       "scientific_name": "Saponaria officinalis",
       "common_name": "Soapwort",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "silene-antirrhina",
@@ -450,8 +450,8 @@
       "genus": "Silene",
       "scientific_name": "Silene antirrhina",
       "common_name": "Sleepy catchfly",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 3,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "stellaria-cuspidata-subsp-prostrata",
@@ -459,8 +459,8 @@
       "genus": "Stellaria",
       "scientific_name": "Stellaria cuspidata subsp. prostrata",
       "common_name": "Prostrate starwort",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "stellaria-media",
@@ -522,8 +522,8 @@
       "genus": "Boerhavia",
       "scientific_name": "Boerhavia erecta",
       "common_name": "Erect spiderling",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "boerhavia-linearifolia",
@@ -531,7 +531,7 @@
       "genus": "Boerhavia",
       "scientific_name": "Boerhavia linearifolia",
       "common_name": "Narrowleaf spiderling",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -540,7 +540,7 @@
       "genus": "Mirabilis",
       "scientific_name": "Mirabilis albida",
       "common_name": "Pale four-o'clock",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -567,7 +567,7 @@
       "genus": "Mirabilis",
       "scientific_name": "Mirabilis nyctaginea",
       "common_name": "Wild four-o'clock",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -594,7 +594,7 @@
       "genus": "Argemone",
       "scientific_name": "Argemone polyanthemos",
       "common_name": "White prickly-poppy",
-      "photo_count": 6,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -603,7 +603,7 @@
       "genus": "Argemone",
       "scientific_name": "Argemone sanguinea",
       "common_name": "Red prickly-poppy",
-      "photo_count": 6,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -612,7 +612,7 @@
       "genus": "Corydalis",
       "scientific_name": "Corydalis aurea",
       "common_name": "Golden corydalis / scrambled eggs",
-      "photo_count": 6,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -630,7 +630,7 @@
       "genus": "Corydalis",
       "scientific_name": "Corydalis micrantha",
       "common_name": "Slender corydalis / smallflower fumewort",
-      "photo_count": 3,
+      "photo_count": 4,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -666,7 +666,7 @@
       "genus": "Rivina",
       "scientific_name": "Rivina humilis",
       "common_name": "Pigeonberry",
-      "photo_count": 5,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -792,7 +792,7 @@
       "genus": "Rumex",
       "scientific_name": "Rumex chrysocarpos",
       "common_name": "Rumex chrysocarpos",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -846,7 +846,7 @@
       "genus": "Anemone",
       "scientific_name": "Anemone berlandieri",
       "common_name": "Tenpetal anemone / tenpetal thimbleweed",
-      "photo_count": 6,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -855,7 +855,7 @@
       "genus": "Anemone",
       "scientific_name": "Anemone caroliniana",
       "common_name": "Carolina anemone / Carolina thimbleweed",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -891,7 +891,7 @@
       "genus": "Clematis",
       "scientific_name": "Clematis pitcheri",
       "common_name": "Purple leatherflower / Pitcher's clematis",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -936,7 +936,7 @@
       "genus": "Ranunculus",
       "scientific_name": "Ranunculus macranthus",
       "common_name": "Largeflower buttercup",
-      "photo_count": 6,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -954,7 +954,7 @@
       "genus": "Ranunculus",
       "scientific_name": "Ranunculus sceleratus",
       "common_name": "Celery-leaved buttercup",
-      "photo_count": 5,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {

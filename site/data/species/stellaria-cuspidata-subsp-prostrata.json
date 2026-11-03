@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/stellaria-cuspidata-subsp-prostrata/archived-b9ec74eab40c4d16.jpg",
+      "creator": "Carlos G Velazco-Macias",
+      "source_page": "https://www.inaturalist.org/photos/619996",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "5b166aca32229b2d93f2d94d81a96c031ef27b1d",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 490077 photo 619996 individual CC code cc-by-nc; photographer (c) Carlos G Velazco-Macias, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 5b166aca32229b2d93f2d94d81a96c031ef27b1d; exact image source https://www.inaturalist.org/photos/619996",
+      "taxon_review_evidence": "Original species record Stellaria cuspidata subsp. prostrata linked to an original image and matching current inat photo of source taxon Stellaria cuspidata prostrata. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "b9ec74eab40c4d168a69755550cbe5c3f1b62062c31004eff205b0a3591bfb10"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "56c71783632421ebac55ed4e580dbca847fb162b0d91f0763145a3491c14c956",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

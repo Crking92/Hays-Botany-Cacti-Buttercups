@@ -2,15 +2,15 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 107,
-  "photo_species": 78,
-  "photo_count": 284,
+  "photo_species": 84,
+  "photo_count": 322,
   "entries": {
     "alternanthera-caracasana": {
       "count": 2,
       "first_src": "media/alternanthera-caracasana/alternanthera-caracasana-habit-starr.jpg"
     },
     "alternanthera-philoxeroides": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/alternanthera-philoxeroides/alternanthera-philoxeroides-flower-nrcs.jpg"
     },
     "alternanthera-pungens": {
@@ -54,11 +54,11 @@
       "first_src": "media/celosia-nitida/archived-d6cc3ce003eae811.jpg"
     },
     "chenopodium-album": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/chenopodium-album/archived-44ec1949c3fefdf7.jpg"
     },
     "froelichia-gracilis": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/froelichia-gracilis/archived-db8b4f5c091fb238.jpg"
     },
     "gomphrena-haageana": {
@@ -70,8 +70,8 @@
       "first_src": "media/iresine-latifolia/archived-4a3f18d9d4969afd.jpg"
     },
     "tidestromia-lanuginosa": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/tidestromia-lanuginosa/archived-dea0e838f6658605.jpg"
     },
     "berberis-aquifolium": {
       "count": 1,
@@ -86,7 +86,7 @@
       "first_src": "media/berberis-trifoliolata/archived-8cf96eb552ee751c.jpg"
     },
     "nandina-domestica": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/nandina-domestica/archived-849575122f6d573a.jpg"
     },
     "coryphantha-echinus": {
@@ -102,7 +102,7 @@
       "first_src": null
     },
     "cylindropuntia-leptocaulis": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/cylindropuntia-leptocaulis/archived-b08204c23e4d08f7.jpg"
     },
     "echinocactus-horizonthalonius-subsp-horizonthalonius": {
@@ -126,7 +126,7 @@
       "first_src": "media/echinocereus-reichenbachii/archived-95b8d48a115521cd.jpg"
     },
     "echinocereus-stramineus": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/echinocereus-stramineus/archived-7d41986d1038950e.jpg"
     },
     "echinocereus-triglochidiatus": {
@@ -150,8 +150,8 @@
       "first_src": "media/opuntia-azurea/opuntia-azurea-mexico-provisional.jpg"
     },
     "opuntia-engelmannii-var-lindheimeri": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/opuntia-engelmannii-var-lindheimeri/archived-f7ffa026a966c1b5.jpg"
     },
     "opuntia-gilvescens": {
       "count": 0,
@@ -166,7 +166,7 @@
       "first_src": "media/opuntia-orbiculata/archived-b08d8dd01c31aaf8.jpg"
     },
     "opuntia-phaeacantha": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/opuntia-phaeacantha/opuntia-phaeacantha-provisional-face.jpg"
     },
     "opuntia-rufida": {
@@ -198,16 +198,16 @@
       "first_src": "media/paronychia-virginica/archived-56558f37a8588f46.jpeg"
     },
     "saponaria-officinalis": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/saponaria-officinalis/archived-a0a3d73eb1a40d76.jpg"
     },
     "silene-antirrhina": {
-      "count": 0,
-      "first_src": null
+      "count": 3,
+      "first_src": "media/silene-antirrhina/archived-7e7e82b27ebc3060.jpg"
     },
     "stellaria-cuspidata-subsp-prostrata": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/stellaria-cuspidata-subsp-prostrata/archived-b9ec74eab40c4d16.jpg"
     },
     "stellaria-media": {
       "count": 0,
@@ -234,15 +234,15 @@
       "first_src": "media/boerhavia-coccinea/archived-393a031671283b89.jpg"
     },
     "boerhavia-erecta": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/boerhavia-erecta/archived-59e484106ae4d759.jpg"
     },
     "boerhavia-linearifolia": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/boerhavia-linearifolia/boerhavia-linearifolia-flower.jpg"
     },
     "mirabilis-albida": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/mirabilis-albida/archived-48479ace7b0624af.jpg"
     },
     "mirabilis-jalapa": {
@@ -254,7 +254,7 @@
       "first_src": null
     },
     "mirabilis-nyctaginea": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/mirabilis-nyctaginea/archived-eb44561d250eb949.jpg"
     },
     "argemone-albiflora-subsp-texana": {
@@ -266,15 +266,15 @@
       "first_src": "media/argemone-aurantiaca/inat-637223587.jpg"
     },
     "argemone-polyanthemos": {
-      "count": 6,
+      "count": 7,
       "first_src": "media/argemone-polyanthemos/argemone-polyanthemos-provisional-face.jpg"
     },
     "argemone-sanguinea": {
-      "count": 6,
+      "count": 7,
       "first_src": "media/argemone-sanguinea/argemone-sanguinea-provisional-face.jpg"
     },
     "corydalis-aurea": {
-      "count": 6,
+      "count": 7,
       "first_src": "media/corydalis-aurea/corydalis-aurea-stan-shebs-habit.jpg"
     },
     "corydalis-curvisiliqua": {
@@ -282,7 +282,7 @@
       "first_src": "media/corydalis-curvisiliqua/inat-32244888.jpeg"
     },
     "corydalis-micrantha": {
-      "count": 3,
+      "count": 4,
       "first_src": "media/corydalis-micrantha/corydalis-micrantha-usfws-flowers-leaves.jpg"
     },
     "eschscholzia-californica": {
@@ -298,7 +298,7 @@
       "first_src": "media/papaver-somniferum/inat-625585291.jpg"
     },
     "rivina-humilis": {
-      "count": 5,
+      "count": 7,
       "first_src": "media/rivina-humilis/inat-630262039.jpg"
     },
     "phytolacca-americana": {
@@ -354,7 +354,7 @@
       "first_src": "media/persicaria-setacea/inat-64570810.jpg"
     },
     "rumex-chrysocarpos": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/rumex-chrysocarpos/inat-268389122.jpeg"
     },
     "rumex-crispus": {
@@ -378,11 +378,11 @@
       "first_src": "media/portulaca-umbraticola/portulaca-umbraticola-winged-capsule.jpg"
     },
     "anemone-berlandieri": {
-      "count": 6,
+      "count": 7,
       "first_src": "media/anemone-berlandieri/anemone-berlandieri-achene-head.jpg"
     },
     "anemone-caroliniana": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/anemone-caroliniana/anemone-caroliniana-flower-face.jpg"
     },
     "anemone-edwardsiana": {
@@ -398,7 +398,7 @@
       "first_src": "media/clematis-drummondii/01-open-staminate-flower.jpg"
     },
     "clematis-pitcheri": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/clematis-pitcheri/inat-632779988.jpg"
     },
     "clematis-terniflora": {
@@ -418,7 +418,7 @@
       "first_src": "media/ranunculus-fascicularis/archived-408abf37a47f814b.jpg"
     },
     "ranunculus-macranthus": {
-      "count": 6,
+      "count": 7,
       "first_src": "media/ranunculus-macranthus/inat-620319494.jpg"
     },
     "ranunculus-sardous": {
@@ -426,7 +426,7 @@
       "first_src": "media/ranunculus-sardous/inat-275121225.jpeg"
     },
     "ranunculus-sceleratus": {
-      "count": 5,
+      "count": 7,
       "first_src": "media/ranunculus-sceleratus/inat-480257093.jpg"
     },
     "talinum-aurantiacum": {
