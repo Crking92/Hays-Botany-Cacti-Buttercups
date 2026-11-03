@@ -1,0 +1,41 @@
+{
+  "repository": "Crking92/Hays-Botany-Cacti-Buttercups",
+  "batch_key": "MULTIFAMILY_COMMONS_CC0_DEED_RECOVERY_2026-11-03",
+  "checked_at": "2026-11-03T16:38:29.861873+00:00",
+  "source_files": 194,
+  "historical_cc0_deed_holds": 1,
+  "selection_window": 15,
+  "candidate_pool_with_usable_source_identifiers": 1,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 1,
+  "selected_by_lane": {
+    "commons": 1
+  },
+  "skipped_or_previously_published": {
+    "not_a_prior_cc0_deed_hold": 193
+  },
+  "new_installed": 0,
+  "held_checked": 1,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "stellaria-media",
+      "family": "Caryophyllaceae",
+      "filename": "commons-stellaria-media.jpg",
+      "original_path": "content/taxa/Caryophyllaceae/Stellaria/stellaria-media/images/commons-stellaria-media.jpg",
+      "archive_path": "migration/private-original-photo-holds/Caryophyllaceae/Stellaria/stellaria-media/images/commons-stellaria-media.jpg",
+      "git_blob_sha": "637af1e34bd3cc215c15ec72cc7c7f814042847a",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Source unavailable: HTTP Error 429: Too Many Requests (015d12c)"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {
+    "Source unavailable: HTTP Error 429: Too Many Requests (015d12c)": 1
+  },
+  "cumulative_installed": 0,
+  "cumulative_held_reviewed": 1
+}
