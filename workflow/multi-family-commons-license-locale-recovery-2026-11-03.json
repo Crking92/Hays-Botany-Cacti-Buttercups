@@ -1,0 +1,52 @@
+{
+  "repository": "Crking92/Hays-Botany-Cacti-Buttercups",
+  "batch_key": "MULTIFAMILY_COMMONS_LICENSE_LOCALE_RECOVERY_2026-11-03",
+  "checked_at": "2026-11-03T18:45:37.578842+00:00",
+  "source_files": 194,
+  "selection_window": 15,
+  "candidate_pool_with_usable_source_identifiers": 2,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 2,
+  "selected_by_lane": {
+    "commons": 2
+  },
+  "skipped_or_previously_published": {
+    "outside_new_locale_retry_or_previously_checked": 191,
+    "already_public_identical_bytes": 1
+  },
+  "new_installed": 0,
+  "held_checked": 2,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "acleisanthes-longiflora",
+      "family": "Nyctaginaceae",
+      "filename": "acleisanthes-longiflora-usda-habit.jpg",
+      "original_path": "content/taxa/Nyctaginaceae/Acleisanthes/acleisanthes-longiflora/images/acleisanthes-longiflora-usda-habit.jpg",
+      "archive_path": "migration/private-original-photo-holds/Nyctaginaceae/Acleisanthes/acleisanthes-longiflora/images/acleisanthes-longiflora-usda-habit.jpg",
+      "git_blob_sha": "ff73bbca3076848c856723dd0c473dfbd8fe2462",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Wikimedia current image license URL unsupported "
+    },
+    {
+      "species_id": "echinocereus-chisoensis",
+      "family": "Cactaceae",
+      "filename": "inat-commons-nps-chisos-hedgehog-2013.jpg",
+      "original_path": "content/taxa/Cactaceae/Echinocereus/echinocereus-chisoensis/images/inat-commons-nps-chisos-hedgehog-2013.jpg",
+      "archive_path": "migration/private-original-photo-holds/Cactaceae/Echinocereus/echinocereus-chisoensis/images/inat-commons-nps-chisos-hedgehog-2013.jpg",
+      "git_blob_sha": "3726e714cadf623a75a6db53bcf1264ea6e26691",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Wikimedia current image license URL unsupported "
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {
+    "Wikimedia current image license URL unsupported ": 2
+  },
+  "cumulative_installed": 0,
+  "cumulative_held_reviewed": 2
+}
