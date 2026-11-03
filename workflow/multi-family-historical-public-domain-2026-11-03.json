@@ -1,0 +1,45 @@
+{
+  "repository": "Crking92/Hays-Botany-Cacti-Buttercups",
+  "batch_key": "MULTIFAMILY_HISTORICAL_PUBLIC_DOMAIN_2026-11-03",
+  "checked_at": "2026-11-03T19:42:55.266431+00:00",
+  "source_files": 194,
+  "selection_window": 80,
+  "candidate_pool_with_usable_source_identifiers": 1,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 1,
+  "selected_by_lane": {
+    "commons": 1
+  },
+  "skipped_or_previously_published": {
+    "outside_reviewed_commons_recovery_lane": 180,
+    "not_an_individual_public_domain_claim": 1,
+    "already_public_identical_bytes": 12
+  },
+  "new_installed": 1,
+  "held_checked": 0,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "acleisanthes-longiflora",
+      "family": "Nyctaginaceae",
+      "filename": "acleisanthes-longiflora-usda-habit.jpg",
+      "original_path": "content/taxa/Nyctaginaceae/Acleisanthes/acleisanthes-longiflora/images/acleisanthes-longiflora-usda-habit.jpg",
+      "archive_path": "migration/private-original-photo-holds/Nyctaginaceae/Acleisanthes/acleisanthes-longiflora/images/acleisanthes-longiflora-usda-habit.jpg",
+      "git_blob_sha": "ff73bbca3076848c856723dd0c473dfbd8fe2462",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Clarence A. Rechenthin / USDA-NRCS",
+      "license": "PUBLIC DOMAIN (U.S. FEDERAL WORK)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Acleisanthes_longiflora.jpg",
+      "taxon": "Acleisanthes longiflora",
+      "src": "media/acleisanthes-longiflora/archived-86020495d1299712.jpg",
+      "sha256": "86020495d12997129a15b5c65d68dd8d2db6fb6471008c407e53695fd7707220"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 1,
+  "cumulative_held_reviewed": 0
+}

@@ -164,6 +164,25 @@
       "source_review_evidence": "Live iNaturalist observation 352792636, photo 643807914, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8ded4399761fec79ab5d8e6211020e03efcf8cf832508cbea5c8b698275a22eb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Acleisanthes longiflora maps to indexed species acleisanthes-longiflora; specialist morphology and BONAP range deferred.",
       "sha256": "8ded4399761fec79ab5d8e6211020e03efcf8cf832508cbea5c8b698275a22eb"
+    },
+    {
+      "src": "media/acleisanthes-longiflora/archived-86020495d1299712.jpg",
+      "creator": "Clarence A. Rechenthin / USDA-NRCS",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Acleisanthes_longiflora.jpg",
+      "source_page_is_exact": true,
+      "license": "PUBLIC DOMAIN (U.S. FEDERAL WORK)",
+      "license_url": "https://www.copyright.gov/title17/92chap1.html#105",
+      "source_blob_sha": "ff73bbca3076848c856723dd0c473dfbd8fe2462",
+      "role": "Whole plant and flowers",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Existing historical image-sources.csv entry for exact Commons photo Acleisanthes_longiflora.jpg; original individual photographer Clarence A. Rechenthin / USDA-NRCS; archived specific reuse license PUBLIC DOMAIN (U.S. FEDERAL WORK); preserved photo byte SHA checked against original transfer manifest ff73bbca3076848c856723dd0c473dfbd8fe2462; reused under owner's previously recorded photo-rights approval policy; no new online Commons license assertion; archived source SHA ff73bbca3076848c856723dd0c473dfbd8fe2462; exact image source https://commons.wikimedia.org/wiki/File:Acleisanthes_longiflora.jpg",
+      "taxon_review_evidence": "Original species record Acleisanthes longiflora linked to an original image and matching current commons photo of source taxon Acleisanthes longiflora. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "86020495d12997129a15b5c65d68dd8d2db6fb6471008c407e53695fd7707220"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
