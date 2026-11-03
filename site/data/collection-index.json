@@ -261,8 +261,8 @@
       "genus": "Echinocereus",
       "scientific_name": "Echinocereus enneacanthus var. enneacanthus",
       "common_name": "Strawberry hedgehog cactus (nominate variety)",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "echinocereus-reichenbachii",
@@ -288,8 +288,8 @@
       "genus": "Echinocereus",
       "scientific_name": "Echinocereus triglochidiatus",
       "common_name": "Claret cup cactus",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "ferocactus-hamatacanthus",
@@ -405,8 +405,8 @@
       "genus": "Thelocactus",
       "scientific_name": "Thelocactus bicolor",
       "common_name": "Glory of Texas cactus",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "arenaria-benthamii",
@@ -513,7 +513,7 @@
       "genus": "Boerhavia",
       "scientific_name": "Boerhavia coccinea",
       "common_name": "Scarlet spiderling",
-      "photo_count": 7,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -522,7 +522,7 @@
       "genus": "Boerhavia",
       "scientific_name": "Boerhavia erecta",
       "common_name": "Erect spiderling",
-      "photo_count": 7,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -549,7 +549,7 @@
       "genus": "Mirabilis",
       "scientific_name": "Mirabilis jalapa",
       "common_name": "Four o'clock (introduced/cultivated)",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -657,7 +657,7 @@
       "genus": "Papaver",
       "scientific_name": "Papaver somniferum",
       "common_name": "Opium poppy (cultivated/introduced)",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -675,7 +675,7 @@
       "genus": "Phytolacca",
       "scientific_name": "Phytolacca americana",
       "common_name": "American pokeweed",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -720,8 +720,8 @@
       "genus": "Eriogonum",
       "scientific_name": "Eriogonum umbellatum",
       "common_name": "Sulfur-flower buckwheat",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "persicaria-bicornis",
@@ -801,7 +801,7 @@
       "genus": "Rumex",
       "scientific_name": "Rumex crispus",
       "common_name": "Curly dock (introduced)",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {

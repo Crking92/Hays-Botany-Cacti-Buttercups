@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 107,
-  "photo_species": 96,
-  "photo_count": 391,
+  "photo_species": 100,
+  "photo_count": 401,
   "entries": {
     "alternanthera-caracasana": {
       "count": 2,
@@ -118,8 +118,8 @@
       "first_src": "media/echinocereus-dasyacanthus-subsp-dasyacanthus/archived-e636c97e42f959cf.jpg"
     },
     "echinocereus-enneacanthus-var-enneacanthus": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/echinocereus-enneacanthus-var-enneacanthus/archived-c33da55aef57d423.jpg"
     },
     "echinocereus-reichenbachii": {
       "count": 1,
@@ -130,8 +130,8 @@
       "first_src": "media/echinocereus-stramineus/archived-7d41986d1038950e.jpg"
     },
     "echinocereus-triglochidiatus": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/echinocereus-triglochidiatus/archived-e81a1b57266fc38a.jpg"
     },
     "ferocactus-hamatacanthus": {
       "count": 1,
@@ -182,8 +182,8 @@
       "first_src": "media/sclerocactus-warnockii/archived-8a842fb3f82bc8d6.jpg"
     },
     "thelocactus-bicolor": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/thelocactus-bicolor/archived-f2264d52308033dd.jpg"
     },
     "arenaria-benthamii": {
       "count": 1,
@@ -230,11 +230,11 @@
       "first_src": "media/allionia-incarnata/01-trailing-habit-flowering-units.jpg"
     },
     "boerhavia-coccinea": {
-      "count": 7,
+      "count": 8,
       "first_src": "media/boerhavia-coccinea/archived-393a031671283b89.jpg"
     },
     "boerhavia-erecta": {
-      "count": 7,
+      "count": 8,
       "first_src": "media/boerhavia-erecta/archived-59e484106ae4d759.jpg"
     },
     "boerhavia-linearifolia": {
@@ -246,7 +246,7 @@
       "first_src": "media/mirabilis-albida/archived-48479ace7b0624af.jpg"
     },
     "mirabilis-jalapa": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/mirabilis-jalapa/inat-632005279.jpg"
     },
     "mirabilis-linearis": {
@@ -294,7 +294,7 @@
       "first_src": "media/papaver-rhoeas/inat-623951390.jpg"
     },
     "papaver-somniferum": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/papaver-somniferum/inat-625585291.jpg"
     },
     "rivina-humilis": {
@@ -302,7 +302,7 @@
       "first_src": "media/rivina-humilis/inat-630262039.jpg"
     },
     "phytolacca-americana": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/phytolacca-americana/inat-624747257.jpg"
     },
     "ceratostigma-plumbaginoides": {
@@ -322,8 +322,8 @@
       "first_src": "media/eriogonum-longifolium/inat-17127801.jpeg"
     },
     "eriogonum-umbellatum": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/eriogonum-umbellatum/archived-cee792a2716ecb69.jpg"
     },
     "persicaria-bicornis": {
       "count": 6,
@@ -358,7 +358,7 @@
       "first_src": "media/rumex-chrysocarpos/inat-268389122.jpeg"
     },
     "rumex-crispus": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/rumex-crispus/inat-181859430.jpg"
     },
     "rumex-pulcher": {

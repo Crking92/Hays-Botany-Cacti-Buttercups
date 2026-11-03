@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 352968629, photo 644095081, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 32362d641a4a938c2a5fb5ca0a887f4a30bb6f6f7906346200716545acd229db. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Mirabilis jalapa maps to indexed species mirabilis-jalapa; specialist morphology and BONAP range deferred.",
       "sha256": "32362d641a4a938c2a5fb5ca0a887f4a30bb6f6f7906346200716545acd229db"
+    },
+    {
+      "src": "media/mirabilis-jalapa/archived-a048c09a91a6ae0a.jpg",
+      "creator": "Witchemx",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Mirabilis_jalapa_flowers.jpg",
+      "source_page_is_exact": true,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "2907bf73c38d213b7b8eb9e74bd81c6763ef9b86",
+      "role": "Provisional flower color/shape view from a named cultivated species; fruit and involucre macro absent.",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Existing historical image-sources.csv entry for exact Commons photo Mirabilis_jalapa_flowers.jpg; original individual photographer Witchemx; archived specific reuse license CC BY 4.0; preserved photo byte SHA checked against original transfer manifest 2907bf73c38d213b7b8eb9e74bd81c6763ef9b86; reused under owner's previously recorded photo-rights approval policy; no new online Commons license assertion; archived source SHA 2907bf73c38d213b7b8eb9e74bd81c6763ef9b86; exact image source https://commons.wikimedia.org/wiki/File:Mirabilis_jalapa_flowers.jpg",
+      "taxon_review_evidence": "Original species record Mirabilis jalapa linked to an original image and matching current commons photo of source taxon Mirabilis jalapa. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "a048c09a91a6ae0a168ad55955f55b66961fdadca310acfebc0328c94358bd0a"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

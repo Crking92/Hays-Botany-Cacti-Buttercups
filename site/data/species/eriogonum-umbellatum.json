@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/eriogonum-umbellatum/archived-cee792a2716ecb69.jpg",
+      "creator": "Dcrjsr",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Eriogonum_umbellatum_sulfur_flower.jpg",
+      "source_page_is_exact": true,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "source_blob_sha": "bcdd0019d91ddcd8686c2300482ae28efeac81c3",
+      "role": "Provisional clustered yellow flowers and foliage; involucre and perianth confirmation later.",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Existing historical image-sources.csv entry for exact Commons photo Eriogonum_umbellatum_sulfur_flower.jpg; original individual photographer Dcrjsr; archived specific reuse license CC BY 3.0; preserved photo byte SHA checked against original transfer manifest bcdd0019d91ddcd8686c2300482ae28efeac81c3; reused under owner's previously recorded photo-rights approval policy; no new online Commons license assertion; archived source SHA bcdd0019d91ddcd8686c2300482ae28efeac81c3; exact image source https://commons.wikimedia.org/wiki/File:Eriogonum_umbellatum_sulfur_flower.jpg",
+      "taxon_review_evidence": "Original species record Eriogonum umbellatum linked to an original image and matching current commons photo of source taxon Eriogonum umbellatum. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "cee792a2716ecb69a3b37e51199d76da56dbeac6e248638924ccf91847daaab6"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "91a927028c831d0269a9776b76daaff907d0587a2895a4449e2d10dd8b67b54f",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
