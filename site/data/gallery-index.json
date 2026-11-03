@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 107,
-  "photo_species": 90,
-  "photo_count": 332,
+  "photo_species": 92,
+  "photo_count": 387,
   "entries": {
     "alternanthera-caracasana": {
       "count": 2,
@@ -214,47 +214,47 @@
       "first_src": null
     },
     "nephroia-carolina": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/nephroia-carolina/archived-3e84f29f82e53f6a.jpg"
     },
     "acleisanthes-longiflora": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/acleisanthes-longiflora/archived-7c55a6ac90361b58.jpg"
     },
     "acleisanthes-obtusa": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/acleisanthes-obtusa/archived-09e1522e411f15ca.jpg"
     },
     "allionia-incarnata": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/allionia-incarnata/01-trailing-habit-flowering-units.jpg"
     },
     "boerhavia-coccinea": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/boerhavia-coccinea/archived-393a031671283b89.jpg"
     },
     "boerhavia-erecta": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/boerhavia-erecta/archived-59e484106ae4d759.jpg"
     },
     "boerhavia-linearifolia": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/boerhavia-linearifolia/boerhavia-linearifolia-flower.jpg"
     },
     "mirabilis-albida": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/mirabilis-albida/archived-48479ace7b0624af.jpg"
     },
     "mirabilis-jalapa": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/mirabilis-jalapa/inat-632005279.jpg"
     },
     "mirabilis-linearis": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/mirabilis-linearis/inat-154735742.jpg"
     },
     "mirabilis-nyctaginea": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/mirabilis-nyctaginea/archived-eb44561d250eb949.jpg"
     },
     "argemone-albiflora-subsp-texana": {

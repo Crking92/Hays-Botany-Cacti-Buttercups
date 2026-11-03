@@ -477,7 +477,7 @@
       "genus": "Nephroia",
       "scientific_name": "Nephroia carolina",
       "common_name": "Carolina snailseed",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -486,7 +486,7 @@
       "genus": "Acleisanthes",
       "scientific_name": "Acleisanthes longiflora",
       "common_name": "Angel's trumpets",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -495,7 +495,7 @@
       "genus": "Acleisanthes",
       "scientific_name": "Acleisanthes obtusa",
       "common_name": "Berlandier's trumpets / vine four-o'clock",
-      "photo_count": 3,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -504,7 +504,7 @@
       "genus": "Allionia",
       "scientific_name": "Allionia incarnata",
       "common_name": "Trailing windmills",
-      "photo_count": 3,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -513,7 +513,7 @@
       "genus": "Boerhavia",
       "scientific_name": "Boerhavia coccinea",
       "common_name": "Scarlet spiderling",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -522,7 +522,7 @@
       "genus": "Boerhavia",
       "scientific_name": "Boerhavia erecta",
       "common_name": "Erect spiderling",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -531,7 +531,7 @@
       "genus": "Boerhavia",
       "scientific_name": "Boerhavia linearifolia",
       "common_name": "Narrowleaf spiderling",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -540,7 +540,7 @@
       "genus": "Mirabilis",
       "scientific_name": "Mirabilis albida",
       "common_name": "Pale four-o'clock",
-      "photo_count": 3,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -549,8 +549,8 @@
       "genus": "Mirabilis",
       "scientific_name": "Mirabilis jalapa",
       "common_name": "Four o'clock (introduced/cultivated)",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "mirabilis-linearis",
@@ -558,8 +558,8 @@
       "genus": "Mirabilis",
       "scientific_name": "Mirabilis linearis",
       "common_name": "Narrowleaf four-o'clock",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "mirabilis-nyctaginea",
@@ -567,7 +567,7 @@
       "genus": "Mirabilis",
       "scientific_name": "Mirabilis nyctaginea",
       "common_name": "Wild four-o'clock",
-      "photo_count": 3,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
