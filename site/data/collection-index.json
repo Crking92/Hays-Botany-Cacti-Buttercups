@@ -693,7 +693,7 @@
       "genus": "Brunnichia",
       "scientific_name": "Brunnichia ovata",
       "common_name": "Eardrop vine",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -702,7 +702,7 @@
       "genus": "Coccoloba",
       "scientific_name": "Coccoloba uvifera",
       "common_name": "Sea grape",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -711,8 +711,8 @@
       "genus": "Eriogonum",
       "scientific_name": "Eriogonum longifolium",
       "common_name": "Longleaf wild buckwheat",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "eriogonum-umbellatum",
@@ -729,8 +729,8 @@
       "genus": "Persicaria",
       "scientific_name": "Persicaria bicornis",
       "common_name": "Pink smartweed / two-horn smartweed",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "persicaria-glabra",
@@ -738,8 +738,8 @@
       "genus": "Persicaria",
       "scientific_name": "Persicaria glabra",
       "common_name": "Smartweed (smooth)",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 3,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "persicaria-hydropiperoides",
@@ -747,8 +747,8 @@
       "genus": "Persicaria",
       "scientific_name": "Persicaria hydropiperoides",
       "common_name": "Swamp smartweed",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "persicaria-lapathifolia",
@@ -756,8 +756,8 @@
       "genus": "Persicaria",
       "scientific_name": "Persicaria lapathifolia",
       "common_name": "Pale smartweed",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "persicaria-pensylvanica",
@@ -765,8 +765,8 @@
       "genus": "Persicaria",
       "scientific_name": "Persicaria pensylvanica",
       "common_name": "Pennsylvania smartweed",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "persicaria-punctata",
@@ -774,8 +774,8 @@
       "genus": "Persicaria",
       "scientific_name": "Persicaria punctata",
       "common_name": "Dotted smartweed",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "persicaria-setacea",
@@ -783,8 +783,8 @@
       "genus": "Persicaria",
       "scientific_name": "Persicaria setacea",
       "common_name": "Persicaria setacea",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "rumex-chrysocarpos",
@@ -792,8 +792,8 @@
       "genus": "Rumex",
       "scientific_name": "Rumex chrysocarpos",
       "common_name": "Rumex chrysocarpos",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "rumex-crispus",
@@ -801,8 +801,8 @@
       "genus": "Rumex",
       "scientific_name": "Rumex crispus",
       "common_name": "Curly dock (introduced)",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "rumex-pulcher",
@@ -810,8 +810,8 @@
       "genus": "Rumex",
       "scientific_name": "Rumex pulcher",
       "common_name": "Fiddle dock (introduced weed)",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 3,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "portulaca-oleracea",
@@ -819,7 +819,7 @@
       "genus": "Portulaca",
       "scientific_name": "Portulaca oleracea",
       "common_name": "Common purslane",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -828,7 +828,7 @@
       "genus": "Portulaca",
       "scientific_name": "Portulaca pilosa",
       "common_name": "Shaggy purslane / pink purslane",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -837,7 +837,7 @@
       "genus": "Portulaca",
       "scientific_name": "Portulaca umbraticola",
       "common_name": "Wingpod purslane",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {

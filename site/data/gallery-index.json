@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 107,
-  "photo_species": 32,
-  "photo_count": 98,
+  "photo_species": 43,
+  "photo_count": 170,
   "entries": {
     "alternanthera-caracasana": {
       "count": 2,
@@ -310,71 +310,71 @@
       "first_src": null
     },
     "brunnichia-ovata": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/brunnichia-ovata/brunnichia-ovata-sonnia-hill.jpg"
     },
     "coccoloba-uvifera": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/coccoloba-uvifera/coccoloba-uvifera-hans-hillewaert.jpg"
     },
     "eriogonum-longifolium": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/eriogonum-longifolium/inat-17127801.jpeg"
     },
     "eriogonum-umbellatum": {
       "count": 0,
       "first_src": null
     },
     "persicaria-bicornis": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/persicaria-bicornis/inat-217910461.jpg"
     },
     "persicaria-glabra": {
-      "count": 0,
-      "first_src": null
+      "count": 3,
+      "first_src": "media/persicaria-glabra/inat-269001063.jpeg"
     },
     "persicaria-hydropiperoides": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/persicaria-hydropiperoides/inat-368641122.jpeg"
     },
     "persicaria-lapathifolia": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/persicaria-lapathifolia/inat-364272110.jpeg"
     },
     "persicaria-pensylvanica": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/persicaria-pensylvanica/inat-334021347.jpeg"
     },
     "persicaria-punctata": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/persicaria-punctata/inat-592147404.jpg"
     },
     "persicaria-setacea": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/persicaria-setacea/inat-64570810.jpg"
     },
     "rumex-chrysocarpos": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/rumex-chrysocarpos/inat-268389122.jpeg"
     },
     "rumex-crispus": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/rumex-crispus/inat-181859430.jpg"
     },
     "rumex-pulcher": {
-      "count": 0,
-      "first_src": null
+      "count": 3,
+      "first_src": "media/rumex-pulcher/inat-123498701.jpg"
     },
     "portulaca-oleracea": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/portulaca-oleracea/portulaca-oleracea-leaf.jpg"
     },
     "portulaca-pilosa": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/portulaca-pilosa/portulaca-pilosa-axillary-hairs.jpg"
     },
     "portulaca-umbraticola": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/portulaca-umbraticola/portulaca-umbraticola-winged-capsule.jpg"
     },
     "anemone-berlandieri": {
