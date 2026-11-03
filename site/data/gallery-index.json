@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 107,
-  "photo_species": 50,
-  "photo_count": 225,
+  "photo_species": 51,
+  "photo_count": 231,
   "entries": {
     "alternanthera-caracasana": {
       "count": 2,
@@ -258,8 +258,8 @@
       "first_src": null
     },
     "argemone-albiflora-subsp-texana": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/argemone-albiflora-subsp-texana/inat-17512726.jpeg"
     },
     "argemone-aurantiaca": {
       "count": 5,
@@ -270,7 +270,7 @@
       "first_src": "media/argemone-polyanthemos/argemone-polyanthemos-provisional-face.jpg"
     },
     "argemone-sanguinea": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/argemone-sanguinea/argemone-sanguinea-provisional-face.jpg"
     },
     "corydalis-aurea": {

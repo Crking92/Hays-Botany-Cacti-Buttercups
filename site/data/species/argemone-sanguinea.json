@@ -124,6 +124,25 @@
       "source_review_evidence": "Live iNaturalist observation 348868204, photo 636330097, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 11a8ca8a30fef00440d0631a22f9ea728eb586a80fcd19a08137036628793135. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Argemone sanguinea maps to indexed species argemone-sanguinea; specialist morphology and BONAP range deferred.",
       "sha256": "11a8ca8a30fef00440d0631a22f9ea728eb586a80fcd19a08137036628793135"
+    },
+    {
+      "src": "media/argemone-sanguinea/inat-627090947.jpg",
+      "creator": "Robert Creech",
+      "source_page": "https://www.inaturalist.org/photos/627090947",
+      "source_page_is_exact": true,
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "8d23706a514dd74fb13bdf8c365bbbcc34c8e35c",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
+      "source_review_evidence": "Live iNaturalist observation 344184418, photo 627090947, individual license cc0, exact source photo URL. Source media SHA256 matches supplied original ZIP: 30bec63049bde40e2d557058e66bc7f90a9aca95495c5476b34020b61ce861fe. Credit evidence: original user ZIP credit record.",
+      "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Argemone sanguinea maps to indexed species argemone-sanguinea; specialist morphology and BONAP range deferred.",
+      "sha256": "30bec63049bde40e2d557058e66bc7f90a9aca95495c5476b34020b61ce861fe"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
