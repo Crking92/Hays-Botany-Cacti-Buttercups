@@ -1,0 +1,40 @@
+{
+  "batch_id": "oxalidaceae-through-plumbaginaceae-2026-11-03",
+  "zip_sha256": "f9d90a108f7e15ff8ae0a110ae6841dff6c2f39457271dbff3fa9cc97383a59b",
+  "library_backup": "/Hays-Botany-Photo-ZIPs/Oxalidaceae-through-Plumbaginaceae-2026-11-03.zip",
+  "original_zip_image_sha256_verified": 214,
+  "source_image_count_for_this_repo": 61,
+  "species": [
+    "argemone-albiflora-subsp-texana",
+    "argemone-aurantiaca",
+    "argemone-polyanthemos",
+    "argemone-sanguinea",
+    "ceratostigma-plumbaginoides",
+    "corydalis-aurea",
+    "corydalis-curvisiliqua",
+    "corydalis-micrantha",
+    "eschscholzia-californica",
+    "papaver-rhoeas",
+    "papaver-somniferum",
+    "phytolacca-americana",
+    "rivina-humilis"
+  ],
+  "records_base64": "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",
+  "held_offline_media": [
+    {
+      "species": "corydalis-micrantha",
+      "filename": "photo_2_16ae386c20c306b1.jpg",
+      "hold_reason": "Exact herbarium image rights and identification not verified"
+    },
+    {
+      "species": "corydalis-micrantha",
+      "filename": "photo_3_3cd3b68f583be8c5.jpg",
+      "hold_reason": "Exact herbarium image rights and identification not verified"
+    },
+    {
+      "species": "corydalis-micrantha",
+      "filename": "photo_4_39e7a7dbd33b5178.jpg",
+      "hold_reason": "Exact herbarium image rights and identification not verified"
+    }
+  ]
+}
