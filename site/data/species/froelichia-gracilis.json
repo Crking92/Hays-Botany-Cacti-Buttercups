@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/froelichia-gracilis/archived-db8b4f5c091fb238.jpg",
+      "creator": "Susan J. Hewitt",
+      "source_page": "https://www.inaturalist.org/photos/151487470",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "2514e76db6a4329b685f50757e555d567b2032b8",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 91568219 photo 151487470 individual CC code cc-by-nc; photographer (c) Susan J. Hewitt, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 2514e76db6a4329b685f50757e555d567b2032b8; exact image source https://www.inaturalist.org/photos/151487470",
+      "taxon_review_evidence": "Original species record Froelichia gracilis linked to an original image and matching current inat photo of source taxon Froelichia gracilis. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "db8b4f5c091fb238edf398f14f4feb1bb175c68a2d6d8a9a91912bee918bab05"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "688793cf76537a0aea387c5cbf9194e1a959e3af526198e8eb7c94146d90db2b",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

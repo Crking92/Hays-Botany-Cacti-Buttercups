@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 400377637, photo 734713414, individual license cc0, exact source photo URL. Source media SHA256 matches supplied original ZIP: f10bea1fb0d9bfa7f1d2cfa84879a7b33b5b006f1f34dd20dd32366159630907. Credit evidence: original user ZIP credit record.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Persicaria pensylvanica maps to indexed species persicaria-pensylvanica; specialist morphology and BONAP range deferred.",
       "sha256": "f10bea1fb0d9bfa7f1d2cfa84879a7b33b5b006f1f34dd20dd32366159630907"
+    },
+    {
+      "src": "media/persicaria-pensylvanica/archived-b0dc40f45705611d.jpg",
+      "creator": "melbel02",
+      "source_page": "https://www.inaturalist.org/photos/424700358",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "8bc9493f7fa3027a3cb0d0c8e73b2eaf541c2c73",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 238474539 photo 424700358 individual CC code cc-by-nc; photographer (c) melbel02, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 8bc9493f7fa3027a3cb0d0c8e73b2eaf541c2c73; exact image source https://www.inaturalist.org/photos/424700358",
+      "taxon_review_evidence": "Original species record Persicaria pensylvanica linked to an original image and matching current inat photo of source taxon Persicaria pensylvanica. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "b0dc40f45705611d2dc863b93e60406641ceeeb805a6b91d35cdac7ee9d7c853"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

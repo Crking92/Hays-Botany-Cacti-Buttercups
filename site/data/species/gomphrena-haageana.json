@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/gomphrena-haageana/archived-8d083b71dee149b2.jpg",
+      "creator": "Sarah Van Deventer",
+      "source_page": "https://www.inaturalist.org/photos/162416155",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "798df68474b920ec4fe34485a332f16b2e266412",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 97638396 photo 162416155 individual CC code cc-by-nc; photographer (c) Sarah Van Deventer, some rights reserved (CC BY-NC); image dHash difference 1; archived source SHA 798df68474b920ec4fe34485a332f16b2e266412; exact image source https://www.inaturalist.org/photos/162416155",
+      "taxon_review_evidence": "Original species record Gomphrena haageana linked to an original image and matching current inat photo of source taxon Gomphrena haageana. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "8d083b71dee149b22879b8434ec0aecc57bf806113fc69f7f9b39f4b77effe04"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "f7dde7e2c209f4416bfa9b703d59d4663503d7c89a36181b2e44f67f3be5fa1c",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

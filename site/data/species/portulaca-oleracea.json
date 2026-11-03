@@ -176,6 +176,25 @@
       "source_review_evidence": "Live iNaturalist observation 364846906, photo 666070073, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 20ab8e943abb8b71d055820c8a5bf1a99427ad94a98923bd9d6a896f27c53db5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Portulaca oleracea maps to indexed species portulaca-oleracea; specialist morphology and BONAP range deferred.",
       "sha256": "20ab8e943abb8b71d055820c8a5bf1a99427ad94a98923bd9d6a896f27c53db5"
+    },
+    {
+      "src": "media/portulaca-oleracea/archived-5d6be6aa55dbde49.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/421625118",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "cace26752ed6524786de52709c1dc42000a94210",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 236950367 photo 421625118 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA cace26752ed6524786de52709c1dc42000a94210; exact image source https://www.inaturalist.org/photos/421625118",
+      "taxon_review_evidence": "Original species record Portulaca oleracea linked to an original image and matching current inat photo of source taxon Portulaca oleracea. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "5d6be6aa55dbde49e65be5f22317b7813497aa0deb12299d46727a5b15caa7a8"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

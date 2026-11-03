@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/nandina-domestica/archived-849575122f6d573a.jpg",
+      "creator": "lnmiranda",
+      "source_page": "https://www.inaturalist.org/photos/119609169",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "203cf4043823f20fd65e580e91a4581ade130e84",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 73275510 photo 119609169 individual CC code cc-by-nc; photographer (c) lnmiranda, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 203cf4043823f20fd65e580e91a4581ade130e84; exact image source https://www.inaturalist.org/photos/119609169",
+      "taxon_review_evidence": "Original species record Nandina domestica linked to an original image and matching current inat photo of source taxon Nandina domestica. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "849575122f6d573a47abc5789f96e1d90790cb0e6840d0f94575741a80814ca2"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "dc8e5a8ca24cb3a423dc48c746a68edeecf02c6f87e098de70fbdfb5f522376d",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

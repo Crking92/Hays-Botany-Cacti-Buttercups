@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/grusonia-aggeria/archived-9568e8a868bfd8b0.jpg",
+      "creator": "ellen hildebrandt",
+      "source_page": "https://www.inaturalist.org/photos/2832728",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "e5bd752b5a86c9a78ffbeaf370f07f95c7bf5274",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 2533366 photo 2832728 individual CC code cc-by-nc; photographer (c) ellen hildebrandt, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA e5bd752b5a86c9a78ffbeaf370f07f95c7bf5274; exact image source https://www.inaturalist.org/photos/2832728",
+      "taxon_review_evidence": "Original species record Grusonia aggeria linked to an original image and matching current inat photo of source taxon Grusonia aggeria. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "9568e8a868bfd8b03488eaf69eb65b209f0df0e302acc68dde55bd84cd476f5c"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "5e765557868df84a71e28008eae1a05ed540263f68b5f5d8f485945a2263b1e1",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

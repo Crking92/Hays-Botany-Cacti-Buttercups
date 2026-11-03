@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 342803931, photo 624320145, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f42a2cae890cdd16059e9202b55e42812172ea628fba5645fb03ce08e9e4faa0.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Ranunculus macranthus maps to indexed species ranunculus-macranthus; specialist morphology and BONAP range deferred.",
       "sha256": "f42a2cae890cdd16059e9202b55e42812172ea628fba5645fb03ce08e9e4faa0"
+    },
+    {
+      "src": "media/ranunculus-macranthus/archived-bb0be5ab0378bb16.jpg",
+      "creator": "Turner Brockman",
+      "source_page": "https://www.inaturalist.org/photos/547262920",
+      "source_page_is_exact": true,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "0771727ae737a328ebe4722cfebd9771c47cde60",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 303619311 photo 547262920 individual CC code cc-by-sa; photographer (c) Turner Brockman, some rights reserved (CC BY-SA); image dHash difference 0; archived source SHA 0771727ae737a328ebe4722cfebd9771c47cde60; exact image source https://www.inaturalist.org/photos/547262920",
+      "taxon_review_evidence": "Original species record Ranunculus macranthus linked to an original image and matching current inat photo of source taxon Ranunculus macranthus. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "bb0be5ab0378bb164d059a69c24631af6cd52bdb41902aca026965ed185302c3"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

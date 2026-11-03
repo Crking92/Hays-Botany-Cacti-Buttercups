@@ -23,8 +23,47 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/boerhavia-coccinea/archived-393a031671283b89.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/531551826",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "d900b90346103e8c4b6ca462a345aad06a11e7fb",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 295276237 photo 531551826 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA d900b90346103e8c4b6ca462a345aad06a11e7fb; exact image source https://www.inaturalist.org/photos/531551826",
+      "taxon_review_evidence": "Original species record Boerhavia coccinea linked to an original image and matching current inat photo of source taxon Boerhavia coccinea. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "393a031671283b89b163f64b5adb875caeebe88b26a722b7cabdf67b62b4a3ad"
+    },
+    {
+      "src": "media/boerhavia-coccinea/archived-b1bd89578d459d22.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/531551851",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "9253fc9aed7fbc8a7fc58e4b78d6624d705c57e0",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 295276237 photo 531551851 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 9253fc9aed7fbc8a7fc58e4b78d6624d705c57e0; exact image source https://www.inaturalist.org/photos/531551851",
+      "taxon_review_evidence": "Original species record Boerhavia coccinea linked to an original image and matching current inat photo of source taxon Boerhavia coccinea. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "b1bd89578d459d22f579689f79be2ca6cb8a1f8789b109a905497d7d7ae232cf"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "e13f3a4dac1979057bbc7022ae161e6ddfc5215b7881aaa1a870ad1d371ddf86",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

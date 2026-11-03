@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/chenopodium-album/archived-44ec1949c3fefdf7.jpg",
+      "creator": "Alyssa Russell",
+      "source_page": "https://www.inaturalist.org/photos/30305743",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "021edeb16c01903602af95275bcd03b6985ba9e0",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 19676411 photo 30305743 individual CC code cc-by-nc; photographer (c) Alyssa Russell, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 021edeb16c01903602af95275bcd03b6985ba9e0; exact image source https://www.inaturalist.org/photos/30305743",
+      "taxon_review_evidence": "Original species record Chenopodium album linked to an original image and matching current inat photo of source taxon Chenopodium album. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "44ec1949c3fefdf790aac883650fbf388f5a69259b3e8352468fdc591ce8fdcb"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "89cf14e842b01bae484113978c8f6bf4a95b5c1787a881fa580ffcaca0d2081a",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

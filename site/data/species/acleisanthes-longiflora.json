@@ -31,8 +31,47 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/acleisanthes-longiflora/archived-7c55a6ac90361b58.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/172766731",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "6468fbb57bb79a6c9e5bb3678ba436aa90014e50",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 103253955 photo 172766731 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 1; archived source SHA 6468fbb57bb79a6c9e5bb3678ba436aa90014e50; exact image source https://www.inaturalist.org/photos/172766731",
+      "taxon_review_evidence": "Original species record Acleisanthes longiflora linked to an original image and matching current inat photo of source taxon Acleisanthes longiflora. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "7c55a6ac90361b5878f3b8ac48768f5c6efe06e5b3cf420e9b7cc024fdc016e8"
+    },
+    {
+      "src": "media/acleisanthes-longiflora/archived-eb3aa876a403f93a.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/49462490",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "a036e6679dc6c2e30881cf87615bb2c43704e975",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 31593998 photo 49462490 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA a036e6679dc6c2e30881cf87615bb2c43704e975; exact image source https://www.inaturalist.org/photos/49462490",
+      "taxon_review_evidence": "Original species record Acleisanthes longiflora linked to an original image and matching current inat photo of source taxon Acleisanthes longiflora. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "eb3aa876a403f93a1774e52393e64905e9ecd421ccf20154323c2fc94d9b7abe"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "de15631ac66857d7e005ee2f3db3c6228c8e29cd3ece630189b205cad9430cca",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

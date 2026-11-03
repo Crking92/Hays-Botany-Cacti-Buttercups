@@ -176,6 +176,25 @@
       "source_review_evidence": "Live iNaturalist observation 360673147, photo 658146255, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a9b62a3ee99f58f93a6ac60d900a152593aecbc4788c385ba2eeab81f71533a3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Portulaca pilosa maps to indexed species portulaca-pilosa; specialist morphology and BONAP range deferred.",
       "sha256": "a9b62a3ee99f58f93a6ac60d900a152593aecbc4788c385ba2eeab81f71533a3"
+    },
+    {
+      "src": "media/portulaca-pilosa/archived-a82afc1dabb74c14.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/162333460",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "e12aab21924a3442e28afe3aaf84d509c21524b5",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 97594587 photo 162333460 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA e12aab21924a3442e28afe3aaf84d509c21524b5; exact image source https://www.inaturalist.org/photos/162333460",
+      "taxon_review_evidence": "Original species record Portulaca pilosa linked to an original image and matching current inat photo of source taxon Portulaca pilosa. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "a82afc1dabb74c14883c5187ca8face3c68f93e9665de767c7e5ddc96f0f35e2"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
