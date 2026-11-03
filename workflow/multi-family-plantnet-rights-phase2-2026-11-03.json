@@ -1,0 +1,28 @@
+{
+  "repository": "Crking92/Hays-Botany-Cacti-Buttercups",
+  "phase": "Pl@ntNet exact image-source CC BY-SA 2.0 FR recheck",
+  "source_evidence": "https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf",
+  "checked_at": "2026-11-03T16:19:18.493899+00:00",
+  "candidate_pool": 1,
+  "selected": 1,
+  "published": 1,
+  "already_published": 0,
+  "held": 0,
+  "remaining_candidates": 0,
+  "previous_batches": [],
+  "records": [
+    {
+      "species_id": "atriplex-canescens",
+      "original_path": "content/taxa/Amaranthaceae/Atriplex/atriplex-canescens/images/library-review043-926e94468b5b9ee.jpg",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "M. Hedayat / Pl@ntNet",
+      "license": "CC BY-SA 2.0 FR",
+      "source_page": "https://www.gbif.org/occurrence/5109874334",
+      "src": "media/atriplex-canescens/plantnet-archive-6de87a835a633bb4.jpg",
+      "sha256": "6de87a835a633bb488c9423d867656aeb3680e19938d94116666d4cd79a3292b",
+      "evidence": "Current GBIF individual StillImage https://bs.plantnet.org/image/o/1da40f0c44d7adc22ddbc421c978b94daf946394 of dataset 7a3679ef-5582-4aaa-81f0-8c2545cafc81 has author M. Hedayat and media license field M. Hedayat (cc-by-sa); official Pl@ntNet API image terms identify CC BY-SA 2.0 France https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf; original archive Git blob 522f72d6383e140adabc8f8381b904fdf24b7875; same-image fingerprint distance 0"
+    }
+  ],
+  "cumulative_published": 1,
+  "held_by_reason": {}
+}
