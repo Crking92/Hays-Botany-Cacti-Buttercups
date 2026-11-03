@@ -1,0 +1,143 @@
+{
+  "repository": "Crking92/Hays-Botany-Cacti-Buttercups",
+  "phase": "recover_missing_identifiers_from_original_species_records",
+  "run_time": "2026-11-03T16:03:47.175653+00:00",
+  "source_image_file_records": 194,
+  "selected": 9,
+  "installed": 9,
+  "held_checked": 0,
+  "duplicate_or_previously_published": 0,
+  "previous_batches": [],
+  "skipped": {
+    "already_published_exact_archive_bytes": 128,
+    "not_enough_identifiers_for_verified_inat_or_gbif_source": 34,
+    "previous_phase1_review_record": 23
+  },
+  "records": [
+    {
+      "species_id": "amaranthus-palmeri",
+      "filename": "inat-750109709-palmer-amaranth-flowering-stems.jpg",
+      "git_blob_sha": "19267f9784d5cc099d6609f98c8de3b7b20ec583",
+      "original_path": "content/taxa/Amaranthaceae/Amaranthus/amaranthus-palmeri/images/inat-750109709-palmer-amaranth-flowering-stems.jpg",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "source_page": "https://www.inaturalist.org/photos/750109709",
+      "creator": "Sam Kieschnick",
+      "license": "CC BY 4.0",
+      "src": "media/amaranthus-palmeri/archived-phase2-27d82eba2b45402f.jpg",
+      "sha256": "27d82eba2b45402fd044b301d2eb329cb311f5d53e4461f07806a50f0d8ba308"
+    },
+    {
+      "species_id": "amaranthus-palmeri",
+      "filename": "joey-review034-48000fb13ffaab1b.jpg",
+      "git_blob_sha": "c0e4af4e066fe8f3d003cb9d59f2ff1c61a92c38",
+      "original_path": "content/taxa/Amaranthaceae/Amaranthus/amaranthus-palmeri/images/joey-review034-48000fb13ffaab1b.jpg",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "source_page": "https://www.inaturalist.org/photos/551366027",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "src": "media/amaranthus-palmeri/archived-phase2-48000fb13ffaab1b.jpg",
+      "sha256": "48000fb13ffaab1bdc5b73807aec1dd959bb9b4b982ae8f59194aa96948f42a6"
+    },
+    {
+      "species_id": "amaranthus-palmeri",
+      "filename": "joey-review034-5c2fe1dc66bc15f5.jpg",
+      "git_blob_sha": "5336efbfe1308753445fab2b763ffbefe47fc879",
+      "original_path": "content/taxa/Amaranthaceae/Amaranthus/amaranthus-palmeri/images/joey-review034-5c2fe1dc66bc15f5.jpg",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "source_page": "https://www.inaturalist.org/photos/551365931",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "src": "media/amaranthus-palmeri/archived-phase2-5c2fe1dc66bc15f5.jpg",
+      "sha256": "5c2fe1dc66bc15f5adeb1cc7bcf277d2cb0cd3a549e3742fa60b770c721e4204"
+    },
+    {
+      "species_id": "amaranthus-polygonoides",
+      "filename": "inat-750209277-amaranthus-polygonoides-axillary-clusters.jpg",
+      "git_blob_sha": "75a621f742bd9865cdd8ef903a7432b7d1d1beee",
+      "original_path": "content/taxa/Amaranthaceae/Amaranthus/amaranthus-polygonoides/images/inat-750209277-amaranthus-polygonoides-axillary-clusters.jpg",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "source_page": "https://www.inaturalist.org/photos/750209277",
+      "creator": "Cody Stricker",
+      "license": "CC BY 4.0",
+      "src": "media/amaranthus-polygonoides/archived-phase2-c89bba9ee1605fb6.jpg",
+      "sha256": "c89bba9ee1605fb660f0f27b82215a79b3675a2d8690ed352da9f6ad307924c6"
+    },
+    {
+      "species_id": "amaranthus-retroflexus",
+      "filename": "inat-750435148-redroot-amaranth-mature-inflorescences.jpg",
+      "git_blob_sha": "b934f086d88b383266a35fbf6fd7b34fce0cf0b5",
+      "original_path": "content/taxa/Amaranthaceae/Amaranthus/amaranthus-retroflexus/images/inat-750435148-redroot-amaranth-mature-inflorescences.jpg",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "source_page": "https://www.inaturalist.org/photos/750435148",
+      "creator": "Анна Митрошенкова",
+      "license": "CC BY 4.0",
+      "src": "media/amaranthus-retroflexus/archived-phase2-005257ea5e682537.jpg",
+      "sha256": "005257ea5e682537431377ee7d36e20c38c1907a56ff0106ce2377f0c3d1fe55"
+    },
+    {
+      "species_id": "amaranthus-spinosus",
+      "filename": "inat-746375316-spiny-amaranth-nodal-spines.jpg",
+      "git_blob_sha": "3f4f6ae1e3d3c89f4e75f187f739c0549ee1ab11",
+      "original_path": "content/taxa/Amaranthaceae/Amaranthus/amaranthus-spinosus/images/inat-746375316-spiny-amaranth-nodal-spines.jpg",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "source_page": "https://www.inaturalist.org/photos/746375316",
+      "creator": "Ong Jyh Seng",
+      "license": "CC BY 4.0",
+      "src": "media/amaranthus-spinosus/archived-phase2-353ff00300b51046.jpg",
+      "sha256": "353ff00300b510466dc85056ebbafc5a7f194a4551a1e4751809357a93dbb2eb"
+    },
+    {
+      "species_id": "amaranthus-viridis",
+      "filename": "inat-750273985-green-amaranth-thomas-irvine.jpg",
+      "git_blob_sha": "f3a1f086e96cc4c8f0528c132a8689bd9f046d16",
+      "original_path": "content/taxa/Amaranthaceae/Amaranthus/amaranthus-viridis/images/inat-750273985-green-amaranth-thomas-irvine.jpg",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "source_page": "https://www.inaturalist.org/photos/750273985",
+      "creator": "Thomas Irvine",
+      "license": "CC BY 4.0",
+      "src": "media/amaranthus-viridis/archived-phase2-6fa4760ec98064f4.jpg",
+      "sha256": "6fa4760ec98064f49800749177f4ce8047131d571a6fa006fe66b41bd8cc94df"
+    },
+    {
+      "species_id": "opuntia-macrorhiza",
+      "filename": "joey-review019-2e4b0f7fbfec655a.jpg",
+      "git_blob_sha": "1a7bb3386c80c3375a1d8e6ab8420f7c695f6759",
+      "original_path": "content/taxa/Cactaceae/Opuntia/opuntia-macrorhiza/images/joey-review019-2e4b0f7fbfec655a.jpg",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "source_page": "https://www.inaturalist.org/photos/367087366",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "src": "media/opuntia-macrorhiza/archived-phase2-2e4b0f7fbfec655a.jpg",
+      "sha256": "2e4b0f7fbfec655af3e26aacae6f911e62a7f8acf97ec4930fb9b819ffeab304"
+    },
+    {
+      "species_id": "opuntia-macrorhiza",
+      "filename": "joey-review019-98495663862c4834.jpg",
+      "git_blob_sha": "2dd29c50dbe3f0c48211bdb77188d8565ae66338",
+      "original_path": "content/taxa/Cactaceae/Opuntia/opuntia-macrorhiza/images/joey-review019-98495663862c4834.jpg",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "source_page": "https://www.inaturalist.org/photos/367087350",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "src": "media/opuntia-macrorhiza/archived-phase2-98495663862c4834.jpg",
+      "sha256": "98495663862c4834985df6111b50108ded9878552e60171490b3e79399334b1a"
+    }
+  ],
+  "candidate_pool": 9,
+  "remaining_candidates": 0,
+  "selected_lanes": {
+    "inat": 9
+  },
+  "verified_not_published": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 9
+}

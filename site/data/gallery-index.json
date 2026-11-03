@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 107,
-  "photo_species": 84,
-  "photo_count": 322,
+  "photo_species": 90,
+  "photo_count": 331,
   "entries": {
     "alternanthera-caracasana": {
       "count": 2,
@@ -18,28 +18,28 @@
       "first_src": "media/alternanthera-pungens/alternanthera-pungens-habit-harry-rose.jpg"
     },
     "amaranthus-palmeri": {
-      "count": 0,
-      "first_src": null
+      "count": 3,
+      "first_src": "media/amaranthus-palmeri/archived-phase2-27d82eba2b45402f.jpg"
     },
     "amaranthus-polygonoides": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/amaranthus-polygonoides/archived-phase2-c89bba9ee1605fb6.jpg"
     },
     "amaranthus-retroflexus": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/amaranthus-retroflexus/archived-phase2-005257ea5e682537.jpg"
     },
     "amaranthus-scleropoides": {
       "count": 0,
       "first_src": null
     },
     "amaranthus-spinosus": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/amaranthus-spinosus/archived-phase2-353ff00300b51046.jpg"
     },
     "amaranthus-viridis": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/amaranthus-viridis/archived-phase2-6fa4760ec98064f4.jpg"
     },
     "atriplex-canescens": {
       "count": 1,
@@ -158,8 +158,8 @@
       "first_src": null
     },
     "opuntia-macrorhiza": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/opuntia-macrorhiza/archived-phase2-2e4b0f7fbfec655a.jpg"
     },
     "opuntia-orbiculata": {
       "count": 1,

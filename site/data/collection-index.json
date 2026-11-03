@@ -36,8 +36,8 @@
       "genus": "Amaranthus",
       "scientific_name": "Amaranthus palmeri",
       "common_name": "Palmer amaranth",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 3,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "amaranthus-polygonoides",
@@ -45,8 +45,8 @@
       "genus": "Amaranthus",
       "scientific_name": "Amaranthus polygonoides",
       "common_name": "Tropical amaranth / smartweed amaranth",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "amaranthus-retroflexus",
@@ -54,8 +54,8 @@
       "genus": "Amaranthus",
       "scientific_name": "Amaranthus retroflexus",
       "common_name": "Redroot amaranth / rough pigweed",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "amaranthus-scleropoides",
@@ -72,8 +72,8 @@
       "genus": "Amaranthus",
       "scientific_name": "Amaranthus spinosus",
       "common_name": "Spiny amaranth / thorny pigweed",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "amaranthus-viridis",
@@ -81,8 +81,8 @@
       "genus": "Amaranthus",
       "scientific_name": "Amaranthus viridis",
       "common_name": "Green amaranth / slender amaranth",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "atriplex-canescens",
@@ -351,8 +351,8 @@
       "genus": "Opuntia",
       "scientific_name": "Opuntia macrorhiza",
       "common_name": "Grassland pricklypear / twist-spine pricklypear",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "opuntia-orbiculata",
