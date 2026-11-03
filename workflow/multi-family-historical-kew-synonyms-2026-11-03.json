@@ -1,0 +1,54 @@
+{
+  "repository": "Crking92/Hays-Botany-Cacti-Buttercups",
+  "batch_key": "MULTIFAMILY_HISTORICAL_KEW_SYNONYMS_2026-11-03",
+  "checked_at": "2026-11-03T19:58:25.089162+00:00",
+  "source_files": 194,
+  "selection_window": 80,
+  "candidate_pool_with_usable_source_identifiers": 2,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 2,
+  "selected_by_lane": {
+    "gbif": 2
+  },
+  "skipped_or_previously_published": {
+    "outside_reviewed_commons_recovery_lane": 188,
+    "unreviewed_taxonomic_mismatch": 2,
+    "already_public_identical_bytes": 2
+  },
+  "new_installed": 0,
+  "held_checked": 2,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "berberis-aquifolium",
+      "family": "Berberidaceae",
+      "filename": "library-review015-5217e746b481633.jpg",
+      "original_path": "content/taxa/Berberidaceae/Berberis/berberis-aquifolium/images/library-review015-5217e746b481633.jpg",
+      "archive_path": "migration/private-original-photo-holds/Berberidaceae/Berberis/berberis-aquifolium/images/library-review015-5217e746b481633.jpg",
+      "git_blob_sha": "633b8fd239ba1f77d79b85318cc7e130335980d2",
+      "lane": "gbif",
+      "status": "HELD",
+      "reason": "Unsupported GBIF individual media license die Jean. (cc-by-sa)/"
+    },
+    {
+      "species_id": "berberis-aquifolium",
+      "family": "Berberidaceae",
+      "filename": "library-review015-7fe2b3ff5cb2856.jpg",
+      "original_path": "content/taxa/Berberidaceae/Berberis/berberis-aquifolium/images/library-review015-7fe2b3ff5cb2856.jpg",
+      "archive_path": "migration/private-original-photo-holds/Berberidaceae/Berberis/berberis-aquifolium/images/library-review015-7fe2b3ff5cb2856.jpg",
+      "git_blob_sha": "e2c66e1dfd9bf9ee999927a304ec3b2b87634f84",
+      "lane": "gbif",
+      "status": "HELD",
+      "reason": "Unsupported GBIF individual media license Sandeep Karthikeyan (cc-by-sa)/"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {
+    "Unsupported GBIF individual media license die Jean. (cc-by-sa)/": 1,
+    "Unsupported GBIF individual media license Sandeep Karthikeyan (cc-by-sa)/": 1
+  },
+  "cumulative_installed": 0,
+  "cumulative_held_reviewed": 2
+}
