@@ -36,5 +36,9 @@
       "filename": "photo_4_39e7a7dbd33b5178.jpg",
       "hold_reason": "Exact herbarium image rights and identification not verified"
     }
-  ]
+  ],
+  "source_metadata_credits": {
+    "627090947": "Robert Creech"
+  },
+  "credit_evidence_note": "Photographer Robert Creech is named in the uploaded Oxalidaceae–Plumbaginaceae original ZIP metadata.json and credits.txt for photo 627090947; source image and CC0 license still independently verified by current iNaturalist API."
 }

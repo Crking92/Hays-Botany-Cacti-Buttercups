@@ -15,6 +15,7 @@ LICENSES={
 RECORD_SIZE=42
 # Only names already checked as direct synonyms, not broader unidentified look-alikes.
 SYNONYMS={
+ "argemone-albiflora-subsp-texana":{"argemone albiflora texana","argemone albiflora var. texana"}, # POWO: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:18786-2
  "azolla-caroliniana":{"azolla cristata"},
  "smilax-tamnoides":{"smilax hispida"},
  "capsicum-annuum-var-aviculare":{"capsicum annuum var. glabriusculum"},
