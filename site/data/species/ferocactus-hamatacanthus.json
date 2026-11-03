@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/ferocactus-hamatacanthus/archived-7132700272d8d0f7.jpg",
+      "creator": "Amante Darmanin",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ferocactus_hamatacanthus_(5664159826).jpg",
+      "source_page_is_exact": true,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "17bcef3573a0bfab054f711ee16ea821044667ba",
+      "role": "Provisional cactus stem and spine recognition; flower, fruit and complete spine count should be checked later.",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Exact Commons file page, creator and image-specific CC BY 2.0 independently reviewed 2026-11-03; same original URL https://upload.wikimedia.org/wikipedia/commons/f/fc/Ferocactus_hamatacanthus_%285664159826%29.jpg; image fingerprint distance 0; archived source SHA 17bcef3573a0bfab054f711ee16ea821044667ba; exact image source https://commons.wikimedia.org/wiki/File:Ferocactus_hamatacanthus_(5664159826).jpg",
+      "taxon_review_evidence": "Original species record Ferocactus hamatacanthus linked to an original image and matching current commons photo of source taxon Ferocactus hamatacanthus. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "7132700272d8d0f7e5f3c84aeed94c124894aaf7d6967c441c925d55a13b3e31"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "f72c0bb76a35650a13e313cdc9019bae8bf4eef9301b42df6c46f6ad7186e34d",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

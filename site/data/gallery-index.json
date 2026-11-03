@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 107,
-  "photo_species": 95,
-  "photo_count": 390,
+  "photo_species": 96,
+  "photo_count": 391,
   "entries": {
     "alternanthera-caracasana": {
       "count": 2,
@@ -134,8 +134,8 @@
       "first_src": null
     },
     "ferocactus-hamatacanthus": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/ferocactus-hamatacanthus/archived-7132700272d8d0f7.jpg"
     },
     "grusonia-aggeria": {
       "count": 1,

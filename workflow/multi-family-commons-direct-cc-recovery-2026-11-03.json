@@ -1,0 +1,44 @@
+{
+  "repository": "Crking92/Hays-Botany-Cacti-Buttercups",
+  "batch_key": "MULTIFAMILY_COMMONS_EXACT_PAGE_CC_RECOVERY_2026-11-03",
+  "checked_at": "2026-11-03T18:36:17.188741+00:00",
+  "source_files": 194,
+  "historical_cc0_deed_holds": 1,
+  "selection_window": 15,
+  "candidate_pool_with_usable_source_identifiers": 1,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 1,
+  "selected_by_lane": {
+    "commons": 1
+  },
+  "skipped_or_previously_published": {
+    "not_a_prior_cc0_deed_hold": 193
+  },
+  "new_installed": 1,
+  "held_checked": 0,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "ferocactus-hamatacanthus",
+      "family": "Cactaceae",
+      "filename": "commons-ferocactus-hamatacanthus-amante-darmanin.jpg",
+      "original_path": "content/taxa/Cactaceae/Ferocactus/ferocactus-hamatacanthus/images/commons-ferocactus-hamatacanthus-amante-darmanin.jpg",
+      "archive_path": "migration/private-original-photo-holds/Cactaceae/Ferocactus/ferocactus-hamatacanthus/images/commons-ferocactus-hamatacanthus-amante-darmanin.jpg",
+      "git_blob_sha": "17bcef3573a0bfab054f711ee16ea821044667ba",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Amante Darmanin",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ferocactus_hamatacanthus_(5664159826).jpg",
+      "taxon": "Ferocactus hamatacanthus",
+      "src": "media/ferocactus-hamatacanthus/archived-7132700272d8d0f7.jpg",
+      "sha256": "7132700272d8d0f7e5f3c84aeed94c124894aaf7d6967c441c925d55a13b3e31"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 1,
+  "cumulative_held_reviewed": 0
+}
