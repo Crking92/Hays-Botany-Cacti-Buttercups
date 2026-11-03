@@ -1,0 +1,109 @@
+{
+  "repository": "Crking92/Hays-Botany-Cacti-Buttercups",
+  "batch_key": "MULTIFAMILY_HISTORICAL_CARD_INAT_2026-11-03",
+  "checked_at": "2026-11-03T23:14:13.389191+00:00",
+  "source_files": 194,
+  "selection_window": 60,
+  "candidate_pool_with_usable_source_identifiers": 7,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 7,
+  "selected_by_lane": {
+    "inat": 7
+  },
+  "skipped_or_previously_published": {
+    "already_public_identical_bytes": 46,
+    "prior_historical_review_preserved": 114,
+    "card_lacks_exact_photo_and_observation_ids": 27
+  },
+  "new_installed": 0,
+  "held_checked": 7,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "argemone-albiflora-subsp-texana",
+      "family": "Papaveraceae",
+      "filename": "02-same-plant-field-view-1.jpg",
+      "original_path": "content/taxa/Papaveraceae/Argemone/argemone-albiflora-subsp-texana/images/02-same-plant-field-view-1.jpg",
+      "archive_path": "migration/private-original-photo-holds/Papaveraceae/Argemone/argemone-albiflora-subsp-texana/images/02-same-plant-field-view-1.jpg",
+      "git_blob_sha": "4beabcdecc252f2b02c7fff7f23d1773c1de0284",
+      "lane": "inat",
+      "status": "HELD",
+      "reason": "Taxon mismatch: Argemone albiflora texana vs argemone albiflora"
+    },
+    {
+      "species_id": "argemone-albiflora-subsp-texana",
+      "family": "Papaveraceae",
+      "filename": "03-same-plant-field-view-2.jpg",
+      "original_path": "content/taxa/Papaveraceae/Argemone/argemone-albiflora-subsp-texana/images/03-same-plant-field-view-2.jpg",
+      "archive_path": "migration/private-original-photo-holds/Papaveraceae/Argemone/argemone-albiflora-subsp-texana/images/03-same-plant-field-view-2.jpg",
+      "git_blob_sha": "1e2ab8e3018cd836000a7cef16a785da3b5a616b",
+      "lane": "inat",
+      "status": "HELD",
+      "reason": "Taxon mismatch: Argemone albiflora texana vs argemone albiflora"
+    },
+    {
+      "species_id": "argemone-albiflora-subsp-texana",
+      "family": "Papaveraceae",
+      "filename": "04-same-plant-field-view-3.jpg",
+      "original_path": "content/taxa/Papaveraceae/Argemone/argemone-albiflora-subsp-texana/images/04-same-plant-field-view-3.jpg",
+      "archive_path": "migration/private-original-photo-holds/Papaveraceae/Argemone/argemone-albiflora-subsp-texana/images/04-same-plant-field-view-3.jpg",
+      "git_blob_sha": "71dac94e106a55a65c1353ed9dc6ffc5fac4d5a5",
+      "lane": "inat",
+      "status": "HELD",
+      "reason": "Taxon mismatch: Argemone albiflora texana vs argemone albiflora"
+    },
+    {
+      "species_id": "argemone-albiflora-subsp-texana",
+      "family": "Papaveraceae",
+      "filename": "05-texas-reference.jpg",
+      "original_path": "content/taxa/Papaveraceae/Argemone/argemone-albiflora-subsp-texana/images/05-texas-reference.jpg",
+      "archive_path": "migration/private-original-photo-holds/Papaveraceae/Argemone/argemone-albiflora-subsp-texana/images/05-texas-reference.jpg",
+      "git_blob_sha": "ee2218e07bbd84041f067e65252589eeec99fcbd",
+      "lane": "inat",
+      "status": "HELD",
+      "reason": "Taxon mismatch: Argemone albiflora texana vs argemone albiflora"
+    },
+    {
+      "species_id": "argemone-aurantiaca",
+      "family": "Papaveraceae",
+      "filename": "03-same-plant-field-view-1.jpg",
+      "original_path": "content/taxa/Papaveraceae/Argemone/argemone-aurantiaca/images/03-same-plant-field-view-1.jpg",
+      "archive_path": "migration/private-original-photo-holds/Papaveraceae/Argemone/argemone-aurantiaca/images/03-same-plant-field-view-1.jpg",
+      "git_blob_sha": "a91b574fa6d6b6ccca348be525d34c5cfdb24c8e",
+      "lane": "inat",
+      "status": "HELD",
+      "reason": "Taxon mismatch: Argemone aurantiaca vs argemone aurantiaca"
+    },
+    {
+      "species_id": "argemone-aurantiaca",
+      "family": "Papaveraceae",
+      "filename": "04-same-plant-field-view-2.jpg",
+      "original_path": "content/taxa/Papaveraceae/Argemone/argemone-aurantiaca/images/04-same-plant-field-view-2.jpg",
+      "archive_path": "migration/private-original-photo-holds/Papaveraceae/Argemone/argemone-aurantiaca/images/04-same-plant-field-view-2.jpg",
+      "git_blob_sha": "06e7b0f8e83b019a482c099893f3585f6425bce3",
+      "lane": "inat",
+      "status": "HELD",
+      "reason": "Taxon mismatch: Argemone aurantiaca vs argemone aurantiaca"
+    },
+    {
+      "species_id": "argemone-aurantiaca",
+      "family": "Papaveraceae",
+      "filename": "05-same-plant-field-view-3.jpg",
+      "original_path": "content/taxa/Papaveraceae/Argemone/argemone-aurantiaca/images/05-same-plant-field-view-3.jpg",
+      "archive_path": "migration/private-original-photo-holds/Papaveraceae/Argemone/argemone-aurantiaca/images/05-same-plant-field-view-3.jpg",
+      "git_blob_sha": "1f909c6fa9ccd70936bcda43124e4144960d44cb",
+      "lane": "inat",
+      "status": "HELD",
+      "reason": "Taxon mismatch: Argemone aurantiaca vs argemone aurantiaca"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {
+    "Taxon mismatch: Argemone albiflora texana vs argemone albiflora": 4,
+    "Taxon mismatch: Argemone aurantiaca vs argemone aurantiaca": 3
+  },
+  "cumulative_installed": 0,
+  "cumulative_held_reviewed": 7
+}
