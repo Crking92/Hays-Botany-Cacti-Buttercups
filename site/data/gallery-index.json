@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 107,
-  "photo_species": 94,
-  "photo_count": 389,
+  "photo_species": 95,
+  "photo_count": 390,
   "entries": {
     "alternanthera-caracasana": {
       "count": 2,
@@ -210,8 +210,8 @@
       "first_src": "media/stellaria-cuspidata-subsp-prostrata/archived-b9ec74eab40c4d16.jpg"
     },
     "stellaria-media": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/stellaria-media/archived-38bb8e0b9e7310cc.jpg"
     },
     "nephroia-carolina": {
       "count": 6,

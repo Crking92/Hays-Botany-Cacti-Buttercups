@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/stellaria-media/archived-38bb8e0b9e7310cc.jpg",
+      "creator": "AnRo0002",
+      "source_page": "https://commons.wikimedia.org/wiki/File:20180131Stellaria_media.jpg",
+      "source_page_is_exact": true,
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "637af1e34bd3cc215c15ec72cc7c7f814042847a",
+      "role": "Provisional flowering chickweed growth habit, does not certify microscopic hairs.",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Wikimedia exact file page author and CC0 1.0 independently checked 2026-11-03; direct original file https://upload.wikimedia.org/wikipedia/commons/5/57/20180131Stellaria_media.jpg; archived original pixel difference 0; archived source SHA 637af1e34bd3cc215c15ec72cc7c7f814042847a; exact image source https://commons.wikimedia.org/wiki/File:20180131Stellaria_media.jpg",
+      "taxon_review_evidence": "Original species record Stellaria media linked to an original image and matching current commons photo of source taxon Stellaria media. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "38bb8e0b9e7310ccb266af47f51ddc5a7cc187afbce77c8eea50391c9ab9f5c6"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "163150e40b3a9cf5f465579ee0556f669b5e80d4b38cbf24a1ee2c5f0ae00814",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

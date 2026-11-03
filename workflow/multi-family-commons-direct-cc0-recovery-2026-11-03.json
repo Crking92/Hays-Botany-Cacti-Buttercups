@@ -1,0 +1,44 @@
+{
+  "repository": "Crking92/Hays-Botany-Cacti-Buttercups",
+  "batch_key": "MULTIFAMILY_COMMONS_EXACT_PAGE_CC0_RECOVERY_2026-11-03",
+  "checked_at": "2026-11-03T17:03:25.640031+00:00",
+  "source_files": 194,
+  "historical_cc0_deed_holds": 1,
+  "selection_window": 15,
+  "candidate_pool_with_usable_source_identifiers": 1,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 1,
+  "selected_by_lane": {
+    "commons": 1
+  },
+  "skipped_or_previously_published": {
+    "not_a_prior_cc0_deed_hold": 193
+  },
+  "new_installed": 1,
+  "held_checked": 0,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "stellaria-media",
+      "family": "Caryophyllaceae",
+      "filename": "commons-stellaria-media.jpg",
+      "original_path": "content/taxa/Caryophyllaceae/Stellaria/stellaria-media/images/commons-stellaria-media.jpg",
+      "archive_path": "migration/private-original-photo-holds/Caryophyllaceae/Stellaria/stellaria-media/images/commons-stellaria-media.jpg",
+      "git_blob_sha": "637af1e34bd3cc215c15ec72cc7c7f814042847a",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "AnRo0002",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:20180131Stellaria_media.jpg",
+      "taxon": "Stellaria media",
+      "src": "media/stellaria-media/archived-38bb8e0b9e7310cc.jpg",
+      "sha256": "38bb8e0b9e7310ccb266af47f51ddc5a7cc187afbce77c8eea50391c9ab9f5c6"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 1,
+  "cumulative_held_reviewed": 0
+}
