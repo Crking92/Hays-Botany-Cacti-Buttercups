@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/pelecyphora-macromeris-subsp-macromeris/archived-f62f0d752f2afb25.jpg",
+      "creator": "Asombro Institute for Science Education",
+      "source_page": "https://www.inaturalist.org/photos/321868481",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "162a318d42ad0ec3cd353c5e75e5ad18e106d163",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 184395851 photo 321868481 individual CC code cc-by-nc; photographer (c) Asombro Institute for Science Education, some rights reserved (CC BY-NC); image dHash difference 0; source synonym verified by POWO https://powo.science.kew.org/taxon/77248955-1; archived source SHA 162a318d42ad0ec3cd353c5e75e5ad18e106d163; exact image source https://www.inaturalist.org/photos/321868481",
+      "taxon_review_evidence": "Indexed species Pelecyphora macromeris subsp. macromeris reconciled to source synonym Coryphantha macromeris per Kew POWO https://powo.science.kew.org/taxon/77248955-1; source record Coryphantha macromeris linked to an original image and matching current inat photo of source taxon Coryphantha macromeris macromeris. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "f62f0d752f2afb255589292586b0b3c0bf8eab9bc1a9deba0fcf2d138a3c667a"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "853fdf7052ad5602768f223dd1f2a622c8a017850e68f5a38a40d3cb8ee829cd",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

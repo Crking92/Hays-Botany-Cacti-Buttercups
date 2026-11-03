@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 107,
-  "photo_species": 92,
-  "photo_count": 387,
+  "photo_species": 94,
+  "photo_count": 389,
   "entries": {
     "alternanthera-caracasana": {
       "count": 2,
@@ -174,12 +174,12 @@
       "first_src": "media/opuntia-rufida/opuntia-rufida-coahuila-provisional.jpg"
     },
     "pelecyphora-macromeris-subsp-macromeris": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/pelecyphora-macromeris-subsp-macromeris/archived-f62f0d752f2afb25.jpg"
     },
     "sclerocactus-warnockii": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/sclerocactus-warnockii/archived-8a842fb3f82bc8d6.jpg"
     },
     "thelocactus-bicolor": {
       "count": 0,

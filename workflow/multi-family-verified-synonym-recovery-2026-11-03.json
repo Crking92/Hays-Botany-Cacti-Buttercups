@@ -1,0 +1,85 @@
+{
+  "repository": "Crking92/Hays-Botany-Cacti-Buttercups",
+  "batch_key": "MULTIFAMILY_VERIFIED_SYNONYM_RECOVERY_2026-11-03",
+  "checked_at": "2026-11-03T16:49:20.120241+00:00",
+  "source_files": 194,
+  "selection_window": 25,
+  "candidate_pool_with_usable_source_identifiers": 4,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 4,
+  "selected_by_lane": {
+    "inat": 2,
+    "gbif": 2
+  },
+  "skipped_or_previously_published": {
+    "not_a_verified_synonym_hold": 190
+  },
+  "new_installed": 2,
+  "held_checked": 2,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "pelecyphora-macromeris-subsp-macromeris",
+      "family": "Cactaceae",
+      "filename": "inat-321868481.jpg",
+      "original_path": "content/taxa/Cactaceae/Pelecyphora/pelecyphora-macromeris-subsp-macromeris/images/inat-321868481.jpg",
+      "archive_path": "migration/private-original-photo-holds/Cactaceae/Pelecyphora/pelecyphora-macromeris-subsp-macromeris/images/inat-321868481.jpg",
+      "git_blob_sha": "162a318d42ad0ec3cd353c5e75e5ad18e106d163",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Asombro Institute for Science Education",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/321868481",
+      "taxon": "Coryphantha macromeris macromeris",
+      "src": "media/pelecyphora-macromeris-subsp-macromeris/archived-f62f0d752f2afb25.jpg",
+      "sha256": "f62f0d752f2afb255589292586b0b3c0bf8eab9bc1a9deba0fcf2d138a3c667a"
+    },
+    {
+      "species_id": "sclerocactus-warnockii",
+      "family": "Cactaceae",
+      "filename": "inat-637939830.jpg",
+      "original_path": "content/taxa/Cactaceae/Sclerocactus/sclerocactus-warnockii/images/inat-637939830.jpg",
+      "archive_path": "migration/private-original-photo-holds/Cactaceae/Sclerocactus/sclerocactus-warnockii/images/inat-637939830.jpg",
+      "git_blob_sha": "3732186ec6852ff2e686b067c5abf95437b3f55b",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Michelle W. （鍾偉瑋）",
+      "license": "CC BY 4.0",
+      "source_page": "https://www.inaturalist.org/photos/637939830",
+      "taxon": "Echinomastus warnockii",
+      "src": "media/sclerocactus-warnockii/archived-8a842fb3f82bc8d6.jpg",
+      "sha256": "8a842fb3f82bc8d655cb903167b5f2795ba4b5b1516b15b23c569c5a035e45a5"
+    },
+    {
+      "species_id": "berberis-aquifolium",
+      "family": "Berberidaceae",
+      "filename": "library-review015-5217e746b481633.jpg",
+      "original_path": "content/taxa/Berberidaceae/Berberis/berberis-aquifolium/images/library-review015-5217e746b481633.jpg",
+      "archive_path": "migration/private-original-photo-holds/Berberidaceae/Berberis/berberis-aquifolium/images/library-review015-5217e746b481633.jpg",
+      "git_blob_sha": "633b8fd239ba1f77d79b85318cc7e130335980d2",
+      "lane": "gbif",
+      "status": "HELD",
+      "reason": "Unsupported GBIF individual media license die Jean. (cc-by-sa)/"
+    },
+    {
+      "species_id": "berberis-aquifolium",
+      "family": "Berberidaceae",
+      "filename": "library-review015-7fe2b3ff5cb2856.jpg",
+      "original_path": "content/taxa/Berberidaceae/Berberis/berberis-aquifolium/images/library-review015-7fe2b3ff5cb2856.jpg",
+      "archive_path": "migration/private-original-photo-holds/Berberidaceae/Berberis/berberis-aquifolium/images/library-review015-7fe2b3ff5cb2856.jpg",
+      "git_blob_sha": "e2c66e1dfd9bf9ee999927a304ec3b2b87634f84",
+      "lane": "gbif",
+      "status": "HELD",
+      "reason": "Unsupported GBIF individual media license Sandeep Karthikeyan (cc-by-sa)/"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {
+    "Unsupported GBIF individual media license die Jean. (cc-by-sa)/": 1,
+    "Unsupported GBIF individual media license Sandeep Karthikeyan (cc-by-sa)/": 1
+  },
+  "cumulative_installed": 2,
+  "cumulative_held_reviewed": 2
+}
