@@ -585,8 +585,8 @@
       "genus": "Argemone",
       "scientific_name": "",
       "common_name": "Texas Pricklypoppy",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "argemone-polyanthemos",
@@ -594,7 +594,7 @@
       "genus": "Argemone",
       "scientific_name": "Argemone polyanthemos",
       "common_name": "White prickly-poppy",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -603,7 +603,7 @@
       "genus": "Argemone",
       "scientific_name": "Argemone sanguinea",
       "common_name": "Red prickly-poppy",
-      "photo_count": 1,
+      "photo_count": 5,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -612,7 +612,7 @@
       "genus": "Corydalis",
       "scientific_name": "Corydalis aurea",
       "common_name": "Golden corydalis / scrambled eggs",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -621,8 +621,8 @@
       "genus": "Corydalis",
       "scientific_name": "Corydalis curvisiliqua",
       "common_name": "Curvepod fumewort",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "corydalis-micrantha",
@@ -630,7 +630,7 @@
       "genus": "Corydalis",
       "scientific_name": "Corydalis micrantha",
       "common_name": "Slender corydalis / smallflower fumewort",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -639,7 +639,7 @@
       "genus": "Eschscholzia",
       "scientific_name": "Eschscholzia californica",
       "common_name": "California poppy",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -648,8 +648,8 @@
       "genus": "Papaver",
       "scientific_name": "Papaver rhoeas",
       "common_name": "Common poppy",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "papaver-somniferum",
@@ -657,8 +657,8 @@
       "genus": "Papaver",
       "scientific_name": "Papaver somniferum",
       "common_name": "Opium poppy (cultivated/introduced)",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "rivina-humilis",
@@ -666,8 +666,8 @@
       "genus": "Rivina",
       "scientific_name": "Rivina humilis",
       "common_name": "Pigeonberry",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "phytolacca-americana",
@@ -675,8 +675,8 @@
       "genus": "Phytolacca",
       "scientific_name": "Phytolacca americana",
       "common_name": "American pokeweed",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "ceratostigma-plumbaginoides",
@@ -684,8 +684,8 @@
       "genus": "Ceratostigma",
       "scientific_name": "Ceratostigma plumbaginoides",
       "common_name": "Hardy plumbago",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 4,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "brunnichia-ovata",

@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 107,
-  "photo_species": 43,
-  "photo_count": 170,
+  "photo_species": 50,
+  "photo_count": 225,
   "entries": {
     "alternanthera-caracasana": {
       "count": 2,
@@ -262,52 +262,52 @@
       "first_src": null
     },
     "argemone-aurantiaca": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/argemone-aurantiaca/inat-637223587.jpg"
     },
     "argemone-polyanthemos": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/argemone-polyanthemos/argemone-polyanthemos-provisional-face.jpg"
     },
     "argemone-sanguinea": {
-      "count": 1,
+      "count": 5,
       "first_src": "media/argemone-sanguinea/argemone-sanguinea-provisional-face.jpg"
     },
     "corydalis-aurea": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/corydalis-aurea/corydalis-aurea-stan-shebs-habit.jpg"
     },
     "corydalis-curvisiliqua": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/corydalis-curvisiliqua/inat-32244888.jpeg"
     },
     "corydalis-micrantha": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/corydalis-micrantha/corydalis-micrantha-usfws-flowers-leaves.jpg"
     },
     "eschscholzia-californica": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/eschscholzia-californica/eschscholzia-californica-eugene-zelenko.jpg"
     },
     "papaver-rhoeas": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/papaver-rhoeas/inat-623951390.jpg"
     },
     "papaver-somniferum": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/papaver-somniferum/inat-625585291.jpg"
     },
     "rivina-humilis": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/rivina-humilis/inat-630262039.jpg"
     },
     "phytolacca-americana": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/phytolacca-americana/inat-624747257.jpg"
     },
     "ceratostigma-plumbaginoides": {
-      "count": 0,
-      "first_src": null
+      "count": 4,
+      "first_src": "media/ceratostigma-plumbaginoides/inat-562465369.jpg"
     },
     "brunnichia-ovata": {
       "count": 6,
