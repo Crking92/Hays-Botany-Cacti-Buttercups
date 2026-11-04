@@ -230,6 +230,25 @@
       "source_review_evidence": "iNaturalist observation 5948721 photo 7429701 individual CC code cc-by-nc; photographer (c) plectrudis, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 1e2ab8e3018cd836000a7cef16a785da3b5a616b; exact image source https://www.inaturalist.org/photos/7429701",
       "taxon_review_evidence": "Original species record argemone albiflora subsp texana linked to an original image and matching current inat photo of source taxon Argemone albiflora texana. Basic source-backed field recognition only; no diagnostic arrow certification.",
       "sha256": "f05cb0d211ad1344f287513b03a87d8e9459189fda077cfbf953613243311fd0"
+    },
+    {
+      "src": "media/argemone-albiflora-subsp-texana/archived-06ea299e92ae5c3a.jpg",
+      "creator": "Galen Herz",
+      "source_page": "https://www.inaturalist.org/photos/1887459",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "a708586b00676f4d14b43aef836f740e0ad80094",
+      "role": "curated taxon reference 1",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Specific historical source image-sources.csv CC code cc-by-nc and named photographer Galen Herz; exact photo 1887459; source image public open-data URL https://inaturalist-open-data.s3.amazonaws.com/photos/1887459/large.jpg; archived vs source pixel dHash distance 0; original species-card name argemone albiflora; historical CC permission is irrevocable but source license was not freshly revalidated; archived source SHA a708586b00676f4d14b43aef836f740e0ad80094; exact image source https://www.inaturalist.org/photos/1887459",
+      "taxon_review_evidence": "Original species record argemone albiflora subsp texana linked to an original image and matching current inat-archived-exact-photo photo of source taxon argemone albiflora. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "06ea299e92ae5c3adf04df3cc16ef046f3e49cfcece5b4afe7c688107312d2fe"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

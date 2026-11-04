@@ -1,7 +1,7 @@
 {
   "repository": "Crking92/Hays-Botany-Cacti-Buttercups",
   "batch_key": "MULTIFAMILY_HISTORICAL_NAMED_INDIVIDUAL_CC_2026-11-03",
-  "checked_at": "2026-11-04T02:56:41.521335+00:00",
+  "checked_at": "2026-11-04T02:58:46.510151+00:00",
   "source_files": 194,
   "selection_window": 80,
   "candidate_pool_with_usable_source_identifiers": 1,
@@ -16,8 +16,8 @@
     "no_specific_named_cc_license_and_author": 9,
     "no_exact_individual_open_data_photo_url": 1
   },
-  "new_installed": 0,
-  "held_checked": 1,
+  "new_installed": 1,
+  "held_checked": 0,
   "duplicates_found_during_review": 0,
   "records": [
     {
@@ -28,16 +28,39 @@
       "archive_path": "migration/private-original-photo-holds/Papaveraceae/Argemone/argemone-albiflora-subsp-texana/images/01-curated-reference.jpg",
       "git_blob_sha": "a708586b00676f4d14b43aef836f740e0ad80094",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Original named species card does not match assigned species ID"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Galen Herz",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/1887459",
+      "taxon": "argemone albiflora",
+      "src": "media/argemone-albiflora-subsp-texana/archived-06ea299e92ae5c3a.jpg",
+      "sha256": "06ea299e92ae5c3adf04df3cc16ef046f3e49cfcece5b4afe7c688107312d2fe"
     }
   ],
-  "previous_batches": [],
-  "batch_number": 1,
+  "previous_batches": [
+    {
+      "checked_at": "2026-11-04T02:56:41.521335+00:00",
+      "selected_candidates": 1,
+      "new_installed": 0,
+      "held_checked": 1,
+      "records": [
+        {
+          "species_id": "argemone-albiflora-subsp-texana",
+          "family": "Papaveraceae",
+          "filename": "01-curated-reference.jpg",
+          "original_path": "content/taxa/Papaveraceae/Argemone/argemone-albiflora-subsp-texana/images/01-curated-reference.jpg",
+          "archive_path": "migration/private-original-photo-holds/Papaveraceae/Argemone/argemone-albiflora-subsp-texana/images/01-curated-reference.jpg",
+          "git_blob_sha": "a708586b00676f4d14b43aef836f740e0ad80094",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Original named species card does not match assigned species ID"
+        }
+      ]
+    }
+  ],
+  "batch_number": 2,
   "verified_but_not_installed": 0,
-  "held_by_reason": {
-    "Original named species card does not match assigned species ID": 1
-  },
-  "cumulative_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 1,
   "cumulative_held_reviewed": 1
 }
