@@ -168,7 +168,7 @@
       "license": "CC BY-NC 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "da2259d23339cf7efbfd7b5d30b5947e63c6d1bc",
-      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "role": "White flower with bud; same source photograph as archived 83e6 version",
       "modified": "Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
@@ -177,7 +177,13 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 5948721, photo 7429122, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3ee3367c3f3b73fb3cc4b1f583f501b9c31292be07272e29b433f4c99d7fd2d2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Argemone albiflora texana maps to indexed species argemone-albiflora-subsp-texana; specialist morphology and BONAP range deferred.",
-      "sha256": "3ee3367c3f3b73fb3cc4b1f583f501b9c31292be07272e29b433f4c99d7fd2d2"
+      "sha256": "3ee3367c3f3b73fb3cc4b1f583f501b9c31292be07272e29b433f4c99d7fd2d2",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual archived JPEG pixels inspected; no taxonomic reidentification or scale inference",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     },
     {
       "src": "media/argemone-albiflora-subsp-texana/archived-1e6f054cef853632.jpg",
@@ -187,7 +193,7 @@
       "license": "CC BY-NC 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ee2218e07bbd84041f067e65252589eeec99fcbd",
-      "role": "Texas research-grade reference",
+      "role": "Several white blooms among deeply lobed prickly foliage",
       "modified": "Original archived photograph; no additional modifications",
       "noncommercial_only": true,
       "private_rights_review_only": false,
@@ -196,7 +202,13 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "iNaturalist observation 354072386 photo 645949350 individual CC code cc-by-nc; photographer (c) Cindi Tanner, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA ee2218e07bbd84041f067e65252589eeec99fcbd; exact image source https://www.inaturalist.org/photos/645949350",
       "taxon_review_evidence": "Original species record argemone albiflora subsp texana linked to an original image and matching current inat photo of source taxon Argemone albiflora texana. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "1e6f054cef853632d07a3857f494da6e8578f4d89ffff7d03c883e887eb2cbc3"
+      "sha256": "1e6f054cef853632d07a3857f494da6e8578f4d89ffff7d03c883e887eb2cbc3",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual archived JPEG pixels inspected; no taxonomic reidentification or scale inference",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     },
     {
       "src": "media/argemone-albiflora-subsp-texana/archived-83e6b0460f1b9e1a.jpg",
@@ -206,7 +218,7 @@
       "license": "CC BY-NC 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4beabcdecc252f2b02c7fff7f23d1773c1de0284",
-      "role": "same-observation field view 1",
+      "role": "White flower with attached unopened spiny bud and leaf",
       "modified": "Original archived photograph; no additional modifications",
       "noncommercial_only": true,
       "private_rights_review_only": false,
@@ -215,7 +227,13 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "iNaturalist observation 5948721 photo 7429122 individual CC code cc-by-nc; photographer (c) plectrudis, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 4beabcdecc252f2b02c7fff7f23d1773c1de0284; exact image source https://www.inaturalist.org/photos/7429122",
       "taxon_review_evidence": "Original species record argemone albiflora subsp texana linked to an original image and matching current inat photo of source taxon Argemone albiflora texana. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "83e6b0460f1b9e1ae108a979a27421b1f30ccfee6ba56d4e25cd9fa2290b113d"
+      "sha256": "83e6b0460f1b9e1ae108a979a27421b1f30ccfee6ba56d4e25cd9fa2290b113d",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual archived JPEG pixels inspected; no taxonomic reidentification or scale inference",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     },
     {
       "src": "media/argemone-albiflora-subsp-texana/archived-ee052b2ef946f506.jpg",
@@ -225,7 +243,7 @@
       "license": "CC BY-NC 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "71dac94e106a55a65c1353ed9dc6ffc5fac4d5a5",
-      "role": "same-observation field view 3",
+      "role": "Close-up of stem prickles, leaf blades and contrasting pale veins",
       "modified": "Original archived photograph; no additional modifications",
       "noncommercial_only": true,
       "private_rights_review_only": false,
@@ -234,7 +252,13 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "iNaturalist observation 5948721 photo 7429702 individual CC code cc-by-nc; photographer (c) plectrudis, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 71dac94e106a55a65c1353ed9dc6ffc5fac4d5a5; exact image source https://www.inaturalist.org/photos/7429702",
       "taxon_review_evidence": "Original species record argemone albiflora subsp texana linked to an original image and matching current inat photo of source taxon Argemone albiflora texana. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "ee052b2ef946f50654db561f5cf65fc136f9103e779855765fb86a6fcfaacc6e"
+      "sha256": "ee052b2ef946f50654db561f5cf65fc136f9103e779855765fb86a6fcfaacc6e",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual archived JPEG pixels inspected; no taxonomic reidentification or scale inference",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     },
     {
       "src": "media/argemone-albiflora-subsp-texana/archived-f05cb0d211ad1344.jpg",
@@ -244,7 +268,7 @@
       "license": "CC BY-NC 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1e2ab8e3018cd836000a7cef16a785da3b5a616b",
-      "role": "same-observation field view 2",
+      "role": "Spiny developing reproductive structure and leaves (unscaled; maturity unconfirmed)",
       "modified": "Original archived photograph; no additional modifications",
       "noncommercial_only": true,
       "private_rights_review_only": false,
@@ -253,7 +277,13 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "iNaturalist observation 5948721 photo 7429701 individual CC code cc-by-nc; photographer (c) plectrudis, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 1e2ab8e3018cd836000a7cef16a785da3b5a616b; exact image source https://www.inaturalist.org/photos/7429701",
       "taxon_review_evidence": "Original species record argemone albiflora subsp texana linked to an original image and matching current inat photo of source taxon Argemone albiflora texana. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "f05cb0d211ad1344f287513b03a87d8e9459189fda077cfbf953613243311fd0"
+      "sha256": "f05cb0d211ad1344f287513b03a87d8e9459189fda077cfbf953613243311fd0",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual archived JPEG pixels inspected; no taxonomic reidentification or scale inference",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     },
     {
       "src": "media/argemone-albiflora-subsp-texana/archived-06ea299e92ae5c3a.jpg",
@@ -263,7 +293,7 @@
       "license": "CC BY-NC 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a708586b00676f4d14b43aef836f740e0ad80094",
-      "role": "curated taxon reference 1",
+      "role": "White open flower; stamens and central stigma clearly shown",
       "modified": "Historical archived photograph; no new changes.",
       "noncommercial_only": true,
       "private_rights_review_only": false,
@@ -272,7 +302,13 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "Specific historical source image-sources.csv CC code cc-by-nc and named photographer Galen Herz; exact photo 1887459; source image public open-data URL https://inaturalist-open-data.s3.amazonaws.com/photos/1887459/large.jpg; archived vs source pixel dHash distance 0; original species-card name argemone albiflora; historical CC permission is irrevocable but source license was not freshly revalidated; archived source SHA a708586b00676f4d14b43aef836f740e0ad80094; exact image source https://www.inaturalist.org/photos/1887459",
       "taxon_review_evidence": "Original species record argemone albiflora subsp texana linked to an original image and matching current inat-archived-exact-photo photo of source taxon argemone albiflora. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "06ea299e92ae5c3adf04df3cc16ef046f3e49cfcece5b4afe7c688107312d2fe"
+      "sha256": "06ea299e92ae5c3adf04df3cc16ef046f3e49cfcece5b4afe7c688107312d2fe",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual archived JPEG pixels inspected; no taxonomic reidentification or scale inference",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
