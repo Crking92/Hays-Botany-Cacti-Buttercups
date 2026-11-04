@@ -1,4 +1,5 @@
 name: Verify actual public historical photo galleries
+# Reaudit previously committed NPS Chisos hedgehog photo after Pages deployment.
 on:
   push:
     branches: [main]
