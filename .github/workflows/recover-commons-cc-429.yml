@@ -1,4 +1,4 @@
-name: Recover three individually verified historical Commons botanical photographs
+name: Recover NPS Chisos hedgehog archived photo with original public-domain rights
 on:
   push:
     branches: [main]
@@ -28,7 +28,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: Crking92/Hays-Botany-Public
-          ref: 58f8bf764c2a2d57606f814a1755cac5818b22da
+          ref: 0a204278e3c78ac1ed93a6d49967554e48b08939
           path: .shared-photo-audit
           persist-credentials: false
       - name: Install image decoder
