@@ -71,7 +71,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0d0f1a092ab9d9a89cc15158e41a5c57a46a6886",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -79,7 +79,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 284615441, photo 511519288, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a612e40e8d58e70455265dfaac74c9d325124fb131835f4ed4d3dc51ccef8d11. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Boerhavia erecta maps to indexed species boerhavia-erecta; specialist morphology and BONAP range deferred.",
-      "sha256": "a612e40e8d58e70455265dfaac74c9d325124fb131835f4ed4d3dc51ccef8d11"
+      "sha256": "a612e40e8d58e70455265dfaac74c9d325124fb131835f4ed4d3dc51ccef8d11",
+      "display_sha256": "454b518d13886f457d0d776d64af0833d98d7c55d000b77572f5988550bfaba9",
+      "display_blob_sha": "1edb3d861209f2413b0cf08db6321288f001abf5",
+      "display_original_site_sha256": "a612e40e8d58e70455265dfaac74c9d325124fb131835f4ed4d3dc51ccef8d11",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/boerhavia-erecta/inat-665063235.jpg",
@@ -109,7 +114,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1086fb8964ee1ab57432b466e3bdf7719395c3c7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -117,7 +122,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 365352718, photo 667043979, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3cbe5c28cbfeccec3a3d652fc000bfe917c306d3f2df02509c74aa5ed5d773cc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Boerhavia erecta maps to indexed species boerhavia-erecta; specialist morphology and BONAP range deferred.",
-      "sha256": "3cbe5c28cbfeccec3a3d652fc000bfe917c306d3f2df02509c74aa5ed5d773cc"
+      "sha256": "3cbe5c28cbfeccec3a3d652fc000bfe917c306d3f2df02509c74aa5ed5d773cc",
+      "display_sha256": "6b63c68a8a2b8f4957cbad04201d0e04466bd0a8df27c64afe4f70e8e88e64ca",
+      "display_blob_sha": "b4c015e8c947ce0cc4625b0cd318cbaa276298b2",
+      "display_original_site_sha256": "3cbe5c28cbfeccec3a3d652fc000bfe917c306d3f2df02509c74aa5ed5d773cc",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/boerhavia-erecta/inat-667432968.jpg",
@@ -128,7 +138,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fa6c36e077ccc5b3a72a101f468255775ed367ba",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -136,7 +146,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 365558371, photo 667432968, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7f03bd4c02cbab85e8e9e654f745fd412bb68e37ce8b1f8a4373e62191dcdf74. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Boerhavia erecta maps to indexed species boerhavia-erecta; specialist morphology and BONAP range deferred.",
-      "sha256": "7f03bd4c02cbab85e8e9e654f745fd412bb68e37ce8b1f8a4373e62191dcdf74"
+      "sha256": "7f03bd4c02cbab85e8e9e654f745fd412bb68e37ce8b1f8a4373e62191dcdf74",
+      "display_sha256": "0e2b6ea7e2032fff45bba83d16ab511c2128b6f08f7fba9908cd569e28d6e8ff",
+      "display_blob_sha": "6457822f5fea9dc637419a0e88347503947eab4c",
+      "display_original_site_sha256": "7f03bd4c02cbab85e8e9e654f745fd412bb68e37ce8b1f8a4373e62191dcdf74",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/boerhavia-erecta/inat-667896102.jpg",
@@ -147,7 +162,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2f82e604bafc75787cf5253421a3791211ab55c9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -155,7 +170,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 365803876, photo 667896102, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c076c1d5b7865fb8be387daa9de91f5c73e1347b23422cead9a1f0b28e08e80b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Boerhavia erecta maps to indexed species boerhavia-erecta; specialist morphology and BONAP range deferred.",
-      "sha256": "c076c1d5b7865fb8be387daa9de91f5c73e1347b23422cead9a1f0b28e08e80b"
+      "sha256": "c076c1d5b7865fb8be387daa9de91f5c73e1347b23422cead9a1f0b28e08e80b",
+      "display_sha256": "066d240389b46454eb919b7c64c47bc44874a4a38c09eff5e448ea66c2e9ad5c",
+      "display_blob_sha": "b20d1a759c97c4cf0ad3850866b22e2e9e1109f1",
+      "display_original_site_sha256": "c076c1d5b7865fb8be387daa9de91f5c73e1347b23422cead9a1f0b28e08e80b",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/boerhavia-erecta/archived-71ecfa21b72adc06.jpg",

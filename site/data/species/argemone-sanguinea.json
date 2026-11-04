@@ -62,7 +62,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1b97e736b1619283126f00e1eabb6a8894ff853a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -70,7 +70,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 202532606, photo 357780567, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 82cce131c0f6e657d47c8e831801f6a64758b1e99f75f971c7241dca8e7d579e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Argemone sanguinea maps to indexed species argemone-sanguinea; specialist morphology and BONAP range deferred.",
-      "sha256": "82cce131c0f6e657d47c8e831801f6a64758b1e99f75f971c7241dca8e7d579e"
+      "sha256": "82cce131c0f6e657d47c8e831801f6a64758b1e99f75f971c7241dca8e7d579e",
+      "display_sha256": "b15802c6ad9bea0f9f4069a157e673fce624f25c0c55414921bc3f860d1c3603",
+      "display_blob_sha": "83701b4cf46670f3be0998a8ce51b58dc8ff77c0",
+      "display_original_site_sha256": "82cce131c0f6e657d47c8e831801f6a64758b1e99f75f971c7241dca8e7d579e",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/argemone-sanguinea/inat-630049413.jpg",
@@ -81,7 +86,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "305dca4a5cbed70bbe1f67a505acd119ad64c8e4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -89,7 +94,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 345698422, photo 630049413, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 75bc32a49568c3d81ad05b012257510040ee1768fb518296736c5fa8232dd968. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Argemone sanguinea maps to indexed species argemone-sanguinea; specialist morphology and BONAP range deferred.",
-      "sha256": "75bc32a49568c3d81ad05b012257510040ee1768fb518296736c5fa8232dd968"
+      "sha256": "75bc32a49568c3d81ad05b012257510040ee1768fb518296736c5fa8232dd968",
+      "display_sha256": "cd97e9b373c81dd284f40c612b9044a5a719e89dda6698652fad0e5f9dbc3767",
+      "display_blob_sha": "0a4341dd8534851f915ce10625ec2c9f4e5ef6ec",
+      "display_original_site_sha256": "75bc32a49568c3d81ad05b012257510040ee1768fb518296736c5fa8232dd968",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/argemone-sanguinea/inat-632724732.jpg",
@@ -100,7 +110,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b6bfe82c20a6f7f0dd3589b42cc93c9df6edae99",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -108,7 +118,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 347053346, photo 632724732, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8b32b355bad67ee030a7612296dc69f104ab72831c975cf4f10ab62e47c9110b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Argemone sanguinea maps to indexed species argemone-sanguinea; specialist morphology and BONAP range deferred.",
-      "sha256": "8b32b355bad67ee030a7612296dc69f104ab72831c975cf4f10ab62e47c9110b"
+      "sha256": "8b32b355bad67ee030a7612296dc69f104ab72831c975cf4f10ab62e47c9110b",
+      "display_sha256": "038ac614557f04f5ad231a19e564d5511dd2392feeca43bdffcd880351ddfc92",
+      "display_blob_sha": "e1498ad6a6fa19cdca39fc2daec11442fa0e4634",
+      "display_original_site_sha256": "8b32b355bad67ee030a7612296dc69f104ab72831c975cf4f10ab62e47c9110b",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/argemone-sanguinea/inat-636330097.jpg",
@@ -119,7 +134,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "d8db115d8ad338353179a2dbf30cef9eb334f34a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -127,7 +142,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 348868204, photo 636330097, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 11a8ca8a30fef00440d0631a22f9ea728eb586a80fcd19a08137036628793135. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Argemone sanguinea maps to indexed species argemone-sanguinea; specialist morphology and BONAP range deferred.",
-      "sha256": "11a8ca8a30fef00440d0631a22f9ea728eb586a80fcd19a08137036628793135"
+      "sha256": "11a8ca8a30fef00440d0631a22f9ea728eb586a80fcd19a08137036628793135",
+      "display_sha256": "74d2caccc29f4dfbf74e02d651ebce8bdfb730efe2355e349aedf50af98904af",
+      "display_blob_sha": "1fb0c6ef13638163ba25002860be265136712b0b",
+      "display_original_site_sha256": "11a8ca8a30fef00440d0631a22f9ea728eb586a80fcd19a08137036628793135",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/argemone-sanguinea/inat-627090947.jpg",
@@ -138,7 +158,7 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source_blob_sha": "8d23706a514dd74fb13bdf8c365bbbcc34c8e35c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -146,7 +166,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 344184418, photo 627090947, individual license cc0, exact source photo URL. Source media SHA256 matches supplied original ZIP: 30bec63049bde40e2d557058e66bc7f90a9aca95495c5476b34020b61ce861fe. Credit evidence: original user ZIP credit record.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Argemone sanguinea maps to indexed species argemone-sanguinea; specialist morphology and BONAP range deferred.",
-      "sha256": "30bec63049bde40e2d557058e66bc7f90a9aca95495c5476b34020b61ce861fe"
+      "sha256": "30bec63049bde40e2d557058e66bc7f90a9aca95495c5476b34020b61ce861fe",
+      "display_sha256": "0c89babac108e43bb619867ff7ae0ec66f666f3dfa54665a62d2db4c373aae55",
+      "display_blob_sha": "719b2416c3332941e744dad43df9b0b41ee6148f",
+      "display_original_site_sha256": "30bec63049bde40e2d557058e66bc7f90a9aca95495c5476b34020b61ce861fe",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/argemone-sanguinea/archived-a18fa3399e66c518.jpg",

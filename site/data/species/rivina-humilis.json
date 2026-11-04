@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "41e455455ec7aac9c2ec8a9ee693ddb5a6e9d96d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 345809348, photo 630262039, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 09a9b36bea253d22fc81351973f202af9d682e14a81ee15ad2aec1ef2e9d25c0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Rivina humilis maps to indexed species rivina-humilis; specialist morphology and BONAP range deferred.",
-      "sha256": "09a9b36bea253d22fc81351973f202af9d682e14a81ee15ad2aec1ef2e9d25c0"
+      "sha256": "09a9b36bea253d22fc81351973f202af9d682e14a81ee15ad2aec1ef2e9d25c0",
+      "display_sha256": "716b74656a6ffd56b1ffa6ed0f487487438ec7e272fd9b44b05223bd3f5ed7d7",
+      "display_blob_sha": "70c0c28cb3902e3910b60264b7bf7dc7499657f6",
+      "display_original_site_sha256": "09a9b36bea253d22fc81351973f202af9d682e14a81ee15ad2aec1ef2e9d25c0",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rivina-humilis/inat-636226816.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e215ca04a895d597efddd63884f94caeb03af8ca",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 348816773, photo 636226816, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a99dd048393a110c93bd48cd93b935a02bb3c529ca412825fe12c2cc14e5a71b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Rivina humilis maps to indexed species rivina-humilis; specialist morphology and BONAP range deferred.",
-      "sha256": "a99dd048393a110c93bd48cd93b935a02bb3c529ca412825fe12c2cc14e5a71b"
+      "sha256": "a99dd048393a110c93bd48cd93b935a02bb3c529ca412825fe12c2cc14e5a71b",
+      "display_sha256": "75e88b1cde1767a0cb3b9cab314c6e059fa8c71be98147514fde83a905f6a3ee",
+      "display_blob_sha": "26889226531d77dac73950f3a500695f2e1fe485",
+      "display_original_site_sha256": "a99dd048393a110c93bd48cd93b935a02bb3c529ca412825fe12c2cc14e5a71b",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rivina-humilis/inat-637331566.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b274be749e50592adfc0abb01b479c8501bc1fe2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 349383140, photo 637331566, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 650f20631c45d2cf6b4139a1a1422266e0b00d984a97e6392b170e0ef1a1d9d0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Rivina humilis maps to indexed species rivina-humilis; specialist morphology and BONAP range deferred.",
-      "sha256": "650f20631c45d2cf6b4139a1a1422266e0b00d984a97e6392b170e0ef1a1d9d0"
+      "sha256": "650f20631c45d2cf6b4139a1a1422266e0b00d984a97e6392b170e0ef1a1d9d0",
+      "display_sha256": "83d837b5d16d98f902abcaf8b8a48de47cd8e037d4fd80e0ecf8d9b6b5c7d934",
+      "display_blob_sha": "fbc6f55501bd50c6d08bd57dbf22d5092be0da88",
+      "display_original_site_sha256": "650f20631c45d2cf6b4139a1a1422266e0b00d984a97e6392b170e0ef1a1d9d0",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rivina-humilis/inat-646058900.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "98636748771aa5d195c842617cd1c6dd8d805ca9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 354117203, photo 646058900, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6b4dc263fad7d63517518cb3b46ed99cf6f943f01e55dc570b6c38e92fe27bc7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Rivina humilis maps to indexed species rivina-humilis; specialist morphology and BONAP range deferred.",
-      "sha256": "6b4dc263fad7d63517518cb3b46ed99cf6f943f01e55dc570b6c38e92fe27bc7"
+      "sha256": "6b4dc263fad7d63517518cb3b46ed99cf6f943f01e55dc570b6c38e92fe27bc7",
+      "display_sha256": "fe5c756ead2f14626849b32be3620559724f598dd68b15b06e0d64102eac05c5",
+      "display_blob_sha": "7238cd9cfcfa72b9e4fd5416d11736e72a28ee0a",
+      "display_original_site_sha256": "6b4dc263fad7d63517518cb3b46ed99cf6f943f01e55dc570b6c38e92fe27bc7",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rivina-humilis/inat-647555266.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6414d642b39bb43e7c6c4b2eff0d9cf94df0a0c9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 355002663, photo 647555266, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8e4aa1057e9d60bd6126f3decc1722264325b8fe08e4618c7e5932f9ad5e8f1e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Rivina humilis maps to indexed species rivina-humilis; specialist morphology and BONAP range deferred.",
-      "sha256": "8e4aa1057e9d60bd6126f3decc1722264325b8fe08e4618c7e5932f9ad5e8f1e"
+      "sha256": "8e4aa1057e9d60bd6126f3decc1722264325b8fe08e4618c7e5932f9ad5e8f1e",
+      "display_sha256": "3b24cbd35f1ac7aa432a29345f3cd9ea06ac9c401282d41690db4dce8e35dc59",
+      "display_blob_sha": "37c36e43c7605afc582149050bf7c3050a15d26c",
+      "display_original_site_sha256": "8e4aa1057e9d60bd6126f3decc1722264325b8fe08e4618c7e5932f9ad5e8f1e",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rivina-humilis/archived-1cd7c9baaedeb1b9.jpg",

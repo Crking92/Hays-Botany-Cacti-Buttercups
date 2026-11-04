@@ -65,7 +65,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d4092c76b55bb0504a87196d7a45ee6c3f266018",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -73,7 +73,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 281834938, photo 506307222, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b71f7cf62e79eb3698ee32e4a4bdfd1015d91a58c830bfdbe0b2081bfa73e465. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Boerhavia linearifolia maps to indexed species boerhavia-linearifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "b71f7cf62e79eb3698ee32e4a4bdfd1015d91a58c830bfdbe0b2081bfa73e465"
+      "sha256": "b71f7cf62e79eb3698ee32e4a4bdfd1015d91a58c830bfdbe0b2081bfa73e465",
+      "display_sha256": "a6648388753713b1f05e7210e77c1fb6f6de93e37f0a9b5272440616ac7da1b6",
+      "display_blob_sha": "b5c3b506d5f56c835b3326d633a962e246b5d500",
+      "display_original_site_sha256": "b71f7cf62e79eb3698ee32e4a4bdfd1015d91a58c830bfdbe0b2081bfa73e465",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/boerhavia-linearifolia/inat-671097761.jpg",
@@ -84,7 +89,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1a335843148f77d401a78e38b135e667f5cc35b0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -92,7 +97,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 367480222, photo 671097761, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9f5d5efa0e3f4861a07407d2b305454f32f019dd3fb62e08d81c8e4404bf5a5e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Boerhavia linearifolia maps to indexed species boerhavia-linearifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "9f5d5efa0e3f4861a07407d2b305454f32f019dd3fb62e08d81c8e4404bf5a5e"
+      "sha256": "9f5d5efa0e3f4861a07407d2b305454f32f019dd3fb62e08d81c8e4404bf5a5e",
+      "display_sha256": "c193f50489ca874130d94cf6c22165b9ac6dec93f6e8433c126df09b722af6c7",
+      "display_blob_sha": "7eb4883d3666bfb15bd2f9032b81ae109afc9d96",
+      "display_original_site_sha256": "9f5d5efa0e3f4861a07407d2b305454f32f019dd3fb62e08d81c8e4404bf5a5e",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/boerhavia-linearifolia/inat-671100247.jpg",
@@ -103,7 +113,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "70dba4fbe353aadd523111f746478725c0456b2e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -111,7 +121,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 367481521, photo 671100247, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: acae3e81338b5fd8aee8971fde3108a559d4b377f8d2b4d5159b75d87ef5d9c0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Boerhavia linearifolia maps to indexed species boerhavia-linearifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "acae3e81338b5fd8aee8971fde3108a559d4b377f8d2b4d5159b75d87ef5d9c0"
+      "sha256": "acae3e81338b5fd8aee8971fde3108a559d4b377f8d2b4d5159b75d87ef5d9c0",
+      "display_sha256": "f7c6e0bcbb225c6670a0aab0d1bd30c369b0007060a090c035194c145380dfcb",
+      "display_blob_sha": "122752e8ffb9fba17f6fa583a15c81bcd739368c",
+      "display_original_site_sha256": "acae3e81338b5fd8aee8971fde3108a559d4b377f8d2b4d5159b75d87ef5d9c0",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/boerhavia-linearifolia/inat-714149733.jpg",
@@ -122,7 +137,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5cee82a0a6ef066a6387086254d537899ad41ecc",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -130,7 +145,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 389850698, photo 714149733, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f2a66cd50b5ef262dbad6deb10d40a3ed77352175afa79cfbeb7183f28bb8df0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Boerhavia linearifolia maps to indexed species boerhavia-linearifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "f2a66cd50b5ef262dbad6deb10d40a3ed77352175afa79cfbeb7183f28bb8df0"
+      "sha256": "f2a66cd50b5ef262dbad6deb10d40a3ed77352175afa79cfbeb7183f28bb8df0",
+      "display_sha256": "4de049fcf5545504ddf4374eccc31c7066216ff8f6e1c24622a5bdee15f531bd",
+      "display_blob_sha": "2942af4556555f73de2b58468c4d3f18b44f81c5",
+      "display_original_site_sha256": "f2a66cd50b5ef262dbad6deb10d40a3ed77352175afa79cfbeb7183f28bb8df0",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/boerhavia-linearifolia/inat-725508017.jpg",
@@ -141,7 +161,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4a82b187369e62bc41fc57740e1e1870496180e1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -149,7 +169,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 395665297, photo 725508017, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 27be4f79fcf7207703d1632ec7e02d7b3facb17022789a8646537627053467f3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Boerhavia linearifolia maps to indexed species boerhavia-linearifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "27be4f79fcf7207703d1632ec7e02d7b3facb17022789a8646537627053467f3"
+      "sha256": "27be4f79fcf7207703d1632ec7e02d7b3facb17022789a8646537627053467f3",
+      "display_sha256": "491e06df574754eb79c27c1506eb8610868fb617cd3a283e81da8a156a504179",
+      "display_blob_sha": "660f48b04dfbc7c0b0752ccc95c445f3c33967a6",
+      "display_original_site_sha256": "27be4f79fcf7207703d1632ec7e02d7b3facb17022789a8646537627053467f3",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

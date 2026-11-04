@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source_blob_sha": "45c7d3a840ae8be5e59780070adc939b9ed5d9bd",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 205982214, photo 364272110, individual license cc0, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7b41da328673a3b7e73167ec46085b23622e836e46ac515164aab90eb1e2ce78. Credit evidence: original user ZIP credit record.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Persicaria lapathifolia maps to indexed species persicaria-lapathifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "7b41da328673a3b7e73167ec46085b23622e836e46ac515164aab90eb1e2ce78"
+      "sha256": "7b41da328673a3b7e73167ec46085b23622e836e46ac515164aab90eb1e2ce78",
+      "display_sha256": "59f51143a7050662729c6de2276043c7e749602a3bdb3aaac128d28e444d29f4",
+      "display_blob_sha": "17afd0db32496e88c116c7cc95ad9df5a2fe002d",
+      "display_original_site_sha256": "7b41da328673a3b7e73167ec46085b23622e836e46ac515164aab90eb1e2ce78",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/persicaria-lapathifolia/inat-367531625.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "453a6f321228669bf59e4a4be1e9dd52a2054699",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 285212780, photo 512642723, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b7c459ab1e8be50294f8619ff72c6623815296a2c1e9f74a0f94dd9f67a4fad2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Persicaria lapathifolia maps to indexed species persicaria-lapathifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "b7c459ab1e8be50294f8619ff72c6623815296a2c1e9f74a0f94dd9f67a4fad2"
+      "sha256": "b7c459ab1e8be50294f8619ff72c6623815296a2c1e9f74a0f94dd9f67a4fad2",
+      "display_sha256": "6f811155cf454c50cab90eacbc019cd192ae9305b4710bfdecd97f086c596585",
+      "display_blob_sha": "1e81e3994795f14c023c39bcfe419222a3eeeac0",
+      "display_original_site_sha256": "b7c459ab1e8be50294f8619ff72c6623815296a2c1e9f74a0f94dd9f67a4fad2",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/persicaria-lapathifolia/inat-513564964.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "5c5a71c5f1299af84489e8ed5b26a0f77fdab10a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 285714065, photo 513564964, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8df88c9ab6473d88a7dff64c1b951ccd630ddc6f4cf55cb2963e422aaa437305. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Persicaria lapathifolia maps to indexed species persicaria-lapathifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "8df88c9ab6473d88a7dff64c1b951ccd630ddc6f4cf55cb2963e422aaa437305"
+      "sha256": "8df88c9ab6473d88a7dff64c1b951ccd630ddc6f4cf55cb2963e422aaa437305",
+      "display_sha256": "10f800cc5cc151d53dc8dea33aa4ece5df89a6184b337d40577f0fb8efe0348d",
+      "display_blob_sha": "bcf65de19a52cc8d14c4aa6bca0cdd84bf05d324",
+      "display_original_site_sha256": "8df88c9ab6473d88a7dff64c1b951ccd630ddc6f4cf55cb2963e422aaa437305",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/persicaria-lapathifolia/inat-522717151.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "84da259bc0ba94daf81f64c9559affde24a35b98",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 290562041, photo 522717151, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e21768253c7f8dd9da5f193812e613cb83e96601d6ef8e99b06a13a7dc0cf1dd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Persicaria lapathifolia maps to indexed species persicaria-lapathifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "e21768253c7f8dd9da5f193812e613cb83e96601d6ef8e99b06a13a7dc0cf1dd"
+      "sha256": "e21768253c7f8dd9da5f193812e613cb83e96601d6ef8e99b06a13a7dc0cf1dd",
+      "display_sha256": "6d0dad7814e6a7f7ed652afaf7c3205e5c13056c48b50eca2f48521bd7397dbf",
+      "display_blob_sha": "cfe935b841876c96317dc1fd26bebfc320a26f66",
+      "display_original_site_sha256": "e21768253c7f8dd9da5f193812e613cb83e96601d6ef8e99b06a13a7dc0cf1dd",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/persicaria-lapathifolia/archived-b02c72fedb0b0376.jpg",

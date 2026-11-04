@@ -91,7 +91,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8800100a2c48654d71fe5e64f1f6d9dfe6d04fe0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +99,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 353789755, photo 645467084, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 73558bdb3b9387ddd3d5220bc604c489e4332902d4814ea312bf897cb6c1c35b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Portulaca oleracea maps to indexed species portulaca-oleracea; specialist morphology and BONAP range deferred.",
-      "sha256": "73558bdb3b9387ddd3d5220bc604c489e4332902d4814ea312bf897cb6c1c35b"
+      "sha256": "73558bdb3b9387ddd3d5220bc604c489e4332902d4814ea312bf897cb6c1c35b",
+      "display_sha256": "66157b04903e1bf30d9ad472d6ef1d95af6692cff7ef6e381b3db021dca7b4f2",
+      "display_blob_sha": "5965592eb702cbd013e0a13f3c15a00ca582d6a4",
+      "display_original_site_sha256": "73558bdb3b9387ddd3d5220bc604c489e4332902d4814ea312bf897cb6c1c35b",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/portulaca-oleracea/inat-646061849.jpg",
@@ -110,7 +115,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8de54301b5a5b7dbb7903eb5ee8fd52b48539fcc",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +123,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 354118851, photo 646061849, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f807be9b82d2239467a80cab0e336c0515cd8be6293e9b9b1fd4a7efe337bcd5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Portulaca oleracea maps to indexed species portulaca-oleracea; specialist morphology and BONAP range deferred.",
-      "sha256": "f807be9b82d2239467a80cab0e336c0515cd8be6293e9b9b1fd4a7efe337bcd5"
+      "sha256": "f807be9b82d2239467a80cab0e336c0515cd8be6293e9b9b1fd4a7efe337bcd5",
+      "display_sha256": "b986815dc4d02bc5a7abfb7bec6f18041f5b81601af7f12280894cbafcd56b81",
+      "display_blob_sha": "5f9883ec6a9b9d81e98b034a8acbe80dd115c303",
+      "display_original_site_sha256": "f807be9b82d2239467a80cab0e336c0515cd8be6293e9b9b1fd4a7efe337bcd5",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/portulaca-oleracea/inat-649426565.jpg",
@@ -129,7 +139,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f41fb6bd54f78e8e4997f5d7d95cb9b928824729",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -137,7 +147,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 356122481, photo 649426565, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 924c45ec6926c0c4c3b0eeef25ccbc43624e7583daf93c129ba599fdc59ff440. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Portulaca oleracea maps to indexed species portulaca-oleracea; specialist morphology and BONAP range deferred.",
-      "sha256": "924c45ec6926c0c4c3b0eeef25ccbc43624e7583daf93c129ba599fdc59ff440"
+      "sha256": "924c45ec6926c0c4c3b0eeef25ccbc43624e7583daf93c129ba599fdc59ff440",
+      "display_sha256": "a955e8c6cae5d00f5b6f931a9a3107dbb60cccf8c951ec48efd2fc099a5ef790",
+      "display_blob_sha": "99eff557f2b28ff4c61520f7f30370ab6ba0b2dd",
+      "display_original_site_sha256": "924c45ec6926c0c4c3b0eeef25ccbc43624e7583daf93c129ba599fdc59ff440",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/portulaca-oleracea/inat-659662720.jpg",
@@ -148,7 +163,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e7f9198f6f29acf89784102bcb46ac21afd8b08a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -156,7 +171,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 361459047, photo 659662720, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0edeaa8a48dd20d0bd6b40493ec5630a9382df6b9e8acce82e1baa462f011fe3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Portulaca oleracea maps to indexed species portulaca-oleracea; specialist morphology and BONAP range deferred.",
-      "sha256": "0edeaa8a48dd20d0bd6b40493ec5630a9382df6b9e8acce82e1baa462f011fe3"
+      "sha256": "0edeaa8a48dd20d0bd6b40493ec5630a9382df6b9e8acce82e1baa462f011fe3",
+      "display_sha256": "2ac874613b6e51ee57f5105376c2a9c045e9c26f58319c64bd9f7391400d454b",
+      "display_blob_sha": "f6cc6035e6700363569e7976cc38283c0e62e9db",
+      "display_original_site_sha256": "0edeaa8a48dd20d0bd6b40493ec5630a9382df6b9e8acce82e1baa462f011fe3",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/portulaca-oleracea/inat-666070073.jpg",
@@ -167,7 +187,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "879e0fea569c6273b8074c377acbfe0c837fa494",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -175,7 +195,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 364846906, photo 666070073, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 20ab8e943abb8b71d055820c8a5bf1a99427ad94a98923bd9d6a896f27c53db5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Portulaca oleracea maps to indexed species portulaca-oleracea; specialist morphology and BONAP range deferred.",
-      "sha256": "20ab8e943abb8b71d055820c8a5bf1a99427ad94a98923bd9d6a896f27c53db5"
+      "sha256": "20ab8e943abb8b71d055820c8a5bf1a99427ad94a98923bd9d6a896f27c53db5",
+      "display_sha256": "2591ac7c6c474c02e21daff352f666754c9ad618c0ab519eececcbb9e7f805fa",
+      "display_blob_sha": "f47c7c40185ca6ca5b46d572fa8e969ac1fc55b4",
+      "display_original_site_sha256": "20ab8e943abb8b71d055820c8a5bf1a99427ad94a98923bd9d6a896f27c53db5",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/portulaca-oleracea/archived-5d6be6aa55dbde49.jpg",

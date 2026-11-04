@@ -91,7 +91,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3a73e4c1bea563ccc6796be76bc0fdb2a34fbd32",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +99,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 80893290, photo 132624785, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: afe79efac0a74e26ee10b9d3f754893c30cfb63cdbfb4e1637b699142d1caf98. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Portulaca umbraticola maps to indexed species portulaca-umbraticola; specialist morphology and BONAP range deferred.",
-      "sha256": "afe79efac0a74e26ee10b9d3f754893c30cfb63cdbfb4e1637b699142d1caf98"
+      "sha256": "afe79efac0a74e26ee10b9d3f754893c30cfb63cdbfb4e1637b699142d1caf98",
+      "display_sha256": "a4208013c51d23486125f4255ceb8081651a6a81dc16432dfefa8ec59480a8f8",
+      "display_blob_sha": "a732194f4cd502e378dd179700fa8014e0b0305d",
+      "display_original_site_sha256": "afe79efac0a74e26ee10b9d3f754893c30cfb63cdbfb4e1637b699142d1caf98",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/portulaca-umbraticola/inat-497680198.jpeg",
@@ -110,7 +115,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2b0135eb6f115d1335feec4199cad47b9014e12b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +123,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 277159497, photo 497680198, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fdeaf2e538aceecaa9819be996e41c86530e6efe0852cbd63c85b7ddf23637f2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Portulaca umbraticola maps to indexed species portulaca-umbraticola; specialist morphology and BONAP range deferred.",
-      "sha256": "fdeaf2e538aceecaa9819be996e41c86530e6efe0852cbd63c85b7ddf23637f2"
+      "sha256": "fdeaf2e538aceecaa9819be996e41c86530e6efe0852cbd63c85b7ddf23637f2",
+      "display_sha256": "7a3806805e30c9715516ebd87757cafa1b383007dcd587a4cc45d0da3de6f8c9",
+      "display_blob_sha": "90168eca6586af20096998568cef2eb7c7a3e41a",
+      "display_original_site_sha256": "fdeaf2e538aceecaa9819be996e41c86530e6efe0852cbd63c85b7ddf23637f2",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/portulaca-umbraticola/inat-671330951.jpg",
@@ -129,7 +139,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b4fd729b6df880106fb2e7e9fd65277907ef634a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -137,7 +147,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 367599164, photo 671330951, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 04e07a4826c3ee2ef284c4164b0a286f6761fdce267a37517d92c4fb0eabf949. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Portulaca umbraticola maps to indexed species portulaca-umbraticola; specialist morphology and BONAP range deferred.",
-      "sha256": "04e07a4826c3ee2ef284c4164b0a286f6761fdce267a37517d92c4fb0eabf949"
+      "sha256": "04e07a4826c3ee2ef284c4164b0a286f6761fdce267a37517d92c4fb0eabf949",
+      "display_sha256": "da203aa439d82dc9438c97c0c4a0ed3a40e86bedd62ee91017bb1cc7fe100ad3",
+      "display_blob_sha": "e6ec35f8cc544ac4057d440747a6fbecac73a936",
+      "display_original_site_sha256": "04e07a4826c3ee2ef284c4164b0a286f6761fdce267a37517d92c4fb0eabf949",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/portulaca-umbraticola/inat-675826451.jpg",
@@ -148,7 +163,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1ce99d5078599a78995e3543e53fe4810fa3a0bb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -156,7 +171,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 369958669, photo 675826451, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 27f8d9e1b0b0bf2ae758860203b78569b9d1b87c161f56b2854cd56820cc9b19. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Portulaca umbraticola maps to indexed species portulaca-umbraticola; specialist morphology and BONAP range deferred.",
-      "sha256": "27f8d9e1b0b0bf2ae758860203b78569b9d1b87c161f56b2854cd56820cc9b19"
+      "sha256": "27f8d9e1b0b0bf2ae758860203b78569b9d1b87c161f56b2854cd56820cc9b19",
+      "display_sha256": "fb47acd5facfca935e110356a5533e2624dba21981d30cc06573fda75f913bd8",
+      "display_blob_sha": "0601cf6b7e1e34aad5cb41ff1cd6b1d4faca70e7",
+      "display_original_site_sha256": "27f8d9e1b0b0bf2ae758860203b78569b9d1b87c161f56b2854cd56820cc9b19",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/portulaca-umbraticola/inat-680370996.jpg",
@@ -167,7 +187,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "714eb287669ffab0a9733391f283cc6ff418b6f9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -175,7 +195,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 372338196, photo 680370996, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 552f19799424b8ed234604e74839496b8e61766dcace98763f47aaac93b449ae. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Portulaca umbraticola maps to indexed species portulaca-umbraticola; specialist morphology and BONAP range deferred.",
-      "sha256": "552f19799424b8ed234604e74839496b8e61766dcace98763f47aaac93b449ae"
+      "sha256": "552f19799424b8ed234604e74839496b8e61766dcace98763f47aaac93b449ae",
+      "display_sha256": "9d52c170140e3c46a7b75836bff17bc2084e17d550b33f6f9982695ffa5c0ada",
+      "display_blob_sha": "9ce3e359c2f171b2ce8a6ff41c3cccb423a67f2e",
+      "display_original_site_sha256": "552f19799424b8ed234604e74839496b8e61766dcace98763f47aaac93b449ae",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/portulaca-umbraticola/archived-95223bc14ace8c7c.jpg",

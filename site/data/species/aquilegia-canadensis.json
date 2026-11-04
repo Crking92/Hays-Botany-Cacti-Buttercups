@@ -79,7 +79,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6948e31f5ec83e9892fb710ee1afaaac53fb1219",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -87,7 +87,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 341969204, photo 622731940, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7520d605b8446e9d68ba4449e572d5d9a0fc698e21d7d11141093fa64915cadf.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Aquilegia canadensis maps to indexed species aquilegia-canadensis; specialist morphology and BONAP range deferred.",
-      "sha256": "7520d605b8446e9d68ba4449e572d5d9a0fc698e21d7d11141093fa64915cadf"
+      "sha256": "7520d605b8446e9d68ba4449e572d5d9a0fc698e21d7d11141093fa64915cadf",
+      "display_sha256": "061a0a2cf9548fdd24972a106601ddaa698dd2a471de42682f219d3b8104e47f",
+      "display_blob_sha": "7d7ac727c35a2a712df78436b87897c2a83f2759",
+      "display_original_site_sha256": "7520d605b8446e9d68ba4449e572d5d9a0fc698e21d7d11141093fa64915cadf",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/aquilegia-canadensis/inat-634936923.jpg",
@@ -98,7 +103,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2139c9d11ae60f519021423d063e73fe069452c8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -106,7 +111,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 348168778, photo 634936923, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 21c56c0d7334a7a57ad53babd17fcb12a4771e6f358c948679d634b7c0867584.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Aquilegia canadensis maps to indexed species aquilegia-canadensis; specialist morphology and BONAP range deferred.",
-      "sha256": "21c56c0d7334a7a57ad53babd17fcb12a4771e6f358c948679d634b7c0867584"
+      "sha256": "21c56c0d7334a7a57ad53babd17fcb12a4771e6f358c948679d634b7c0867584",
+      "display_sha256": "70f4bd3ec84074b1fbd3646326ac3de9e455446c1f661466740d218830afd0ce",
+      "display_blob_sha": "06f3b488f0a0fbea266ec29ed648a0b5e5a1e201",
+      "display_original_site_sha256": "21c56c0d7334a7a57ad53babd17fcb12a4771e6f358c948679d634b7c0867584",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/aquilegia-canadensis/inat-636633551.jpg",
@@ -117,7 +127,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5a02afa4503990267672a2d9a5aed9e090119790",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -125,7 +135,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 349026844, photo 636633551, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4545cfbae2af807fc4c1fd692ac21497b03d10465bd6336ec165a5a5b3cc01a1.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Aquilegia canadensis maps to indexed species aquilegia-canadensis; specialist morphology and BONAP range deferred.",
-      "sha256": "4545cfbae2af807fc4c1fd692ac21497b03d10465bd6336ec165a5a5b3cc01a1"
+      "sha256": "4545cfbae2af807fc4c1fd692ac21497b03d10465bd6336ec165a5a5b3cc01a1",
+      "display_sha256": "a5e3097d54ed943062ae5e0003a53d4344ae50ddf7dfab7a5b8650ca8110ae58",
+      "display_blob_sha": "805d2945e94595086bb918088c62d023f7260e21",
+      "display_original_site_sha256": "4545cfbae2af807fc4c1fd692ac21497b03d10465bd6336ec165a5a5b3cc01a1",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/aquilegia-canadensis/inat-636722988.jpg",
@@ -136,7 +151,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0a3f171604894722305a0f7d704ccff56f611325",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -144,7 +159,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 349073612, photo 636722988, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d75991623bc1b81af6455ed649c88f64c63f386bf2b7ddbee7329d156c46e8df.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Aquilegia canadensis maps to indexed species aquilegia-canadensis; specialist morphology and BONAP range deferred.",
-      "sha256": "d75991623bc1b81af6455ed649c88f64c63f386bf2b7ddbee7329d156c46e8df"
+      "sha256": "d75991623bc1b81af6455ed649c88f64c63f386bf2b7ddbee7329d156c46e8df",
+      "display_sha256": "3b78eb77e1d9a1e9f1d1c0662eb7a505298fd889cef6df9915db465716f3c664",
+      "display_blob_sha": "28eeb9250ffb048c92503cc6683d6229ce1a6034",
+      "display_original_site_sha256": "d75991623bc1b81af6455ed649c88f64c63f386bf2b7ddbee7329d156c46e8df",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/aquilegia-canadensis/inat-636996294.jpg",
@@ -155,7 +175,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "379e4887670acb9a00d3e3196f7a86d3e2273232",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -163,7 +183,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 349210271, photo 636996294, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2ee001f5f2183a1397fa60e5b97ba9de9ddd5d9ca691fba89deb91a8cb772dab.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Aquilegia canadensis maps to indexed species aquilegia-canadensis; specialist morphology and BONAP range deferred.",
-      "sha256": "2ee001f5f2183a1397fa60e5b97ba9de9ddd5d9ca691fba89deb91a8cb772dab"
+      "sha256": "2ee001f5f2183a1397fa60e5b97ba9de9ddd5d9ca691fba89deb91a8cb772dab",
+      "display_sha256": "002e714fc33decdccecd82eb72b9e893ac6157e90fee2ebed0f9ad8a5fe704c1",
+      "display_blob_sha": "e629d53720e475db28f82d0cefd6d7506a0a3ba1",
+      "display_original_site_sha256": "2ee001f5f2183a1397fa60e5b97ba9de9ddd5d9ca691fba89deb91a8cb772dab",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

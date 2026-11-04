@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b5839206b752bf76bdf1129145db32eff5fb12d6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 168208306, photo 291481747, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5281a5b2a1c3f885100bbf73e032cba7743285d4eb30fe20a1807ef801a38971. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Persicaria bicornis maps to indexed species persicaria-bicornis; specialist morphology and BONAP range deferred.",
-      "sha256": "5281a5b2a1c3f885100bbf73e032cba7743285d4eb30fe20a1807ef801a38971"
+      "sha256": "5281a5b2a1c3f885100bbf73e032cba7743285d4eb30fe20a1807ef801a38971",
+      "display_sha256": "bbebb8431d291406128dd48626d46f3564a2338bc03e94a89faaf5a6971154cf",
+      "display_blob_sha": "fd8e45c0ac70411db4c9986e276df61f55f6cf98",
+      "display_original_site_sha256": "5281a5b2a1c3f885100bbf73e032cba7743285d4eb30fe20a1807ef801a38971",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/persicaria-bicornis/inat-656104210.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ecf2ce27ecba472bf2b6548c6eda8dadfc1575d6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 359596078, photo 656104210, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4b65a62ca0b65826c24cf38531d3a49938739dc18d207fa6a67b8ebb41a6e1a9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Persicaria bicornis maps to indexed species persicaria-bicornis; specialist morphology and BONAP range deferred.",
-      "sha256": "4b65a62ca0b65826c24cf38531d3a49938739dc18d207fa6a67b8ebb41a6e1a9"
+      "sha256": "4b65a62ca0b65826c24cf38531d3a49938739dc18d207fa6a67b8ebb41a6e1a9",
+      "display_sha256": "661ddfe94c67d7d62215ccea7177ba24829a3c13f7535db8948564b67d1d353c",
+      "display_blob_sha": "563d2dd47873bc64788bbba3cbb07027920ec72c",
+      "display_original_site_sha256": "4b65a62ca0b65826c24cf38531d3a49938739dc18d207fa6a67b8ebb41a6e1a9",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/persicaria-bicornis/inat-672758552.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7a749f74fb77a0e8ff4965cda01509bdcd0c24f9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 367081402, photo 672758552, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 885c9fbf6c90525760930ef86c0ffdfad909b1d42db051b1b2716247247548d5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Persicaria bicornis maps to indexed species persicaria-bicornis; specialist morphology and BONAP range deferred.",
-      "sha256": "885c9fbf6c90525760930ef86c0ffdfad909b1d42db051b1b2716247247548d5"
+      "sha256": "885c9fbf6c90525760930ef86c0ffdfad909b1d42db051b1b2716247247548d5",
+      "display_sha256": "0733207918720161ab5b9b0b5df10fb575e13aaba9efac6494497c0583ab834c",
+      "display_blob_sha": "f69bf283705c6de41dd235874f7e51a767cc9a45",
+      "display_original_site_sha256": "885c9fbf6c90525760930ef86c0ffdfad909b1d42db051b1b2716247247548d5",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/persicaria-bicornis/inat-93364310.jpeg",

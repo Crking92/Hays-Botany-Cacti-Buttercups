@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0be6e0b2624b7b774a45c6c9ef48dffb3fe9e87a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 155278047, photo 268389122, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4a6a0fff8f54d24c54493fbe3a8b24eb97401fb1ad2b110a6d9a336623c43dd8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Rumex chrysocarpos maps to indexed species rumex-chrysocarpos; specialist morphology and BONAP range deferred.",
-      "sha256": "4a6a0fff8f54d24c54493fbe3a8b24eb97401fb1ad2b110a6d9a336623c43dd8"
+      "sha256": "4a6a0fff8f54d24c54493fbe3a8b24eb97401fb1ad2b110a6d9a336623c43dd8",
+      "display_sha256": "e6b4023dfcf1d012cf7b4fb151ffe3dab54d921097068315cf3fd14b71821dd1",
+      "display_blob_sha": "2f694a57bac37d9e29cd3c832f8452bc5daeb92d",
+      "display_original_site_sha256": "4a6a0fff8f54d24c54493fbe3a8b24eb97401fb1ad2b110a6d9a336623c43dd8",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rumex-chrysocarpos/inat-272073810.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4b8c80b2775d8ed093185f5336844bf5de5f48a1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 157351770, photo 272073810, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e8dbff8381635e5ad9276171ddc0c68c173f13955429ab255a672f5ead7034b1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Rumex chrysocarpos maps to indexed species rumex-chrysocarpos; specialist morphology and BONAP range deferred.",
-      "sha256": "e8dbff8381635e5ad9276171ddc0c68c173f13955429ab255a672f5ead7034b1"
+      "sha256": "e8dbff8381635e5ad9276171ddc0c68c173f13955429ab255a672f5ead7034b1",
+      "display_sha256": "e08a5ae31df81305eb0c43d6dfaf22014ec859e1b1e80c4baa61f390db487237",
+      "display_blob_sha": "9ea8124c4d3294024fa7abc7ec999512adbc3166",
+      "display_original_site_sha256": "e8dbff8381635e5ad9276171ddc0c68c173f13955429ab255a672f5ead7034b1",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rumex-chrysocarpos/inat-275511273.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ef310e145c2fb050b55dfb2891cbfd0aa093d657",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 159462533, photo 275511273, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e2f710c45ba6ee19dfa653bd25e35c7ec2bc1dd38d4f66383bdaf5bcbfc32e3d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Rumex chrysocarpos maps to indexed species rumex-chrysocarpos; specialist morphology and BONAP range deferred.",
-      "sha256": "e2f710c45ba6ee19dfa653bd25e35c7ec2bc1dd38d4f66383bdaf5bcbfc32e3d"
+      "sha256": "e2f710c45ba6ee19dfa653bd25e35c7ec2bc1dd38d4f66383bdaf5bcbfc32e3d",
+      "display_sha256": "400056510aee29b6f2f05e088aa4c1bd287b067c1783b639a11c6082d137f0b8",
+      "display_blob_sha": "53429dbc2795a5fe5fd50e8d4414690b159f9e33",
+      "display_original_site_sha256": "e2f710c45ba6ee19dfa653bd25e35c7ec2bc1dd38d4f66383bdaf5bcbfc32e3d",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rumex-chrysocarpos/inat-491261739.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a56863a2d019f0e6b3bc98468b9314d0587e6b38",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 273100565, photo 491261739, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 329482a4b0c7aaa657ed6e343f11a0967a31f204eb96eb40848be670acfd6944. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Rumex chrysocarpos maps to indexed species rumex-chrysocarpos; specialist morphology and BONAP range deferred.",
-      "sha256": "329482a4b0c7aaa657ed6e343f11a0967a31f204eb96eb40848be670acfd6944"
+      "sha256": "329482a4b0c7aaa657ed6e343f11a0967a31f204eb96eb40848be670acfd6944",
+      "display_sha256": "e253f5c695169a0ed24d7e163fe29300c9776fa1ba4f25490d608880df41c480",
+      "display_blob_sha": "3d06dc8b4fb477734a8343784188f8643fb37240",
+      "display_original_site_sha256": "329482a4b0c7aaa657ed6e343f11a0967a31f204eb96eb40848be670acfd6944",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rumex-chrysocarpos/inat-493089829.jpeg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c1791f6407478499777fde7f743ed0aba339fe60",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 274260208, photo 493089829, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 89e7aaaa6b3f6efdaeef83e9c1c626bd08f0423c111920ead24e491d1a90c141. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Rumex chrysocarpos maps to indexed species rumex-chrysocarpos; specialist morphology and BONAP range deferred.",
-      "sha256": "89e7aaaa6b3f6efdaeef83e9c1c626bd08f0423c111920ead24e491d1a90c141"
+      "sha256": "89e7aaaa6b3f6efdaeef83e9c1c626bd08f0423c111920ead24e491d1a90c141",
+      "display_sha256": "e576bd42dbeafb50a8db71ddd9a3aeeda015a0fd62e65dbc7654909aec65d58f",
+      "display_blob_sha": "6e4e685c8ee0f1fa1cbb4410cb56083445f6f011",
+      "display_original_site_sha256": "89e7aaaa6b3f6efdaeef83e9c1c626bd08f0423c111920ead24e491d1a90c141",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rumex-chrysocarpos/archived-5ec8faff9f8ffff5.jpg",

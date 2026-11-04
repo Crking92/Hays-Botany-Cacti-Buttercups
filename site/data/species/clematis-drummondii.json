@@ -130,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d7d9da86d93bc2369183e16d56e1f5adceaadd9b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -138,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 342144250, photo 622999948, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d3d7318e180fdb41eb2c88c7a63d5b551045e5dfab5ea88ca3a3d5bdbe8fd462.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Clematis drummondii maps to indexed species clematis-drummondii; specialist morphology and BONAP range deferred.",
-      "sha256": "d3d7318e180fdb41eb2c88c7a63d5b551045e5dfab5ea88ca3a3d5bdbe8fd462"
+      "sha256": "d3d7318e180fdb41eb2c88c7a63d5b551045e5dfab5ea88ca3a3d5bdbe8fd462",
+      "display_sha256": "0029124d023111c52388e46b4474727d795cb4af96fe75e0b5ea7f5c071b6ac7",
+      "display_blob_sha": "8fdd9a83a0cd6c289afa09a99258408688c11a1d",
+      "display_original_site_sha256": "d3d7318e180fdb41eb2c88c7a63d5b551045e5dfab5ea88ca3a3d5bdbe8fd462",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/clematis-drummondii/inat-626536290.jpg",
@@ -149,7 +154,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "12c7cfc26cd9edaf7b88b2c5e61fde4815cd995e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -157,7 +162,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 343901276, photo 626536290, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4cb27bc3f2925bbf77579c5ab279d43866f39263a12d81f52e06d3fa1705b534.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Clematis drummondii maps to indexed species clematis-drummondii; specialist morphology and BONAP range deferred.",
-      "sha256": "4cb27bc3f2925bbf77579c5ab279d43866f39263a12d81f52e06d3fa1705b534"
+      "sha256": "4cb27bc3f2925bbf77579c5ab279d43866f39263a12d81f52e06d3fa1705b534",
+      "display_sha256": "d13a57519518c66d4cf6b8b0ef0753df1430af3b46dabb2fb2f11b6f74109c26",
+      "display_blob_sha": "582d213047624ed89d57818bb07a948f2b14c470",
+      "display_original_site_sha256": "4cb27bc3f2925bbf77579c5ab279d43866f39263a12d81f52e06d3fa1705b534",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/clematis-drummondii/inat-630290719.jpg",
@@ -168,7 +178,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "1050d89c7b1c71393c73e68c7d89381612f750ca",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -176,7 +186,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 345822846, photo 630290719, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5268a85f0b71bef20207f1913ec8a7fce7de4f01ef77d2c555655597c94d2f11.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Clematis drummondii maps to indexed species clematis-drummondii; specialist morphology and BONAP range deferred.",
-      "sha256": "5268a85f0b71bef20207f1913ec8a7fce7de4f01ef77d2c555655597c94d2f11"
+      "sha256": "5268a85f0b71bef20207f1913ec8a7fce7de4f01ef77d2c555655597c94d2f11",
+      "display_sha256": "e52a2011989d1327c8108dfe58c4c947dd57ec8e06129c454562fe96afd6398f",
+      "display_blob_sha": "93c09cf2070b7c8c02a00c160de709c1207f45be",
+      "display_original_site_sha256": "5268a85f0b71bef20207f1913ec8a7fce7de4f01ef77d2c555655597c94d2f11",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/clematis-drummondii/inat-644138938.jpg",
@@ -187,7 +202,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a036e84905cd27c812a14e37908935b096002b66",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -195,7 +210,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 352995024, photo 644138938, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 63f2187600491760350a98e66c07559df22e1d628a5d9bce632afa1d0494bd9a.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Clematis drummondii maps to indexed species clematis-drummondii; specialist morphology and BONAP range deferred.",
-      "sha256": "63f2187600491760350a98e66c07559df22e1d628a5d9bce632afa1d0494bd9a"
+      "sha256": "63f2187600491760350a98e66c07559df22e1d628a5d9bce632afa1d0494bd9a",
+      "display_sha256": "1b7b9b98b98f4d87b6f7d73c4ada084d2b5a760421ee87eeef79077cc3baa1af",
+      "display_blob_sha": "5db7da8803e069d10f9f9c939961e4f054c4b8b3",
+      "display_original_site_sha256": "63f2187600491760350a98e66c07559df22e1d628a5d9bce632afa1d0494bd9a",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/clematis-drummondii/inat-644143451.jpg",
@@ -206,7 +226,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "921d9c160858fbd9bffca533ef20842b5f1ea25c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -214,7 +234,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 352997365, photo 644143451, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 584b9157d6a8a1a85519a712ae63a715ee2b2fbfe17a0a91d0e4bbf7b020c76e.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Clematis drummondii maps to indexed species clematis-drummondii; specialist morphology and BONAP range deferred.",
-      "sha256": "584b9157d6a8a1a85519a712ae63a715ee2b2fbfe17a0a91d0e4bbf7b020c76e"
+      "sha256": "584b9157d6a8a1a85519a712ae63a715ee2b2fbfe17a0a91d0e4bbf7b020c76e",
+      "display_sha256": "4fc921f2ece534c4a73e2cb157a70bff440c792bf5b990882b8493204a25c148",
+      "display_blob_sha": "c8510ed50af87d8b89c699baaae653dfc9ef8011",
+      "display_original_site_sha256": "584b9157d6a8a1a85519a712ae63a715ee2b2fbfe17a0a91d0e4bbf7b020c76e",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "fce83b09541c6cf228fa4ca4c0017b6cd7ad3f5f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 278226200, photo 499573013, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 139fab9a75fc91adf1927155692d8b19c4baee28c8c8ecc48d6d653e58f818f4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Tidestromia lanuginosa maps to indexed species tidestromia-lanuginosa (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "139fab9a75fc91adf1927155692d8b19c4baee28c8c8ecc48d6d653e58f818f4"
+      "sha256": "139fab9a75fc91adf1927155692d8b19c4baee28c8c8ecc48d6d653e58f818f4",
+      "display_sha256": "c03c405ebb6f9876bc9092594d1dd987738826a1169edcaa27b93ae6fa7d33c2",
+      "display_blob_sha": "d1f99041f81c564abd90724de9b11cc8cc232175",
+      "display_original_site_sha256": "139fab9a75fc91adf1927155692d8b19c4baee28c8c8ecc48d6d653e58f818f4",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/tidestromia-lanuginosa/inat-506064819.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "fe5af0aa0e23e36f1049b8bacd8979635e9a73f3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 281699279, photo 506064819, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8559d7908cc064de31ffb5457373855fbe742efb5b37bbbf71b55c263d7e6cdb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Tidestromia lanuginosa maps to indexed species tidestromia-lanuginosa (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "8559d7908cc064de31ffb5457373855fbe742efb5b37bbbf71b55c263d7e6cdb"
+      "sha256": "8559d7908cc064de31ffb5457373855fbe742efb5b37bbbf71b55c263d7e6cdb",
+      "display_sha256": "d5544fd287de6c9f562a47ff8a42983d54e96c37044c9ebe93d05781b87e2222",
+      "display_blob_sha": "94b6e62a27ae39ee3d6118bba79015d519ae9d4d",
+      "display_original_site_sha256": "8559d7908cc064de31ffb5457373855fbe742efb5b37bbbf71b55c263d7e6cdb",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/tidestromia-lanuginosa/inat-648955317.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3aa9285995051cfa8cbc7c50b8852ab301a131d0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 355871390, photo 648955317, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e08c4ff9419742653672acb44f11992898d43d85b4402e91e4715adeb080b81e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Tidestromia lanuginosa maps to indexed species tidestromia-lanuginosa (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "e08c4ff9419742653672acb44f11992898d43d85b4402e91e4715adeb080b81e"
+      "sha256": "e08c4ff9419742653672acb44f11992898d43d85b4402e91e4715adeb080b81e",
+      "display_sha256": "d905007ae08c47e7162a16f0a7fae40506df2a3e23c00f088f8a01d642fab4a2",
+      "display_blob_sha": "3c9b6cb2ae99ccb0911b59b8750d20236ee40b02",
+      "display_original_site_sha256": "e08c4ff9419742653672acb44f11992898d43d85b4402e91e4715adeb080b81e",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/tidestromia-lanuginosa/inat-666183485.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "9820ff3bb36b9cbaa57bc355ea976f06f6d09f95",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 364904678, photo 666183485, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: aee051f6a873ee46651a12ae6c768ad8446c98bf64308a721b69b54f8a2c42c0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Tidestromia lanuginosa maps to indexed species tidestromia-lanuginosa (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "aee051f6a873ee46651a12ae6c768ad8446c98bf64308a721b69b54f8a2c42c0"
+      "sha256": "aee051f6a873ee46651a12ae6c768ad8446c98bf64308a721b69b54f8a2c42c0",
+      "display_sha256": "91d4b3eb6f3ef1732a75a0efca970bef2e6c11796c20e0f191fd90589307f37d",
+      "display_blob_sha": "118acdd506772dd4458a92e16b11a0071b1604fc",
+      "display_original_site_sha256": "aee051f6a873ee46651a12ae6c768ad8446c98bf64308a721b69b54f8a2c42c0",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

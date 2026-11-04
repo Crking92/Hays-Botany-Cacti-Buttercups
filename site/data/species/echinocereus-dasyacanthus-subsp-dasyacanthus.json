@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "154f62a305e3d5f8cf24c106d9adcbc08014c048",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 340783247 and photo 620222542 checked individually for current cc-by-nc rights, creator and identical SHA256 45f626f197db1befc26df198e2963d844f77da51ff670083d1edc884026ea08a; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/620222542/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Echinocereus dasyacanthus dasyacanthus' matches this Cactaceae species card echinocereus-dasyacanthus-subsp-dasyacanthus. Specialist morphology/field characters deferred.",
-      "sha256": "45f626f197db1befc26df198e2963d844f77da51ff670083d1edc884026ea08a"
+      "sha256": "45f626f197db1befc26df198e2963d844f77da51ff670083d1edc884026ea08a",
+      "display_sha256": "1c05cdfa23fb7cda4087f77d4c677c2848e1f49f6ebc7f21ed6a6e2ee192e041",
+      "display_blob_sha": "1b02c395c625e24d2b99d65072db07f9ef1bc5d9",
+      "display_original_site_sha256": "45f626f197db1befc26df198e2963d844f77da51ff670083d1edc884026ea08a",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/echinocereus-dasyacanthus-subsp-dasyacanthus/inat-620231225.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5a8de0fd59c78a6d09d6a9ff629ec99668c34c47",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 340787656 and photo 620231225 checked individually for current cc-by-nc rights, creator and identical SHA256 5099845306f26686c0322def0f4c522c50aff51de8cd7fe731e120ef6a7a679d; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/620231225/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Echinocereus dasyacanthus dasyacanthus' matches this Cactaceae species card echinocereus-dasyacanthus-subsp-dasyacanthus. Specialist morphology/field characters deferred.",
-      "sha256": "5099845306f26686c0322def0f4c522c50aff51de8cd7fe731e120ef6a7a679d"
+      "sha256": "5099845306f26686c0322def0f4c522c50aff51de8cd7fe731e120ef6a7a679d",
+      "display_sha256": "1165cf63e6800a121290bb7b146b41b9f715eb2bd79e6e42fc84b728b3fd596d",
+      "display_blob_sha": "e318c1f18581e75a138997bc9cbfa2ccbb577ebb",
+      "display_original_site_sha256": "5099845306f26686c0322def0f4c522c50aff51de8cd7fe731e120ef6a7a679d",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/echinocereus-dasyacanthus-subsp-dasyacanthus/inat-620249708.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "edf524ca798c07e25015fafc48f97a7348a3bc2e",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 340787675 and photo 620249708 checked individually for current cc-by-nc rights, creator and identical SHA256 6fb272941cff5ba23cb80e1ee4d26362e345dac914d1e07ee2eaab7e5ee729ec; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/620249708/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Echinocereus dasyacanthus dasyacanthus' matches this Cactaceae species card echinocereus-dasyacanthus-subsp-dasyacanthus. Specialist morphology/field characters deferred.",
-      "sha256": "6fb272941cff5ba23cb80e1ee4d26362e345dac914d1e07ee2eaab7e5ee729ec"
+      "sha256": "6fb272941cff5ba23cb80e1ee4d26362e345dac914d1e07ee2eaab7e5ee729ec",
+      "display_sha256": "3d46b3c77caee3c73a3f8cc075839dd5a8bdd741e1fc4af45f8a4b4a40534459",
+      "display_blob_sha": "180482dd2c31ca888eed614e1b6ab22e55ea8fb6",
+      "display_original_site_sha256": "6fb272941cff5ba23cb80e1ee4d26362e345dac914d1e07ee2eaab7e5ee729ec",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/echinocereus-dasyacanthus-subsp-dasyacanthus/inat-620331581.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0820a53d492f6ef6c2fcb710401594bf31d66b11",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 340836753 and photo 620331581 checked individually for current cc-by-nc rights, creator and identical SHA256 73372b75dbf110402d513c8eb0a7da91ae085a56cf1cde6dac027726f43d507a; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/620331581/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Echinocereus dasyacanthus dasyacanthus' matches this Cactaceae species card echinocereus-dasyacanthus-subsp-dasyacanthus. Specialist morphology/field characters deferred.",
-      "sha256": "73372b75dbf110402d513c8eb0a7da91ae085a56cf1cde6dac027726f43d507a"
+      "sha256": "73372b75dbf110402d513c8eb0a7da91ae085a56cf1cde6dac027726f43d507a",
+      "display_sha256": "37dc555434f428ec8eeb0b5283445ab5fa4e3eb7ed73868825d07a5abf63d336",
+      "display_blob_sha": "a96c99598e61857319ba5a593025c3c2e182479f",
+      "display_original_site_sha256": "73372b75dbf110402d513c8eb0a7da91ae085a56cf1cde6dac027726f43d507a",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/echinocereus-dasyacanthus-subsp-dasyacanthus/inat-620426101.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2ead6d3fdf1956d7e94919e91f23596e221b834f",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 340883076 and photo 620426101 checked individually for current cc-by-nc rights, creator and identical SHA256 1315cf7ddfad54ca1e3764024d034de72ef11d57650ab6803b30f294962328e0; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/620426101/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Echinocereus dasyacanthus dasyacanthus' matches this Cactaceae species card echinocereus-dasyacanthus-subsp-dasyacanthus. Specialist morphology/field characters deferred.",
-      "sha256": "1315cf7ddfad54ca1e3764024d034de72ef11d57650ab6803b30f294962328e0"
+      "sha256": "1315cf7ddfad54ca1e3764024d034de72ef11d57650ab6803b30f294962328e0",
+      "display_sha256": "a79f454432f2f41219b1e4f7d210c5f6204a9c817ba63861c2b1949b6bbec286",
+      "display_blob_sha": "2d37f9efc650721d1b09406c9b7999a9598bff45",
+      "display_original_site_sha256": "1315cf7ddfad54ca1e3764024d034de72ef11d57650ab6803b30f294962328e0",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -63,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "516f0ccd6ae97e14f95955050ca0d460e789a192",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -71,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 152539974, photo 263335481, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c75fc0ff4ac8bec588fe1440a276a7484f2880524dc50ef26643250fe36db3b8.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Clematis terniflora maps to indexed species clematis-terniflora; specialist morphology and BONAP range deferred.",
-      "sha256": "c75fc0ff4ac8bec588fe1440a276a7484f2880524dc50ef26643250fe36db3b8"
+      "sha256": "c75fc0ff4ac8bec588fe1440a276a7484f2880524dc50ef26643250fe36db3b8",
+      "display_sha256": "4f302ba31bd99704b7132977eb2723b0308a7c2c99971384d052e58c91de3120",
+      "display_blob_sha": "00ecb31567acf88ca3879af9290c7e89f54a828b",
+      "display_original_site_sha256": "c75fc0ff4ac8bec588fe1440a276a7484f2880524dc50ef26643250fe36db3b8",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/clematis-terniflora/inat-263566124.jpg",
@@ -82,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e8fcc4bca6017f78a4dad9a3dc0335a59d8392c8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -90,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 152663005, photo 263566124, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f2fa4b742629b20996082a1e12441bb47cfd1fac1727ad32821be72dd8a9a8a4.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Clematis terniflora maps to indexed species clematis-terniflora; specialist morphology and BONAP range deferred.",
-      "sha256": "f2fa4b742629b20996082a1e12441bb47cfd1fac1727ad32821be72dd8a9a8a4"
+      "sha256": "f2fa4b742629b20996082a1e12441bb47cfd1fac1727ad32821be72dd8a9a8a4",
+      "display_sha256": "8b700e93c4c3ed1d67b06a8b9490b48d3bf0227c2e059d84dc627b26c1ce9209",
+      "display_blob_sha": "4e19e934bb9c2fcc26495706760dc71557749569",
+      "display_original_site_sha256": "f2fa4b742629b20996082a1e12441bb47cfd1fac1727ad32821be72dd8a9a8a4",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/clematis-terniflora/inat-272850100.jpg",
@@ -101,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "371d9bfaa75e07a29e84e7f6124947c65bc8fc85",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -109,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 157838061, photo 272850100, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e6572e0ee107e4abae95e8ac79accafdd4c61af066cf3b07c0af7279f485e1a4.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Clematis terniflora maps to indexed species clematis-terniflora; specialist morphology and BONAP range deferred.",
-      "sha256": "e6572e0ee107e4abae95e8ac79accafdd4c61af066cf3b07c0af7279f485e1a4"
+      "sha256": "e6572e0ee107e4abae95e8ac79accafdd4c61af066cf3b07c0af7279f485e1a4",
+      "display_sha256": "59607bfb64053ad0ac06ce5eee633cbcc489994b7429fa743a11677ffe21f166",
+      "display_blob_sha": "f7123017793776df9d9d908b71b3bfafe8d76dd9",
+      "display_original_site_sha256": "e6572e0ee107e4abae95e8ac79accafdd4c61af066cf3b07c0af7279f485e1a4",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/clematis-terniflora/inat-357107782.jpg",
@@ -120,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4fcee73a426c34e04009bb845ad92c8055c56b5d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -128,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 202221272, photo 357107782, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c48d636e5a7461557ad275500cac9f3637d7a0f9220ddf7cf6772163a327f6a4.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Clematis terniflora maps to indexed species clematis-terniflora; specialist morphology and BONAP range deferred.",
-      "sha256": "c48d636e5a7461557ad275500cac9f3637d7a0f9220ddf7cf6772163a327f6a4"
+      "sha256": "c48d636e5a7461557ad275500cac9f3637d7a0f9220ddf7cf6772163a327f6a4",
+      "display_sha256": "8ec8f3bbf8ede238fe653ae90f0ec170cc375810a9f49864e4c13b8204cb41c5",
+      "display_blob_sha": "c3b3c6a4310c494275ae0bb4a17a686e4c2b25d5",
+      "display_original_site_sha256": "c48d636e5a7461557ad275500cac9f3637d7a0f9220ddf7cf6772163a327f6a4",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/clematis-terniflora/inat-357490048.jpeg",
@@ -139,7 +159,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ff7e1a8a01e2d82111f9918421437aa925f5197b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -147,7 +167,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 202417977, photo 357490048, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e705b1665dfbb4221aa8b46d91adb4f12efbf231abc9948425b223dacd583fc2.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Clematis terniflora maps to indexed species clematis-terniflora; specialist morphology and BONAP range deferred.",
-      "sha256": "e705b1665dfbb4221aa8b46d91adb4f12efbf231abc9948425b223dacd583fc2"
+      "sha256": "e705b1665dfbb4221aa8b46d91adb4f12efbf231abc9948425b223dacd583fc2",
+      "display_sha256": "e68813c7a7d39958b83ed26ae8c7226f20367182a94e94c276104a0d05a52db0",
+      "display_blob_sha": "5fdcec9c42f85921aa675c9df9a65b151b137ac7",
+      "display_original_site_sha256": "e705b1665dfbb4221aa8b46d91adb4f12efbf231abc9948425b223dacd583fc2",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

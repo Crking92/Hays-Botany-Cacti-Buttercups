@@ -73,7 +73,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "eb52c36a693d61e006f93b85bc1da5a64383b7a5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -81,7 +81,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 162298756, photo 280620126, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ac4fa1772b77f2b493c6835fb4d81e73ba1db8f59f0ef4dd15be106c99b3ff6b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Alternanthera philoxeroides maps to indexed species alternanthera-philoxeroides (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "ac4fa1772b77f2b493c6835fb4d81e73ba1db8f59f0ef4dd15be106c99b3ff6b"
+      "sha256": "ac4fa1772b77f2b493c6835fb4d81e73ba1db8f59f0ef4dd15be106c99b3ff6b",
+      "display_sha256": "7780fd40b1e1f527cfeeecbcd1765e2a2606bff280a0c03ec75b5d8e2098a10a",
+      "display_blob_sha": "e38a969d4192cb5c58eceb209f9d903737769b45",
+      "display_original_site_sha256": "ac4fa1772b77f2b493c6835fb4d81e73ba1db8f59f0ef4dd15be106c99b3ff6b",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/alternanthera-philoxeroides/inat-360862583.jpg",
@@ -111,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "c28d1f08b3684ecc88d9708eaabcf0b86ff7e2a5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -119,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 269808987, photo 485162770, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 98915dc58a9e2d8d7b4ed5a211e4949d22bdb1265047dfd7e08402c061cf4728. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Alternanthera philoxeroides maps to indexed species alternanthera-philoxeroides (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "98915dc58a9e2d8d7b4ed5a211e4949d22bdb1265047dfd7e08402c061cf4728"
+      "sha256": "98915dc58a9e2d8d7b4ed5a211e4949d22bdb1265047dfd7e08402c061cf4728",
+      "display_sha256": "ddd738e32be1796266ba0f60c82333be992faf74396e4a5313def398af3d547f",
+      "display_blob_sha": "1c38ff971beed962b3f6816c07a248d170cbed4a",
+      "display_original_site_sha256": "98915dc58a9e2d8d7b4ed5a211e4949d22bdb1265047dfd7e08402c061cf4728",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/alternanthera-philoxeroides/inat-495799247.jpg",
@@ -130,7 +140,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c136beecd1d04e8c375121ee9032dad6f911afaa",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -138,7 +148,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 276026513, photo 495799247, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 18e9b4da0697da3d560b886c27df71c0f8c532edf58d6254fb4ea3bd9c6300c3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Alternanthera philoxeroides maps to indexed species alternanthera-philoxeroides (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "18e9b4da0697da3d560b886c27df71c0f8c532edf58d6254fb4ea3bd9c6300c3"
+      "sha256": "18e9b4da0697da3d560b886c27df71c0f8c532edf58d6254fb4ea3bd9c6300c3",
+      "display_sha256": "af3f4aeb0627f5df6e40f6c159c07a1f3db43677e61178ecd1483aca6d693d04",
+      "display_blob_sha": "4e62f6a4e99c6aacffd4e33989d2de7270e22194",
+      "display_original_site_sha256": "18e9b4da0697da3d560b886c27df71c0f8c532edf58d6254fb4ea3bd9c6300c3",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/alternanthera-philoxeroides/inat-644293152.jpg",
@@ -149,7 +164,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "08c3718f61be47e4e62e5cd659a5a54a9af01766",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -157,7 +172,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 353082906, photo 644293152, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 82411a532a1c7104cdd8f8f49e969d24b535f5f20913deab76f3c755c924c3a2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Alternanthera philoxeroides maps to indexed species alternanthera-philoxeroides (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "82411a532a1c7104cdd8f8f49e969d24b535f5f20913deab76f3c755c924c3a2"
+      "sha256": "82411a532a1c7104cdd8f8f49e969d24b535f5f20913deab76f3c755c924c3a2",
+      "display_sha256": "34ba479a1602eb3e8c405c74f221aef2c3ec789e98861747215e5b7aa4b78614",
+      "display_blob_sha": "6c7eff6507895022c98e90be2a56d19fb0d2d1fb",
+      "display_original_site_sha256": "82411a532a1c7104cdd8f8f49e969d24b535f5f20913deab76f3c755c924c3a2",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

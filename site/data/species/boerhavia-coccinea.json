@@ -71,7 +71,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9a20695836d728b8e2eaa8386e9c7b3801e35ec6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -79,7 +79,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345913947, photo 630471598, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 510b67454e2ef45c6335d6232f438940ea71a132a7162ecb387d1876b9869e86. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Boerhavia coccinea maps to indexed species boerhavia-coccinea; specialist morphology and BONAP range deferred.",
-      "sha256": "510b67454e2ef45c6335d6232f438940ea71a132a7162ecb387d1876b9869e86"
+      "sha256": "510b67454e2ef45c6335d6232f438940ea71a132a7162ecb387d1876b9869e86",
+      "display_sha256": "48ac623cbee272885a70247bbfdc48b3802cb043478cefc4f60a7abc64312674",
+      "display_blob_sha": "a54a9a1ce5bafd2456c737813ed033cf6256855b",
+      "display_original_site_sha256": "510b67454e2ef45c6335d6232f438940ea71a132a7162ecb387d1876b9869e86",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/boerhavia-coccinea/inat-640130828.jpg",
@@ -90,7 +95,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "59f70c7374d0d134065a250fb798703d80875f72",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -98,7 +103,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 350812220, photo 640130828, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: e98a3bc6028a60a14b7c3b4aeb76d980e8d68c6e760538b5ce4964aa81fb5ee9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Boerhavia coccinea maps to indexed species boerhavia-coccinea; specialist morphology and BONAP range deferred.",
-      "sha256": "e98a3bc6028a60a14b7c3b4aeb76d980e8d68c6e760538b5ce4964aa81fb5ee9"
+      "sha256": "e98a3bc6028a60a14b7c3b4aeb76d980e8d68c6e760538b5ce4964aa81fb5ee9",
+      "display_sha256": "f49de873293a5a63e4f4dd5ca9d715fd07e69d046b9c7436a429443d8b35280d",
+      "display_blob_sha": "577b88e63c3ce81fd257558d4493413fdbe53251",
+      "display_original_site_sha256": "e98a3bc6028a60a14b7c3b4aeb76d980e8d68c6e760538b5ce4964aa81fb5ee9",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/boerhavia-coccinea/inat-640180738.jpg",
@@ -109,7 +119,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "40cca7373794e5b4b8103bfc1fc639fa998d037d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -117,7 +127,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 350839074, photo 640180738, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6089ee9d0a03d3db7e3e57a3ff3ca6b6137dd2e502368564e3e070e06b2301ca. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Boerhavia coccinea maps to indexed species boerhavia-coccinea; specialist morphology and BONAP range deferred.",
-      "sha256": "6089ee9d0a03d3db7e3e57a3ff3ca6b6137dd2e502368564e3e070e06b2301ca"
+      "sha256": "6089ee9d0a03d3db7e3e57a3ff3ca6b6137dd2e502368564e3e070e06b2301ca",
+      "display_sha256": "dd9ab3fec1d0e47f6098dba0a2dd8e629059bc4088057f7965d1bbefa80a1956",
+      "display_blob_sha": "8b830011d7622cc757baf35a6deeee8f4a9566a4",
+      "display_original_site_sha256": "6089ee9d0a03d3db7e3e57a3ff3ca6b6137dd2e502368564e3e070e06b2301ca",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/boerhavia-coccinea/inat-646296782.jpg",
@@ -128,7 +143,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "23f67569f137d3a386adecf98b4e586c29b5d53d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -136,7 +151,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354263161, photo 646296782, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 425c1da7aefc1617719799f44631692e614932c772df020e4a6b9bd755c4a9cc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Boerhavia coccinea maps to indexed species boerhavia-coccinea; specialist morphology and BONAP range deferred.",
-      "sha256": "425c1da7aefc1617719799f44631692e614932c772df020e4a6b9bd755c4a9cc"
+      "sha256": "425c1da7aefc1617719799f44631692e614932c772df020e4a6b9bd755c4a9cc",
+      "display_sha256": "17eaf4ca017c047342eed1702bf5b20d3854f603eda8f0b2790bad9a0e7b93d7",
+      "display_blob_sha": "e91cbb8fab9d2d34b3b97924f383b077ce942b5e",
+      "display_original_site_sha256": "425c1da7aefc1617719799f44631692e614932c772df020e4a6b9bd755c4a9cc",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/boerhavia-coccinea/inat-647412696.jpg",
@@ -147,7 +167,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9fc4ad304f6cb793058f3931a0a2ed55da2b762a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -155,7 +175,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354923903, photo 647412696, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 94fcc4faf1c0c2e084a03cf7dc164eedd01229bab0bdb7a7216066813a823cf7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Boerhavia coccinea maps to indexed species boerhavia-coccinea; specialist morphology and BONAP range deferred.",
-      "sha256": "94fcc4faf1c0c2e084a03cf7dc164eedd01229bab0bdb7a7216066813a823cf7"
+      "sha256": "94fcc4faf1c0c2e084a03cf7dc164eedd01229bab0bdb7a7216066813a823cf7",
+      "display_sha256": "1b410d390a28045800e004cc27310382c7c8f383debe832728060d59a42a107a",
+      "display_blob_sha": "4fc08b8273d047ed9a5a83ea89a5b3dfec6a35fa",
+      "display_original_site_sha256": "94fcc4faf1c0c2e084a03cf7dc164eedd01229bab0bdb7a7216066813a823cf7",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/boerhavia-coccinea/archived-0eb6de4806de322d.jpg",

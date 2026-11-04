@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e5a5a48878eaed40ce1c4a12d197266e55720a85",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 344525933, photo 627754626, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: aea868b8a78cc57dcabb32fa842aa400a373bfb732f9797b6c06749c37947da1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Nephroia carolina maps to indexed species nephroia-carolina; specialist morphology and BONAP range deferred.",
-      "sha256": "aea868b8a78cc57dcabb32fa842aa400a373bfb732f9797b6c06749c37947da1"
+      "sha256": "aea868b8a78cc57dcabb32fa842aa400a373bfb732f9797b6c06749c37947da1",
+      "display_sha256": "21fdd86892e8ed1f2cd4583f0cad9ef989c47d77030da19f4d1edfa4e2c48c79",
+      "display_blob_sha": "cba6bdbcab5023c9a89535f6d973d9a17f35f32b",
+      "display_original_site_sha256": "aea868b8a78cc57dcabb32fa842aa400a373bfb732f9797b6c06749c37947da1",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nephroia-carolina/inat-629089455.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0bbca819a1cb7ea45af8bee4c317acb525fa9ac3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345212139, photo 629089455, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 71868e4db55f321ad9f996d17518b35a90044162ecee51efa22dcbf5482c30da. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Nephroia carolina maps to indexed species nephroia-carolina; specialist morphology and BONAP range deferred.",
-      "sha256": "71868e4db55f321ad9f996d17518b35a90044162ecee51efa22dcbf5482c30da"
+      "sha256": "71868e4db55f321ad9f996d17518b35a90044162ecee51efa22dcbf5482c30da",
+      "display_sha256": "3db73210db806184693e9957f6b044ca2d6db727816549d25d9b8f041628d7de",
+      "display_blob_sha": "02c24001eb1a3fde9c36824977520b18176b8389",
+      "display_original_site_sha256": "71868e4db55f321ad9f996d17518b35a90044162ecee51efa22dcbf5482c30da",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nephroia-carolina/inat-631028967.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "04922bf7674a2afeed559ac0e7a30990432acf6a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 346198319, photo 631028967, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c9935741b6a66b57a014603c2eb741e25311644bbdf645e62d0edf78a9d1f374. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Nephroia carolina maps to indexed species nephroia-carolina; specialist morphology and BONAP range deferred.",
-      "sha256": "c9935741b6a66b57a014603c2eb741e25311644bbdf645e62d0edf78a9d1f374"
+      "sha256": "c9935741b6a66b57a014603c2eb741e25311644bbdf645e62d0edf78a9d1f374",
+      "display_sha256": "80e970459a1a90a7d10575a96671ce20d0f234d311029fde34d1c5367918f7f2",
+      "display_blob_sha": "7f9f7a79fa86bfb9720bbbf90780575185a479c6",
+      "display_original_site_sha256": "c9935741b6a66b57a014603c2eb741e25311644bbdf645e62d0edf78a9d1f374",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nephroia-carolina/inat-631197485.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "588dfe074e8339c4a9bba0610019d24c16d213ed",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 346281363, photo 631197485, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 33e5e66de30caf01e6e7f555eba79a74d7f3df3906c678aebec6d3229949d67a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Nephroia carolina maps to indexed species nephroia-carolina; specialist morphology and BONAP range deferred.",
-      "sha256": "33e5e66de30caf01e6e7f555eba79a74d7f3df3906c678aebec6d3229949d67a"
+      "sha256": "33e5e66de30caf01e6e7f555eba79a74d7f3df3906c678aebec6d3229949d67a",
+      "display_sha256": "efbe18ef6e6515a15cd3e6b656d503e84fbe16a04ab082b3f27a3af1585de981",
+      "display_blob_sha": "7a2ef043255dd05cb886d9d4a6a914d10e0d6b59",
+      "display_original_site_sha256": "33e5e66de30caf01e6e7f555eba79a74d7f3df3906c678aebec6d3229949d67a",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nephroia-carolina/inat-636150142.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "582a25541d973c29b8f0daa7c11ea1c17e5a0824",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 348779233, photo 636150142, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f553c1a16fcc1c7671e2e9569da6b050bbba4251f7ab04aca50dcd797159476f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Nephroia carolina maps to indexed species nephroia-carolina; specialist morphology and BONAP range deferred.",
-      "sha256": "f553c1a16fcc1c7671e2e9569da6b050bbba4251f7ab04aca50dcd797159476f"
+      "sha256": "f553c1a16fcc1c7671e2e9569da6b050bbba4251f7ab04aca50dcd797159476f",
+      "display_sha256": "4bf218abbeadfa461212cc3cc016266d07e356e103c8918d8267000b95992e1e",
+      "display_blob_sha": "f2e2ab798265ba13dacb03b78aec881c1f689c89",
+      "display_original_site_sha256": "f553c1a16fcc1c7671e2e9569da6b050bbba4251f7ab04aca50dcd797159476f",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

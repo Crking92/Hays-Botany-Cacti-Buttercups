@@ -33,7 +33,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "eedf9e37af0401683bb75955527e7b8e4435eb12",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -41,7 +41,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 201379147, photo 355475209, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: cc0a3935db0f268826e79b7e9264221bfa7512628665a8e11939e3e68c626f84. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Eschscholzia californica maps to indexed species eschscholzia-californica; specialist morphology and BONAP range deferred.",
-      "sha256": "cc0a3935db0f268826e79b7e9264221bfa7512628665a8e11939e3e68c626f84"
+      "sha256": "cc0a3935db0f268826e79b7e9264221bfa7512628665a8e11939e3e68c626f84",
+      "display_sha256": "680591b990791168f851ad10f403d01b76e2ec8fa33f37a56879940d2ff3117d",
+      "display_blob_sha": "d429fa9dea129b9a7b75e2286030a04b44032030",
+      "display_original_site_sha256": "cc0a3935db0f268826e79b7e9264221bfa7512628665a8e11939e3e68c626f84",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/eschscholzia-californica/inat-480937104.jpg",
@@ -71,7 +76,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c12b0d68a28a706ecea1670297d602fe53d27fe0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -79,7 +84,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 282199727, photo 506984987, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 673ba481a326ca81efd45442b458d8763965fdc8fb2377ba17b7ad358b27ce75. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Eschscholzia californica maps to indexed species eschscholzia-californica; specialist morphology and BONAP range deferred.",
-      "sha256": "673ba481a326ca81efd45442b458d8763965fdc8fb2377ba17b7ad358b27ce75"
+      "sha256": "673ba481a326ca81efd45442b458d8763965fdc8fb2377ba17b7ad358b27ce75",
+      "display_sha256": "0a6c2f303cdedfeafc0d406ddbad89fd4ae640ed82e622323558cfc6d8304907",
+      "display_blob_sha": "1892a1db07fd804079902d7f6f0f827500900a20",
+      "display_original_site_sha256": "673ba481a326ca81efd45442b458d8763965fdc8fb2377ba17b7ad358b27ce75",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/eschscholzia-californica/inat-624756234.jpg",
@@ -90,7 +100,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2fd865c3db9fa456542d77af320fca33ad5e1549",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -98,7 +108,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 343021667, photo 624756234, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: da77241e5615bca0b6c2b852d99e34a38fb5d4551619472066a493d88ec763df. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Eschscholzia californica maps to indexed species eschscholzia-californica; specialist morphology and BONAP range deferred.",
-      "sha256": "da77241e5615bca0b6c2b852d99e34a38fb5d4551619472066a493d88ec763df"
+      "sha256": "da77241e5615bca0b6c2b852d99e34a38fb5d4551619472066a493d88ec763df",
+      "display_sha256": "6b44a79c400067b663e652900470d1c3e0274aff4658993f1d60d0ca2c6ee935",
+      "display_blob_sha": "a1e2d22324e6577dcbaa05e7a90e3f386864c08f",
+      "display_original_site_sha256": "da77241e5615bca0b6c2b852d99e34a38fb5d4551619472066a493d88ec763df",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/eschscholzia-californica/inat-632614576.jpg",
@@ -109,7 +124,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "04b1bc3cf1f480570f780fbb4c6f08f2eb7c71c9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -117,7 +132,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 346997854, photo 632614576, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: dd45c046c37cb8b03a96343c0e384df1679455fa828076c3866a98f66cb6e6b5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Eschscholzia californica maps to indexed species eschscholzia-californica; specialist morphology and BONAP range deferred.",
-      "sha256": "dd45c046c37cb8b03a96343c0e384df1679455fa828076c3866a98f66cb6e6b5"
+      "sha256": "dd45c046c37cb8b03a96343c0e384df1679455fa828076c3866a98f66cb6e6b5",
+      "display_sha256": "9f14535d75571fd60510a5d54c00e3bb894fae7105f67cd11a8fb411a2f96955",
+      "display_blob_sha": "01abb9bf2b12f3f91c69487f3355ce8bb5ebd7cd",
+      "display_original_site_sha256": "dd45c046c37cb8b03a96343c0e384df1679455fa828076c3866a98f66cb6e6b5",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

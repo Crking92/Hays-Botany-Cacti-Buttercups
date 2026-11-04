@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6f21fd05709da682bc2f1328bb7230c2579ffbee",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 341027476 and photo 620721062 checked individually for current cc-by-nc rights, creator and identical SHA256 ebcf828be8d9c4235ef59aa642d863740e6124b4cae18282d16387da87d36dec; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/620721062/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Echinocereus reichenbachii caespitosus' matches this Cactaceae species card echinocereus-reichenbachii. Specialist morphology/field characters deferred.",
-      "sha256": "ebcf828be8d9c4235ef59aa642d863740e6124b4cae18282d16387da87d36dec"
+      "sha256": "ebcf828be8d9c4235ef59aa642d863740e6124b4cae18282d16387da87d36dec",
+      "display_sha256": "0e1fd0e878954a4a8c34ff666814be3517184b0827986f1cbf4bfccae9f30d78",
+      "display_blob_sha": "539299ae5788ae5882f63569db1425fd2c86af1c",
+      "display_original_site_sha256": "ebcf828be8d9c4235ef59aa642d863740e6124b4cae18282d16387da87d36dec",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/echinocereus-reichenbachii/inat-622092461.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e720a528c1ff8ae6a1fad819bc413015a70bee36",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 341692456 and photo 622092461 checked individually for current cc-by-nc rights, creator and identical SHA256 1176ed8479ff915c6382a02885bf059c8be6567f2aef5ab778242732ac52e05f; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/622092461/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Echinocereus reichenbachii caespitosus' matches this Cactaceae species card echinocereus-reichenbachii. Specialist morphology/field characters deferred.",
-      "sha256": "1176ed8479ff915c6382a02885bf059c8be6567f2aef5ab778242732ac52e05f"
+      "sha256": "1176ed8479ff915c6382a02885bf059c8be6567f2aef5ab778242732ac52e05f",
+      "display_sha256": "88b9ee819d4bd9a17d4a78774dd086ec206c59d169bf299c5aca96f6e7c1105c",
+      "display_blob_sha": "b80115fc19cd29252546376259a0af4b329bac25",
+      "display_original_site_sha256": "1176ed8479ff915c6382a02885bf059c8be6567f2aef5ab778242732ac52e05f",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/echinocereus-reichenbachii/inat-622752730.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "86d5af8afcd5b6750f27ffb6966c2fa3b7dc4427",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 342019679 and photo 622752730 checked individually for current cc-by-nc rights, creator and identical SHA256 cbb9e31e69821500d37298d9ac5863a3fe359200da154b445d09660c6543241f; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/622752730/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Echinocereus reichenbachii caespitosus' matches this Cactaceae species card echinocereus-reichenbachii. Specialist morphology/field characters deferred.",
-      "sha256": "cbb9e31e69821500d37298d9ac5863a3fe359200da154b445d09660c6543241f"
+      "sha256": "cbb9e31e69821500d37298d9ac5863a3fe359200da154b445d09660c6543241f",
+      "display_sha256": "3ca687f3fe0616b595dcf6afccd2b633284d0e434c1da5aa726ac2a7c708a014",
+      "display_blob_sha": "6a608d3447115a537512a05bf96f2edd3c64cff8",
+      "display_original_site_sha256": "cbb9e31e69821500d37298d9ac5863a3fe359200da154b445d09660c6543241f",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/echinocereus-reichenbachii/inat-625412768.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b9c4f641e1a2656dce398f43c606c4e0442e536a",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 343344052 and photo 625412768 checked individually for current cc-by-nc rights, creator and identical SHA256 68546faa13a439add2d83f99f610ebf580f74fcb2aef7aaddcdd713c31a3154e; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/625412768/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Echinocereus reichenbachii caespitosus' matches this Cactaceae species card echinocereus-reichenbachii. Specialist morphology/field characters deferred.",
-      "sha256": "68546faa13a439add2d83f99f610ebf580f74fcb2aef7aaddcdd713c31a3154e"
+      "sha256": "68546faa13a439add2d83f99f610ebf580f74fcb2aef7aaddcdd713c31a3154e",
+      "display_sha256": "88c642398059663a07aa811ad5ce490c57d617ef0f24bcb81cc51434ffbefba0",
+      "display_blob_sha": "1f372f11f6963d4658dc4088167cc868286e4a13",
+      "display_original_site_sha256": "68546faa13a439add2d83f99f610ebf580f74fcb2aef7aaddcdd713c31a3154e",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/echinocereus-reichenbachii/inat-627718694.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c8b5ca0a0c345eda288e057e11fd34c88d9f1498",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 344507797 and photo 627718694 checked individually for current cc-by-nc rights, creator and identical SHA256 3f0615eb508269853c0af015e8716ae36c4269f0abccfa44b4c1c845b4283947; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/627718694/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Echinocereus reichenbachii caespitosus' matches this Cactaceae species card echinocereus-reichenbachii. Specialist morphology/field characters deferred.",
-      "sha256": "3f0615eb508269853c0af015e8716ae36c4269f0abccfa44b4c1c845b4283947"
+      "sha256": "3f0615eb508269853c0af015e8716ae36c4269f0abccfa44b4c1c845b4283947",
+      "display_sha256": "f7b74105a20fee8089f36491929fbbc4df4cbf2e3ea693758b1a5e75210eb66b",
+      "display_blob_sha": "a0f912d03b7e202857925e02ed509eccc3fc5607",
+      "display_original_site_sha256": "3f0615eb508269853c0af015e8716ae36c4269f0abccfa44b4c1c845b4283947",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

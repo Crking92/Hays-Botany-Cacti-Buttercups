@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d5b66ee24ed9e22d1149e3935743f16d6e8c02c7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 326903650, photo 592147404, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6b16804d5432d12131f996c5ef719d067d81be45c0c5a579fb1d1c8fc7741e15. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Persicaria punctata maps to indexed species persicaria-punctata; specialist morphology and BONAP range deferred.",
-      "sha256": "6b16804d5432d12131f996c5ef719d067d81be45c0c5a579fb1d1c8fc7741e15"
+      "sha256": "6b16804d5432d12131f996c5ef719d067d81be45c0c5a579fb1d1c8fc7741e15",
+      "display_sha256": "0334cf1378fd8793c340113d9438db8e76abe045abc387db994759c2617cf709",
+      "display_blob_sha": "22a9f33b3d73fc8e4085bb0b90ff697ca6d2b101",
+      "display_original_site_sha256": "6b16804d5432d12131f996c5ef719d067d81be45c0c5a579fb1d1c8fc7741e15",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/persicaria-punctata/inat-654961530.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ff6e55281a4ea666fef8c3480f5067a83b95bf48",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 359001091, photo 654961530, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b8e5b5522d2d13abd507f5c81c4ef44a6cf6f87871245af68220b57ef19b16fb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Persicaria punctata maps to indexed species persicaria-punctata; specialist morphology and BONAP range deferred.",
-      "sha256": "b8e5b5522d2d13abd507f5c81c4ef44a6cf6f87871245af68220b57ef19b16fb"
+      "sha256": "b8e5b5522d2d13abd507f5c81c4ef44a6cf6f87871245af68220b57ef19b16fb",
+      "display_sha256": "ce3bd4bda7d8ff053663c7bad8d0baf7d329243be1d673794be960217450567b",
+      "display_blob_sha": "aa25737c8753545aa8a934edc9c53cd7c4dca036",
+      "display_original_site_sha256": "b8e5b5522d2d13abd507f5c81c4ef44a6cf6f87871245af68220b57ef19b16fb",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/persicaria-punctata/inat-674980167.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f3b6b643efee93da0e81d263fe2396fa7aa66c7d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 369519789, photo 674980167, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9d9222fa0d68b56acc0f6add92735ad0742fe8a2a5b4ae5f8ca8d505264572c5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Persicaria punctata maps to indexed species persicaria-punctata; specialist morphology and BONAP range deferred.",
-      "sha256": "9d9222fa0d68b56acc0f6add92735ad0742fe8a2a5b4ae5f8ca8d505264572c5"
+      "sha256": "9d9222fa0d68b56acc0f6add92735ad0742fe8a2a5b4ae5f8ca8d505264572c5",
+      "display_sha256": "6a0456b5267ad632964ca0ac5693ef27cdfff99eab465e857c81b5f6fc0aa755",
+      "display_blob_sha": "4f5424a13b5546d10fddab8d80a27b377235529f",
+      "display_original_site_sha256": "9d9222fa0d68b56acc0f6add92735ad0742fe8a2a5b4ae5f8ca8d505264572c5",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/persicaria-punctata/inat-721475783.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source_blob_sha": "84e0274f8af00e1231519f589c4c3980daebe9f6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 393608245, photo 721475783, individual license cc0, exact source photo URL. Source media SHA256 matches supplied original ZIP: 36fb90666add38a51bee751bf8cc451f8f5d4af7825883f2e6eaca13b164dce0. Credit evidence: original user ZIP credit record.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Persicaria punctata maps to indexed species persicaria-punctata; specialist morphology and BONAP range deferred.",
-      "sha256": "36fb90666add38a51bee751bf8cc451f8f5d4af7825883f2e6eaca13b164dce0"
+      "sha256": "36fb90666add38a51bee751bf8cc451f8f5d4af7825883f2e6eaca13b164dce0",
+      "display_sha256": "d2b4ea20639690a178f2eaf740d5f3acaea26ff2c5161b5a1b940771c20036cd",
+      "display_blob_sha": "673eb6da326a5891aa4ac6cd8f412dcd3159e3ba",
+      "display_original_site_sha256": "36fb90666add38a51bee751bf8cc451f8f5d4af7825883f2e6eaca13b164dce0",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/persicaria-punctata/inat-743891661.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a7ff3b7d6a44c279c139e8d14b543270a45281fc",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 405031307, photo 743891661, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f1b4fbc20cf2af16c1d3ec773af0ba365abc639bff1de542c01c5084d1dffd6d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Persicaria punctata maps to indexed species persicaria-punctata; specialist morphology and BONAP range deferred.",
-      "sha256": "f1b4fbc20cf2af16c1d3ec773af0ba365abc639bff1de542c01c5084d1dffd6d"
+      "sha256": "f1b4fbc20cf2af16c1d3ec773af0ba365abc639bff1de542c01c5084d1dffd6d",
+      "display_sha256": "f949755b9848c15fff2f17669bc39705d82e32f5771d251603d6ba76f8522d34",
+      "display_blob_sha": "944dc5222b6b497de18fe8345e8d910b96d23d88",
+      "display_original_site_sha256": "f1b4fbc20cf2af16c1d3ec773af0ba365abc639bff1de542c01c5084d1dffd6d",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/persicaria-punctata/archived-a945bbd68aee91ae.jpg",

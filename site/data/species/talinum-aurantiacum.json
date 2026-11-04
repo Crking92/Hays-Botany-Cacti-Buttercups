@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "eca1fe0889499e73feccdfe701b3d9afa432ff58",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 348318626, photo 635235235, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9e0f6604dd8b7f6996157ff85f2496f3cc651a4d34e28d05e7cd5daed6951f38.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Talinum aurantiacum maps to indexed species talinum-aurantiacum; specialist morphology and BONAP range deferred.",
-      "sha256": "9e0f6604dd8b7f6996157ff85f2496f3cc651a4d34e28d05e7cd5daed6951f38"
+      "sha256": "9e0f6604dd8b7f6996157ff85f2496f3cc651a4d34e28d05e7cd5daed6951f38",
+      "display_sha256": "3ae4430b316bf40f772f39fb8b2c26ba714b79934795d9819233f82276414953",
+      "display_blob_sha": "38ddc5d5ddeb579993016ca660a4f008cd814448",
+      "display_original_site_sha256": "9e0f6604dd8b7f6996157ff85f2496f3cc651a4d34e28d05e7cd5daed6951f38",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/talinum-aurantiacum/inat-637831016.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c641e91e468caee13d32cb7709ca0fa5436b9a5b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 350544555, photo 639609477, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bf1ca7b3e5d42a29681ee135bc0302b2b28fc3a45044a29dacd74feb46ef9c78.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Talinum aurantiacum maps to indexed species talinum-aurantiacum; specialist morphology and BONAP range deferred.",
-      "sha256": "bf1ca7b3e5d42a29681ee135bc0302b2b28fc3a45044a29dacd74feb46ef9c78"
+      "sha256": "bf1ca7b3e5d42a29681ee135bc0302b2b28fc3a45044a29dacd74feb46ef9c78",
+      "display_sha256": "ecca3eb69db0f6a2c487e347aaaf5844c45c26c6900072e7d242f034fb657468",
+      "display_blob_sha": "42d70f6e3245cdf2566d8b0565e443b65cbbdca5",
+      "display_original_site_sha256": "bf1ca7b3e5d42a29681ee135bc0302b2b28fc3a45044a29dacd74feb46ef9c78",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/talinum-aurantiacum/inat-644430739.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "073478fb9f881efda78c32318b06a7fe6337f653",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 353161081, photo 644430739, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a0d779db8b323b1bd15866d5e1875f6eeeed81a723c4bd48d06d238f2b6f6e0b.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Talinum aurantiacum maps to indexed species talinum-aurantiacum; specialist morphology and BONAP range deferred.",
-      "sha256": "a0d779db8b323b1bd15866d5e1875f6eeeed81a723c4bd48d06d238f2b6f6e0b"
+      "sha256": "a0d779db8b323b1bd15866d5e1875f6eeeed81a723c4bd48d06d238f2b6f6e0b",
+      "display_sha256": "7fc9e84c81d659f99cb67902eccbc4f3fbd3bc5f105292bc2f9618a4187848b1",
+      "display_blob_sha": "e374ff5de24c9d72087e2e20ac273eaf74af26c0",
+      "display_original_site_sha256": "a0d779db8b323b1bd15866d5e1875f6eeeed81a723c4bd48d06d238f2b6f6e0b",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/talinum-aurantiacum/inat-651113790.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9fb6f57e6ee129056231053a224c7780e3a3c2fe",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 357018704, photo 651113790, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e8a8eacaf19e168c3fe576ed95634c5c8fb34e7926d6130dc963ba98e4b8a078.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Talinum aurantiacum maps to indexed species talinum-aurantiacum; specialist morphology and BONAP range deferred.",
-      "sha256": "e8a8eacaf19e168c3fe576ed95634c5c8fb34e7926d6130dc963ba98e4b8a078"
+      "sha256": "e8a8eacaf19e168c3fe576ed95634c5c8fb34e7926d6130dc963ba98e4b8a078",
+      "display_sha256": "fce9ea4b95af75b14ea5623ba0e0ffce38a05891ad3d8255ad2bf6e310ea6d9c",
+      "display_blob_sha": "414786f61306c06191cdccdc9507d28323903950",
+      "display_original_site_sha256": "e8a8eacaf19e168c3fe576ed95634c5c8fb34e7926d6130dc963ba98e4b8a078",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/talinum-aurantiacum/archived-402e7f19326041e5.jpg",

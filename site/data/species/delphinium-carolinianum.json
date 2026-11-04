@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a993a3853d030f01855527ba8066c6e883d5df95",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 347665865, photo 633936813, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9c3e52074ad13219a95e0a16ed1f603b7be169bf9cf1c5512bed5329481fb813.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Delphinium carolinianum maps to indexed species delphinium-carolinianum; specialist morphology and BONAP range deferred.",
-      "sha256": "9c3e52074ad13219a95e0a16ed1f603b7be169bf9cf1c5512bed5329481fb813"
+      "sha256": "9c3e52074ad13219a95e0a16ed1f603b7be169bf9cf1c5512bed5329481fb813",
+      "display_sha256": "a19b92273bdb42f20ce50f999197fd6dfae9ebf44e5260ebf13b6d1b7e3544d1",
+      "display_blob_sha": "16cce2c4e03c9f10488892ef93f9fcf5902832c1",
+      "display_original_site_sha256": "9c3e52074ad13219a95e0a16ed1f603b7be169bf9cf1c5512bed5329481fb813",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/delphinium-carolinianum/inat-633948327.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d98f3b7b2ec75c5bf21bee2f4ad1f99b01a4cbb2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 347671537, photo 633948327, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 58021498faac7e5661c1cbeab1f6b7f561623e9462e88056b011940a35fbf95b.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Delphinium carolinianum maps to indexed species delphinium-carolinianum; specialist morphology and BONAP range deferred.",
-      "sha256": "58021498faac7e5661c1cbeab1f6b7f561623e9462e88056b011940a35fbf95b"
+      "sha256": "58021498faac7e5661c1cbeab1f6b7f561623e9462e88056b011940a35fbf95b",
+      "display_sha256": "de8d8e573d92782e8d28e043c3c05d025894c4e72fb7ab4069cd1d60232cc448",
+      "display_blob_sha": "974428e748a7b8baebc9d771f642ef99a8fdc753",
+      "display_original_site_sha256": "58021498faac7e5661c1cbeab1f6b7f561623e9462e88056b011940a35fbf95b",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/delphinium-carolinianum/inat-635788213.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f367408b25f6ddeab58e87a842340dea6f91e86a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 348599422, photo 635788213, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b27c031aa2e1171286271fbb444b442dc0d347c219ce62b5dac5bc6f139ebd87.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Delphinium carolinianum maps to indexed species delphinium-carolinianum; specialist morphology and BONAP range deferred.",
-      "sha256": "b27c031aa2e1171286271fbb444b442dc0d347c219ce62b5dac5bc6f139ebd87"
+      "sha256": "b27c031aa2e1171286271fbb444b442dc0d347c219ce62b5dac5bc6f139ebd87",
+      "display_sha256": "e014fb80f7c13ec62ab92552bc28056683d95884cc678f62485c52d7a68b49a8",
+      "display_blob_sha": "c28f8030a5c774ea465f31ecb92cdc1a347265e7",
+      "display_original_site_sha256": "b27c031aa2e1171286271fbb444b442dc0d347c219ce62b5dac5bc6f139ebd87",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/delphinium-carolinianum/inat-642449092.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ee8c13be0399c47b679f936f8c7f965d8453742a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 353983487, photo 645815189, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f0032ded47b5c0bcc2c21749e6d07d6974551a0b3f449ee7aed1f5addd12a560.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Delphinium carolinianum maps to indexed species delphinium-carolinianum; specialist morphology and BONAP range deferred.",
-      "sha256": "f0032ded47b5c0bcc2c21749e6d07d6974551a0b3f449ee7aed1f5addd12a560"
+      "sha256": "f0032ded47b5c0bcc2c21749e6d07d6974551a0b3f449ee7aed1f5addd12a560",
+      "display_sha256": "cdf39cebe5ce237acc6b47b23f3ba202037299cfdc5cde47b03a9e224ae1cac5",
+      "display_blob_sha": "ba469ad793ab30afe0722d678b6887479c8abb38",
+      "display_original_site_sha256": "f0032ded47b5c0bcc2c21749e6d07d6974551a0b3f449ee7aed1f5addd12a560",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/delphinium-carolinianum/archived-1a64cc5d25ebb4f4.jpg",

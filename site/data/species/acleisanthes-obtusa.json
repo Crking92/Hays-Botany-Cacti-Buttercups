@@ -98,7 +98,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3e2cbf7000e56c14308009a5714f5d6b1b271d88",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -106,7 +106,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345294407, photo 629251676, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bff939fd26dc70146928e9b83586a86f4c96fafec6a6ed09b687bd2c37dc80b7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Acleisanthes obtusa maps to indexed species acleisanthes-obtusa; specialist morphology and BONAP range deferred.",
-      "sha256": "bff939fd26dc70146928e9b83586a86f4c96fafec6a6ed09b687bd2c37dc80b7"
+      "sha256": "bff939fd26dc70146928e9b83586a86f4c96fafec6a6ed09b687bd2c37dc80b7",
+      "display_sha256": "51665771bcfd9213d6a55eafab1eafac0630c157a1d303a62ce57ee4cab3a9c8",
+      "display_blob_sha": "f174300bde2b28e30107697b4ea85e2634784d91",
+      "display_original_site_sha256": "bff939fd26dc70146928e9b83586a86f4c96fafec6a6ed09b687bd2c37dc80b7",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/acleisanthes-obtusa/inat-629316366.jpg",
@@ -117,7 +122,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fedacedb31bb6fe61bd89f6b10caf9ebe8d79f0a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -125,7 +130,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345329105, photo 629316366, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fad30a7d901086c1c9ae34195f80d16a34f7d7ddc046107fd880fca883ba1404. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Acleisanthes obtusa maps to indexed species acleisanthes-obtusa; specialist morphology and BONAP range deferred.",
-      "sha256": "fad30a7d901086c1c9ae34195f80d16a34f7d7ddc046107fd880fca883ba1404"
+      "sha256": "fad30a7d901086c1c9ae34195f80d16a34f7d7ddc046107fd880fca883ba1404",
+      "display_sha256": "d4e13e88457ebf1667b9f6ba5f29d247056f51e0e012e988eb6ac6d6888939b5",
+      "display_blob_sha": "54921ea550fa5bb0bca2d107a84530f4430f98a3",
+      "display_original_site_sha256": "fad30a7d901086c1c9ae34195f80d16a34f7d7ddc046107fd880fca883ba1404",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/acleisanthes-obtusa/inat-631480733.jpg",
@@ -136,7 +146,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "05a6e53663cda3c3568b706f9efe578757f54f21",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -144,7 +154,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 346426631, photo 631480733, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 89547e8ff168090f5eaa23c755c456e2c85bae22620854e531825fe05c36da23. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Acleisanthes obtusa maps to indexed species acleisanthes-obtusa; specialist morphology and BONAP range deferred.",
-      "sha256": "89547e8ff168090f5eaa23c755c456e2c85bae22620854e531825fe05c36da23"
+      "sha256": "89547e8ff168090f5eaa23c755c456e2c85bae22620854e531825fe05c36da23",
+      "display_sha256": "95c7415084fc37145a173fb57ef716e3baae19ab36428039938ccf25e185cc88",
+      "display_blob_sha": "0df1a0afdf77200689adf1616f254c0820070240",
+      "display_original_site_sha256": "89547e8ff168090f5eaa23c755c456e2c85bae22620854e531825fe05c36da23",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/acleisanthes-obtusa/inat-644097194.jpg",
@@ -155,7 +170,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5a008475b520522e85b7e830feba70c13cb08d84",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -163,7 +178,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 352969919, photo 644097194, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 59046ce0e606855a08468660984809b175c8e5330f3bd674a190b4a1c8b0c45d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Acleisanthes obtusa maps to indexed species acleisanthes-obtusa; specialist morphology and BONAP range deferred.",
-      "sha256": "59046ce0e606855a08468660984809b175c8e5330f3bd674a190b4a1c8b0c45d"
+      "sha256": "59046ce0e606855a08468660984809b175c8e5330f3bd674a190b4a1c8b0c45d",
+      "display_sha256": "273a71e503f283bc2369135ea6d2772e945c3144481301cbc3d4f41479f36f25",
+      "display_blob_sha": "f1f13c10d249e349305b9427bdfaf03306aa05cc",
+      "display_original_site_sha256": "59046ce0e606855a08468660984809b175c8e5330f3bd674a190b4a1c8b0c45d",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/acleisanthes-obtusa/inat-651007867.jpg",
@@ -174,7 +194,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e39792e4b6ab1c9287a523ba6c587e2d4a44d7eb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -182,7 +202,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 356963670, photo 651007867, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f9ca0f06ddbb816d63a04a0812a704457548ec95b8d3d789bdfe400076f39547. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Acleisanthes obtusa maps to indexed species acleisanthes-obtusa; specialist morphology and BONAP range deferred.",
-      "sha256": "f9ca0f06ddbb816d63a04a0812a704457548ec95b8d3d789bdfe400076f39547"
+      "sha256": "f9ca0f06ddbb816d63a04a0812a704457548ec95b8d3d789bdfe400076f39547",
+      "display_sha256": "9d22f5c531bd4192c1ade0a2cada6145480e4b1383b9043aa295984289113fa6",
+      "display_blob_sha": "7be9d05d438d89fc294cf8099ba063a046472796",
+      "display_original_site_sha256": "f9ca0f06ddbb816d63a04a0812a704457548ec95b8d3d789bdfe400076f39547",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

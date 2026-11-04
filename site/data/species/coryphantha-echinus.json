@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ead04a2b6f08f2c316dca4b705011633b0e3e2e1",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 341821384 and photo 622350638 checked individually for current cc-by-nc rights, creator and identical SHA256 87328969674a90686384378f421e9d7841dcd646f3c2b4dd51388ff2baba774e; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/622350638/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Coryphantha echinus' matches this Cactaceae species card coryphantha-echinus. Specialist morphology/field characters deferred.",
-      "sha256": "87328969674a90686384378f421e9d7841dcd646f3c2b4dd51388ff2baba774e"
+      "sha256": "87328969674a90686384378f421e9d7841dcd646f3c2b4dd51388ff2baba774e",
+      "display_sha256": "236d1650b93411c42f3e483865b4bc380229203ee55dcbd862f693e6ad0a285c",
+      "display_blob_sha": "02878a1ba98de6fb18491a63dc1a4433ef98c8cc",
+      "display_original_site_sha256": "87328969674a90686384378f421e9d7841dcd646f3c2b4dd51388ff2baba774e",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/coryphantha-echinus/inat-622684027.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9c52fdbea04bd67d8d8ffe7d8c74ff319a8c9d81",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 341986807 and photo 622684027 checked individually for current cc-by-nc rights, creator and identical SHA256 623bdc32bc19890a98026c8ac8a679083658bb34ca17db9ab95e80ca627d11b5; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/622684027/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Coryphantha echinus' matches this Cactaceae species card coryphantha-echinus. Specialist morphology/field characters deferred.",
-      "sha256": "623bdc32bc19890a98026c8ac8a679083658bb34ca17db9ab95e80ca627d11b5"
+      "sha256": "623bdc32bc19890a98026c8ac8a679083658bb34ca17db9ab95e80ca627d11b5",
+      "display_sha256": "3ba7ab4bfcef558a958c69da7200f7daccad587ea47734ede1194615f06a08dc",
+      "display_blob_sha": "fa672dbfcfb7655e1b31690de96dd4860a4fe364",
+      "display_original_site_sha256": "623bdc32bc19890a98026c8ac8a679083658bb34ca17db9ab95e80ca627d11b5",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/coryphantha-echinus/inat-626207999.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a7a882531bf96ed7d670562f4390a389e6dc7670",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 343734341 and photo 626207999 checked individually for current cc-by-nc rights, creator and identical SHA256 30f632969ce2ce5b1ef69ccbeb31c4322296393c8c51288255937e8918b2826c; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/626207999/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Coryphantha echinus' matches this Cactaceae species card coryphantha-echinus. Specialist morphology/field characters deferred.",
-      "sha256": "30f632969ce2ce5b1ef69ccbeb31c4322296393c8c51288255937e8918b2826c"
+      "sha256": "30f632969ce2ce5b1ef69ccbeb31c4322296393c8c51288255937e8918b2826c",
+      "display_sha256": "3996659694afb6c5adca9eaed4f5f54bfcc56ae9eaed366041f7a6ddde4cad02",
+      "display_blob_sha": "ef1d581e65b9c46c2246176147347a3e80b98d6f",
+      "display_original_site_sha256": "30f632969ce2ce5b1ef69ccbeb31c4322296393c8c51288255937e8918b2826c",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/coryphantha-echinus/inat-631094496.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "02eef8ea61a32ec3523c2a5e0a944f1cc47ff109",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 346237468 and photo 631094496 checked individually for current cc-by-nc rights, creator and identical SHA256 6b712547d93f8be2d979b258c6b068bebc7902d525aed0c74f84283378441848; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/631094496/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Coryphantha echinus' matches this Cactaceae species card coryphantha-echinus. Specialist morphology/field characters deferred.",
-      "sha256": "6b712547d93f8be2d979b258c6b068bebc7902d525aed0c74f84283378441848"
+      "sha256": "6b712547d93f8be2d979b258c6b068bebc7902d525aed0c74f84283378441848",
+      "display_sha256": "32e476af24f6f9a356d173efc29651d3b7e14170c6c25c1601f4d2798df6e49d",
+      "display_blob_sha": "0cd7730a84936f3c5eaa66a51389ed50317da9f9",
+      "display_original_site_sha256": "6b712547d93f8be2d979b258c6b068bebc7902d525aed0c74f84283378441848",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/coryphantha-echinus/inat-935510.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0fbf1be9cb64162e3547dca60c209c2cc0c0cdea",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 744154 and photo 935510 checked individually for current cc-by-nc rights, creator and identical SHA256 e9b225ce6c685d6744d902892c6366b641033294cbddc1845de9800aa1dce91b; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/935510/original.JPG.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Coryphantha echinus' matches this Cactaceae species card coryphantha-echinus. Specialist morphology/field characters deferred.",
-      "sha256": "e9b225ce6c685d6744d902892c6366b641033294cbddc1845de9800aa1dce91b"
+      "sha256": "e9b225ce6c685d6744d902892c6366b641033294cbddc1845de9800aa1dce91b",
+      "display_sha256": "2c2ed50310e6ebef998ccd1a6b14233de37540e58ac5a85b4c52945bbd35b928",
+      "display_blob_sha": "d397c38f2c4c0c2eb99352c16bdddd2b5f289464",
+      "display_original_site_sha256": "e9b225ce6c685d6744d902892c6366b641033294cbddc1845de9800aa1dce91b",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/coryphantha-echinus/archived-810a8d027c0020e2.jpg",

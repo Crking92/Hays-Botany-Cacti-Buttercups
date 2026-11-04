@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "93c92b23cd61c9fde5bc0572ef952dfda62dcbec",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 342501796 and photo 623728641 checked individually for current cc-by-nc rights, creator and identical SHA256 e209a2e046d34e2f9e6fb675c5a969d053df7e8fd8b1fc2c50ec5ef90ec93960; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/623728641/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Cylindropuntia imbricata' matches this Cactaceae species card cylindropuntia-imbricata. Specialist morphology/field characters deferred.",
-      "sha256": "e209a2e046d34e2f9e6fb675c5a969d053df7e8fd8b1fc2c50ec5ef90ec93960"
+      "sha256": "e209a2e046d34e2f9e6fb675c5a969d053df7e8fd8b1fc2c50ec5ef90ec93960",
+      "display_sha256": "b921157e7e880fb586e423981ddf6959b87842c5885b21d4570b3e93d0c780c1",
+      "display_blob_sha": "e0318cd0669fbcda0d6c659273d14fccf441e6ed",
+      "display_original_site_sha256": "e209a2e046d34e2f9e6fb675c5a969d053df7e8fd8b1fc2c50ec5ef90ec93960",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cylindropuntia-imbricata/inat-634897159.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "382840e2024053220b3ad8e91cdad397c2608fb9",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 348148610 and photo 634897159 checked individually for current cc-by-nc rights, creator and identical SHA256 b1815d03df0a17ca630d58e937dbe2cc1033fbd2a5d3aa2e64d4735843ebb273; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/634897159/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Cylindropuntia imbricata' matches this Cactaceae species card cylindropuntia-imbricata. Specialist morphology/field characters deferred.",
-      "sha256": "b1815d03df0a17ca630d58e937dbe2cc1033fbd2a5d3aa2e64d4735843ebb273"
+      "sha256": "b1815d03df0a17ca630d58e937dbe2cc1033fbd2a5d3aa2e64d4735843ebb273",
+      "display_sha256": "9c153dc40ac12ee465ed60b3a17f40d787f2b6c636cb85c8be000765a5a5c4e5",
+      "display_blob_sha": "60d28b9d7fe1f505f81545562e12ec4542a36c63",
+      "display_original_site_sha256": "b1815d03df0a17ca630d58e937dbe2cc1033fbd2a5d3aa2e64d4735843ebb273",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cylindropuntia-imbricata/inat-634936709.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2375e9ab059fa2bb93d6d3b750698d18efad91b4",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 348168676 and photo 634936709 checked individually for current cc-by-nc rights, creator and identical SHA256 1ea24fa2da952687b63edc5df87ce2a6575cc71343ce82b20ec679ffce67dfbd; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/634936709/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Cylindropuntia imbricata' matches this Cactaceae species card cylindropuntia-imbricata. Specialist morphology/field characters deferred.",
-      "sha256": "1ea24fa2da952687b63edc5df87ce2a6575cc71343ce82b20ec679ffce67dfbd"
+      "sha256": "1ea24fa2da952687b63edc5df87ce2a6575cc71343ce82b20ec679ffce67dfbd",
+      "display_sha256": "ea4e3bd7ffcf4eb471b9ecb10c8c94fa0ac030ffd9e945fb1dd76148fc2a2548",
+      "display_blob_sha": "419a087d950685d1f9e0d9a6e7de0365122af735",
+      "display_original_site_sha256": "1ea24fa2da952687b63edc5df87ce2a6575cc71343ce82b20ec679ffce67dfbd",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cylindropuntia-imbricata/inat-642393863.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "3af6127145fb091d51672106e75583fabd6274d3",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 351981606 and photo 642393863 checked individually for current cc-by rights, creator and identical SHA256 d54de29fb640d27ea45e2b9d0ad5357e854de07422a46a7892adcdd10a4659cd; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/642393863/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Cylindropuntia imbricata' matches this Cactaceae species card cylindropuntia-imbricata. Specialist morphology/field characters deferred.",
-      "sha256": "d54de29fb640d27ea45e2b9d0ad5357e854de07422a46a7892adcdd10a4659cd"
+      "sha256": "d54de29fb640d27ea45e2b9d0ad5357e854de07422a46a7892adcdd10a4659cd",
+      "display_sha256": "345b267f8aac1bcda2a5d092180a765a248e2e9d079bce95e38443e05cb7c799",
+      "display_blob_sha": "86a814869d80d82bd55a4661823518306cd06807",
+      "display_original_site_sha256": "d54de29fb640d27ea45e2b9d0ad5357e854de07422a46a7892adcdd10a4659cd",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cylindropuntia-imbricata/inat-649925001.jpg",

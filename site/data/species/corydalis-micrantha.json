@@ -66,7 +66,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8f21a0c357562a8ab19ffe29e50c93aaf67a56bd",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -74,7 +74,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 265573994, photo 477047197, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d2b038dc5e951d0842e218ac9b1f0d21e4de6303dbe66ab96def849bc4b663f8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Corydalis micrantha maps to indexed species corydalis-micrantha; specialist morphology and BONAP range deferred.",
-      "sha256": "d2b038dc5e951d0842e218ac9b1f0d21e4de6303dbe66ab96def849bc4b663f8"
+      "sha256": "d2b038dc5e951d0842e218ac9b1f0d21e4de6303dbe66ab96def849bc4b663f8",
+      "display_sha256": "861c2e6ddab062c56d30704f7ab9075c39c2d2d28e5c9ed4a0d283defdbd4a81",
+      "display_blob_sha": "4568d04673fd06146928f3b103e068f29a41e4f2",
+      "display_original_site_sha256": "d2b038dc5e951d0842e218ac9b1f0d21e4de6303dbe66ab96def849bc4b663f8",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/corydalis-micrantha/inat-732043.jpg",
@@ -85,7 +90,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "af5d226fd6a5541246b8f5346962a9b44c8194b3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -93,7 +98,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 575723, photo 732043, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bdafeaf61ccc116d46d09c688e9895f583e3319cdd431e0dca9f3ed7d1e9d6bf. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Corydalis micrantha maps to indexed species corydalis-micrantha; specialist morphology and BONAP range deferred.",
-      "sha256": "bdafeaf61ccc116d46d09c688e9895f583e3319cdd431e0dca9f3ed7d1e9d6bf"
+      "sha256": "bdafeaf61ccc116d46d09c688e9895f583e3319cdd431e0dca9f3ed7d1e9d6bf",
+      "display_sha256": "7f97f437f347372fd887f4df556fec75ad76134b46cb649dd4e035816f98287d",
+      "display_blob_sha": "65e4864e24035dc4961dbc71c4fd0c1952059380",
+      "display_original_site_sha256": "bdafeaf61ccc116d46d09c688e9895f583e3319cdd431e0dca9f3ed7d1e9d6bf",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/corydalis-micrantha/archived-b3b754d10741a2dc.jpg",

@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5920d0d09c096a12425b695f284d919c2dda6149",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 40731349, photo 64570810, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: efa8deb0729c572b2b360878d80d6773d9703c9b8c474c929feca9f5e6448dd0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Persicaria setacea maps to indexed species persicaria-setacea; specialist morphology and BONAP range deferred.",
-      "sha256": "efa8deb0729c572b2b360878d80d6773d9703c9b8c474c929feca9f5e6448dd0"
+      "sha256": "efa8deb0729c572b2b360878d80d6773d9703c9b8c474c929feca9f5e6448dd0",
+      "display_sha256": "63396c58204c8d237f457abdae7de8f3ab1b8d0202cc5fbb5066b071a6a383f7",
+      "display_blob_sha": "02902560cb061dddc258a777c3875ed94f3ac095",
+      "display_original_site_sha256": "efa8deb0729c572b2b360878d80d6773d9703c9b8c474c929feca9f5e6448dd0",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/persicaria-setacea/archived-48d67190d8e840da.jpg",

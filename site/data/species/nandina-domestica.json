@@ -58,7 +58,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6f7512b3ca7ed7a7d204f55f864110721aaf80df",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -66,7 +66,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 340846304 and photo 620350377 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 d94124b1c5c3032e5fe3ed057591baca1afbaa6547d30c5b1e972994ee448680; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/620350377/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Nandina domestica' matches this assigned family species card nandina-domestica. Specialist morphology/field characters deferred.",
-      "sha256": "d94124b1c5c3032e5fe3ed057591baca1afbaa6547d30c5b1e972994ee448680"
+      "sha256": "d94124b1c5c3032e5fe3ed057591baca1afbaa6547d30c5b1e972994ee448680",
+      "display_sha256": "07ffcffd90aef3b40ed7f224b60a969d64f875a50c77144eb072f5e56afe3fb4",
+      "display_blob_sha": "9ea745bd3727ea3cac1906db437efb72a4cf6b9d",
+      "display_original_site_sha256": "d94124b1c5c3032e5fe3ed057591baca1afbaa6547d30c5b1e972994ee448680",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nandina-domestica/inat-620449127.jpg",
@@ -77,7 +82,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "426973f6ecc20781c7acf049a2761e81638c8967",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -85,7 +90,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 340862854 and photo 620449127 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 1fd05ea27c4a1d054fdc6d63e93bc3e6cdda37077bddd67abe625ed0351b7676; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/620449127/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Nandina domestica' matches this assigned family species card nandina-domestica. Specialist morphology/field characters deferred.",
-      "sha256": "1fd05ea27c4a1d054fdc6d63e93bc3e6cdda37077bddd67abe625ed0351b7676"
+      "sha256": "1fd05ea27c4a1d054fdc6d63e93bc3e6cdda37077bddd67abe625ed0351b7676",
+      "display_sha256": "c1236725df4591dc805e380e5fd0ca9824dc5d88e26d3382835dbe61a45e08c5",
+      "display_blob_sha": "170f479c9150754f8ea90d01c1ddb9e0376b44b0",
+      "display_original_site_sha256": "1fd05ea27c4a1d054fdc6d63e93bc3e6cdda37077bddd67abe625ed0351b7676",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nandina-domestica/inat-622223877.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a1d49ea414491e3ee13e615a41ae27cefc529384",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 341759444 and photo 622223877 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 967a22df0c8db8d383e68fc2eb2d61d3dbafc54d31dfdecd5fdce3e9616dbc9c; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/622223877/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Nandina domestica' matches this assigned family species card nandina-domestica. Specialist morphology/field characters deferred.",
-      "sha256": "967a22df0c8db8d383e68fc2eb2d61d3dbafc54d31dfdecd5fdce3e9616dbc9c"
+      "sha256": "967a22df0c8db8d383e68fc2eb2d61d3dbafc54d31dfdecd5fdce3e9616dbc9c",
+      "display_sha256": "e9bc9385ee12d459208e3778ae3e85f44fe6d5a41213be58c02d2bea02faa21f",
+      "display_blob_sha": "9df048639726a4656d0d0f1ea6ef6c61e6fd6bf6",
+      "display_original_site_sha256": "967a22df0c8db8d383e68fc2eb2d61d3dbafc54d31dfdecd5fdce3e9616dbc9c",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nandina-domestica/inat-623421101.jpg",
@@ -115,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "89cbf9c1bde99b1478b614ab5e83c5289855e5b8",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -123,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 342351230 and photo 623421101 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 ee5b2319b46f0b6f556ca6994192ea0ac251b9bcc10288395622958d0f5a3984; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/623421101/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Nandina domestica' matches this assigned family species card nandina-domestica. Specialist morphology/field characters deferred.",
-      "sha256": "ee5b2319b46f0b6f556ca6994192ea0ac251b9bcc10288395622958d0f5a3984"
+      "sha256": "ee5b2319b46f0b6f556ca6994192ea0ac251b9bcc10288395622958d0f5a3984",
+      "display_sha256": "62ebc91af4cba15f5bd0a615a8c6b13026fa19e0e1b9bf4ca22e769e5bf092f5",
+      "display_blob_sha": "31e1986f11f99fbdeb70cb2aaf88902d6247bd09",
+      "display_original_site_sha256": "ee5b2319b46f0b6f556ca6994192ea0ac251b9bcc10288395622958d0f5a3984",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nandina-domestica/inat-623734124.jpg",
@@ -134,7 +154,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cc84d023459bb9c39dcb3e1c0845c8693877b43e",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -142,7 +162,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 342504421 and photo 623734124 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 2c012433a49f8ba6cbbbe71b565c65ddeefe8e2b458c533783f15f65e690fdab; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/623734124/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Nandina domestica' matches this assigned family species card nandina-domestica. Specialist morphology/field characters deferred.",
-      "sha256": "2c012433a49f8ba6cbbbe71b565c65ddeefe8e2b458c533783f15f65e690fdab"
+      "sha256": "2c012433a49f8ba6cbbbe71b565c65ddeefe8e2b458c533783f15f65e690fdab",
+      "display_sha256": "19b21814f39e122411b05c73c12f83c180568a388ebceb2fbff3fcc55482644f",
+      "display_blob_sha": "1519e1c3d0754b469a15c9469e95315cdee9dc0d",
+      "display_original_site_sha256": "2c012433a49f8ba6cbbbe71b565c65ddeefe8e2b458c533783f15f65e690fdab",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -107,7 +107,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "09e76b4e0d1855af3ad76299cea923538d1ad6a6",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -115,7 +115,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 347029479 and photo 632678228 checked individually for current cc-by-nc rights, creator and identical SHA256 475f9c5564fed7763170728b27dd3d7179df92a7ccb10b43b11ded34131af05b; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/632678228/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Opuntia macrorhiza' matches this Cactaceae species card opuntia-macrorhiza. Specialist morphology/field characters deferred.",
-      "sha256": "475f9c5564fed7763170728b27dd3d7179df92a7ccb10b43b11ded34131af05b"
+      "sha256": "475f9c5564fed7763170728b27dd3d7179df92a7ccb10b43b11ded34131af05b",
+      "display_sha256": "5cb96cbc72733574e2c76a5e07958f323fba036f1285ecc303d61708c510e13d",
+      "display_blob_sha": "37fba18fc287ba02f017568c2a0ea3ec33487c29",
+      "display_original_site_sha256": "475f9c5564fed7763170728b27dd3d7179df92a7ccb10b43b11ded34131af05b",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/opuntia-macrorhiza/inat-645180534.jpg",
@@ -126,7 +131,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7a1f5aea91329a01cd7843d0425f5b10cc75cd9d",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -134,7 +139,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 353620926 and photo 645180534 checked individually for current cc-by-nc rights, creator and identical SHA256 6e3a1ad5ff1bb4c59e57dd309d90823badf682548e17362f95f6fddad97e337a; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/645180534/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Opuntia macrorhiza' matches this Cactaceae species card opuntia-macrorhiza. Specialist morphology/field characters deferred.",
-      "sha256": "6e3a1ad5ff1bb4c59e57dd309d90823badf682548e17362f95f6fddad97e337a"
+      "sha256": "6e3a1ad5ff1bb4c59e57dd309d90823badf682548e17362f95f6fddad97e337a",
+      "display_sha256": "d75f1744c650ffd918a3c2c95828f9d1f625973b622a87ac01cae5dc0fd5711a",
+      "display_blob_sha": "904921c99bea989a39ff58b839dd0e0baf8275c8",
+      "display_original_site_sha256": "6e3a1ad5ff1bb4c59e57dd309d90823badf682548e17362f95f6fddad97e337a",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/opuntia-macrorhiza/inat-645424970.jpg",
@@ -145,7 +155,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "00993eb70243b61837d28680af26c240495b7359",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -153,7 +163,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 353765891 and photo 645424970 checked individually for current cc-by-nc rights, creator and identical SHA256 be77301b0b75675eeaff1d7071b34604e4c4b9e495b2dd59c0621d7d6ea03a67; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/645424970/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Opuntia macrorhiza' matches this Cactaceae species card opuntia-macrorhiza. Specialist morphology/field characters deferred.",
-      "sha256": "be77301b0b75675eeaff1d7071b34604e4c4b9e495b2dd59c0621d7d6ea03a67"
+      "sha256": "be77301b0b75675eeaff1d7071b34604e4c4b9e495b2dd59c0621d7d6ea03a67",
+      "display_sha256": "bb98e584272644994926a9e4aa7c462c2e044a7cbed1cba19373aae3279d1eec",
+      "display_blob_sha": "f9a6a3d6cb61ab943726e1baddbd13abcc178ebc",
+      "display_original_site_sha256": "be77301b0b75675eeaff1d7071b34604e4c4b9e495b2dd59c0621d7d6ea03a67",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/opuntia-macrorhiza/inat-647221117.jpg",
@@ -164,7 +179,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "93e6e7d0d4ec9166a104fef829208cc457e91c01",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -172,7 +187,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 354814471 and photo 647221117 checked individually for current cc-by-nc rights, creator and identical SHA256 b35b7a47e9fde94da63be111cf1dafa0b777f8f57adda5907ea01fd822324701; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/647221117/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Opuntia macrorhiza' matches this Cactaceae species card opuntia-macrorhiza. Specialist morphology/field characters deferred.",
-      "sha256": "b35b7a47e9fde94da63be111cf1dafa0b777f8f57adda5907ea01fd822324701"
+      "sha256": "b35b7a47e9fde94da63be111cf1dafa0b777f8f57adda5907ea01fd822324701",
+      "display_sha256": "f7fc6ff0a19e3d93961bf4c5a986a7e62fbf5b2d483e9f0001bfc2a480d5db02",
+      "display_blob_sha": "fb8f4b5827a56233607b8ae412feb745c7f38f25",
+      "display_original_site_sha256": "b35b7a47e9fde94da63be111cf1dafa0b777f8f57adda5907ea01fd822324701",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/opuntia-macrorhiza/inat-647419840.jpg",
@@ -183,7 +203,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "source_blob_sha": "99d3e5e0be938bec5a6df47277bd44a83e70d34a",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -191,7 +211,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 354927832 and photo 647419840 checked individually for current cc-by-nc-sa rights, creator and identical SHA256 7b75783d824c89a1bf3bee15342bd50ab74398b17924350591bfdae8043e7a85; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/647419840/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Opuntia macrorhiza' matches this Cactaceae species card opuntia-macrorhiza. Specialist morphology/field characters deferred.",
-      "sha256": "7b75783d824c89a1bf3bee15342bd50ab74398b17924350591bfdae8043e7a85"
+      "sha256": "7b75783d824c89a1bf3bee15342bd50ab74398b17924350591bfdae8043e7a85",
+      "display_sha256": "d9037b6cc3644e1e94bc67f1c3b98876a0635f8e01b6d17daa68165f9021c854",
+      "display_blob_sha": "a6d103cb371532e8b1b0a435cb898c63b035fc64",
+      "display_original_site_sha256": "7b75783d824c89a1bf3bee15342bd50ab74398b17924350591bfdae8043e7a85",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

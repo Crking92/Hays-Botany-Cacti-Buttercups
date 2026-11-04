@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9f5da8feb0db04a784ae376934b170aa4b5ed22d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 343017065, photo 624747257, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b0831182305f54e2bd19fe23d79154795ffd3ac8b6564b1d5b9cb3d31f4b6c69. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Phytolacca americana maps to indexed species phytolacca-americana; specialist morphology and BONAP range deferred.",
-      "sha256": "b0831182305f54e2bd19fe23d79154795ffd3ac8b6564b1d5b9cb3d31f4b6c69"
+      "sha256": "b0831182305f54e2bd19fe23d79154795ffd3ac8b6564b1d5b9cb3d31f4b6c69",
+      "display_sha256": "d6d162aebdf202d75281f9a5c117beb3cb23757f140bfdc22221b360a7aea553",
+      "display_blob_sha": "229bfa2844470c7426f3ecc3ea27f08eb9759dbf",
+      "display_original_site_sha256": "b0831182305f54e2bd19fe23d79154795ffd3ac8b6564b1d5b9cb3d31f4b6c69",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/phytolacca-americana/inat-625176187.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "14b9291330ac188f9373497a0993c441e67f4112",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 343227426, photo 625176187, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2076a390cb61cf8a648f063f521aca7dac87eaa14f78f57aca86431dd1752e22. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Phytolacca americana maps to indexed species phytolacca-americana; specialist morphology and BONAP range deferred.",
-      "sha256": "2076a390cb61cf8a648f063f521aca7dac87eaa14f78f57aca86431dd1752e22"
+      "sha256": "2076a390cb61cf8a648f063f521aca7dac87eaa14f78f57aca86431dd1752e22",
+      "display_sha256": "83e0a5614866863f2ede95ad03f49baf0192b974b8cdd8a752501b9791cd203b",
+      "display_blob_sha": "5043e200db180a02704facaf5cc19088c9b8afc2",
+      "display_original_site_sha256": "2076a390cb61cf8a648f063f521aca7dac87eaa14f78f57aca86431dd1752e22",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/phytolacca-americana/inat-626797475.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7312fb5022d59ef5684e16b15a57cb6007f70e8f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 344034070, photo 626797475, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0d9193d534f41bbf5ff03cd698e22ce2ec01b90f12cb291fed805d96bd3efa9e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Phytolacca americana maps to indexed species phytolacca-americana; specialist morphology and BONAP range deferred.",
-      "sha256": "0d9193d534f41bbf5ff03cd698e22ce2ec01b90f12cb291fed805d96bd3efa9e"
+      "sha256": "0d9193d534f41bbf5ff03cd698e22ce2ec01b90f12cb291fed805d96bd3efa9e",
+      "display_sha256": "f3e35e43e99cc7f44c4cb5707de6f0ac4883358f54e142b534b2f123b0272fdb",
+      "display_blob_sha": "d40b7e500c73707317a7b00dcf987ca652e8a58f",
+      "display_original_site_sha256": "0d9193d534f41bbf5ff03cd698e22ce2ec01b90f12cb291fed805d96bd3efa9e",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/phytolacca-americana/inat-634603988.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5a16d3aaca2627db294955405843e595f11fa793",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 347997930, photo 634603988, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 95cc3cbef392ee6a06e99993cd8e490c0232436b14eec43914396f292f89435e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Phytolacca americana maps to indexed species phytolacca-americana; specialist morphology and BONAP range deferred.",
-      "sha256": "95cc3cbef392ee6a06e99993cd8e490c0232436b14eec43914396f292f89435e"
+      "sha256": "95cc3cbef392ee6a06e99993cd8e490c0232436b14eec43914396f292f89435e",
+      "display_sha256": "0d9f45372f6271c2f635e306d4750aeb12a9a90dbf56d766e592551c22f795f0",
+      "display_blob_sha": "2a8a404b4d7223df87b2dc99e0b72c4c33411005",
+      "display_original_site_sha256": "95cc3cbef392ee6a06e99993cd8e490c0232436b14eec43914396f292f89435e",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/phytolacca-americana/inat-637703056.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "da4b792884fb27d9e22e175b2ef72606f9c66b83",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 349568522, photo 637703056, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 98b4449bbe3ca9e745a3f70952a54ee4a16fe3148bf790cead87e5749fd109da. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Phytolacca americana maps to indexed species phytolacca-americana; specialist morphology and BONAP range deferred.",
-      "sha256": "98b4449bbe3ca9e745a3f70952a54ee4a16fe3148bf790cead87e5749fd109da"
+      "sha256": "98b4449bbe3ca9e745a3f70952a54ee4a16fe3148bf790cead87e5749fd109da",
+      "display_sha256": "9fe5500157a076d75adfa82eb07235b17b1fbe31a95a6e19b19f01c6e0b7f1a0",
+      "display_blob_sha": "ee782d02b06b98d7db338403f396c02bc776725d",
+      "display_original_site_sha256": "98b4449bbe3ca9e745a3f70952a54ee4a16fe3148bf790cead87e5749fd109da",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/phytolacca-americana/archived-980d840373afe9b4.jpg",

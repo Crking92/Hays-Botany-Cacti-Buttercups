@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "117e4022959f3a7d1363cdb19b8cf6b734d88d9c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 155606451, photo 269001063, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 53ae70661b893cc6a448cbe4207edf08decc1bf9f54abaa100c3eae48276bbd5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Persicaria glabra maps to indexed species persicaria-glabra; specialist morphology and BONAP range deferred.",
-      "sha256": "53ae70661b893cc6a448cbe4207edf08decc1bf9f54abaa100c3eae48276bbd5"
+      "sha256": "53ae70661b893cc6a448cbe4207edf08decc1bf9f54abaa100c3eae48276bbd5",
+      "display_sha256": "6681ac6561b18591409a83c187f0873c80790afe1c357e5455661dcd6054231b",
+      "display_blob_sha": "49e6822c3078efdf2bf81ff3015b383a3cbaa07b",
+      "display_original_site_sha256": "53ae70661b893cc6a448cbe4207edf08decc1bf9f54abaa100c3eae48276bbd5",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/persicaria-glabra/inat-536325658.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "970cc55d93562605aa1b1c1837fcd6eb07551f45",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 297784078, photo 536325658, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4a9060c3efd81de347cd46de566411201190d0f8bc00b68195ca277a71a0d0e4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Persicaria glabra maps to indexed species persicaria-glabra; specialist morphology and BONAP range deferred.",
-      "sha256": "4a9060c3efd81de347cd46de566411201190d0f8bc00b68195ca277a71a0d0e4"
+      "sha256": "4a9060c3efd81de347cd46de566411201190d0f8bc00b68195ca277a71a0d0e4",
+      "display_sha256": "3068fefadb53ce55ae3b0386d0de5ff63f642d96087cf7c65d8ade5e676e0a78",
+      "display_blob_sha": "1bea88e7250e503a63a7d3e77fab07163262764e",
+      "display_original_site_sha256": "4a9060c3efd81de347cd46de566411201190d0f8bc00b68195ca277a71a0d0e4",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/persicaria-glabra/inat-740466639.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "669f0ed2bdfd6e077b094ccd6ef424ebde0fb7b2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 403300909, photo 740466639, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b0d0fe346eba5b3b9d658c7b68f759b367e29789501dc4a6b3843be46f65a3b0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Persicaria glabra maps to indexed species persicaria-glabra; specialist morphology and BONAP range deferred.",
-      "sha256": "b0d0fe346eba5b3b9d658c7b68f759b367e29789501dc4a6b3843be46f65a3b0"
+      "sha256": "b0d0fe346eba5b3b9d658c7b68f759b367e29789501dc4a6b3843be46f65a3b0",
+      "display_sha256": "ea4553000dfbde57a274c2c4fa813b21336ee39b0d87a877b6b81fbfc87141ee",
+      "display_blob_sha": "3dd7344e694e56af3952408708bff0c0d6c21062",
+      "display_original_site_sha256": "b0d0fe346eba5b3b9d658c7b68f759b367e29789501dc4a6b3843be46f65a3b0",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/persicaria-glabra/archived-179ad1f35997e635.jpg",

@@ -33,7 +33,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5550d8bf340541c9760489c986c61b9ade7a55ff",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -41,7 +41,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 340904375, photo 620469760, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 77a2b40b2665a5a6fe2db8ed9d4a990e2dbb8e630ececf6f52442061fc2ddd88. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Coccoloba uvifera maps to indexed species coccoloba-uvifera; specialist morphology and BONAP range deferred.",
-      "sha256": "77a2b40b2665a5a6fe2db8ed9d4a990e2dbb8e630ececf6f52442061fc2ddd88"
+      "sha256": "77a2b40b2665a5a6fe2db8ed9d4a990e2dbb8e630ececf6f52442061fc2ddd88",
+      "display_sha256": "86ba7e3163f3982f9cd9ed24afe22d613e8e2098968205e4bea205785b50df24",
+      "display_blob_sha": "8b60c30314a3ea43e73d003207f21a19fda6e674",
+      "display_original_site_sha256": "77a2b40b2665a5a6fe2db8ed9d4a990e2dbb8e630ececf6f52442061fc2ddd88",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/coccoloba-uvifera/inat-620771237.jpg",
@@ -52,7 +57,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "20cc3d39ebce0ceaa72a9dc40fc1b73bc63a4a51",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -60,7 +65,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 341050567, photo 620771237, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b63fbdb0e0811a5ad1e60938b4dd3e95b6aa586e08db703a6059739907a9ac88. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Coccoloba uvifera maps to indexed species coccoloba-uvifera; specialist morphology and BONAP range deferred.",
-      "sha256": "b63fbdb0e0811a5ad1e60938b4dd3e95b6aa586e08db703a6059739907a9ac88"
+      "sha256": "b63fbdb0e0811a5ad1e60938b4dd3e95b6aa586e08db703a6059739907a9ac88",
+      "display_sha256": "de8fd8ba5d8ec7cce00c5929bf9d2f1fd51b8ef858b74677e5e19dfd412d2998",
+      "display_blob_sha": "85add28211752fbbfcced214bf885ab17e233e64",
+      "display_original_site_sha256": "b63fbdb0e0811a5ad1e60938b4dd3e95b6aa586e08db703a6059739907a9ac88",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/coccoloba-uvifera/inat-626355784.jpg",
@@ -71,7 +81,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9cc4d62dc56fa2606547fcf08bfd10728eabefa4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -79,7 +89,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 343809704, photo 626355784, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e568e051798d9d59ca60800298fabfd408a20e234ee61becdb98ad2d27e902ed. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Coccoloba uvifera maps to indexed species coccoloba-uvifera; specialist morphology and BONAP range deferred.",
-      "sha256": "e568e051798d9d59ca60800298fabfd408a20e234ee61becdb98ad2d27e902ed"
+      "sha256": "e568e051798d9d59ca60800298fabfd408a20e234ee61becdb98ad2d27e902ed",
+      "display_sha256": "86c70262f843627a7ca3524b3f1da140c7550e1e7b514f02d1960b9e55074880",
+      "display_blob_sha": "80ebc38115e47f0c3a1d304b6b1e22e5a71d453b",
+      "display_original_site_sha256": "e568e051798d9d59ca60800298fabfd408a20e234ee61becdb98ad2d27e902ed",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/coccoloba-uvifera/inat-630317161.jpg",
@@ -90,7 +105,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "73a559dcda8ce9671351785a3fc75017457e37c4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -98,7 +113,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 345835596, photo 630317161, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fdba453a0c1d6b6d633d44603adc567d8cb9ddda84ba98ebebce2e6bf13a414b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Coccoloba uvifera maps to indexed species coccoloba-uvifera; specialist morphology and BONAP range deferred.",
-      "sha256": "fdba453a0c1d6b6d633d44603adc567d8cb9ddda84ba98ebebce2e6bf13a414b"
+      "sha256": "fdba453a0c1d6b6d633d44603adc567d8cb9ddda84ba98ebebce2e6bf13a414b",
+      "display_sha256": "28d55fafe59dd366688a89d0e879966758bec40a5f7c18538af849a8b987ac21",
+      "display_blob_sha": "8a2ac51d690dc9ff5a070a05f751a1b044623612",
+      "display_original_site_sha256": "fdba453a0c1d6b6d633d44603adc567d8cb9ddda84ba98ebebce2e6bf13a414b",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/coccoloba-uvifera/inat-632068134.jpg",
@@ -109,7 +129,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c38f5707ccfef233b86dcb63dc8aba813fe13f6c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -117,7 +137,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 346722806, photo 632068134, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d1da6070e1c8d114f0b8dfa707a869ec99b1c16dd1afc226bd03e318490f8398. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Coccoloba uvifera maps to indexed species coccoloba-uvifera; specialist morphology and BONAP range deferred.",
-      "sha256": "d1da6070e1c8d114f0b8dfa707a869ec99b1c16dd1afc226bd03e318490f8398"
+      "sha256": "d1da6070e1c8d114f0b8dfa707a869ec99b1c16dd1afc226bd03e318490f8398",
+      "display_sha256": "ba05d704723512fbdc47fd48637b7347025c253a5733b39a992f73e6ed58ba16",
+      "display_blob_sha": "acea3aae3c8c3533933bb23220b17b4be7c3d682",
+      "display_original_site_sha256": "d1da6070e1c8d114f0b8dfa707a869ec99b1c16dd1afc226bd03e318490f8398",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

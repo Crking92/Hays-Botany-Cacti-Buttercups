@@ -83,7 +83,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6604f816eba0bb9c6206084dbcd370bd5a72e864",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -91,7 +91,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 340781275 and photo 620218826 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 1c0e89308211aa246563a3ebdc5eeafde760bed4268aad6a4f251edd488f42dc; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/620218826/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Berberis trifoliolata' matches this assigned family species card berberis-trifoliolata. Specialist morphology/field characters deferred.",
-      "sha256": "1c0e89308211aa246563a3ebdc5eeafde760bed4268aad6a4f251edd488f42dc"
+      "sha256": "1c0e89308211aa246563a3ebdc5eeafde760bed4268aad6a4f251edd488f42dc",
+      "display_sha256": "ef5a1aa51c7dcb59e78128951f7e85eeea2a98bd2040645f2586170af9580362",
+      "display_blob_sha": "328102be107752b3998b8d9021b4df22af344560",
+      "display_original_site_sha256": "1c0e89308211aa246563a3ebdc5eeafde760bed4268aad6a4f251edd488f42dc",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/berberis-trifoliolata/inat-620320082.jpg",
@@ -102,7 +107,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "c1d788e6cb832316e80b139437c2a21e684ebbb7",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -110,7 +115,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 340831289 and photo 620320082 checked individually for current cc-by rights, creator from live exact-photo attribution, and identical SHA256 2c308022a34e3f1a467d67a2ae8312f90fd5decedc991a16e3f2c025fde1f0d3; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/620320082/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Berberis trifoliolata' matches this assigned family species card berberis-trifoliolata. Specialist morphology/field characters deferred.",
-      "sha256": "2c308022a34e3f1a467d67a2ae8312f90fd5decedc991a16e3f2c025fde1f0d3"
+      "sha256": "2c308022a34e3f1a467d67a2ae8312f90fd5decedc991a16e3f2c025fde1f0d3",
+      "display_sha256": "c36154a6f055ce20fc481a37fcc9800472ba20121b83bd26dbd3ef11b28cf687",
+      "display_blob_sha": "b87ff303a83894a1b2b82587e55aba4a7fced5da",
+      "display_original_site_sha256": "2c308022a34e3f1a467d67a2ae8312f90fd5decedc991a16e3f2c025fde1f0d3",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/berberis-trifoliolata/inat-620328321.jpg",
@@ -121,7 +131,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4aaf8dacd7e7fe7d270f7419c47625982844845b",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -129,7 +139,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 340835065 and photo 620328321 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 96bcf6a108240cb908b8ef498690a4b9565a837c379fa0d47f10d8993218e1ca; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/620328321/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Berberis trifoliolata' matches this assigned family species card berberis-trifoliolata. Specialist morphology/field characters deferred.",
-      "sha256": "96bcf6a108240cb908b8ef498690a4b9565a837c379fa0d47f10d8993218e1ca"
+      "sha256": "96bcf6a108240cb908b8ef498690a4b9565a837c379fa0d47f10d8993218e1ca",
+      "display_sha256": "2c60d92aeb0b907e103b8b2676687e8dbad19e84ec59eb39ad0002d9bfd91b47",
+      "display_blob_sha": "e439563b6dd4ed8bb46c3269d85d18f9e1e62272",
+      "display_original_site_sha256": "96bcf6a108240cb908b8ef498690a4b9565a837c379fa0d47f10d8993218e1ca",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/berberis-trifoliolata/inat-620359109.jpg",
@@ -140,7 +155,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8be65a37a038737fbcc933b6e37016b75546ded4",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -148,7 +163,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 340850808 and photo 620359109 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 d0e1f8825e13bba062249d36d7688c6e12978c54b0fc1a0faede7be23fbfa636; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/620359109/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Berberis trifoliolata' matches this assigned family species card berberis-trifoliolata. Specialist morphology/field characters deferred.",
-      "sha256": "d0e1f8825e13bba062249d36d7688c6e12978c54b0fc1a0faede7be23fbfa636"
+      "sha256": "d0e1f8825e13bba062249d36d7688c6e12978c54b0fc1a0faede7be23fbfa636",
+      "display_sha256": "5b5e324b8549e6f4523e3ab8ea37d65f76c9f201a4929ae3afc2d5d07b0ce91f",
+      "display_blob_sha": "64ff0d47cc0ff6c6dd1f8653cd0a1f4e5335ecbc",
+      "display_original_site_sha256": "d0e1f8825e13bba062249d36d7688c6e12978c54b0fc1a0faede7be23fbfa636",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/berberis-trifoliolata/inat-620660748.jpg",
@@ -159,7 +179,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4010c30fbbc33178cce7dde9cf83d533efd6223a",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -167,7 +187,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 340997182 and photo 620660748 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 b4283b3a3099d23c3fedab23391303d180b0792a4c2c6072e37773bda4c70e16; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/620660748/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Berberis trifoliolata' matches this assigned family species card berberis-trifoliolata. Specialist morphology/field characters deferred.",
-      "sha256": "b4283b3a3099d23c3fedab23391303d180b0792a4c2c6072e37773bda4c70e16"
+      "sha256": "b4283b3a3099d23c3fedab23391303d180b0792a4c2c6072e37773bda4c70e16",
+      "display_sha256": "72091fc2040420b8431f0ef51e668276c261f3884061003fc6c23cf30dc97269",
+      "display_blob_sha": "53fbeb4489b8bd8600f0587db05fcba4a061fb88",
+      "display_original_site_sha256": "b4283b3a3099d23c3fedab23391303d180b0792a4c2c6072e37773bda4c70e16",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

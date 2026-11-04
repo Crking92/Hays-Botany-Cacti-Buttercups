@@ -73,7 +73,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7256c3b4fd4f019a4441894483d4e953e4eb38b0",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -81,7 +81,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 114116524 and photo 192740866 checked individually for current cc-by-nc rights, creator and identical SHA256 541bc4d6e3f0daa25b6c419f8637733832ada3614d49f7e55a96d3eaac888be5; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/192740866/original.jpeg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Opuntia phaeacantha' matches this Cactaceae species card opuntia-phaeacantha. Specialist morphology/field characters deferred.",
-      "sha256": "541bc4d6e3f0daa25b6c419f8637733832ada3614d49f7e55a96d3eaac888be5"
+      "sha256": "541bc4d6e3f0daa25b6c419f8637733832ada3614d49f7e55a96d3eaac888be5",
+      "display_sha256": "5e8d723a813e0e0ae480a94b4382d803c47753145e9252c13acf88e2b2841181",
+      "display_blob_sha": "a2e0591b4a9639f2f3fb113000e9ab193aaab4d6",
+      "display_original_site_sha256": "541bc4d6e3f0daa25b6c419f8637733832ada3614d49f7e55a96d3eaac888be5",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/opuntia-phaeacantha/inat-651126390.jpg",
@@ -92,7 +97,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "10aa587b4436bee3afd3c7bfb15f0523fd4db702",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -100,7 +105,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 357025170 and photo 651126390 checked individually for current cc-by-nc rights, creator and identical SHA256 d3ccf5e4b473b51fe8dda99e565f58d094e1c9944dbc1f42313096cd638aed0d; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/651126390/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Opuntia phaeacantha' matches this Cactaceae species card opuntia-phaeacantha. Specialist morphology/field characters deferred.",
-      "sha256": "d3ccf5e4b473b51fe8dda99e565f58d094e1c9944dbc1f42313096cd638aed0d"
+      "sha256": "d3ccf5e4b473b51fe8dda99e565f58d094e1c9944dbc1f42313096cd638aed0d",
+      "display_sha256": "cea4a749b630a77bfced603b040c2d234931297604e78511443dace4c0661f08",
+      "display_blob_sha": "28a8b242ba5160ad5ae10b065844cb1b6a7a35dc",
+      "display_original_site_sha256": "d3ccf5e4b473b51fe8dda99e565f58d094e1c9944dbc1f42313096cd638aed0d",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

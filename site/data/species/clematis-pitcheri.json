@@ -61,7 +61,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3a47744113553e002027d50f3c8849b7d094956f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -69,7 +69,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 347081136, photo 632779988, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 62bacb832bb307a11d8f0c41e6ead7e763598fe538589db8208fb179e0b72739.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Clematis pitcheri maps to indexed species clematis-pitcheri; specialist morphology and BONAP range deferred.",
-      "sha256": "62bacb832bb307a11d8f0c41e6ead7e763598fe538589db8208fb179e0b72739"
+      "sha256": "62bacb832bb307a11d8f0c41e6ead7e763598fe538589db8208fb179e0b72739",
+      "display_sha256": "864f3c2d2533f0936124038e6f93050e851a82539ef5533d021243d9b0e098e4",
+      "display_blob_sha": "f0516576035f554b9d8a580586b1c1c1882416d3",
+      "display_original_site_sha256": "62bacb832bb307a11d8f0c41e6ead7e763598fe538589db8208fb179e0b72739",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/clematis-pitcheri/inat-634903651.jpg",
@@ -80,7 +85,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7df22af9f3ebcb3823571d8d2612d81deb7730a5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -88,7 +93,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 348151993, photo 634903651, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8f2c3e0b74ac3487181b31a8167b0435da4ff2eecd5bdc0bb484016b9fc3ec6e.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Clematis pitcheri maps to indexed species clematis-pitcheri; specialist morphology and BONAP range deferred.",
-      "sha256": "8f2c3e0b74ac3487181b31a8167b0435da4ff2eecd5bdc0bb484016b9fc3ec6e"
+      "sha256": "8f2c3e0b74ac3487181b31a8167b0435da4ff2eecd5bdc0bb484016b9fc3ec6e",
+      "display_sha256": "a81ec29a5e36393cc38c57bd35576f0be2b31d8ff0733d6022cdf3f29f15fa9e",
+      "display_blob_sha": "03f7455774411ce1d24f593b3344fa2485d2ab1f",
+      "display_original_site_sha256": "8f2c3e0b74ac3487181b31a8167b0435da4ff2eecd5bdc0bb484016b9fc3ec6e",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/clematis-pitcheri/inat-635632697.jpg",
@@ -99,7 +109,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f168abfc65295f8bd0660b2a9314943fd45c9b2d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -107,7 +117,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 348520798, photo 635632697, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 43a5bb5e329a17ac2700537684bbad60c9107882b5066cf48a1907af5ec5c3a3.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Clematis pitcheri maps to indexed species clematis-pitcheri; specialist morphology and BONAP range deferred.",
-      "sha256": "43a5bb5e329a17ac2700537684bbad60c9107882b5066cf48a1907af5ec5c3a3"
+      "sha256": "43a5bb5e329a17ac2700537684bbad60c9107882b5066cf48a1907af5ec5c3a3",
+      "display_sha256": "97fc4f287c88e3a87d63920624877183fb88cde417728614e6034e0023c86a1b",
+      "display_blob_sha": "aa2d9a8aadc46b733aed6ce9f8b91632e5c328a7",
+      "display_original_site_sha256": "43a5bb5e329a17ac2700537684bbad60c9107882b5066cf48a1907af5ec5c3a3",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/clematis-pitcheri/inat-637171058.jpg",
@@ -118,7 +133,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cd3eb4882f9c48f9551d6271e0a125965bb151f4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -126,7 +141,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 349299860, photo 637171058, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 721515d2bb23548b79d210d1738443d6037113f18b40947bb4a00ebd9dcd6816.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Clematis pitcheri maps to indexed species clematis-pitcheri; specialist morphology and BONAP range deferred.",
-      "sha256": "721515d2bb23548b79d210d1738443d6037113f18b40947bb4a00ebd9dcd6816"
+      "sha256": "721515d2bb23548b79d210d1738443d6037113f18b40947bb4a00ebd9dcd6816",
+      "display_sha256": "4cbe53772240ea4df11200d18309c77274d02d42c797132882d59a4329729b3e",
+      "display_blob_sha": "79ad169298f1ed55495b5e25401b08c15638ade4",
+      "display_original_site_sha256": "721515d2bb23548b79d210d1738443d6037113f18b40947bb4a00ebd9dcd6816",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/clematis-pitcheri/inat-637269328.jpg",
@@ -137,7 +157,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "db67263e40db7c8475849c139d6a1e3cf05b10da",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -145,7 +165,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 349351186, photo 637269328, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2b984f93ee3e8ac19c17954414aef080b21ce94460c0245471ac76d8537b0128.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Clematis pitcheri maps to indexed species clematis-pitcheri; specialist morphology and BONAP range deferred.",
-      "sha256": "2b984f93ee3e8ac19c17954414aef080b21ce94460c0245471ac76d8537b0128"
+      "sha256": "2b984f93ee3e8ac19c17954414aef080b21ce94460c0245471ac76d8537b0128",
+      "display_sha256": "1b64b10c4ebf8821d9498544ac4cbc7aab892f39c3c8ad4bfd2078c66749e017",
+      "display_blob_sha": "ec1e9e9940603a9812d33e6ea498f0875d80ef44",
+      "display_original_site_sha256": "2b984f93ee3e8ac19c17954414aef080b21ce94460c0245471ac76d8537b0128",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/clematis-pitcheri/archived-94bdf0d385a59e2b.jpg",

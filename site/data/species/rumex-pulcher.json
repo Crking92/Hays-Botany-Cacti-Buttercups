@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "24bd2c1d53c96b019cacc75581b9a2c5013f8c4b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 75483650, photo 123498701, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1d27b7855087c75d163984ad39a8aafe02d28d23cca1f6db87a41401c58ac4cd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Rumex pulcher maps to indexed species rumex-pulcher; specialist morphology and BONAP range deferred.",
-      "sha256": "1d27b7855087c75d163984ad39a8aafe02d28d23cca1f6db87a41401c58ac4cd"
+      "sha256": "1d27b7855087c75d163984ad39a8aafe02d28d23cca1f6db87a41401c58ac4cd",
+      "display_sha256": "f5c7c4fca4b3fb3f14b1be41f8ce21858b39e284b99aef91460da9069d759c47",
+      "display_blob_sha": "28c30c47ddfd35b862a5fc5bcd7b660f5fa8beb5",
+      "display_original_site_sha256": "1d27b7855087c75d163984ad39a8aafe02d28d23cca1f6db87a41401c58ac4cd",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rumex-pulcher/inat-37435680.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "65cbbab6c61a7f86a8688c048dafeb896622117b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 24209072, photo 37435680, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d7d7fc83b7ed385bff0e4bda3e148ade3c63efc05fd5d720ebff07556583f209. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Rumex pulcher maps to indexed species rumex-pulcher; specialist morphology and BONAP range deferred.",
-      "sha256": "d7d7fc83b7ed385bff0e4bda3e148ade3c63efc05fd5d720ebff07556583f209"
+      "sha256": "d7d7fc83b7ed385bff0e4bda3e148ade3c63efc05fd5d720ebff07556583f209",
+      "display_sha256": "9718d7a5ffa7f5caaf08ea0c6ddf1fa3d5bedbb007bbdc4633c27b02dbadda9c",
+      "display_blob_sha": "74bbabf0374e54383fb22a6aff2df76bdcd8cc24",
+      "display_original_site_sha256": "d7d7fc83b7ed385bff0e4bda3e148ade3c63efc05fd5d720ebff07556583f209",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rumex-pulcher/inat-656800255.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e0a2ccf574da0cc4a2a65f1427eccebbf7a7bab8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 359962271, photo 656800255, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3709b7b1ba35bf2177423dbf2d8fb017f41d08352c134140e7f36fc344c62733. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Rumex pulcher maps to indexed species rumex-pulcher; specialist morphology and BONAP range deferred.",
-      "sha256": "3709b7b1ba35bf2177423dbf2d8fb017f41d08352c134140e7f36fc344c62733"
+      "sha256": "3709b7b1ba35bf2177423dbf2d8fb017f41d08352c134140e7f36fc344c62733",
+      "display_sha256": "c35c6caa33564857c2f6a73bed6727817e746a1163d2c5782a93d8ebd4aed496",
+      "display_blob_sha": "7828556581d96093cc404a0e4b47de7d108c61fa",
+      "display_original_site_sha256": "3709b7b1ba35bf2177423dbf2d8fb017f41d08352c134140e7f36fc344c62733",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rumex-pulcher/archived-4322d3aa66fe1169.jpg",

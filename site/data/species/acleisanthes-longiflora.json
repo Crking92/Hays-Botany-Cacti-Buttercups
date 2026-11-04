@@ -79,7 +79,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "28dc62b5bb841e3514dec7c98274e4fbde2600a5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -87,7 +87,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 343805864, photo 626350109, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9c6d4f66a5f4d245359c47360bb007fccb6c8d58c9f509168d823b34efb95782. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Acleisanthes longiflora maps to indexed species acleisanthes-longiflora; specialist morphology and BONAP range deferred.",
-      "sha256": "9c6d4f66a5f4d245359c47360bb007fccb6c8d58c9f509168d823b34efb95782"
+      "sha256": "9c6d4f66a5f4d245359c47360bb007fccb6c8d58c9f509168d823b34efb95782",
+      "display_sha256": "c46e8227a6ee5a371f3ce79203e62b39357295fac9e7881f53e47d99630954a2",
+      "display_blob_sha": "c217c3612ffd55c4cb8c29e688f241b0a3d2b6d7",
+      "display_original_site_sha256": "9c6d4f66a5f4d245359c47360bb007fccb6c8d58c9f509168d823b34efb95782",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/acleisanthes-longiflora/inat-629063054.jpg",
@@ -98,7 +103,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "05c3612be235a1777cef3898589a95a2aff15e5e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -106,7 +111,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345200494, photo 629063054, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 07f951ef7aa3e11715edca41d4ff2b255fb6bd701571f188b477738de06aa12b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Acleisanthes longiflora maps to indexed species acleisanthes-longiflora; specialist morphology and BONAP range deferred.",
-      "sha256": "07f951ef7aa3e11715edca41d4ff2b255fb6bd701571f188b477738de06aa12b"
+      "sha256": "07f951ef7aa3e11715edca41d4ff2b255fb6bd701571f188b477738de06aa12b",
+      "display_sha256": "2cf83a24828e954a39796746f58c1b49f5a757e58f13c78971c5af828d751290",
+      "display_blob_sha": "98f75de721e02c5306134746692e9487674de896",
+      "display_original_site_sha256": "07f951ef7aa3e11715edca41d4ff2b255fb6bd701571f188b477738de06aa12b",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/acleisanthes-longiflora/inat-636673020.jpg",
@@ -136,7 +146,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "891898e1c3096226a711b96831c47508bd3e2a99",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -144,7 +154,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 350089180, photo 638713087, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9b4c5afc6752a558453d5ba25d32f284259fa1d51b14a182c0df363cf5b213ba. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Acleisanthes longiflora maps to indexed species acleisanthes-longiflora; specialist morphology and BONAP range deferred.",
-      "sha256": "9b4c5afc6752a558453d5ba25d32f284259fa1d51b14a182c0df363cf5b213ba"
+      "sha256": "9b4c5afc6752a558453d5ba25d32f284259fa1d51b14a182c0df363cf5b213ba",
+      "display_sha256": "efdcb924e99d71ac364c240f7556457f4f1f12dc262f84e1a1c6bf2f2811d5bd",
+      "display_blob_sha": "d2b93f72650f25d7d4cb87d36e051636500aac2e",
+      "display_original_site_sha256": "9b4c5afc6752a558453d5ba25d32f284259fa1d51b14a182c0df363cf5b213ba",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/acleisanthes-longiflora/inat-643807914.jpg",
@@ -155,7 +170,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "00e2e546f75648dd2a85ce8200ba4aaae23a3629",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -163,7 +178,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 352792636, photo 643807914, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8ded4399761fec79ab5d8e6211020e03efcf8cf832508cbea5c8b698275a22eb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Acleisanthes longiflora maps to indexed species acleisanthes-longiflora; specialist morphology and BONAP range deferred.",
-      "sha256": "8ded4399761fec79ab5d8e6211020e03efcf8cf832508cbea5c8b698275a22eb"
+      "sha256": "8ded4399761fec79ab5d8e6211020e03efcf8cf832508cbea5c8b698275a22eb",
+      "display_sha256": "fc2c86c77e411bc0290796992c9c70a8b7319be0a0ead73a8a50d3fed907b2f5",
+      "display_blob_sha": "9739e3e5351dff46d8212b102534bd2dbf60e271",
+      "display_original_site_sha256": "8ded4399761fec79ab5d8e6211020e03efcf8cf832508cbea5c8b698275a22eb",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/acleisanthes-longiflora/archived-86020495d1299712.jpg",

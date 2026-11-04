@@ -77,7 +77,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "48096441d934e96c299259ec69205803bde55cea",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +85,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354032550, photo 645904504, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fef7e04f525512e68b7e2724de7654ddc921d30cafaa8cfc6613ff2cb9a2eb65. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Mirabilis albida maps to indexed species mirabilis-albida; specialist morphology and BONAP range deferred.",
-      "sha256": "fef7e04f525512e68b7e2724de7654ddc921d30cafaa8cfc6613ff2cb9a2eb65"
+      "sha256": "fef7e04f525512e68b7e2724de7654ddc921d30cafaa8cfc6613ff2cb9a2eb65",
+      "display_sha256": "ccb9c5f86c94cddbcdbbd840384b2f42e00f5678222ee89b281c75d8cd8069f7",
+      "display_blob_sha": "adb8a359c4c66ec37acbc58ac0e2055bb24c48d6",
+      "display_original_site_sha256": "fef7e04f525512e68b7e2724de7654ddc921d30cafaa8cfc6613ff2cb9a2eb65",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mirabilis-albida/inat-646058642.jpg",
@@ -96,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "145b1154d7e0214855ca5fd563f11301f6087c8c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +109,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354117067, photo 646058642, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9f421a99c0eeba50f40e3cea84af6fab6bd0c9395655a913b7ffecf09388772f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Mirabilis albida maps to indexed species mirabilis-albida; specialist morphology and BONAP range deferred.",
-      "sha256": "9f421a99c0eeba50f40e3cea84af6fab6bd0c9395655a913b7ffecf09388772f"
+      "sha256": "9f421a99c0eeba50f40e3cea84af6fab6bd0c9395655a913b7ffecf09388772f",
+      "display_sha256": "04a997b96261880b1b2066dfdd59813c13b0ad3daee42d29d76686d8d451e5b9",
+      "display_blob_sha": "0d1b938425347eb5fb20050878246e6ec2ce5034",
+      "display_original_site_sha256": "9f421a99c0eeba50f40e3cea84af6fab6bd0c9395655a913b7ffecf09388772f",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mirabilis-albida/inat-647055565.jpg",
@@ -115,7 +125,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7c028d3178b77e8c82ffde13cb74b0296a4bb04b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +133,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354720162, photo 647055565, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 07eaf30768e08dcdbf40ef80007d70a2f659e87a04eecf2f4cd188e406a57af7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Mirabilis albida maps to indexed species mirabilis-albida; specialist morphology and BONAP range deferred.",
-      "sha256": "07eaf30768e08dcdbf40ef80007d70a2f659e87a04eecf2f4cd188e406a57af7"
+      "sha256": "07eaf30768e08dcdbf40ef80007d70a2f659e87a04eecf2f4cd188e406a57af7",
+      "display_sha256": "cadd7d28b603eed96247b48f87ef17ec4501d47987d0b516556d64e46649dad9",
+      "display_blob_sha": "d25913fc888af1f9be0a4d27b6a5d826dd2bd951",
+      "display_original_site_sha256": "07eaf30768e08dcdbf40ef80007d70a2f659e87a04eecf2f4cd188e406a57af7",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mirabilis-albida/inat-648591503.jpg",
@@ -134,7 +149,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7e5553b2882de27added30fff7b10bc2e1396fca",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -142,7 +157,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 355655305, photo 648591503, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: eb0815d3eb1ddd4d10faaf1814b201141f9971c246bad6ce84be6c5a80892bdb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Mirabilis albida maps to indexed species mirabilis-albida; specialist morphology and BONAP range deferred.",
-      "sha256": "eb0815d3eb1ddd4d10faaf1814b201141f9971c246bad6ce84be6c5a80892bdb"
+      "sha256": "eb0815d3eb1ddd4d10faaf1814b201141f9971c246bad6ce84be6c5a80892bdb",
+      "display_sha256": "1b7d1eb60fe661442748eed6145cd38adf655d57dc756fd3ccffd3d34daf5663",
+      "display_blob_sha": "3bd436ba19741c600a4d32ca608ce6ea1a926cf8",
+      "display_original_site_sha256": "eb0815d3eb1ddd4d10faaf1814b201141f9971c246bad6ce84be6c5a80892bdb",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mirabilis-albida/inat-649068398.jpg",
@@ -153,7 +173,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d72411b7b1f4616f574181267f59cffbcd60bfea",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -161,7 +181,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 355922551, photo 649068398, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1ff06f0d3ab728461a0029a2e2c2ea91947ceab7df781f7ef38f32d025e794bb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Mirabilis albida maps to indexed species mirabilis-albida; specialist morphology and BONAP range deferred.",
-      "sha256": "1ff06f0d3ab728461a0029a2e2c2ea91947ceab7df781f7ef38f32d025e794bb"
+      "sha256": "1ff06f0d3ab728461a0029a2e2c2ea91947ceab7df781f7ef38f32d025e794bb",
+      "display_sha256": "f10f832c535a32b88bac469e42748795a36d33a78f097360d4d53e5d6b228bdd",
+      "display_blob_sha": "f34c94cb28fe2586fdb15934a0d7899ef61f8f24",
+      "display_original_site_sha256": "1ff06f0d3ab728461a0029a2e2c2ea91947ceab7df781f7ef38f32d025e794bb",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

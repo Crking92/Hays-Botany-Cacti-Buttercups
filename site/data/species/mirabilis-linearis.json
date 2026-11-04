@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source_blob_sha": "800c1a6bd646a3d6a60bafc6cee60bf09a10158e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 93365571, photo 154735742, individual license cc0, exact source photo URL. Source media SHA256 matches supplied original ZIP: 14774a051d06cf57ef7e7eb5f55fa4c0a59aba7f118513571492c4e3fbdf4afe. Credit evidence: original user ZIP credit record.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Mirabilis linearis maps to indexed species mirabilis-linearis; specialist morphology and BONAP range deferred.",
-      "sha256": "14774a051d06cf57ef7e7eb5f55fa4c0a59aba7f118513571492c4e3fbdf4afe"
+      "sha256": "14774a051d06cf57ef7e7eb5f55fa4c0a59aba7f118513571492c4e3fbdf4afe",
+      "display_sha256": "b9972b7ae04a2adfe5ad5c465358207c83d7a09088b76318fbf40822acd436e7",
+      "display_blob_sha": "6863d579e303247d7f6a8a8f2b0d716a2db03615",
+      "display_original_site_sha256": "14774a051d06cf57ef7e7eb5f55fa4c0a59aba7f118513571492c4e3fbdf4afe",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mirabilis-linearis/inat-203254813.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2e467dc8b64b3ac85bda34639234c9d3f5b5c1bc",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 120191638, photo 203254813, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: edec35bffca0beff4ecbaab8ef79d3b809eab5de8918c07a1af779b2382fab28. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Mirabilis linearis maps to indexed species mirabilis-linearis; specialist morphology and BONAP range deferred.",
-      "sha256": "edec35bffca0beff4ecbaab8ef79d3b809eab5de8918c07a1af779b2382fab28"
+      "sha256": "edec35bffca0beff4ecbaab8ef79d3b809eab5de8918c07a1af779b2382fab28",
+      "display_sha256": "6668590b3dc923b9a971fad9e0802c3901304ae85cfe8832394428ddc95c5ccc",
+      "display_blob_sha": "dbe0268e18d9908bb08f8f178f97d1bbb4065f46",
+      "display_original_site_sha256": "edec35bffca0beff4ecbaab8ef79d3b809eab5de8918c07a1af779b2382fab28",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mirabilis-linearis/inat-645769514.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "946cee204e926719f4c7467c0209b4eb91810775",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353957918, photo 645769514, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6e1aff4c7fee1ab1ccdfe4e4307957f3e015ab68d30b14ddc8a1078a2422ef6f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Mirabilis linearis maps to indexed species mirabilis-linearis; specialist morphology and BONAP range deferred.",
-      "sha256": "6e1aff4c7fee1ab1ccdfe4e4307957f3e015ab68d30b14ddc8a1078a2422ef6f"
+      "sha256": "6e1aff4c7fee1ab1ccdfe4e4307957f3e015ab68d30b14ddc8a1078a2422ef6f",
+      "display_sha256": "7d32f6fe4a87475d41512d1fbe74b154f22ae7779e392f2b331ec252da191f50",
+      "display_blob_sha": "003f84750caf39da140c769f72cb6a96a3803e49",
+      "display_original_site_sha256": "6e1aff4c7fee1ab1ccdfe4e4307957f3e015ab68d30b14ddc8a1078a2422ef6f",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mirabilis-linearis/inat-645853895.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "38c20902e29a840f191133c83051d80eaa6aad71",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354004125, photo 645853895, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 611ceb502790a271195168cd61b0b0b79f0aa88a4b419cb42d188aa58cf39093. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Mirabilis linearis maps to indexed species mirabilis-linearis; specialist morphology and BONAP range deferred.",
-      "sha256": "611ceb502790a271195168cd61b0b0b79f0aa88a4b419cb42d188aa58cf39093"
+      "sha256": "611ceb502790a271195168cd61b0b0b79f0aa88a4b419cb42d188aa58cf39093",
+      "display_sha256": "a66c58c211fef29cbaaa32246a18ec892ce0b3902863744e3e5021b71bbdca95",
+      "display_blob_sha": "44d45431233a4f39bbbd0a9ddf6e0ffb1b55d812",
+      "display_original_site_sha256": "611ceb502790a271195168cd61b0b0b79f0aa88a4b419cb42d188aa58cf39093",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mirabilis-linearis/inat-667853889.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ba7b44868da89d779736bd0c64236defc971b4e8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 365781075, photo 667853889, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 16213a1c6a88b5f64a1b16a663e726517cea0b402a5b32c7da785584cfa1d6ba. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Mirabilis linearis maps to indexed species mirabilis-linearis; specialist morphology and BONAP range deferred.",
-      "sha256": "16213a1c6a88b5f64a1b16a663e726517cea0b402a5b32c7da785584cfa1d6ba"
+      "sha256": "16213a1c6a88b5f64a1b16a663e726517cea0b402a5b32c7da785584cfa1d6ba",
+      "display_sha256": "afca4edc03dfce864de1d4a213b91e56bd8a1b4e2f3b7a811ebdd04267196bee",
+      "display_blob_sha": "2a75ff8062a3fc95eacc685653d65695f6241889",
+      "display_original_site_sha256": "16213a1c6a88b5f64a1b16a663e726517cea0b402a5b32c7da785584cfa1d6ba",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mirabilis-linearis/archived-cabbd62dfb87e512.jpg",

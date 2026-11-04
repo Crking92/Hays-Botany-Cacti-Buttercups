@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "acb2517ddc606edd3c94303c7ab903bc0c1150b4",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 36402431 and photo 57539031 checked individually for current cc-by-nc rights, creator and identical SHA256 4a206bc351f17abe1dc0c4a4f4122cb94e47420528c6df7af1320a6bda8f83e8; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/57539031/original.jpeg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Echinocereus fobeanus metorni' matches this Cactaceae species card echinocereus-chisoensis. Specialist morphology/field characters deferred.",
-      "sha256": "4a206bc351f17abe1dc0c4a4f4122cb94e47420528c6df7af1320a6bda8f83e8"
+      "sha256": "4a206bc351f17abe1dc0c4a4f4122cb94e47420528c6df7af1320a6bda8f83e8",
+      "display_sha256": "aa4d6437a848586bdfbb28e52fa6e08a570115cd5d218083c5e37203708cac4d",
+      "display_blob_sha": "81335fbcd750f83693087d51ea8ea639e28026d2",
+      "display_original_site_sha256": "4a206bc351f17abe1dc0c4a4f4122cb94e47420528c6df7af1320a6bda8f83e8",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/echinocereus-chisoensis/inat-57539037.jpeg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d862d9107cca7f50e308e8cc8bc76252fdff607c",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 36402432 and photo 57539037 checked individually for current cc-by-nc rights, creator and identical SHA256 2877d29a5b4d9340114e12c71430b7bd7980632bb762d8ca923d70eab8c6d7ce; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/57539037/original.jpeg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Echinocereus fobeanus metorni' matches this Cactaceae species card echinocereus-chisoensis. Specialist morphology/field characters deferred.",
-      "sha256": "2877d29a5b4d9340114e12c71430b7bd7980632bb762d8ca923d70eab8c6d7ce"
+      "sha256": "2877d29a5b4d9340114e12c71430b7bd7980632bb762d8ca923d70eab8c6d7ce",
+      "display_sha256": "d8f230d577c522f3a957aae2465b9ea6789c212f0af21577428f941b52719eaf",
+      "display_blob_sha": "5fcdae43c5c76f90af6763ef9be915beffb50ae6",
+      "display_original_site_sha256": "2877d29a5b4d9340114e12c71430b7bd7980632bb762d8ca923d70eab8c6d7ce",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/echinocereus-chisoensis/inat-58927250.jpeg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f9c0292475ef322f3c3f857fcdb417244e785eb6",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 37196093 and photo 58927250 checked individually for current cc-by-nc rights, creator and identical SHA256 d5a23b5b2c6bd5c000ad236130ead64a488d5ac3e0213922134a597fc1f1db4c; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/58927250/original.jpeg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Echinocereus fobeanus metorni' matches this Cactaceae species card echinocereus-chisoensis. Specialist morphology/field characters deferred.",
-      "sha256": "d5a23b5b2c6bd5c000ad236130ead64a488d5ac3e0213922134a597fc1f1db4c"
+      "sha256": "d5a23b5b2c6bd5c000ad236130ead64a488d5ac3e0213922134a597fc1f1db4c",
+      "display_sha256": "3780eed94817a3bc551f5a7859540a7f6ee2fa68199ac6aacef383a501461c81",
+      "display_blob_sha": "0c2f225085eecabd093c0c3cffa0737191dd79c1",
+      "display_original_site_sha256": "d5a23b5b2c6bd5c000ad236130ead64a488d5ac3e0213922134a597fc1f1db4c",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/echinocereus-chisoensis/inat-58927457.jpeg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "82414d129242359317679e95ee3f798235a118be",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 37196166 and photo 58927457 checked individually for current cc-by-nc rights, creator and identical SHA256 024f29ea0dde42f29ccddf7bb0b8a453ab7149fc001e78a31f1db6862a6f57ab; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/58927457/original.jpeg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Echinocereus fobeanus metorni' matches this Cactaceae species card echinocereus-chisoensis. Specialist morphology/field characters deferred.",
-      "sha256": "024f29ea0dde42f29ccddf7bb0b8a453ab7149fc001e78a31f1db6862a6f57ab"
+      "sha256": "024f29ea0dde42f29ccddf7bb0b8a453ab7149fc001e78a31f1db6862a6f57ab",
+      "display_sha256": "725090308ea096f48cb5cd2396bc1511c0dc92d7200784348aff2f493b6de31e",
+      "display_blob_sha": "d9236a62c710b8e7f155cbd4dbf30d512706f468",
+      "display_original_site_sha256": "024f29ea0dde42f29ccddf7bb0b8a453ab7149fc001e78a31f1db6862a6f57ab",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/echinocereus-chisoensis/inat-58927470.jpeg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6780b26967f664359231a8dcfb004e675ac56af0",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 37196167 and photo 58927470 checked individually for current cc-by-nc rights, creator and identical SHA256 7ecb25015e4f00dcfcf323e931e9bdb09868a315aca539c0f5a012d9c6b98ab3; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/58927470/original.jpeg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Echinocereus fobeanus metorni' matches this Cactaceae species card echinocereus-chisoensis. Specialist morphology/field characters deferred.",
-      "sha256": "7ecb25015e4f00dcfcf323e931e9bdb09868a315aca539c0f5a012d9c6b98ab3"
+      "sha256": "7ecb25015e4f00dcfcf323e931e9bdb09868a315aca539c0f5a012d9c6b98ab3",
+      "display_sha256": "119c32c174fbae17e04d05b76c9cd0d71d18dcfc1cc2bb964ea74a29edcbd30f",
+      "display_blob_sha": "2e4047c6f4a18b81c27aac457698ae0a967cc6ee",
+      "display_original_site_sha256": "7ecb25015e4f00dcfcf323e931e9bdb09868a315aca539c0f5a012d9c6b98ab3",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

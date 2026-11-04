@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "33c20f08b380c6305258d5c259cf0cfc6967f2b8",
       "role": "Provisional species recognition photograph; exact source taxon reviewed, diagnostic anatomy not visually certified",
-      "modified": "Historical archived photograph; no new changes.",
+      "modified": "Resized and recompressed web display copy; source note: Historical archived photograph; no new changes.",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "Existing historical image-sources.csv entry for exact Commons photo Echinocereus_enneacanthus_enneacanthus_1.jpg; original individual photographer Luis F. Ramírez; archived specific reuse license CC BY 4.0; preserved photo byte SHA checked against original transfer manifest 33c20f08b380c6305258d5c259cf0cfc6967f2b8; reused under owner's previously recorded photo-rights approval policy; no new online Commons license assertion; archived source SHA 33c20f08b380c6305258d5c259cf0cfc6967f2b8; exact image source https://commons.wikimedia.org/wiki/File:Echinocereus_enneacanthus_enneacanthus_1.jpg",
       "taxon_review_evidence": "Original species record Echinocereus enneacanthus var. enneacanthus linked to an original image and matching current commons photo of source taxon Echinocereus enneacanthus var. enneacanthus. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "c33da55aef57d423b1200dfaadf71475cb7c40fe88da81750a28732af210c151"
+      "sha256": "c33da55aef57d423b1200dfaadf71475cb7c40fe88da81750a28732af210c151",
+      "display_sha256": "ed694ab96bb54e245689f9f1c5acec7857a08b3603a674a4b2ade22e20a7d35e",
+      "display_blob_sha": "1bad76dde0ec251ab370f248ade746cca7c6d48e",
+      "display_original_site_sha256": "c33da55aef57d423b1200dfaadf71475cb7c40fe88da81750a28732af210c151",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bc189a0866f767897fa10da6c925f22f85bd3ecd",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 341902839 and photo 622515912 checked individually for current cc-by-nc rights, creator and identical SHA256 77e8c83d4b8933ee462995bdb4f84747d41737aa677da2960559507ae9c3220a; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/622515912/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Echinocereus triglochidiatus triglochidiatus' matches this Cactaceae species card echinocereus-triglochidiatus. Specialist morphology/field characters deferred.",
-      "sha256": "77e8c83d4b8933ee462995bdb4f84747d41737aa677da2960559507ae9c3220a"
+      "sha256": "77e8c83d4b8933ee462995bdb4f84747d41737aa677da2960559507ae9c3220a",
+      "display_sha256": "1f9aaf193a157a3da436a70d96c09fa409ab4467d5fc13b22497064073bc8a78",
+      "display_blob_sha": "038be1e2b3d8f324e4f3516c1ff1c93f00bcd4af",
+      "display_original_site_sha256": "77e8c83d4b8933ee462995bdb4f84747d41737aa677da2960559507ae9c3220a",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/echinocereus-triglochidiatus/inat-622885851.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9d757bf673a8c59732c631a9e97e73404f687862",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 342085912 and photo 622885851 checked individually for current cc-by-nc rights, creator and identical SHA256 3b64bcaafc6aa03ce0223085c98d306f28f78d4a7bfe6d902a9ab5759d8eb6a4; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/622885851/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Echinocereus triglochidiatus triglochidiatus' matches this Cactaceae species card echinocereus-triglochidiatus. Specialist morphology/field characters deferred.",
-      "sha256": "3b64bcaafc6aa03ce0223085c98d306f28f78d4a7bfe6d902a9ab5759d8eb6a4"
+      "sha256": "3b64bcaafc6aa03ce0223085c98d306f28f78d4a7bfe6d902a9ab5759d8eb6a4",
+      "display_sha256": "8cc8dd0b0327df51481a9746ec41ff963ceece2d9beb93d1d972ceda33c90cfd",
+      "display_blob_sha": "3b50b6dd0494125d88d0ec9aecabdfc334f96ca1",
+      "display_original_site_sha256": "3b64bcaafc6aa03ce0223085c98d306f28f78d4a7bfe6d902a9ab5759d8eb6a4",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/echinocereus-triglochidiatus/inat-625513668.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7e19f8dfa277904563db956aef8f4b652bfd6b72",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 343392987 and photo 625513668 checked individually for current cc-by-nc rights, creator and identical SHA256 a695c473e22176441496fb9e46593f64b1d9e4f334a1701d98f8eaedd2c159b0; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/625513668/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Echinocereus triglochidiatus triglochidiatus' matches this Cactaceae species card echinocereus-triglochidiatus. Specialist morphology/field characters deferred.",
-      "sha256": "a695c473e22176441496fb9e46593f64b1d9e4f334a1701d98f8eaedd2c159b0"
+      "sha256": "a695c473e22176441496fb9e46593f64b1d9e4f334a1701d98f8eaedd2c159b0",
+      "display_sha256": "f74d10938f88771e59238b2a3b4fa21da9ed0211c2408eb117f0dec730a1fb23",
+      "display_blob_sha": "dde972499e31ab7c6e1eef33a66d4d3abfeac4a9",
+      "display_original_site_sha256": "a695c473e22176441496fb9e46593f64b1d9e4f334a1701d98f8eaedd2c159b0",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/echinocereus-triglochidiatus/inat-626001139.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "79a8b34234952ca01bf84a4bda6e114add5f94bd",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 343631779 and photo 626001139 checked individually for current cc-by-nc rights, creator and identical SHA256 a56eb07a648662db9899287917796a06567bd242ff080b4939305586f9ea2464; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/626001139/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Echinocereus triglochidiatus triglochidiatus' matches this Cactaceae species card echinocereus-triglochidiatus. Specialist morphology/field characters deferred.",
-      "sha256": "a56eb07a648662db9899287917796a06567bd242ff080b4939305586f9ea2464"
+      "sha256": "a56eb07a648662db9899287917796a06567bd242ff080b4939305586f9ea2464",
+      "display_sha256": "2b37be8cc4d0a6a4eb1fa499314f80f392ec3108a2e59ca56412ea53ca0856e0",
+      "display_blob_sha": "84aac0512efc6a8be31d11d3610f44a6a434a5c9",
+      "display_original_site_sha256": "a56eb07a648662db9899287917796a06567bd242ff080b4939305586f9ea2464",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/echinocereus-triglochidiatus/inat-627733355.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source_blob_sha": "370a4dbbe011c092ac419940f7183a98aa1dfc26",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 344515425 and photo 627733355 checked individually for current cc0 rights, creator from original ZIP's exact-photo photographer credit, and identical SHA256 12be8cf9516e835310f40efcce125db22ebff828ca0e94d9a46a4af6526521cf; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/627733355/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Echinocereus triglochidiatus triglochidiatus' matches this Cactaceae species card echinocereus-triglochidiatus. Specialist morphology/field characters deferred.",
-      "sha256": "12be8cf9516e835310f40efcce125db22ebff828ca0e94d9a46a4af6526521cf"
+      "sha256": "12be8cf9516e835310f40efcce125db22ebff828ca0e94d9a46a4af6526521cf",
+      "display_sha256": "a54801565029abc5877f569602f41c3044af8e594a5be265ebc5ac9a212c9c24",
+      "display_blob_sha": "710026e38d2ac2b40dc18ac08ff509a1c953cef8",
+      "display_original_site_sha256": "12be8cf9516e835310f40efcce125db22ebff828ca0e94d9a46a4af6526521cf",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

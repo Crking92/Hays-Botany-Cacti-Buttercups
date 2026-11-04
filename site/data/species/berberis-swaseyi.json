@@ -64,7 +64,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1c93ded9fbf8faa0d784dab7f43659b1f0550705",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -72,7 +72,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 343123241 and photo 626803450 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 5e843c86748d9a41ba7d7d23a9cf694c5e915c8e364c34fec0b35cbfaa7b4d26; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/626803450/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Berberis swaseyi' matches this assigned family species card berberis-swaseyi. Specialist morphology/field characters deferred.",
-      "sha256": "5e843c86748d9a41ba7d7d23a9cf694c5e915c8e364c34fec0b35cbfaa7b4d26"
+      "sha256": "5e843c86748d9a41ba7d7d23a9cf694c5e915c8e364c34fec0b35cbfaa7b4d26",
+      "display_sha256": "718498b9ad0650820cf989223b8281242a59d333c2b0ec70397de3218079a63f",
+      "display_blob_sha": "91f38e9aa5f543182aa3d78646f7e72651fd7ddb",
+      "display_original_site_sha256": "5e843c86748d9a41ba7d7d23a9cf694c5e915c8e364c34fec0b35cbfaa7b4d26",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/berberis-swaseyi/inat-627586585.jpg",
@@ -83,7 +88,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d62cf302278a4c90f5fcc93d647e779f05ac1afc",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -91,7 +96,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 344437840 and photo 627586585 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 0eee0119dce1115cc99a21f37a0592ec784afa5ac689bdc98d088dca0ccf1fe0; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/627586585/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Berberis swaseyi' matches this assigned family species card berberis-swaseyi. Specialist morphology/field characters deferred.",
-      "sha256": "0eee0119dce1115cc99a21f37a0592ec784afa5ac689bdc98d088dca0ccf1fe0"
+      "sha256": "0eee0119dce1115cc99a21f37a0592ec784afa5ac689bdc98d088dca0ccf1fe0",
+      "display_sha256": "1f2e28a06eb01a8576c5bc428d3cff080e6455098eba68f761817fd218131dd1",
+      "display_blob_sha": "b2ce79cfd5c390ed0fe79aac9ad958ec156fe689",
+      "display_original_site_sha256": "0eee0119dce1115cc99a21f37a0592ec784afa5ac689bdc98d088dca0ccf1fe0",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/berberis-swaseyi/inat-629354749.jpg",
@@ -102,7 +112,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ac297e5c0bc72882b43987406bae15a7ea09552f",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -110,7 +120,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 345348031 and photo 629354749 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 ec75d6252b05bb82d52f08ff33f33017a632da0eabc5f2255cb96f93ff044117; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/629354749/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Berberis swaseyi' matches this assigned family species card berberis-swaseyi. Specialist morphology/field characters deferred.",
-      "sha256": "ec75d6252b05bb82d52f08ff33f33017a632da0eabc5f2255cb96f93ff044117"
+      "sha256": "ec75d6252b05bb82d52f08ff33f33017a632da0eabc5f2255cb96f93ff044117",
+      "display_sha256": "556a32d297c9bca2d83805950c2f8bd7b12e9c90a2a11c641d8242b161a7f094",
+      "display_blob_sha": "c858024ed285f662c3caad6e76b5d6d613ab98a9",
+      "display_original_site_sha256": "ec75d6252b05bb82d52f08ff33f33017a632da0eabc5f2255cb96f93ff044117",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/berberis-swaseyi/inat-630159655.jpg",
@@ -121,7 +136,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8218723b055b17adffe61cd48e13d09957a4e25e",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -129,7 +144,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 345757057 and photo 630159655 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 45213d8464e6bda2d24997198e7317768c4abfec3a85c4141e502f7434ab5aa0; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/630159655/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Berberis swaseyi' matches this assigned family species card berberis-swaseyi. Specialist morphology/field characters deferred.",
-      "sha256": "45213d8464e6bda2d24997198e7317768c4abfec3a85c4141e502f7434ab5aa0"
+      "sha256": "45213d8464e6bda2d24997198e7317768c4abfec3a85c4141e502f7434ab5aa0",
+      "display_sha256": "b43bc78fccd232abf63c83255417dafab07e4427abb17a4147e2fb729f5c9c71",
+      "display_blob_sha": "b920ab74fd4e403368bcc51f4c5b6459e6f4f726",
+      "display_original_site_sha256": "45213d8464e6bda2d24997198e7317768c4abfec3a85c4141e502f7434ab5aa0",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/berberis-swaseyi/inat-631036425.jpg",
@@ -140,7 +160,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8f74029fd1e447cf0bf584443db7e408f1e96be1",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -148,7 +168,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 346204978 and photo 631036425 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 21781038ee8fa8bd8c0192e13110765ace6773232cb050233cfa04d3e25f5076; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/631036425/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Berberis swaseyi' matches this assigned family species card berberis-swaseyi. Specialist morphology/field characters deferred.",
-      "sha256": "21781038ee8fa8bd8c0192e13110765ace6773232cb050233cfa04d3e25f5076"
+      "sha256": "21781038ee8fa8bd8c0192e13110765ace6773232cb050233cfa04d3e25f5076",
+      "display_sha256": "a008edea6516a0d74a182a0fe107f15e5bd698d647e1b77e522652bcf82a4a47",
+      "display_blob_sha": "91c6142ea9688d6b777d027dc0b1d6e1f0961849",
+      "display_original_site_sha256": "21781038ee8fa8bd8c0192e13110765ace6773232cb050233cfa04d3e25f5076",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

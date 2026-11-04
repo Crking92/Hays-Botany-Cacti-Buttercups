@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "1ecdb6a0d3604511d91fa9e1cdd217108dbf74cb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 269387842, photo 484352140, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: d3c1a91b90483cc9e4bbe5c59ff3357921e5cd730bc5f97df3f48d215a40772d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Paronychia virginica maps to indexed species paronychia-virginica; specialist morphology and BONAP range deferred.",
-      "sha256": "d3c1a91b90483cc9e4bbe5c59ff3357921e5cd730bc5f97df3f48d215a40772d"
+      "sha256": "d3c1a91b90483cc9e4bbe5c59ff3357921e5cd730bc5f97df3f48d215a40772d",
+      "display_sha256": "2518bc9911ea6bafb881faf4953a1387d1bc21d4c108083e5200414e71b0cad5",
+      "display_blob_sha": "2ab7e2fb94efcad4c000d8bc1350ca49278c112c",
+      "display_original_site_sha256": "d3c1a91b90483cc9e4bbe5c59ff3357921e5cd730bc5f97df3f48d215a40772d",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/paronychia-virginica/inat-484811566.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "d11db89d418c84177a06c05df09a1b3bf317e2c6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 269626099, photo 484811566, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: e27574ec9c62b1a22d6755a07d31322bd639bec3058ef71eb8dfaa1f3d7aa7bc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Paronychia virginica maps to indexed species paronychia-virginica; specialist morphology and BONAP range deferred.",
-      "sha256": "e27574ec9c62b1a22d6755a07d31322bd639bec3058ef71eb8dfaa1f3d7aa7bc"
+      "sha256": "e27574ec9c62b1a22d6755a07d31322bd639bec3058ef71eb8dfaa1f3d7aa7bc",
+      "display_sha256": "f1c54b910158d1027101dfa790b2622439f6e19b1b7942838270829b0b4cab06",
+      "display_blob_sha": "254293b379033616f0f3563c68de6e48efada09a",
+      "display_original_site_sha256": "e27574ec9c62b1a22d6755a07d31322bd639bec3058ef71eb8dfaa1f3d7aa7bc",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/paronychia-virginica/inat-486977787.jpeg",
@@ -115,7 +125,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "64242474bb1bc5a79e80ff4863b0da82c18f44cb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +133,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 283718620, photo 509800698, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0723a692df1c832fa19ac2ebbf6b0d71674c0e83944b8c6a106d99a666a4db2b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Paronychia virginica maps to indexed species paronychia-virginica; specialist morphology and BONAP range deferred.",
-      "sha256": "0723a692df1c832fa19ac2ebbf6b0d71674c0e83944b8c6a106d99a666a4db2b"
+      "sha256": "0723a692df1c832fa19ac2ebbf6b0d71674c0e83944b8c6a106d99a666a4db2b",
+      "display_sha256": "6933e152a6df859f966465f391f0058a3478d7d9f93dc700f79e8c7877e9c0b5",
+      "display_blob_sha": "c50e5d574243078f3f16804931ef833c09d8659a",
+      "display_original_site_sha256": "0723a692df1c832fa19ac2ebbf6b0d71674c0e83944b8c6a106d99a666a4db2b",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

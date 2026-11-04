@@ -91,7 +91,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6ded1d08feb3edfb32958fc13d3028178351bbd2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +99,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 353827413, photo 645532286, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f847f0b575045ac2675d9a3e598cc0192bdc6ba61579b4a4ec48111e6fcd7040. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Portulaca pilosa maps to indexed species portulaca-pilosa; specialist morphology and BONAP range deferred.",
-      "sha256": "f847f0b575045ac2675d9a3e598cc0192bdc6ba61579b4a4ec48111e6fcd7040"
+      "sha256": "f847f0b575045ac2675d9a3e598cc0192bdc6ba61579b4a4ec48111e6fcd7040",
+      "display_sha256": "ba9d873cebf7c93616c0a49f6783f0167677ee56dd853b2b932430763782cf94",
+      "display_blob_sha": "64123f8e8a9f0e32547401893ffeaa0b2643454f",
+      "display_original_site_sha256": "f847f0b575045ac2675d9a3e598cc0192bdc6ba61579b4a4ec48111e6fcd7040",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/portulaca-pilosa/inat-645664875.jpg",
@@ -110,7 +115,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a2c9102fca7aae0910121cb4b66bc645b5fab714",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +123,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 353901442, photo 645664875, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 36bc1542f84d701888e9a744088d1c9b177a24fe19e27d39317353f2b97cbec5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Portulaca pilosa maps to indexed species portulaca-pilosa; specialist morphology and BONAP range deferred.",
-      "sha256": "36bc1542f84d701888e9a744088d1c9b177a24fe19e27d39317353f2b97cbec5"
+      "sha256": "36bc1542f84d701888e9a744088d1c9b177a24fe19e27d39317353f2b97cbec5",
+      "display_sha256": "1a996bd8f6856af5f16b833ff3a489f03d3973b37871981ccba32b218b909a1d",
+      "display_blob_sha": "3f15cdf9fd031de37de7aaf0abeabe656e0c3cb0",
+      "display_original_site_sha256": "36bc1542f84d701888e9a744088d1c9b177a24fe19e27d39317353f2b97cbec5",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/portulaca-pilosa/inat-647072817.jpg",
@@ -129,7 +139,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5c19c5daf9f16b1816b597d49c7a8a1d2ba67551",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -137,7 +147,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 354729557, photo 647072817, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d46b3dc16438b58e81dbf2ce9a8b45536257ccaabdf107ef12c89b0e33ab462e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Portulaca pilosa maps to indexed species portulaca-pilosa; specialist morphology and BONAP range deferred.",
-      "sha256": "d46b3dc16438b58e81dbf2ce9a8b45536257ccaabdf107ef12c89b0e33ab462e"
+      "sha256": "d46b3dc16438b58e81dbf2ce9a8b45536257ccaabdf107ef12c89b0e33ab462e",
+      "display_sha256": "7e02a27ce9da9c7fa2a4c392841da9129cb4d0d1df4477e91224a16ae2b70533",
+      "display_blob_sha": "1fc6eefea15edc59049462d1f2c4ddd42b8a76ce",
+      "display_original_site_sha256": "d46b3dc16438b58e81dbf2ce9a8b45536257ccaabdf107ef12c89b0e33ab462e",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/portulaca-pilosa/inat-649435980.jpg",
@@ -148,7 +163,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "57a5c2f3d6f1102f37561cb43d29b8c73477a29c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -156,7 +171,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 356127224, photo 649435980, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3a758a684d5c2bb79ed4e1371d0307d050e85d1ee7ad038506d546bfc0e9afaa. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Portulaca pilosa maps to indexed species portulaca-pilosa; specialist morphology and BONAP range deferred.",
-      "sha256": "3a758a684d5c2bb79ed4e1371d0307d050e85d1ee7ad038506d546bfc0e9afaa"
+      "sha256": "3a758a684d5c2bb79ed4e1371d0307d050e85d1ee7ad038506d546bfc0e9afaa",
+      "display_sha256": "934aa421842da88b5640cb31d08797da7d2df4c23c3819e85c8e3b478c2378c5",
+      "display_blob_sha": "93091e5747b191dd514483c33958722e6b74f802",
+      "display_original_site_sha256": "3a758a684d5c2bb79ed4e1371d0307d050e85d1ee7ad038506d546bfc0e9afaa",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/portulaca-pilosa/inat-658146255.jpg",
@@ -167,7 +187,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "631f952ecc5f5705f53544a30d4133339fe930c4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -175,7 +195,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 360673147, photo 658146255, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a9b62a3ee99f58f93a6ac60d900a152593aecbc4788c385ba2eeab81f71533a3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Portulaca pilosa maps to indexed species portulaca-pilosa; specialist morphology and BONAP range deferred.",
-      "sha256": "a9b62a3ee99f58f93a6ac60d900a152593aecbc4788c385ba2eeab81f71533a3"
+      "sha256": "a9b62a3ee99f58f93a6ac60d900a152593aecbc4788c385ba2eeab81f71533a3",
+      "display_sha256": "11b1c2e439f892ce8baaa72f36b621cadeee7b05baaf77f8457c229a891e4b1e",
+      "display_blob_sha": "999fe713c789f2c5a3e0b3743f476cc9a50a27bf",
+      "display_original_site_sha256": "a9b62a3ee99f58f93a6ac60d900a152593aecbc4788c385ba2eeab81f71533a3",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/portulaca-pilosa/archived-a82afc1dabb74c14.jpg",

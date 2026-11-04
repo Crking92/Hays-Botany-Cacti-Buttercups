@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d4fd44c1620965f765d5216094ca00fc5bbe6430",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 1652160, photo 2026860, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f2a50f3ed3fdcbe75a77d426c54ba9bd4d4cff234062143b6818e34a1e2db625. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Gomphrena haageana maps to indexed species gomphrena-haageana (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "f2a50f3ed3fdcbe75a77d426c54ba9bd4d4cff234062143b6818e34a1e2db625"
+      "sha256": "f2a50f3ed3fdcbe75a77d426c54ba9bd4d4cff234062143b6818e34a1e2db625",
+      "display_sha256": "d96f1148c6a1b26cd09518e9666258160d9397e049895ba6ea56376d576ca40a",
+      "display_blob_sha": "06ae11d144f0a2856dcf6cd0e61aba46648c1d7b",
+      "display_original_site_sha256": "f2a50f3ed3fdcbe75a77d426c54ba9bd4d4cff234062143b6818e34a1e2db625",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/gomphrena-haageana/inat-217931701.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0e1604c24ab2148e4ae2a62fa6f112a8becb4420",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 128308872, photo 217931701, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: cdc7f281e2c1894abbda629815071c9e79834a8e0622322f9dd4ad05929fe672. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Gomphrena haageana maps to indexed species gomphrena-haageana (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "cdc7f281e2c1894abbda629815071c9e79834a8e0622322f9dd4ad05929fe672"
+      "sha256": "cdc7f281e2c1894abbda629815071c9e79834a8e0622322f9dd4ad05929fe672",
+      "display_sha256": "0b8b25b1f1f4de4a5af67c6dc26147afa00a77268fd47e77a3b80e90e46cb2af",
+      "display_blob_sha": "e080a9fa0642ffb6da8cd97075a8f7a3168c38af",
+      "display_original_site_sha256": "cdc7f281e2c1894abbda629815071c9e79834a8e0622322f9dd4ad05929fe672",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/gomphrena-haageana/inat-457535172.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "509a2da43951b3a2610f0fc259880dbf4e00e863",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 255320479, photo 457535172, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ebd1844bf822ae180fbfca0dd1cdb0c4c1c2b7c15db6ea71bd4106bc1381c141. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Gomphrena haageana maps to indexed species gomphrena-haageana (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "ebd1844bf822ae180fbfca0dd1cdb0c4c1c2b7c15db6ea71bd4106bc1381c141"
+      "sha256": "ebd1844bf822ae180fbfca0dd1cdb0c4c1c2b7c15db6ea71bd4106bc1381c141",
+      "display_sha256": "0830dd78592bdb9044257fb21b15eb58549cf52d25ce0f6a461ea58243d4df70",
+      "display_blob_sha": "327346d07f75eba8e659fa02d4c3f19cf7182a4e",
+      "display_original_site_sha256": "ebd1844bf822ae180fbfca0dd1cdb0c4c1c2b7c15db6ea71bd4106bc1381c141",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/gomphrena-haageana/inat-538970285.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e2d84bb891d3b8b5f09b820d0583e929d69f93e0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 299169162, photo 538970285, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f28b9542fae3f656cb541630539045512f96144aa15fa3f0d42de994b27277ff. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Gomphrena haageana maps to indexed species gomphrena-haageana (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "f28b9542fae3f656cb541630539045512f96144aa15fa3f0d42de994b27277ff"
+      "sha256": "f28b9542fae3f656cb541630539045512f96144aa15fa3f0d42de994b27277ff",
+      "display_sha256": "8fc44fcc47a25ce5298c25bf4953ea6dc106d513c191de3e1ff563d34641c83c",
+      "display_blob_sha": "5fbd63d4333b9271253ace4b95592de2685679cb",
+      "display_original_site_sha256": "f28b9542fae3f656cb541630539045512f96144aa15fa3f0d42de994b27277ff",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/gomphrena-haageana/inat-649365781.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1c247c186bb10dab5cd484d30dbf122e234b2e72",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 356088698, photo 649365781, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: af006ad21e4aa6274ceadb83728997e19559aa6415c1ae8e09b5e1ee6b65fd24. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Gomphrena haageana maps to indexed species gomphrena-haageana (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "af006ad21e4aa6274ceadb83728997e19559aa6415c1ae8e09b5e1ee6b65fd24"
+      "sha256": "af006ad21e4aa6274ceadb83728997e19559aa6415c1ae8e09b5e1ee6b65fd24",
+      "display_sha256": "1b495e5ce59db4e437c70fff88ba155bf524b5b8e11a62aa67ba00e4759307c0",
+      "display_blob_sha": "bfa72400d55e556b70cb35af83af06085ab87c2b",
+      "display_original_site_sha256": "af006ad21e4aa6274ceadb83728997e19559aa6415c1ae8e09b5e1ee6b65fd24",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

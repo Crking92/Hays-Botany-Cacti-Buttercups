@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9a3730981ea436cf230c771b5bec53cfcff2bc16",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 340795751, photo 620248475, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9613418bd026982ea0921a85e29dadd3c0282219a51ef5e71c50b1777693a40e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Stellaria media maps to indexed species stellaria-media; specialist morphology and BONAP range deferred.",
-      "sha256": "9613418bd026982ea0921a85e29dadd3c0282219a51ef5e71c50b1777693a40e"
+      "sha256": "9613418bd026982ea0921a85e29dadd3c0282219a51ef5e71c50b1777693a40e",
+      "display_sha256": "a8c3049871805bc11457269b7712964ee95cd30eab3e57016a1d6005d22b7cf1",
+      "display_blob_sha": "c2dc5b7b3830ddc811a8e19568c05dd01e993398",
+      "display_original_site_sha256": "9613418bd026982ea0921a85e29dadd3c0282219a51ef5e71c50b1777693a40e",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/stellaria-media/inat-620616390.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2c5f65d32e95018808d3377030e4a8308045b3a9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 340975742, photo 620616390, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3bea566cd5e9827b44d9db0832c30b2d4839b634bd2706d43051150e5f75e5f4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Stellaria media maps to indexed species stellaria-media; specialist morphology and BONAP range deferred.",
-      "sha256": "3bea566cd5e9827b44d9db0832c30b2d4839b634bd2706d43051150e5f75e5f4"
+      "sha256": "3bea566cd5e9827b44d9db0832c30b2d4839b634bd2706d43051150e5f75e5f4",
+      "display_sha256": "c2fcfe1ba737dfb27a58f694757094269a89d97bc6495b67acb1888b1f8ec7a8",
+      "display_blob_sha": "9aba3e0c65e84c2ae37028e3af3cd5e8b570780c",
+      "display_original_site_sha256": "3bea566cd5e9827b44d9db0832c30b2d4839b634bd2706d43051150e5f75e5f4",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/stellaria-media/inat-621219748.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8cc690ca646dab50c0f68b6564e58a396be3eaf2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 341271670, photo 621219748, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: dc4e1cf328ad531e246ab0ba35f8555a3bbf1b2f1345db2c21f2374ea202241a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Stellaria media maps to indexed species stellaria-media; specialist morphology and BONAP range deferred.",
-      "sha256": "dc4e1cf328ad531e246ab0ba35f8555a3bbf1b2f1345db2c21f2374ea202241a"
+      "sha256": "dc4e1cf328ad531e246ab0ba35f8555a3bbf1b2f1345db2c21f2374ea202241a",
+      "display_sha256": "97296883945f08933f169250034077b762b0ea68506748debfd04af0a55dd8bd",
+      "display_blob_sha": "bedc62b7f67a766017ec1244573b8ab9818dcc20",
+      "display_original_site_sha256": "dc4e1cf328ad531e246ab0ba35f8555a3bbf1b2f1345db2c21f2374ea202241a",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/stellaria-media/inat-621503766.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5d5d035dfcb03bee94c4a3e4fb33e7ca3ab64bd4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 341405037, photo 621503766, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c99cd985525f0640c140e9b6e36b5dc02f2edccc213b008526f51d453fbc6133. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Stellaria media maps to indexed species stellaria-media; specialist morphology and BONAP range deferred.",
-      "sha256": "c99cd985525f0640c140e9b6e36b5dc02f2edccc213b008526f51d453fbc6133"
+      "sha256": "c99cd985525f0640c140e9b6e36b5dc02f2edccc213b008526f51d453fbc6133",
+      "display_sha256": "5422fe327c62ac90fff864f36f26fc433773a8a4ea8454d3a7fb9d619ce96613",
+      "display_blob_sha": "79bbf5e9bb81c50c459d648c18d839ac515d6663",
+      "display_original_site_sha256": "c99cd985525f0640c140e9b6e36b5dc02f2edccc213b008526f51d453fbc6133",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/stellaria-media/inat-638643709.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8dbdfabda4fcfa7c077db904431884e4c0022f26",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 350053659, photo 638643709, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9531ba3d3fee8eec533d70f0f19c668e885138db90e16c3abed588dfebba1da0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Stellaria media maps to indexed species stellaria-media; specialist morphology and BONAP range deferred.",
-      "sha256": "9531ba3d3fee8eec533d70f0f19c668e885138db90e16c3abed588dfebba1da0"
+      "sha256": "9531ba3d3fee8eec533d70f0f19c668e885138db90e16c3abed588dfebba1da0",
+      "display_sha256": "7af37b2d0de07019fb73006811c23961efe381d8853aabbad67924a60d88a338",
+      "display_blob_sha": "1aab0092d3e17ee73c3ef46f3221f2123ec19f47",
+      "display_original_site_sha256": "9531ba3d3fee8eec533d70f0f19c668e885138db90e16c3abed588dfebba1da0",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

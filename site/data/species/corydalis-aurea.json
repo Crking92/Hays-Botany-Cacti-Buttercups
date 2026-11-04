@@ -66,7 +66,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0d907b9bccce885a311a40ca78669b233fc96377",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -74,7 +74,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 150167067, photo 258880397, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 10f5789d2252e1a4c9e85781446defea952690d5c8a4188487bd13342da0386b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Corydalis aurea maps to indexed species corydalis-aurea; specialist morphology and BONAP range deferred.",
-      "sha256": "10f5789d2252e1a4c9e85781446defea952690d5c8a4188487bd13342da0386b"
+      "sha256": "10f5789d2252e1a4c9e85781446defea952690d5c8a4188487bd13342da0386b",
+      "display_sha256": "3d7490d439b899aa4f3f2ce37469aa21f43acc5e418bead1726b462c3b50a08c",
+      "display_blob_sha": "6d32d773183d488acf12439d62b2bc9e9f302b0c",
+      "display_original_site_sha256": "10f5789d2252e1a4c9e85781446defea952690d5c8a4188487bd13342da0386b",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/corydalis-aurea/inat-261330390.jpg",
@@ -123,7 +128,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "05710c22c9ebf75e7e78737a51901a1615b321a2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -131,7 +136,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 352348508, photo 643094749, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bf10d07a33783f999884268b81102ca799443c91e54821389d2b382702c775c4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Corydalis aurea maps to indexed species corydalis-aurea; specialist morphology and BONAP range deferred.",
-      "sha256": "bf10d07a33783f999884268b81102ca799443c91e54821389d2b382702c775c4"
+      "sha256": "bf10d07a33783f999884268b81102ca799443c91e54821389d2b382702c775c4",
+      "display_sha256": "109f80f4a9ab49313e1278cce9805067fda57bc26f45bbe1d26118fdbf8dc961",
+      "display_blob_sha": "106d6016efb94410e53b946a84fa6ffe203a3b9c",
+      "display_original_site_sha256": "bf10d07a33783f999884268b81102ca799443c91e54821389d2b382702c775c4",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/corydalis-aurea/inat-645726683.jpg",
@@ -142,7 +152,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "aaaf30f52add250a2015034c359d6f10bf0316be",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -150,7 +160,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 353935108, photo 645726683, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 759dc28ebb677c7596cbd164e67849c913b334f17aee62d5da106f38d7310f3c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Corydalis aurea maps to indexed species corydalis-aurea; specialist morphology and BONAP range deferred.",
-      "sha256": "759dc28ebb677c7596cbd164e67849c913b334f17aee62d5da106f38d7310f3c"
+      "sha256": "759dc28ebb677c7596cbd164e67849c913b334f17aee62d5da106f38d7310f3c",
+      "display_sha256": "d75b2c0c90f2265e4b3cc2b4d4ddb28936126edd7d7a4062d2b74625a867d52a",
+      "display_blob_sha": "0ec6c422cc1d6b23524fab01bd8273d4dd4198a7",
+      "display_original_site_sha256": "759dc28ebb677c7596cbd164e67849c913b334f17aee62d5da106f38d7310f3c",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/corydalis-aurea/archived-e0b627362aba6c1a.jpg",

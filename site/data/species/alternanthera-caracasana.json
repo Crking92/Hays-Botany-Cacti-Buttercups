@@ -63,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "1335c0545eb19314cb9dffbd0b54eddc0d1a1531",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -71,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 121672216, photo 205919460, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1f81bc32b5cb898d24849739468826de58fb8e5fafe795a33d80827f2f825e92. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Alternanthera caracasana maps to indexed species alternanthera-caracasana (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "1f81bc32b5cb898d24849739468826de58fb8e5fafe795a33d80827f2f825e92"
+      "sha256": "1f81bc32b5cb898d24849739468826de58fb8e5fafe795a33d80827f2f825e92",
+      "display_sha256": "7660ace07f555fc7b08a8b8c3a4968c6bc4923af454d2ada18cecab6ce244d65",
+      "display_blob_sha": "b96332c68f1bd7b40aef9af6abb2072275390bfd",
+      "display_original_site_sha256": "1f81bc32b5cb898d24849739468826de58fb8e5fafe795a33d80827f2f825e92",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/alternanthera-caracasana/inat-48569252.jpg",
@@ -82,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6435405fa9d79d0c5c48ed960d5e0ef83e3af981",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -90,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 31057771, photo 48569252, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 15fb2903fc83022760b5fac14de3182b0e0e7c5e53466fd442c288e73bd0ba43. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Alternanthera caracasana maps to indexed species alternanthera-caracasana (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "15fb2903fc83022760b5fac14de3182b0e0e7c5e53466fd442c288e73bd0ba43"
+      "sha256": "15fb2903fc83022760b5fac14de3182b0e0e7c5e53466fd442c288e73bd0ba43",
+      "display_sha256": "8612614b5f3f4689cc27b08f921435fcd60c27886be40c88af19426baba5a808",
+      "display_blob_sha": "80756f0ce5a50f79cbf1416cc661d1bf831bbd52",
+      "display_original_site_sha256": "15fb2903fc83022760b5fac14de3182b0e0e7c5e53466fd442c288e73bd0ba43",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/alternanthera-caracasana/inat-645822845.jpg",
@@ -101,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c4e9006be9e9df2246a37eebe82a55a80a1e2669",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -109,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 353987612, photo 645822845, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c86bc99c0a68b93defa31671210e9b06f5cce4c35d5f94b503f93b11f5116e56. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Alternanthera caracasana maps to indexed species alternanthera-caracasana (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "c86bc99c0a68b93defa31671210e9b06f5cce4c35d5f94b503f93b11f5116e56"
+      "sha256": "c86bc99c0a68b93defa31671210e9b06f5cce4c35d5f94b503f93b11f5116e56",
+      "display_sha256": "a16c24ef23b2677e275a0417b49bf648e9f7f2f2c746bf31184d59fbf5d5ee5d",
+      "display_blob_sha": "ad72a6d03e23b0c57d14412b2409c5003090803b",
+      "display_original_site_sha256": "c86bc99c0a68b93defa31671210e9b06f5cce4c35d5f94b503f93b11f5116e56",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/alternanthera-caracasana/inat-7050999.jpeg",
@@ -120,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "fff00ee2caab30ce88d42a23df26ab7aca6ea77e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -128,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 5692786, photo 7050999, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 400d92998d5ea371860fc11e03cce6dee0ac5c1427e81121faf5a63246b0377b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Alternanthera caracasana maps to indexed species alternanthera-caracasana (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "400d92998d5ea371860fc11e03cce6dee0ac5c1427e81121faf5a63246b0377b"
+      "sha256": "400d92998d5ea371860fc11e03cce6dee0ac5c1427e81121faf5a63246b0377b",
+      "display_sha256": "ad58519c48fdd8740cd7c01b03b348d65f645e89407bdd05c44e8aa076296d07",
+      "display_blob_sha": "dc4bcfb22d6347c62c457839dadc2e29e956e4a5",
+      "display_original_site_sha256": "400d92998d5ea371860fc11e03cce6dee0ac5c1427e81121faf5a63246b0377b",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

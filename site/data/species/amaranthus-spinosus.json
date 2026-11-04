@@ -91,7 +91,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f12ea8e7913b929c0c1d962bd1ebbc12fed78127",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +99,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 332300725, photo 603029347, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0eae25e2d7c884e787806c23aaedeb2eb47c6052a8d77f29db9fefe2a484f275. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Amaranthus spinosus maps to indexed species amaranthus-spinosus (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "0eae25e2d7c884e787806c23aaedeb2eb47c6052a8d77f29db9fefe2a484f275"
+      "sha256": "0eae25e2d7c884e787806c23aaedeb2eb47c6052a8d77f29db9fefe2a484f275",
+      "display_sha256": "9b0524154095fcaece75ae76b223751733bc9e258b1ed6e1a771439eec510961",
+      "display_blob_sha": "1020b2e42de928e800f5cab307c8fc9e4d74ba39",
+      "display_original_site_sha256": "0eae25e2d7c884e787806c23aaedeb2eb47c6052a8d77f29db9fefe2a484f275",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "37a0cf26cd96d84f3295f4580366ecde08dafc3d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 208360122, photo 368641122, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5960cbbe198e5b12e2ff4af71e14c366ff8734b2e5c3759683f62eb7a120fc53. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Persicaria hydropiperoides maps to indexed species persicaria-hydropiperoides; specialist morphology and BONAP range deferred.",
-      "sha256": "5960cbbe198e5b12e2ff4af71e14c366ff8734b2e5c3759683f62eb7a120fc53"
+      "sha256": "5960cbbe198e5b12e2ff4af71e14c366ff8734b2e5c3759683f62eb7a120fc53",
+      "display_sha256": "9e3479c68302ec6d1a14d353251eb7a88bd41d00648d8b93e37e9a61f40e18eb",
+      "display_blob_sha": "acc9f83b2b81520acd2f418f2e1a5f3ce96e0865",
+      "display_original_site_sha256": "5960cbbe198e5b12e2ff4af71e14c366ff8734b2e5c3759683f62eb7a120fc53",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/persicaria-hydropiperoides/inat-646800609.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5ca76aabb41a5c8e5795148371812ba7b3300541",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 354572401, photo 646800609, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 671d3d3216c0aa7ae424a7c49f980f3f604aff8000eb309581472a040ac1d2bf. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Persicaria hydropiperoides maps to indexed species persicaria-hydropiperoides; specialist morphology and BONAP range deferred.",
-      "sha256": "671d3d3216c0aa7ae424a7c49f980f3f604aff8000eb309581472a040ac1d2bf"
+      "sha256": "671d3d3216c0aa7ae424a7c49f980f3f604aff8000eb309581472a040ac1d2bf",
+      "display_sha256": "2aaf6963b2202eedce3216e53b9ed43d8ffc9d8c1cc5959270d5bed5ba537b9e",
+      "display_blob_sha": "159a14bf963149dea3a7cc4e53cf7f4a4c8c8691",
+      "display_original_site_sha256": "671d3d3216c0aa7ae424a7c49f980f3f604aff8000eb309581472a040ac1d2bf",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/persicaria-hydropiperoides/inat-651053319.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b9100db343ee1d6fd4d948095502b9da2cf36b4c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 356987429, photo 651053319, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 89d0eab6ea9a5fb2a2763c5480090330a7a2a69acc9039ece65d47e13d55f20d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Persicaria hydropiperoides maps to indexed species persicaria-hydropiperoides; specialist morphology and BONAP range deferred.",
-      "sha256": "89d0eab6ea9a5fb2a2763c5480090330a7a2a69acc9039ece65d47e13d55f20d"
+      "sha256": "89d0eab6ea9a5fb2a2763c5480090330a7a2a69acc9039ece65d47e13d55f20d",
+      "display_sha256": "cb48ea35fdd2901441a70cb6f4ef3344f1f81e35a4806cb7d7202b5cb8f16fd6",
+      "display_blob_sha": "36d80dc73fa32ab28c4ef617288f67c25a3c7084",
+      "display_original_site_sha256": "89d0eab6ea9a5fb2a2763c5480090330a7a2a69acc9039ece65d47e13d55f20d",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/persicaria-hydropiperoides/inat-673581367.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f0469285c5f9feedb617418b562086a3a6170d65",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 368777386, photo 673581367, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: db2667c4cf88bf85b1e24381f3af3e4c233f86d9e71905d94523b765b5977951. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Persicaria hydropiperoides maps to indexed species persicaria-hydropiperoides; specialist morphology and BONAP range deferred.",
-      "sha256": "db2667c4cf88bf85b1e24381f3af3e4c233f86d9e71905d94523b765b5977951"
+      "sha256": "db2667c4cf88bf85b1e24381f3af3e4c233f86d9e71905d94523b765b5977951",
+      "display_sha256": "346579939a38ebac40559967474ce33ad3ee23bf07f9159a923ae228f5b2bdb8",
+      "display_blob_sha": "d628b61a131ace31e98529c43af4163671abb66b",
+      "display_original_site_sha256": "db2667c4cf88bf85b1e24381f3af3e4c233f86d9e71905d94523b765b5977951",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/persicaria-hydropiperoides/inat-684944561.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f8d3954115a9286bb050ed01b21e21420dd70ba4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 374720032, photo 684944561, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f39effd278cd656a62629d6d6d64f1356083440584959e062c63b62d52737041. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Persicaria hydropiperoides maps to indexed species persicaria-hydropiperoides; specialist morphology and BONAP range deferred.",
-      "sha256": "f39effd278cd656a62629d6d6d64f1356083440584959e062c63b62d52737041"
+      "sha256": "f39effd278cd656a62629d6d6d64f1356083440584959e062c63b62d52737041",
+      "display_sha256": "fbbeb6725bc2a7c26249a780634edf46fe701334c0f4f2cb7f581e13f95ec533",
+      "display_blob_sha": "94ba291d46a2d4f4c389dd584cc8ab6b04a9a702",
+      "display_original_site_sha256": "f39effd278cd656a62629d6d6d64f1356083440584959e062c63b62d52737041",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/persicaria-hydropiperoides/archived-35d5a5ac763860dc.jpg",

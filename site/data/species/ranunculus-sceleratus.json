@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "60273cb4fd00264763e005478b25e62bd640a4ef",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 267254591, photo 480257093, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fa71d79945d589ea1140db2251130b2268b472f0a2e2d9e9f28b3ab4da51c2f3.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Ranunculus sceleratus maps to indexed species ranunculus-sceleratus; specialist morphology and BONAP range deferred.",
-      "sha256": "fa71d79945d589ea1140db2251130b2268b472f0a2e2d9e9f28b3ab4da51c2f3"
+      "sha256": "fa71d79945d589ea1140db2251130b2268b472f0a2e2d9e9f28b3ab4da51c2f3",
+      "display_sha256": "08e3a077d63f001938ece4cd2172dacd70456b2a9f1da635939aa57591faa7f3",
+      "display_blob_sha": "739f731cc8db071230577e4ae38790a2b7280979",
+      "display_original_site_sha256": "fa71d79945d589ea1140db2251130b2268b472f0a2e2d9e9f28b3ab4da51c2f3",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ranunculus-sceleratus/inat-486522445.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5ce005846e7bfbe0d18d8ad242546a6b1ceae457",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 270524790, photo 486522445, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f074c25244b60b07bbf5434a6e8fd18d748e3073fec78012d313268e24802347.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Ranunculus sceleratus maps to indexed species ranunculus-sceleratus; specialist morphology and BONAP range deferred.",
-      "sha256": "f074c25244b60b07bbf5434a6e8fd18d748e3073fec78012d313268e24802347"
+      "sha256": "f074c25244b60b07bbf5434a6e8fd18d748e3073fec78012d313268e24802347",
+      "display_sha256": "6233733d56f04cdf56b446c938ec21e879e730a717f3a68969b7ed2b5d6757b9",
+      "display_blob_sha": "e4b003000af55db8be4a05f9ceb0a66dee437423",
+      "display_original_site_sha256": "f074c25244b60b07bbf5434a6e8fd18d748e3073fec78012d313268e24802347",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ranunculus-sceleratus/inat-624401614.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7fa103927437828fbc5cb19d76c2f0e1be24210c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 342844662, photo 624401614, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 01af872138d9f2e274871a0fcaeb559edbf462300242bd331e25a24ee75c0115.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Ranunculus sceleratus maps to indexed species ranunculus-sceleratus; specialist morphology and BONAP range deferred.",
-      "sha256": "01af872138d9f2e274871a0fcaeb559edbf462300242bd331e25a24ee75c0115"
+      "sha256": "01af872138d9f2e274871a0fcaeb559edbf462300242bd331e25a24ee75c0115",
+      "display_sha256": "94688dd585c851993dc278c2bf6a2f07242f641513d3b48dae638ccc2db237cc",
+      "display_blob_sha": "d1b34c976e50cc84122bc492b934a0e136a034f7",
+      "display_original_site_sha256": "01af872138d9f2e274871a0fcaeb559edbf462300242bd331e25a24ee75c0115",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ranunculus-sceleratus/inat-631452884.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4e1aadb5ea13b371b98446c792e25cdadc582673",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 346412498, photo 631452884, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2c08bcdcf8052343d8989def0a3a45704114e251a2021bcb1c4dff742cca2833.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Ranunculus sceleratus maps to indexed species ranunculus-sceleratus; specialist morphology and BONAP range deferred.",
-      "sha256": "2c08bcdcf8052343d8989def0a3a45704114e251a2021bcb1c4dff742cca2833"
+      "sha256": "2c08bcdcf8052343d8989def0a3a45704114e251a2021bcb1c4dff742cca2833",
+      "display_sha256": "a8e40c3e98ee5defe9cd92bb1e600cb7002484dbb56a981db8c73b6f93f0478e",
+      "display_blob_sha": "7d84d0eb30febd487d8ea5987380d17bf4cd0ede",
+      "display_original_site_sha256": "2c08bcdcf8052343d8989def0a3a45704114e251a2021bcb1c4dff742cca2833",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ranunculus-sceleratus/inat-632880375.jpg",

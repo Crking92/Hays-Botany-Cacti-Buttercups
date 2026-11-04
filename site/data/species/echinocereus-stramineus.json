@@ -58,7 +58,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "17793bb02dd3a8be89fedc914be4aaa2a3987fcd",
       "role": "Multistemmed spiny Echinocereus clump against desert rock habitat; source scientific-name determination provisional, anatomical expertise pending",
-      "modified": "Resaved JPEG with metadata removed (original source rights remain attached)",
+      "modified": "Resized and recompressed web display copy; source note: Resaved JPEG with metadata removed (original source rights remain attached)",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
@@ -66,7 +66,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "GBIF occurrence 6130358462 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/607018208/original.jpg; image-level license https://creativecommons.org/licenses/by/4.0/; creator Clifton Ladd, C.W.B.; dHash distance 0; archived source SHA 17793bb02dd3a8be89fedc914be4aaa2a3987fcd; exact image source https://www.inaturalist.org/photos/607018208",
       "taxon_review_evidence": "Original species record Echinocereus stramineus linked to an original image and matching current gbif photo of source taxon Echinocereus stramineus. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "9551d43ddacce1f62d462c252728d3c62dd20560c394f4479bd0da3b8eeddb0f"
+      "sha256": "9551d43ddacce1f62d462c252728d3c62dd20560c394f4479bd0da3b8eeddb0f",
+      "display_sha256": "cb6349472be6e4bc6f748e91055f812a00b12da3565deae2fa17a6a55033c813",
+      "display_blob_sha": "0ac0cbe5b2d4fcb240759f00bdea9e3fe915b7c4",
+      "display_original_site_sha256": "9551d43ddacce1f62d462c252728d3c62dd20560c394f4479bd0da3b8eeddb0f",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/echinocereus-stramineus/inat-620249647.jpg",
@@ -77,7 +82,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4f90c6285131eed0105ea85d8e0cdc17e665a59b",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -85,7 +90,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 340787668 and photo 620249647 checked individually for current cc-by-nc rights, creator and identical SHA256 ef2b7b91522351b43f6c2ba3d184e081adc4e7d869af2f27255674112c1d51d2; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/620249647/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Echinocereus stramineus' matches this Cactaceae species card echinocereus-stramineus. Specialist morphology/field characters deferred.",
-      "sha256": "ef2b7b91522351b43f6c2ba3d184e081adc4e7d869af2f27255674112c1d51d2"
+      "sha256": "ef2b7b91522351b43f6c2ba3d184e081adc4e7d869af2f27255674112c1d51d2",
+      "display_sha256": "2b92fd81af8e8cfd99ad69cfb579b953f41d19108de185305d65d83445ebb03a",
+      "display_blob_sha": "281b7b434cd06fcfa1e2271781fc70779f37e0dc",
+      "display_original_site_sha256": "ef2b7b91522351b43f6c2ba3d184e081adc4e7d869af2f27255674112c1d51d2",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/echinocereus-stramineus/inat-620314288.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "462d16cb45808ececb5eeb1e4fab43bbadc3b6cf",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 340828511 and photo 620314288 checked individually for current cc-by-nc rights, creator and identical SHA256 6ef33e892c2807a6912480593b8f0d010aeac16c589321cf22c34a3e9cfe67f0; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/620314288/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Echinocereus stramineus' matches this Cactaceae species card echinocereus-stramineus. Specialist morphology/field characters deferred.",
-      "sha256": "6ef33e892c2807a6912480593b8f0d010aeac16c589321cf22c34a3e9cfe67f0"
+      "sha256": "6ef33e892c2807a6912480593b8f0d010aeac16c589321cf22c34a3e9cfe67f0",
+      "display_sha256": "b16f95d89f620bb6aea52462b32634b9a28f3fe5b5ba64a77c91e9da1f18ddb7",
+      "display_blob_sha": "32dfe4c0cd42354d8facf4a3cb16beb0c641ad40",
+      "display_original_site_sha256": "6ef33e892c2807a6912480593b8f0d010aeac16c589321cf22c34a3e9cfe67f0",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/echinocereus-stramineus/inat-620679793.jpg",
@@ -115,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bd89fb603634b5c2780ce31f2270be5a9135284c",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -123,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 341006715 and photo 620679793 checked individually for current cc-by-nc rights, creator and identical SHA256 6b0b34469e9935c6d1b97209c5fb601e63aff4eb5233d1d12392d91dc5c3118a; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/620679793/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Echinocereus stramineus' matches this Cactaceae species card echinocereus-stramineus. Specialist morphology/field characters deferred.",
-      "sha256": "6b0b34469e9935c6d1b97209c5fb601e63aff4eb5233d1d12392d91dc5c3118a"
+      "sha256": "6b0b34469e9935c6d1b97209c5fb601e63aff4eb5233d1d12392d91dc5c3118a",
+      "display_sha256": "6f012ba952c39ccb0182fd871819ca1cac3ce0db128b959004e7c660c2cc8805",
+      "display_blob_sha": "d415b991caaece0e75f6b2a17815a1cc4f1430af",
+      "display_original_site_sha256": "6b0b34469e9935c6d1b97209c5fb601e63aff4eb5233d1d12392d91dc5c3118a",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/echinocereus-stramineus/inat-620682181.jpg",
@@ -134,7 +154,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "08f22f7446ffe8e60675015a591d935c0106d840",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -142,7 +162,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 341007939 and photo 620682181 checked individually for current cc-by-nc rights, creator and identical SHA256 03b0fbac01990a4bee9745cb7f8fe5f172228ae723d026b0fc03673b7bbf5067; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/620682181/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Echinocereus stramineus' matches this Cactaceae species card echinocereus-stramineus. Specialist morphology/field characters deferred.",
-      "sha256": "03b0fbac01990a4bee9745cb7f8fe5f172228ae723d026b0fc03673b7bbf5067"
+      "sha256": "03b0fbac01990a4bee9745cb7f8fe5f172228ae723d026b0fc03673b7bbf5067",
+      "display_sha256": "e9c14982bf58b905784ad14bbe150676e5bcd9cefb5f9b22153450e806f71346",
+      "display_blob_sha": "2e463d6c1437cfd338b54715d2f72ae4bc7f55df",
+      "display_original_site_sha256": "03b0fbac01990a4bee9745cb7f8fe5f172228ae723d026b0fc03673b7bbf5067",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/echinocereus-stramineus/inat-620683726.jpg",
@@ -153,7 +178,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "22bec25da47d0cba228b409b8609d5b32ab72e8e",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -161,7 +186,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 341008953 and photo 620683726 checked individually for current cc-by-nc rights, creator and identical SHA256 c56ac256409e12ac52c092cfa1ec5ccc9bdb313731cb4c3617368add22d0d4c2; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/620683726/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Echinocereus stramineus' matches this Cactaceae species card echinocereus-stramineus. Specialist morphology/field characters deferred.",
-      "sha256": "c56ac256409e12ac52c092cfa1ec5ccc9bdb313731cb4c3617368add22d0d4c2"
+      "sha256": "c56ac256409e12ac52c092cfa1ec5ccc9bdb313731cb4c3617368add22d0d4c2",
+      "display_sha256": "355a6b952abc4d70e4498959e56000f1a343e6e7db21345d491e0d909517ed24",
+      "display_blob_sha": "77a89f5193ffd24c59b6e4ad6442796dba94d368",
+      "display_original_site_sha256": "c56ac256409e12ac52c092cfa1ec5ccc9bdb313731cb4c3617368add22d0d4c2",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

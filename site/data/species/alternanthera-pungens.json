@@ -63,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "41380861551d614143e4df5823219bf9dbeccbb6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -71,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 15401836, photo 23087057, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3a0a829c740a6b4c123f5d705528610b326e5e5582f190330f9770bc07faf4a0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Alternanthera pungens maps to indexed species alternanthera-pungens (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "3a0a829c740a6b4c123f5d705528610b326e5e5582f190330f9770bc07faf4a0"
+      "sha256": "3a0a829c740a6b4c123f5d705528610b326e5e5582f190330f9770bc07faf4a0",
+      "display_sha256": "2e6267f110ef06211c60987c417c16cdfdaa19d6ce848ed7964d9508847c8101",
+      "display_blob_sha": "9a32a7f674c4edc42dafccfa00ce0e2152040207",
+      "display_original_site_sha256": "3a0a829c740a6b4c123f5d705528610b326e5e5582f190330f9770bc07faf4a0",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/alternanthera-pungens/inat-24346327.jpg",
@@ -82,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "82c71a78676aa512f10f3ca69cdef42fa4009212",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -90,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 16223785, photo 24346327, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 807ed704ecef1714cba7ba718f5cb6c325a17b9d8130c06fe8e11c291ddae610. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Alternanthera pungens maps to indexed species alternanthera-pungens (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "807ed704ecef1714cba7ba718f5cb6c325a17b9d8130c06fe8e11c291ddae610"
+      "sha256": "807ed704ecef1714cba7ba718f5cb6c325a17b9d8130c06fe8e11c291ddae610",
+      "display_sha256": "ded71def24ef3939f243d32077b28eebf0ce9366e00e54ec12cf00909a105022",
+      "display_blob_sha": "28c3f0cc2ffa852e21ab19fe0208bb91a2f6a506",
+      "display_original_site_sha256": "807ed704ecef1714cba7ba718f5cb6c325a17b9d8130c06fe8e11c291ddae610",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/alternanthera-pungens/inat-248544545.jpeg",
@@ -120,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8cf09f0b78d6fa51368db822618af3adf0ee2292",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -128,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 169848676, photo 294496643, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 91677be39562c75b3dd319c7d77ff81606384b0505d41efe8230d73fb539435a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Alternanthera pungens maps to indexed species alternanthera-pungens (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "91677be39562c75b3dd319c7d77ff81606384b0505d41efe8230d73fb539435a"
+      "sha256": "91677be39562c75b3dd319c7d77ff81606384b0505d41efe8230d73fb539435a",
+      "display_sha256": "3f74279e5aff61bef6d949f363decd4af7205c652fc7e92220c51f7151907297",
+      "display_blob_sha": "a0769d71f5fc2dbafa2a35b649c67d46d6a3c9a0",
+      "display_original_site_sha256": "91677be39562c75b3dd319c7d77ff81606384b0505d41efe8230d73fb539435a",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/alternanthera-pungens/inat-8796994.jpeg",
@@ -139,7 +154,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "f733ea2c8d059f24d2992635d036e9e84e5719f6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -147,7 +162,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 6894812, photo 8796994, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 15b72805947fe101effede8d57e3b26c5afaeaafc20a07b60d73893cdacf5c4e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Alternanthera pungens maps to indexed species alternanthera-pungens (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "15b72805947fe101effede8d57e3b26c5afaeaafc20a07b60d73893cdacf5c4e"
+      "sha256": "15b72805947fe101effede8d57e3b26c5afaeaafc20a07b60d73893cdacf5c4e",
+      "display_sha256": "423eac4a06d9ed285086ce3239deefc7fc093bc487cfa30eaea83ee3e4eb285e",
+      "display_blob_sha": "cb840ab53df950427673027b73ae1ef2a3ee0b1c",
+      "display_original_site_sha256": "15b72805947fe101effede8d57e3b26c5afaeaafc20a07b60d73893cdacf5c4e",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

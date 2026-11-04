@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "749a33e5c4795f29242d27b94e125192a0a9693e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 343427207, photo 625585291, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3caacfa34d03241a2d3ee8e5b7d208b53f5b6cad9e30b932b241894dba9d0878. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Papaver somniferum maps to indexed species papaver-somniferum; specialist morphology and BONAP range deferred.",
-      "sha256": "3caacfa34d03241a2d3ee8e5b7d208b53f5b6cad9e30b932b241894dba9d0878"
+      "sha256": "3caacfa34d03241a2d3ee8e5b7d208b53f5b6cad9e30b932b241894dba9d0878",
+      "display_sha256": "910843e709784ad6d7251ac64d698feacbbca64c0bec38050f3775afdd5cfe0d",
+      "display_blob_sha": "029633497cfc329cc3ccf9b256361d5cfdedbdee",
+      "display_original_site_sha256": "3caacfa34d03241a2d3ee8e5b7d208b53f5b6cad9e30b932b241894dba9d0878",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/papaver-somniferum/inat-630698970.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8476f75a99de0c8f51f233aa885b859d442e4f36",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 346032161, photo 630698970, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e3ed826f9760f34cebd52168faa4956f0e6270996eaefa9657cc8448aaa3334b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Papaver somniferum maps to indexed species papaver-somniferum; specialist morphology and BONAP range deferred.",
-      "sha256": "e3ed826f9760f34cebd52168faa4956f0e6270996eaefa9657cc8448aaa3334b"
+      "sha256": "e3ed826f9760f34cebd52168faa4956f0e6270996eaefa9657cc8448aaa3334b",
+      "display_sha256": "5edeb7e30670af091ee3a27117d45e1ef18034bd491d7d386c94e2a90f02e04f",
+      "display_blob_sha": "4d4e3376b1ca0c4674e0258d207b99f02acecf77",
+      "display_original_site_sha256": "e3ed826f9760f34cebd52168faa4956f0e6270996eaefa9657cc8448aaa3334b",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/papaver-somniferum/inat-633963804.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "e6f6014ff6cafaedfd9741cf6b61f72dd198f110",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 348302734, photo 635205016, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8c661738ea74e6cb54ec0f32c8129776d662e9e26fb0f1c486ff494281336ed5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Papaver somniferum maps to indexed species papaver-somniferum; specialist morphology and BONAP range deferred.",
-      "sha256": "8c661738ea74e6cb54ec0f32c8129776d662e9e26fb0f1c486ff494281336ed5"
+      "sha256": "8c661738ea74e6cb54ec0f32c8129776d662e9e26fb0f1c486ff494281336ed5",
+      "display_sha256": "af0c2913865f6d99c6614469bb5c09601d47cd14bdae11a39419a6305fdd633a",
+      "display_blob_sha": "0aac4afdea876c970d5e01b6699a8a70007298bf",
+      "display_original_site_sha256": "8c661738ea74e6cb54ec0f32c8129776d662e9e26fb0f1c486ff494281336ed5",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/papaver-somniferum/inat-636684028.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3b28d805354f6daf5e2c66ec526c98bab583f309",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 349052470, photo 636684028, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3faf6bccb9afde97de3d203470078d363a5b698489d81826ec3bca10fa844327. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Papaver somniferum maps to indexed species papaver-somniferum; specialist morphology and BONAP range deferred.",
-      "sha256": "3faf6bccb9afde97de3d203470078d363a5b698489d81826ec3bca10fa844327"
+      "sha256": "3faf6bccb9afde97de3d203470078d363a5b698489d81826ec3bca10fa844327",
+      "display_sha256": "44c49a7ebf7673bbdcc1c81971bbadc7d8dddaeca52879e6f79451707d2c0bbd",
+      "display_blob_sha": "ea5a7781fe50896192f268298cf7193c9bab8156",
+      "display_original_site_sha256": "3faf6bccb9afde97de3d203470078d363a5b698489d81826ec3bca10fa844327",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/papaver-somniferum/archived-ea55ba8300367547.jpg",

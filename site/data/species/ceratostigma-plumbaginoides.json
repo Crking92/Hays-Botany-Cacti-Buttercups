@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c111243cf6de53610ddd5982c5224cd5ccf4799a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 314098919, photo 567290036, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 90e4df6f745ce42a8aed2443c2e9f8e3520f73eb4deb04257d364b3b672998aa. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Ceratostigma plumbaginoides maps to indexed species ceratostigma-plumbaginoides; specialist morphology and BONAP range deferred.",
-      "sha256": "90e4df6f745ce42a8aed2443c2e9f8e3520f73eb4deb04257d364b3b672998aa"
+      "sha256": "90e4df6f745ce42a8aed2443c2e9f8e3520f73eb4deb04257d364b3b672998aa",
+      "display_sha256": "e9ce741e1ec88b40fe508227f676c977f10538861d9860c4b9003be316570b9c",
+      "display_blob_sha": "1a8cdc2413c30f91416d944098097bdbca7b8de2",
+      "display_original_site_sha256": "90e4df6f745ce42a8aed2443c2e9f8e3520f73eb4deb04257d364b3b672998aa",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ceratostigma-plumbaginoides/inat-574006365.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "983a306cbe6dca34b89226025d5c4d41a125fa32",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 316726481, photo 574006365, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7d49f99da8c6859bb784f6d997702e23fb18d5f2550dfb0b59f2f0877c37367b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Ceratostigma plumbaginoides maps to indexed species ceratostigma-plumbaginoides; specialist morphology and BONAP range deferred.",
-      "sha256": "7d49f99da8c6859bb784f6d997702e23fb18d5f2550dfb0b59f2f0877c37367b"
+      "sha256": "7d49f99da8c6859bb784f6d997702e23fb18d5f2550dfb0b59f2f0877c37367b",
+      "display_sha256": "d98775a47d5bea7215768f4591617a0a2db3f14ae0a2d90b0f1abb4eed04ecc9",
+      "display_blob_sha": "1b1ef6d2ba588fd9dc75299ff7d181411b721e09",
+      "display_original_site_sha256": "7d49f99da8c6859bb784f6d997702e23fb18d5f2550dfb0b59f2f0877c37367b",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ceratostigma-plumbaginoides/inat-730035915.jpg",

@@ -104,7 +104,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b8df10826ae4b2714094b5e01031f086711a29c8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -112,7 +112,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 340950496, photo 620565664, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d8693840d531dec3ceaacee189f7b0e7e19244d7d55e577b8f205a12469c004b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Allionia incarnata maps to indexed species allionia-incarnata; specialist morphology and BONAP range deferred.",
-      "sha256": "d8693840d531dec3ceaacee189f7b0e7e19244d7d55e577b8f205a12469c004b"
+      "sha256": "d8693840d531dec3ceaacee189f7b0e7e19244d7d55e577b8f205a12469c004b",
+      "display_sha256": "d754feebe931bc4b21fd6fd053821a8e5e401ee43cbe372453aea122f3b0656e",
+      "display_blob_sha": "bd6fbc7b92a1df46f3711610cdbbb619e41f7344",
+      "display_original_site_sha256": "d8693840d531dec3ceaacee189f7b0e7e19244d7d55e577b8f205a12469c004b",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/allionia-incarnata/inat-620682917.jpg",
@@ -123,7 +128,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "dfe0c92430406f27aae86a0126721a1a765accbe",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -131,7 +136,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 341008157, photo 620682917, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3df11372619a29409c92dcae75f36655e36819ad98b2ed164851888bedd1747f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Allionia incarnata maps to indexed species allionia-incarnata; specialist morphology and BONAP range deferred.",
-      "sha256": "3df11372619a29409c92dcae75f36655e36819ad98b2ed164851888bedd1747f"
+      "sha256": "3df11372619a29409c92dcae75f36655e36819ad98b2ed164851888bedd1747f",
+      "display_sha256": "f27a9959275e1d81eb462e0d559ebab985400b30b9695eb365702e2ec2d79f2c",
+      "display_blob_sha": "fca694bd218ca65175bb9a870b665173ad13c7e8",
+      "display_original_site_sha256": "3df11372619a29409c92dcae75f36655e36819ad98b2ed164851888bedd1747f",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/allionia-incarnata/inat-621463003.jpg",
@@ -142,7 +152,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4b93cb3557f224d9786046ee7c3156ab3a6f5557",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -150,7 +160,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 341384517, photo 621463003, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 73c5177d149a5fa82de2ea83ec139c849ac31c2ebd10eb602782a34162052f34. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Allionia incarnata maps to indexed species allionia-incarnata; specialist morphology and BONAP range deferred.",
-      "sha256": "73c5177d149a5fa82de2ea83ec139c849ac31c2ebd10eb602782a34162052f34"
+      "sha256": "73c5177d149a5fa82de2ea83ec139c849ac31c2ebd10eb602782a34162052f34",
+      "display_sha256": "68b121f9be8f3b4b742d1f0382a7baf59dabfc4338555607c9b2526c1ac3c6aa",
+      "display_blob_sha": "3acf61047060102ab6f1be99a93b8c4bf076063a",
+      "display_original_site_sha256": "73c5177d149a5fa82de2ea83ec139c849ac31c2ebd10eb602782a34162052f34",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/allionia-incarnata/inat-725348237.jpg",
@@ -161,7 +176,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a1fef4279b900b4985e6ae3838d1e4e4455e9d73",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -169,7 +184,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 395584461, photo 725348237, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0551dde8d67327d96891dd1fbe543b1ad8054a33db4c90218089edf4e2467fd5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Allionia incarnata maps to indexed species allionia-incarnata; specialist morphology and BONAP range deferred.",
-      "sha256": "0551dde8d67327d96891dd1fbe543b1ad8054a33db4c90218089edf4e2467fd5"
+      "sha256": "0551dde8d67327d96891dd1fbe543b1ad8054a33db4c90218089edf4e2467fd5",
+      "display_sha256": "440ffdb60cbd274572e7ced3f9e9c5bb831c7521243f7b12ffbaf67137b065d3",
+      "display_blob_sha": "ff232edbb7068834e2bc2b1ec3cb340f94974fbf",
+      "display_original_site_sha256": "0551dde8d67327d96891dd1fbe543b1ad8054a33db4c90218089edf4e2467fd5",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/allionia-incarnata/inat-83734082.jpg",
@@ -180,7 +200,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6af0d9829a7496e86c310c2b07ba17d709065698",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -188,7 +208,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 52664091, photo 83734082, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 77326a27e7c62b49f60391d33fd22e47ac993d860d9a9c22efee9892619182ae. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Allionia incarnata maps to indexed species allionia-incarnata; specialist morphology and BONAP range deferred.",
-      "sha256": "77326a27e7c62b49f60391d33fd22e47ac993d860d9a9c22efee9892619182ae"
+      "sha256": "77326a27e7c62b49f60391d33fd22e47ac993d860d9a9c22efee9892619182ae",
+      "display_sha256": "137064f95697ab94e2b9f6101127dc76683181789ba3dd67b21c01af215170b0",
+      "display_blob_sha": "1b7fb9dfaa6b78c8f0d8f143b54a488b3314f729",
+      "display_original_site_sha256": "77326a27e7c62b49f60391d33fd22e47ac993d860d9a9c22efee9892619182ae",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

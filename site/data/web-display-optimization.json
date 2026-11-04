@@ -1,0 +1,2926 @@
+{
+  "family_repository": "Crking92/Hays-Botany-Cacti-Buttercups",
+  "archive_branch": "archive/cacti-buttercups-before-web-opt-20261104",
+  "archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+  "photo_count": 634,
+  "optimized": 416,
+  "unchanged": 218,
+  "media_before_bytes": 1058593676,
+  "media_after_bytes": 329480405,
+  "saved_bytes": 729113271,
+  "site_bytes": 331001646,
+  "photo_changes": [
+    {
+      "src": "media/alternanthera-caracasana/inat-205919460.jpg",
+      "original_bytes": 1397415,
+      "display_bytes": 716875,
+      "original_sha256": "1f81bc32b5cb898d24849739468826de58fb8e5fafe795a33d80827f2f825e92",
+      "display_sha256": "7660ace07f555fc7b08a8b8c3a4968c6bc4923af454d2ada18cecab6ce244d65"
+    },
+    {
+      "src": "media/alternanthera-caracasana/inat-48569252.jpg",
+      "original_bytes": 1825672,
+      "display_bytes": 772477,
+      "original_sha256": "15fb2903fc83022760b5fac14de3182b0e0e7c5e53466fd442c288e73bd0ba43",
+      "display_sha256": "8612614b5f3f4689cc27b08f921435fcd60c27886be40c88af19426baba5a808"
+    },
+    {
+      "src": "media/alternanthera-caracasana/inat-645822845.jpg",
+      "original_bytes": 3416763,
+      "display_bytes": 734230,
+      "original_sha256": "c86bc99c0a68b93defa31671210e9b06f5cce4c35d5f94b503f93b11f5116e56",
+      "display_sha256": "a16c24ef23b2677e275a0417b49bf648e9f7f2f2c746bf31184d59fbf5d5ee5d"
+    },
+    {
+      "src": "media/alternanthera-caracasana/inat-7050999.jpeg",
+      "original_bytes": 2029961,
+      "display_bytes": 732701,
+      "original_sha256": "400d92998d5ea371860fc11e03cce6dee0ac5c1427e81121faf5a63246b0377b",
+      "display_sha256": "ad58519c48fdd8740cd7c01b03b348d65f645e89407bdd05c44e8aa076296d07"
+    },
+    {
+      "src": "media/alternanthera-philoxeroides/inat-280620126.jpg",
+      "original_bytes": 1436821,
+      "display_bytes": 732566,
+      "original_sha256": "ac4fa1772b77f2b493c6835fb4d81e73ba1db8f59f0ef4dd15be106c99b3ff6b",
+      "display_sha256": "7780fd40b1e1f527cfeeecbcd1765e2a2606bff280a0c03ec75b5d8e2098a10a"
+    },
+    {
+      "src": "media/alternanthera-philoxeroides/inat-485162770.jpeg",
+      "original_bytes": 2041525,
+      "display_bytes": 525267,
+      "original_sha256": "98915dc58a9e2d8d7b4ed5a211e4949d22bdb1265047dfd7e08402c061cf4728",
+      "display_sha256": "ddd738e32be1796266ba0f60c82333be992faf74396e4a5313def398af3d547f"
+    },
+    {
+      "src": "media/alternanthera-philoxeroides/inat-495799247.jpg",
+      "original_bytes": 2606388,
+      "display_bytes": 436883,
+      "original_sha256": "18e9b4da0697da3d560b886c27df71c0f8c532edf58d6254fb4ea3bd9c6300c3",
+      "display_sha256": "af3f4aeb0627f5df6e40f6c159c07a1f3db43677e61178ecd1483aca6d693d04"
+    },
+    {
+      "src": "media/alternanthera-philoxeroides/inat-644293152.jpg",
+      "original_bytes": 3826764,
+      "display_bytes": 757289,
+      "original_sha256": "82411a532a1c7104cdd8f8f49e969d24b535f5f20913deab76f3c755c924c3a2",
+      "display_sha256": "34ba479a1602eb3e8c405c74f221aef2c3ec789e98861747215e5b7aa4b78614"
+    },
+    {
+      "src": "media/alternanthera-pungens/inat-23087057.jpeg",
+      "original_bytes": 1772019,
+      "display_bytes": 569139,
+      "original_sha256": "3a0a829c740a6b4c123f5d705528610b326e5e5582f190330f9770bc07faf4a0",
+      "display_sha256": "2e6267f110ef06211c60987c417c16cdfdaa19d6ce848ed7964d9508847c8101"
+    },
+    {
+      "src": "media/alternanthera-pungens/inat-24346327.jpg",
+      "original_bytes": 1042691,
+      "display_bytes": 566453,
+      "original_sha256": "807ed704ecef1714cba7ba718f5cb6c325a17b9d8130c06fe8e11c291ddae610",
+      "display_sha256": "ded71def24ef3939f243d32077b28eebf0ce9366e00e54ec12cf00909a105022"
+    },
+    {
+      "src": "media/alternanthera-pungens/inat-294496643.jpg",
+      "original_bytes": 2013258,
+      "display_bytes": 704514,
+      "original_sha256": "91677be39562c75b3dd319c7d77ff81606384b0505d41efe8230d73fb539435a",
+      "display_sha256": "3f74279e5aff61bef6d949f363decd4af7205c652fc7e92220c51f7151907297"
+    },
+    {
+      "src": "media/alternanthera-pungens/inat-8796994.jpeg",
+      "original_bytes": 2247224,
+      "display_bytes": 757120,
+      "original_sha256": "15b72805947fe101effede8d57e3b26c5afaeaafc20a07b60d73893cdacf5c4e",
+      "display_sha256": "423eac4a06d9ed285086ce3239deefc7fc093bc487cfa30eaea83ee3e4eb285e"
+    },
+    {
+      "src": "media/amaranthus-palmeri/inat-393279270.jpg",
+      "original_bytes": 1262988,
+      "display_bytes": 754929,
+      "original_sha256": "bd5628164245edb845220dfe18a06da55f4bd06f1198caaac1ed21214bac41ac",
+      "display_sha256": "7c413998ee56d2c6c010033d50be321f49f8d086422f9385885cafebb261491c"
+    },
+    {
+      "src": "media/amaranthus-palmeri/inat-512466263.jpg",
+      "original_bytes": 2023334,
+      "display_bytes": 568288,
+      "original_sha256": "3e8a25d4731c095db49df9f63d4b574d6fec1dece654321a49d3ea60c87f6897",
+      "display_sha256": "2a6cea31acd382923563550525f71dde9094b6914b9a262e91cc4d0f095a39e0"
+    },
+    {
+      "src": "media/amaranthus-palmeri/inat-560691631.jpg",
+      "original_bytes": 987801,
+      "display_bytes": 606884,
+      "original_sha256": "16089da36a1246c77bef7ae8251bded263775004f4eabb721dce0af79a8742b2",
+      "display_sha256": "cec5f79b997a6363696846e43051bd36782b11a89585918d573b494062ceccdb"
+    },
+    {
+      "src": "media/amaranthus-palmeri/inat-644368428.jpg",
+      "original_bytes": 2446487,
+      "display_bytes": 465248,
+      "original_sha256": "860e0fa86ca59d2cd63b1ee88d96b571bfaf4b3bb2eac6e54cbfde19166c5c2d",
+      "display_sha256": "e699a15e00784799a4a5d10d3df0463f0cc9e4f6fc8509b19635ce528e8da447"
+    },
+    {
+      "src": "media/amaranthus-polygonoides/inat-283211720.jpeg",
+      "original_bytes": 1653709,
+      "display_bytes": 478547,
+      "original_sha256": "a90b23a863106e93ea760772078d26ec7c0f3358243e63d26f3125ce46ab2705",
+      "display_sha256": "ee04e26c48c741cc8d2695bb8ae0fcf51b48eb6911d5527a172417e0238fd4ce"
+    },
+    {
+      "src": "media/amaranthus-polygonoides/inat-643822596.jpg",
+      "original_bytes": 2814974,
+      "display_bytes": 641752,
+      "original_sha256": "d37e13d9abd120c406a1f5c2eab7010cf87d854ee945cbb02c3017d25565aa98",
+      "display_sha256": "9d889908e8a67a6828aa2a8369d8abf6983a4fb51d186d4dfcd9f4020a5bc9fb"
+    },
+    {
+      "src": "media/amaranthus-polygonoides/inat-646749743.jpg",
+      "original_bytes": 2645226,
+      "display_bytes": 534009,
+      "original_sha256": "1bafd123ebb22b57804208f081737a6dbc107c077f29ced993e7e583f47e6750",
+      "display_sha256": "1f6633802d933be5ffb06783cad60dfd95156a51c0a6e6d642f4027d2bab6215"
+    },
+    {
+      "src": "media/amaranthus-polygonoides/inat-648131493.jpg",
+      "original_bytes": 2767977,
+      "display_bytes": 658592,
+      "original_sha256": "24111b023f7d6167baedb8b7a35ba0ab04db824146eff089d121048945428adb",
+      "display_sha256": "b7d72549721695cd5c0bc0908248401efe59e19b34bb88bf3d9bca004049266e"
+    },
+    {
+      "src": "media/amaranthus-polygonoides/inat-682434488.jpg",
+      "original_bytes": 4405136,
+      "display_bytes": 663264,
+      "original_sha256": "65a1a2d536b9dbd7260cf1352d81dc17b6d49e575b6f8c07a3d9dba656c98931",
+      "display_sha256": "9952ba78d6b5ffcb2cb4ebb4c09c34b3077fe036f3145b44deca8d99518aac6f"
+    },
+    {
+      "src": "media/amaranthus-retroflexus/inat-266665472.jpg",
+      "original_bytes": 1127273,
+      "display_bytes": 635747,
+      "original_sha256": "36161e903f6dc6a1a574bf03003c4632ad4941433fa6d2a214140de06169cd95",
+      "display_sha256": "ba442617f3b53ae5d4e76a6fb013cc2bce4cf398e4d9e11d60e76d24a960a0bc"
+    },
+    {
+      "src": "media/amaranthus-retroflexus/inat-296899926.jpg",
+      "original_bytes": 1848452,
+      "display_bytes": 661720,
+      "original_sha256": "ea74a9eadca2eb1d7c5aa5c33ee548a727ef457ef530b5e029f37ba2d2001ab4",
+      "display_sha256": "95697fc3ecadec73d9f8e9d10ed1881e0e20a6b98b3c4b8831ead55511b9f505"
+    },
+    {
+      "src": "media/amaranthus-retroflexus/inat-393229167.jpg",
+      "original_bytes": 1048875,
+      "display_bytes": 649303,
+      "original_sha256": "7acdc3713a86808d53359ece159e842af7768acdde418f341a6af09f1d036d96",
+      "display_sha256": "da4d377db9a92b021ccbb086c49e667236503fe18f274f6a0303743307e2a738"
+    },
+    {
+      "src": "media/amaranthus-retroflexus/inat-493017195.jpg",
+      "original_bytes": 3705945,
+      "display_bytes": 746222,
+      "original_sha256": "27d8e0a008a50d3a74d6bda224b97e457ce200ae05dc42d1e6ee3ce95ffdf230",
+      "display_sha256": "40dcaa6aaff373854c80e339929d38cdce790716d2d1a904402fe3367b5af0f1"
+    },
+    {
+      "src": "media/amaranthus-spinosus/inat-603029347.jpg",
+      "original_bytes": 1183552,
+      "display_bytes": 716327,
+      "original_sha256": "0eae25e2d7c884e787806c23aaedeb2eb47c6052a8d77f29db9fefe2a484f275",
+      "display_sha256": "9b0524154095fcaece75ae76b223751733bc9e258b1ed6e1a771439eec510961"
+    },
+    {
+      "src": "media/amaranthus-viridis/inat-505027818.jpg",
+      "original_bytes": 1179279,
+      "display_bytes": 404197,
+      "original_sha256": "93bd22e4782c47bc45dfb16960bd2af63a9a98c8d1c06e72e53a19f0ccad3a41",
+      "display_sha256": "7cc96e6e7061a3d360009bccd0f08390ff5f8815b4c0c26e30b380eda6defee8"
+    },
+    {
+      "src": "media/amaranthus-viridis/inat-648687237.jpg",
+      "original_bytes": 2970374,
+      "display_bytes": 658034,
+      "original_sha256": "ec07fd835a3af7fc9a5da8358e437cb20e8651c114d290c13f70e92637e9e034",
+      "display_sha256": "e22dddefb373cfb90350a89f07cb9846db8139761073388c1c44f09c2f8d3472"
+    },
+    {
+      "src": "media/amaranthus-viridis/inat-669751267.jpg",
+      "original_bytes": 1337085,
+      "display_bytes": 748869,
+      "original_sha256": "a0a7dbc7921b870d1dca571cee1d6e81b34c1d744556155318299e175eb740bd",
+      "display_sha256": "e77149b93b91fcdbbfdb3ede69096f06e69d8afa979f8d6f5cba5b123470809f"
+    },
+    {
+      "src": "media/atriplex-canescens/inat-157639401.jpeg",
+      "original_bytes": 2466349,
+      "display_bytes": 471470,
+      "original_sha256": "b866fe9cd2168c595c6f7ea276f63b353514a748e158ecfde83516d5f0a14a48",
+      "display_sha256": "429f8f51c213e7aa2ab43dc3f54637741846bb257e706257e6274ccae3fbf9b2"
+    },
+    {
+      "src": "media/atriplex-canescens/inat-56875040.jpg",
+      "original_bytes": 2033322,
+      "display_bytes": 742510,
+      "original_sha256": "9582f20ffec45b80e02ae9c44d72ce2d7af3ef499e837689461008b8a0ec2da2",
+      "display_sha256": "583f78cbbd879da2326a8542036d56a0093e932ac21a14a10dcb1cbb7ecf452b"
+    },
+    {
+      "src": "media/atriplex-canescens/inat-620868341.jpg",
+      "original_bytes": 2437621,
+      "display_bytes": 541729,
+      "original_sha256": "11f277eef6eefa46c6b16f1200cd84dc6d36b71bbbaed5307da4d9e548a821e0",
+      "display_sha256": "b2408f4f553f8f617961f1538187458e498240e2470b3ff59ac6c61b1525e03f"
+    },
+    {
+      "src": "media/atriplex-canescens/inat-620885680.jpg",
+      "original_bytes": 1635125,
+      "display_bytes": 704494,
+      "original_sha256": "86cb25f79f4d63f5ac041d0f5ebd9fce24a071f8bf0f4db3431a891851273cc1",
+      "display_sha256": "52009c696cf5724ef9a4787fa7a21224690ac73fd750f33964efd7ec27ed87af"
+    },
+    {
+      "src": "media/atriplex-canescens/inat-623791189.jpg",
+      "original_bytes": 1580084,
+      "display_bytes": 737844,
+      "original_sha256": "5dfdb0941c0f8d51eea982b4f60259ba7bec85acf7e8c3d04bdffe5e71448767",
+      "display_sha256": "f39e3a10e1e751f3c451a1f7777e71ff796f2639559a7316a8460f5d6b99010c"
+    },
+    {
+      "src": "media/blitum-nuttallianum/inat-623573918.jpg",
+      "original_bytes": 3926097,
+      "display_bytes": 744809,
+      "original_sha256": "baeb60c498d4a9c99ea4de3cbfa1cccf593f22d161aa0bdf2b648e8e41f09c6a",
+      "display_sha256": "a6c1145ae2755109b26f25903146abe52a78ba14836043ee9baa38155c3f110a"
+    },
+    {
+      "src": "media/blitum-nuttallianum/inat-637450270.jpg",
+      "original_bytes": 969233,
+      "display_bytes": 654925,
+      "original_sha256": "203c81195a788885547dbebb804bf0f76fa1bc5422578530e45b8f819d990cf9",
+      "display_sha256": "bec94fdabc49ce2f0edbd31a4758cdf7e35f2aff82746126e7f14d11d27ca294"
+    },
+    {
+      "src": "media/blitum-nuttallianum/inat-631502646.jpg",
+      "original_bytes": 788454,
+      "display_bytes": 562704,
+      "original_sha256": "06f156df17430d9414e83b4536a08364b8cb334d98be790e7986a354a2e23215",
+      "display_sha256": "c54b836ed9920b3a377e7552ba3ec56338e84e6a41605f5d3982f92181448439"
+    },
+    {
+      "src": "media/blitum-nuttallianum/inat-648438958.jpg",
+      "original_bytes": 3527899,
+      "display_bytes": 756230,
+      "original_sha256": "9599eb39ba68431d71d6058203918a1b58dabf1e6514a70c3ff582c506772456",
+      "display_sha256": "bb930672d8d1e054ba10d46fd7570a0d38fcb6055c6fd409d8a8b42fbb472092"
+    },
+    {
+      "src": "media/celosia-nitida/inat-332179926.jpg",
+      "original_bytes": 869409,
+      "display_bytes": 511380,
+      "original_sha256": "e3bc7696bcb95f9ac891507e389d29204f51057b3ef0e182e085dc76eb03ba67",
+      "display_sha256": "f690917869bd6debaf971d920b8296be1e8c6124d8f7992b2b8cd9093f81cd01"
+    },
+    {
+      "src": "media/celosia-nitida/inat-333905992.jpeg",
+      "original_bytes": 1347010,
+      "display_bytes": 229551,
+      "original_sha256": "0163d6cf4db2e54dabdfd77056a459e31735857e7d85986f6f520de8d90a2e26",
+      "display_sha256": "c54b1e19a4d014b0f770b6122af1096dfe4bab4d96fc569171db0ae0480c6dea"
+    },
+    {
+      "src": "media/celosia-nitida/inat-512554970.jpg",
+      "original_bytes": 2425161,
+      "display_bytes": 767772,
+      "original_sha256": "0fa6b94a7e4f9324bca2f76cf45d757c219105236337f435489f32131a49b7da",
+      "display_sha256": "ccadb99c3fb6617765557827381cee3fd6038f4cc632b0c22a980af8f664ed2a"
+    },
+    {
+      "src": "media/chenopodium-album/inat-267193014.jpg",
+      "original_bytes": 1625324,
+      "display_bytes": 738207,
+      "original_sha256": "00e26f4d2623faa6ae381f1be1d7ddd44359fce2249a22a4efc4cc5b5b9144d7",
+      "display_sha256": "617cb07a343582975d8581d393fdbb63abb1e602036f7ccdbf1c69e9854133b8"
+    },
+    {
+      "src": "media/chenopodium-album/inat-356794990.jpeg",
+      "original_bytes": 1790652,
+      "display_bytes": 486022,
+      "original_sha256": "da4ce7b1501322302fe8ee726276ad230c88d5fcd446b297a9bfc00a59424aba",
+      "display_sha256": "0a63733798550f10ff234fabdc82a05e9f9e504cdd9aca74c1972293d7676063"
+    },
+    {
+      "src": "media/chenopodium-album/inat-645201650.jpg",
+      "original_bytes": 2204489,
+      "display_bytes": 768097,
+      "original_sha256": "1dc677e086aa1340ede123efa90d160c67baaec507f95033b50bf8808829a7e1",
+      "display_sha256": "233b2e64a23e97dd2196f2cbdd39e397faa034b4c80de22526e64404c048be76"
+    },
+    {
+      "src": "media/chenopodium-album/inat-664670823.jpg",
+      "original_bytes": 2354705,
+      "display_bytes": 454229,
+      "original_sha256": "fc6afbc100485f7a17874db10dbd8757e71162b85e13b729bd427a1373b339af",
+      "display_sha256": "6d28f05bf3828c0f20276094fcef2423ab2031a4fcebdda03d01a9133c233728"
+    },
+    {
+      "src": "media/froelichia-gracilis/inat-543483915.jpg",
+      "original_bytes": 4442765,
+      "display_bytes": 712407,
+      "original_sha256": "03db7d670a6817a535bff45aaad840bcf7939a05c5afbc8a193e1ac99b2511a2",
+      "display_sha256": "a546faef3d6de9ce4a25e0c7f02cada120aed1a2defc04f9d7140892f0422855"
+    },
+    {
+      "src": "media/froelichia-gracilis/inat-551815048.jpg",
+      "original_bytes": 2411176,
+      "display_bytes": 761629,
+      "original_sha256": "dee16742849bc925ba30baad96620fe194b38ee8f9278332942436af1695467f",
+      "display_sha256": "870550aede5092117b199d404e8cbf03d94aefe97062268209641f7ee3261717"
+    },
+    {
+      "src": "media/froelichia-gracilis/inat-679797246.jpg",
+      "original_bytes": 1764631,
+      "display_bytes": 516682,
+      "original_sha256": "9027985f406c046fc66a63472cdfcfeb90fe42090c621e258fde8a2293a01779",
+      "display_sha256": "63d2e9ae7e4e4eda78fc23a896de3c7e47be5b2d11548375975a40982d068fc3"
+    },
+    {
+      "src": "media/froelichia-gracilis/inat-679797486.jpg",
+      "original_bytes": 1421841,
+      "display_bytes": 381034,
+      "original_sha256": "c923086635f9795bc94217f76d188d97fb2d9728a538d26062e47c540280a697",
+      "display_sha256": "36e500b635099e51e5c54bb97a76f1879e340ec394e49e945094fb2af8b66842"
+    },
+    {
+      "src": "media/froelichia-gracilis/inat-682326581.jpg",
+      "original_bytes": 841381,
+      "display_bytes": 486751,
+      "original_sha256": "404e5aa4501ac8424b7011c6a2a856ea0396d7e40dfd78732d6196ad13817ecd",
+      "display_sha256": "f0a20ad72bd7f995aa46c116ad19a9b12cade7ed3aa380264f5792b5f123be04"
+    },
+    {
+      "src": "media/gomphrena-haageana/inat-2026860.jpg",
+      "original_bytes": 1233682,
+      "display_bytes": 295608,
+      "original_sha256": "f2a50f3ed3fdcbe75a77d426c54ba9bd4d4cff234062143b6818e34a1e2db625",
+      "display_sha256": "d96f1148c6a1b26cd09518e9666258160d9397e049895ba6ea56376d576ca40a"
+    },
+    {
+      "src": "media/gomphrena-haageana/inat-217931701.jpg",
+      "original_bytes": 1241374,
+      "display_bytes": 761324,
+      "original_sha256": "cdc7f281e2c1894abbda629815071c9e79834a8e0622322f9dd4ad05929fe672",
+      "display_sha256": "0b8b25b1f1f4de4a5af67c6dc26147afa00a77268fd47e77a3b80e90e46cb2af"
+    },
+    {
+      "src": "media/gomphrena-haageana/inat-457535172.jpg",
+      "original_bytes": 975445,
+      "display_bytes": 627621,
+      "original_sha256": "ebd1844bf822ae180fbfca0dd1cdb0c4c1c2b7c15db6ea71bd4106bc1381c141",
+      "display_sha256": "0830dd78592bdb9044257fb21b15eb58549cf52d25ce0f6a461ea58243d4df70"
+    },
+    {
+      "src": "media/gomphrena-haageana/inat-538970285.jpg",
+      "original_bytes": 1028531,
+      "display_bytes": 621067,
+      "original_sha256": "f28b9542fae3f656cb541630539045512f96144aa15fa3f0d42de994b27277ff",
+      "display_sha256": "8fc44fcc47a25ce5298c25bf4953ea6dc106d513c191de3e1ff563d34641c83c"
+    },
+    {
+      "src": "media/gomphrena-haageana/inat-649365781.jpg",
+      "original_bytes": 1793421,
+      "display_bytes": 415519,
+      "original_sha256": "af006ad21e4aa6274ceadb83728997e19559aa6415c1ae8e09b5e1ee6b65fd24",
+      "display_sha256": "1b495e5ce59db4e437c70fff88ba155bf524b5b8e11a62aa67ba00e4759307c0"
+    },
+    {
+      "src": "media/tidestromia-lanuginosa/inat-499573013.jpg",
+      "original_bytes": 1396617,
+      "display_bytes": 673764,
+      "original_sha256": "139fab9a75fc91adf1927155692d8b19c4baee28c8c8ecc48d6d653e58f818f4",
+      "display_sha256": "c03c405ebb6f9876bc9092594d1dd987738826a1169edcaa27b93ae6fa7d33c2"
+    },
+    {
+      "src": "media/tidestromia-lanuginosa/inat-506064819.jpg",
+      "original_bytes": 1306202,
+      "display_bytes": 774347,
+      "original_sha256": "8559d7908cc064de31ffb5457373855fbe742efb5b37bbbf71b55c263d7e6cdb",
+      "display_sha256": "d5544fd287de6c9f562a47ff8a42983d54e96c37044c9ebe93d05781b87e2222"
+    },
+    {
+      "src": "media/tidestromia-lanuginosa/inat-648955317.jpg",
+      "original_bytes": 1417998,
+      "display_bytes": 519985,
+      "original_sha256": "e08c4ff9419742653672acb44f11992898d43d85b4402e91e4715adeb080b81e",
+      "display_sha256": "d905007ae08c47e7162a16f0a7fae40506df2a3e23c00f088f8a01d642fab4a2"
+    },
+    {
+      "src": "media/tidestromia-lanuginosa/inat-666183485.jpg",
+      "original_bytes": 1953653,
+      "display_bytes": 608884,
+      "original_sha256": "aee051f6a873ee46651a12ae6c768ad8446c98bf64308a721b69b54f8a2c42c0",
+      "display_sha256": "91d4b3eb6f3ef1732a75a0efca970bef2e6c11796c20e0f191fd90589307f37d"
+    },
+    {
+      "src": "media/berberis-aquifolium/inat-355941507.jpg",
+      "original_bytes": 1337146,
+      "display_bytes": 751339,
+      "original_sha256": "96f43af424224be327258f352b24a1fa7bc421ff16ce67d9b551a4f86079e698",
+      "display_sha256": "dac2432458442c40e5db70cd6801b83517e37b7cc46cb3361a2cd2f9a857e95f"
+    },
+    {
+      "src": "media/berberis-aquifolium/inat-368652517.jpeg",
+      "original_bytes": 2342468,
+      "display_bytes": 756904,
+      "original_sha256": "d71dc705999749965f14c1f1054cf6d1036fd47b30ce2253542f13ba3826281f",
+      "display_sha256": "9f782cffd7a8093f92ccb2bbd45f0ebdca6ce66a2ebc45d92a2bb3c4a713e726"
+    },
+    {
+      "src": "media/berberis-aquifolium/inat-491927125.jpg",
+      "original_bytes": 1806596,
+      "display_bytes": 680785,
+      "original_sha256": "b59939119f06ed69d1cacbae70c599b56535bb8b77667aebeda83957b2252595",
+      "display_sha256": "1401d1a1b7b1330acf967cb53d9788275c9f72d2bf9837552e21f690edcb0945"
+    },
+    {
+      "src": "media/berberis-aquifolium/inat-622290522.jpg",
+      "original_bytes": 892950,
+      "display_bytes": 536030,
+      "original_sha256": "635901b1dfaf057fb0a9b9aaee04133680204ab07577abd3f979bd157c6a069d",
+      "display_sha256": "f5fdaaee2d1c25f958598ec8b7acd4681c1c999e33bb1b301fbc7fb1fb74eb35"
+    },
+    {
+      "src": "media/berberis-swaseyi/inat-626803450.jpg",
+      "original_bytes": 2898733,
+      "display_bytes": 676160,
+      "original_sha256": "5e843c86748d9a41ba7d7d23a9cf694c5e915c8e364c34fec0b35cbfaa7b4d26",
+      "display_sha256": "718498b9ad0650820cf989223b8281242a59d333c2b0ec70397de3218079a63f"
+    },
+    {
+      "src": "media/berberis-swaseyi/inat-627586585.jpg",
+      "original_bytes": 2102225,
+      "display_bytes": 564930,
+      "original_sha256": "0eee0119dce1115cc99a21f37a0592ec784afa5ac689bdc98d088dca0ccf1fe0",
+      "display_sha256": "1f2e28a06eb01a8576c5bc428d3cff080e6455098eba68f761817fd218131dd1"
+    },
+    {
+      "src": "media/berberis-swaseyi/inat-629354749.jpg",
+      "original_bytes": 3788349,
+      "display_bytes": 754702,
+      "original_sha256": "ec75d6252b05bb82d52f08ff33f33017a632da0eabc5f2255cb96f93ff044117",
+      "display_sha256": "556a32d297c9bca2d83805950c2f8bd7b12e9c90a2a11c641d8242b161a7f094"
+    },
+    {
+      "src": "media/berberis-swaseyi/inat-630159655.jpg",
+      "original_bytes": 4295191,
+      "display_bytes": 758524,
+      "original_sha256": "45213d8464e6bda2d24997198e7317768c4abfec3a85c4141e502f7434ab5aa0",
+      "display_sha256": "b43bc78fccd232abf63c83255417dafab07e4427abb17a4147e2fb729f5c9c71"
+    },
+    {
+      "src": "media/berberis-swaseyi/inat-631036425.jpg",
+      "original_bytes": 851813,
+      "display_bytes": 681313,
+      "original_sha256": "21781038ee8fa8bd8c0192e13110765ace6773232cb050233cfa04d3e25f5076",
+      "display_sha256": "a008edea6516a0d74a182a0fe107f15e5bd698d647e1b77e522652bcf82a4a47"
+    },
+    {
+      "src": "media/berberis-trifoliolata/inat-620218826.jpg",
+      "original_bytes": 2359184,
+      "display_bytes": 744027,
+      "original_sha256": "1c0e89308211aa246563a3ebdc5eeafde760bed4268aad6a4f251edd488f42dc",
+      "display_sha256": "ef5a1aa51c7dcb59e78128951f7e85eeea2a98bd2040645f2586170af9580362"
+    },
+    {
+      "src": "media/berberis-trifoliolata/inat-620320082.jpg",
+      "original_bytes": 2487189,
+      "display_bytes": 735377,
+      "original_sha256": "2c308022a34e3f1a467d67a2ae8312f90fd5decedc991a16e3f2c025fde1f0d3",
+      "display_sha256": "c36154a6f055ce20fc481a37fcc9800472ba20121b83bd26dbd3ef11b28cf687"
+    },
+    {
+      "src": "media/berberis-trifoliolata/inat-620328321.jpg",
+      "original_bytes": 3491419,
+      "display_bytes": 765597,
+      "original_sha256": "96bcf6a108240cb908b8ef498690a4b9565a837c379fa0d47f10d8993218e1ca",
+      "display_sha256": "2c60d92aeb0b907e103b8b2676687e8dbad19e84ec59eb39ad0002d9bfd91b47"
+    },
+    {
+      "src": "media/berberis-trifoliolata/inat-620359109.jpg",
+      "original_bytes": 4289979,
+      "display_bytes": 769966,
+      "original_sha256": "d0e1f8825e13bba062249d36d7688c6e12978c54b0fc1a0faede7be23fbfa636",
+      "display_sha256": "5b5e324b8549e6f4523e3ab8ea37d65f76c9f201a4929ae3afc2d5d07b0ce91f"
+    },
+    {
+      "src": "media/berberis-trifoliolata/inat-620660748.jpg",
+      "original_bytes": 1592109,
+      "display_bytes": 758168,
+      "original_sha256": "b4283b3a3099d23c3fedab23391303d180b0792a4c2c6072e37773bda4c70e16",
+      "display_sha256": "72091fc2040420b8431f0ef51e668276c261f3884061003fc6c23cf30dc97269"
+    },
+    {
+      "src": "media/nandina-domestica/inat-620350377.jpg",
+      "original_bytes": 3168566,
+      "display_bytes": 738002,
+      "original_sha256": "d94124b1c5c3032e5fe3ed057591baca1afbaa6547d30c5b1e972994ee448680",
+      "display_sha256": "07ffcffd90aef3b40ed7f224b60a969d64f875a50c77144eb072f5e56afe3fb4"
+    },
+    {
+      "src": "media/nandina-domestica/inat-620449127.jpg",
+      "original_bytes": 1076677,
+      "display_bytes": 635385,
+      "original_sha256": "1fd05ea27c4a1d054fdc6d63e93bc3e6cdda37077bddd67abe625ed0351b7676",
+      "display_sha256": "c1236725df4591dc805e380e5fd0ca9824dc5d88e26d3382835dbe61a45e08c5"
+    },
+    {
+      "src": "media/nandina-domestica/inat-622223877.jpg",
+      "original_bytes": 3757074,
+      "display_bytes": 738194,
+      "original_sha256": "967a22df0c8db8d383e68fc2eb2d61d3dbafc54d31dfdecd5fdce3e9616dbc9c",
+      "display_sha256": "e9bc9385ee12d459208e3778ae3e85f44fe6d5a41213be58c02d2bea02faa21f"
+    },
+    {
+      "src": "media/nandina-domestica/inat-623421101.jpg",
+      "original_bytes": 3831008,
+      "display_bytes": 773113,
+      "original_sha256": "ee5b2319b46f0b6f556ca6994192ea0ac251b9bcc10288395622958d0f5a3984",
+      "display_sha256": "62ebc91af4cba15f5bd0a615a8c6b13026fa19e0e1b9bf4ca22e769e5bf092f5"
+    },
+    {
+      "src": "media/nandina-domestica/inat-623734124.jpg",
+      "original_bytes": 3558011,
+      "display_bytes": 705326,
+      "original_sha256": "2c012433a49f8ba6cbbbe71b565c65ddeefe8e2b458c533783f15f65e690fdab",
+      "display_sha256": "19b21814f39e122411b05c73c12f83c180568a388ebceb2fbff3fcc55482644f"
+    },
+    {
+      "src": "media/coryphantha-echinus/inat-622350638.jpg",
+      "original_bytes": 3060730,
+      "display_bytes": 740406,
+      "original_sha256": "87328969674a90686384378f421e9d7841dcd646f3c2b4dd51388ff2baba774e",
+      "display_sha256": "236d1650b93411c42f3e483865b4bc380229203ee55dcbd862f693e6ad0a285c"
+    },
+    {
+      "src": "media/coryphantha-echinus/inat-622684027.jpg",
+      "original_bytes": 3175232,
+      "display_bytes": 756875,
+      "original_sha256": "623bdc32bc19890a98026c8ac8a679083658bb34ca17db9ab95e80ca627d11b5",
+      "display_sha256": "3ba7ab4bfcef558a958c69da7200f7daccad587ea47734ede1194615f06a08dc"
+    },
+    {
+      "src": "media/coryphantha-echinus/inat-626207999.jpg",
+      "original_bytes": 2174476,
+      "display_bytes": 593793,
+      "original_sha256": "30f632969ce2ce5b1ef69ccbeb31c4322296393c8c51288255937e8918b2826c",
+      "display_sha256": "3996659694afb6c5adca9eaed4f5f54bfcc56ae9eaed366041f7a6ddde4cad02"
+    },
+    {
+      "src": "media/coryphantha-echinus/inat-631094496.jpg",
+      "original_bytes": 900217,
+      "display_bytes": 662324,
+      "original_sha256": "6b712547d93f8be2d979b258c6b068bebc7902d525aed0c74f84283378441848",
+      "display_sha256": "32e476af24f6f9a356d173efc29651d3b7e14170c6c25c1601f4d2798df6e49d"
+    },
+    {
+      "src": "media/coryphantha-echinus/inat-935510.jpg",
+      "original_bytes": 949996,
+      "display_bytes": 468477,
+      "original_sha256": "e9b225ce6c685d6744d902892c6366b641033294cbddc1845de9800aa1dce91b",
+      "display_sha256": "2c2ed50310e6ebef998ccd1a6b14233de37540e58ac5a85b4c52945bbd35b928"
+    },
+    {
+      "src": "media/coryphantha-sulcata/inat-626029176.jpg",
+      "original_bytes": 3037446,
+      "display_bytes": 725101,
+      "original_sha256": "d7dafde28a45049ef34557d3f2d60e20b146aca0d8dd9ef4029b883d6a419a5c",
+      "display_sha256": "2c7a4c4cf41d33c3c8a7668600b0f4cf755f55f2cd5be784e12937cf46f15aa4"
+    },
+    {
+      "src": "media/coryphantha-sulcata/inat-630252092.jpg",
+      "original_bytes": 3743952,
+      "display_bytes": 770498,
+      "original_sha256": "43de6cd3408f4b92a771a860b05f85294a282ecb3e2f6143f4c6d2ceec337e2d",
+      "display_sha256": "70fa65aa9c37547b9b6ffd54fa6f2e778f2b8774bccb2289447d3604267a7f36"
+    },
+    {
+      "src": "media/coryphantha-sulcata/inat-630259728.jpg",
+      "original_bytes": 3529737,
+      "display_bytes": 743111,
+      "original_sha256": "6592f8e270ea985a86837b92685f648f6d6e4570874f58ef5077daa2da4e4001",
+      "display_sha256": "bea6fa8c440b2874fcbcabb7b5e29815383ff1c3839a5d46680723ec7f62c64d"
+    },
+    {
+      "src": "media/coryphantha-sulcata/inat-630297460.jpg",
+      "original_bytes": 3540910,
+      "display_bytes": 730185,
+      "original_sha256": "f26ed503c4357c0651e854af4ecdce02bb2551181e332f486a51bc689fd5dea3",
+      "display_sha256": "234cf07c5ecf9509d42c86e03fdcf36f04dec157f839f94c7d1748d5272ac593"
+    },
+    {
+      "src": "media/coryphantha-sulcata/inat-646629531.jpg",
+      "original_bytes": 1957367,
+      "display_bytes": 530559,
+      "original_sha256": "cb58e040205bf7182b3839aae8e3a9fed36413f46404435b1592ce91fc486355",
+      "display_sha256": "366bd1d11110587c7eaec088011800148412bf9cc8fa828bfae57a9f651ea94b"
+    },
+    {
+      "src": "media/cylindropuntia-imbricata/inat-623728641.jpg",
+      "original_bytes": 5189476,
+      "display_bytes": 668517,
+      "original_sha256": "e209a2e046d34e2f9e6fb675c5a969d053df7e8fd8b1fc2c50ec5ef90ec93960",
+      "display_sha256": "b921157e7e880fb586e423981ddf6959b87842c5885b21d4570b3e93d0c780c1"
+    },
+    {
+      "src": "media/cylindropuntia-imbricata/inat-634897159.jpg",
+      "original_bytes": 3830894,
+      "display_bytes": 746161,
+      "original_sha256": "b1815d03df0a17ca630d58e937dbe2cc1033fbd2a5d3aa2e64d4735843ebb273",
+      "display_sha256": "9c153dc40ac12ee465ed60b3a17f40d787f2b6c636cb85c8be000765a5a5c4e5"
+    },
+    {
+      "src": "media/cylindropuntia-imbricata/inat-634936709.jpg",
+      "original_bytes": 3436974,
+      "display_bytes": 660851,
+      "original_sha256": "1ea24fa2da952687b63edc5df87ce2a6575cc71343ce82b20ec679ffce67dfbd",
+      "display_sha256": "ea4e3bd7ffcf4eb471b9ecb10c8c94fa0ac030ffd9e945fb1dd76148fc2a2548"
+    },
+    {
+      "src": "media/cylindropuntia-imbricata/inat-642393863.jpg",
+      "original_bytes": 2782000,
+      "display_bytes": 657624,
+      "original_sha256": "d54de29fb640d27ea45e2b9d0ad5357e854de07422a46a7892adcdd10a4659cd",
+      "display_sha256": "345b267f8aac1bcda2a5d092180a765a248e2e9d079bce95e38443e05cb7c799"
+    },
+    {
+      "src": "media/cylindropuntia-leptocaulis/inat-620273855.jpg",
+      "original_bytes": 3428086,
+      "display_bytes": 719567,
+      "original_sha256": "2e676e84e7a8e495c52e8789897476b1063a23265385f3d106cf3c7afee37cb0",
+      "display_sha256": "a1ee6266f239cbf7e95285af455f3c1cedd991e4db225a3f83bf90d579ff9364"
+    },
+    {
+      "src": "media/cylindropuntia-leptocaulis/inat-620748628.jpg",
+      "original_bytes": 3151722,
+      "display_bytes": 710700,
+      "original_sha256": "a8db3d3648dd12bccb32baf1c757bedc97cb6e83e6e9740b7ab4d2f0681c01a3",
+      "display_sha256": "7ceca3dd43f6316c2c31a3ad5619a5e67c3a30844bb45bc39e229e11d4bd4920"
+    },
+    {
+      "src": "media/cylindropuntia-leptocaulis/inat-623294452.jpg",
+      "original_bytes": 3488719,
+      "display_bytes": 676179,
+      "original_sha256": "bd5eecc8b85826fc43634c0f11df13bf9e315f6c3cfd6a1ad35533fe3359f370",
+      "display_sha256": "9f1da7800c63aa9a12b420ea6555f58d0ff7a186d1db49898bd7302e6fc92fa1"
+    },
+    {
+      "src": "media/cylindropuntia-leptocaulis/inat-624201925.jpg",
+      "original_bytes": 3598714,
+      "display_bytes": 755756,
+      "original_sha256": "8d4875123fcdefd943d03ca28533863d2af49dd136cf18d418fa3228f302eedd",
+      "display_sha256": "8d231aa8039bdf791f320c45da6c6ffae65a9adcb0c1df8f89109e60b294cf49"
+    },
+    {
+      "src": "media/echinocactus-horizonthalonius-subsp-horizonthalonius/inat-620231263.jpg",
+      "original_bytes": 3484770,
+      "display_bytes": 743932,
+      "original_sha256": "13180ef73a7c3c0fdb776bb253582505a47282a0d4d87c6f05c64345bd5a4586",
+      "display_sha256": "f496973b32e340e84516f5e4e2ebf2bd2ba2c34a2bf3b0da0a8cae49531fd5a3"
+    },
+    {
+      "src": "media/echinocactus-horizonthalonius-subsp-horizonthalonius/inat-620656956.jpg",
+      "original_bytes": 3427618,
+      "display_bytes": 769814,
+      "original_sha256": "c058c14225b5f6c305c3c4b5b94250f9bd67ca32d52e6eb75f0bf02cd4c9b361",
+      "display_sha256": "119173f6e93f15b5e30edaf79739c64bb37cab009a4a124bbeae55cb2a6f1bb2"
+    },
+    {
+      "src": "media/echinocactus-horizonthalonius-subsp-horizonthalonius/inat-620657439.jpg",
+      "original_bytes": 2997724,
+      "display_bytes": 669714,
+      "original_sha256": "a4226b04d31e209ce6186346d986720075385143f42d7c23412952366709538c",
+      "display_sha256": "81b40bf08d4b56f5d490aafcfaf1b2d96d1976c75acb781fd65c77526ae8971d"
+    },
+    {
+      "src": "media/echinocactus-horizonthalonius-subsp-horizonthalonius/inat-620658317.jpg",
+      "original_bytes": 2766247,
+      "display_bytes": 696636,
+      "original_sha256": "45a39fcfef4299e3b33aa16c15560881251a2294de8ae0c79758491167ad948a",
+      "display_sha256": "daae65ef48043ae5ce1d5923a8b2f449496a8763456bb654ec0139d593eb9eea"
+    },
+    {
+      "src": "media/echinocactus-horizonthalonius-subsp-horizonthalonius/inat-620673873.jpg",
+      "original_bytes": 3679945,
+      "display_bytes": 744458,
+      "original_sha256": "017d650fd0836bcf93775860acf73b50cc30cfa081c1197c7963c695d937d797",
+      "display_sha256": "683216d726cbca991a63fabfd38a878de6891b73b88eb51637934ddd42d1c45f"
+    },
+    {
+      "src": "media/echinocereus-chisoensis/inat-57539031.jpeg",
+      "original_bytes": 1455101,
+      "display_bytes": 601622,
+      "original_sha256": "4a206bc351f17abe1dc0c4a4f4122cb94e47420528c6df7af1320a6bda8f83e8",
+      "display_sha256": "aa4d6437a848586bdfbb28e52fa6e08a570115cd5d218083c5e37203708cac4d"
+    },
+    {
+      "src": "media/echinocereus-chisoensis/inat-57539037.jpeg",
+      "original_bytes": 1308810,
+      "display_bytes": 639349,
+      "original_sha256": "2877d29a5b4d9340114e12c71430b7bd7980632bb762d8ca923d70eab8c6d7ce",
+      "display_sha256": "d8f230d577c522f3a957aae2465b9ea6789c212f0af21577428f941b52719eaf"
+    },
+    {
+      "src": "media/echinocereus-chisoensis/inat-58927250.jpeg",
+      "original_bytes": 2239161,
+      "display_bytes": 763246,
+      "original_sha256": "d5a23b5b2c6bd5c000ad236130ead64a488d5ac3e0213922134a597fc1f1db4c",
+      "display_sha256": "3780eed94817a3bc551f5a7859540a7f6ee2fa68199ac6aacef383a501461c81"
+    },
+    {
+      "src": "media/echinocereus-chisoensis/inat-58927457.jpeg",
+      "original_bytes": 2080508,
+      "display_bytes": 735170,
+      "original_sha256": "024f29ea0dde42f29ccddf7bb0b8a453ab7149fc001e78a31f1db6862a6f57ab",
+      "display_sha256": "725090308ea096f48cb5cd2396bc1511c0dc92d7200784348aff2f493b6de31e"
+    },
+    {
+      "src": "media/echinocereus-chisoensis/inat-58927470.jpeg",
+      "original_bytes": 2039798,
+      "display_bytes": 715004,
+      "original_sha256": "7ecb25015e4f00dcfcf323e931e9bdb09868a315aca539c0f5a012d9c6b98ab3",
+      "display_sha256": "119c32c174fbae17e04d05b76c9cd0d71d18dcfc1cc2bb964ea74a29edcbd30f"
+    },
+    {
+      "src": "media/echinocereus-dasyacanthus-subsp-dasyacanthus/inat-620222542.jpg",
+      "original_bytes": 3860102,
+      "display_bytes": 753428,
+      "original_sha256": "45f626f197db1befc26df198e2963d844f77da51ff670083d1edc884026ea08a",
+      "display_sha256": "1c05cdfa23fb7cda4087f77d4c677c2848e1f49f6ebc7f21ed6a6e2ee192e041"
+    },
+    {
+      "src": "media/echinocereus-dasyacanthus-subsp-dasyacanthus/inat-620231225.jpg",
+      "original_bytes": 3181513,
+      "display_bytes": 777137,
+      "original_sha256": "5099845306f26686c0322def0f4c522c50aff51de8cd7fe731e120ef6a7a679d",
+      "display_sha256": "1165cf63e6800a121290bb7b146b41b9f715eb2bd79e6e42fc84b728b3fd596d"
+    },
+    {
+      "src": "media/echinocereus-dasyacanthus-subsp-dasyacanthus/inat-620249708.jpg",
+      "original_bytes": 3092651,
+      "display_bytes": 730027,
+      "original_sha256": "6fb272941cff5ba23cb80e1ee4d26362e345dac914d1e07ee2eaab7e5ee729ec",
+      "display_sha256": "3d46b3c77caee3c73a3f8cc075839dd5a8bdd741e1fc4af45f8a4b4a40534459"
+    },
+    {
+      "src": "media/echinocereus-dasyacanthus-subsp-dasyacanthus/inat-620331581.jpg",
+      "original_bytes": 1525508,
+      "display_bytes": 702899,
+      "original_sha256": "73372b75dbf110402d513c8eb0a7da91ae085a56cf1cde6dac027726f43d507a",
+      "display_sha256": "37dc555434f428ec8eeb0b5283445ab5fa4e3eb7ed73868825d07a5abf63d336"
+    },
+    {
+      "src": "media/echinocereus-dasyacanthus-subsp-dasyacanthus/inat-620426101.jpg",
+      "original_bytes": 2665886,
+      "display_bytes": 558455,
+      "original_sha256": "1315cf7ddfad54ca1e3764024d034de72ef11d57650ab6803b30f294962328e0",
+      "display_sha256": "a79f454432f2f41219b1e4f7d210c5f6204a9c817ba63861c2b1949b6bbec286"
+    },
+    {
+      "src": "media/echinocereus-enneacanthus-var-enneacanthus/archived-c33da55aef57d423.jpg",
+      "original_bytes": 1002444,
+      "display_bytes": 716759,
+      "original_sha256": "c33da55aef57d423b1200dfaadf71475cb7c40fe88da81750a28732af210c151",
+      "display_sha256": "ed694ab96bb54e245689f9f1c5acec7857a08b3603a674a4b2ade22e20a7d35e"
+    },
+    {
+      "src": "media/echinocereus-reichenbachii/inat-620721062.jpg",
+      "original_bytes": 3097681,
+      "display_bytes": 768346,
+      "original_sha256": "ebcf828be8d9c4235ef59aa642d863740e6124b4cae18282d16387da87d36dec",
+      "display_sha256": "0e1fd0e878954a4a8c34ff666814be3517184b0827986f1cbf4bfccae9f30d78"
+    },
+    {
+      "src": "media/echinocereus-reichenbachii/inat-622092461.jpg",
+      "original_bytes": 4550617,
+      "display_bytes": 698395,
+      "original_sha256": "1176ed8479ff915c6382a02885bf059c8be6567f2aef5ab778242732ac52e05f",
+      "display_sha256": "88b9ee819d4bd9a17d4a78774dd086ec206c59d169bf299c5aca96f6e7c1105c"
+    },
+    {
+      "src": "media/echinocereus-reichenbachii/inat-622752730.jpg",
+      "original_bytes": 2641400,
+      "display_bytes": 765373,
+      "original_sha256": "cbb9e31e69821500d37298d9ac5863a3fe359200da154b445d09660c6543241f",
+      "display_sha256": "3ca687f3fe0616b595dcf6afccd2b633284d0e434c1da5aa726ac2a7c708a014"
+    },
+    {
+      "src": "media/echinocereus-reichenbachii/inat-625412768.jpg",
+      "original_bytes": 3008094,
+      "display_bytes": 744331,
+      "original_sha256": "68546faa13a439add2d83f99f610ebf580f74fcb2aef7aaddcdd713c31a3154e",
+      "display_sha256": "88c642398059663a07aa811ad5ce490c57d617ef0f24bcb81cc51434ffbefba0"
+    },
+    {
+      "src": "media/echinocereus-reichenbachii/inat-627718694.jpg",
+      "original_bytes": 3955887,
+      "display_bytes": 675593,
+      "original_sha256": "3f0615eb508269853c0af015e8716ae36c4269f0abccfa44b4c1c845b4283947",
+      "display_sha256": "f7b74105a20fee8089f36491929fbbc4df4cbf2e3ea693758b1a5e75210eb66b"
+    },
+    {
+      "src": "media/echinocereus-stramineus/archived-9551d43ddacce1f6.jpg",
+      "original_bytes": 809842,
+      "display_bytes": 731925,
+      "original_sha256": "9551d43ddacce1f62d462c252728d3c62dd20560c394f4479bd0da3b8eeddb0f",
+      "display_sha256": "cb6349472be6e4bc6f748e91055f812a00b12da3565deae2fa17a6a55033c813"
+    },
+    {
+      "src": "media/echinocereus-stramineus/inat-620249647.jpg",
+      "original_bytes": 3813975,
+      "display_bytes": 764199,
+      "original_sha256": "ef2b7b91522351b43f6c2ba3d184e081adc4e7d869af2f27255674112c1d51d2",
+      "display_sha256": "2b92fd81af8e8cfd99ad69cfb579b953f41d19108de185305d65d83445ebb03a"
+    },
+    {
+      "src": "media/echinocereus-stramineus/inat-620314288.jpg",
+      "original_bytes": 1789625,
+      "display_bytes": 672072,
+      "original_sha256": "6ef33e892c2807a6912480593b8f0d010aeac16c589321cf22c34a3e9cfe67f0",
+      "display_sha256": "b16f95d89f620bb6aea52462b32634b9a28f3fe5b5ba64a77c91e9da1f18ddb7"
+    },
+    {
+      "src": "media/echinocereus-stramineus/inat-620679793.jpg",
+      "original_bytes": 4221611,
+      "display_bytes": 731925,
+      "original_sha256": "6b0b34469e9935c6d1b97209c5fb601e63aff4eb5233d1d12392d91dc5c3118a",
+      "display_sha256": "6f012ba952c39ccb0182fd871819ca1cac3ce0db128b959004e7c660c2cc8805"
+    },
+    {
+      "src": "media/echinocereus-stramineus/inat-620682181.jpg",
+      "original_bytes": 1494943,
+      "display_bytes": 670575,
+      "original_sha256": "03b0fbac01990a4bee9745cb7f8fe5f172228ae723d026b0fc03673b7bbf5067",
+      "display_sha256": "e9c14982bf58b905784ad14bbe150676e5bcd9cefb5f9b22153450e806f71346"
+    },
+    {
+      "src": "media/echinocereus-stramineus/inat-620683726.jpg",
+      "original_bytes": 3978274,
+      "display_bytes": 668577,
+      "original_sha256": "c56ac256409e12ac52c092cfa1ec5ccc9bdb313731cb4c3617368add22d0d4c2",
+      "display_sha256": "355a6b952abc4d70e4498959e56000f1a343e6e7db21345d491e0d909517ed24"
+    },
+    {
+      "src": "media/echinocereus-triglochidiatus/inat-622515912.jpg",
+      "original_bytes": 1787853,
+      "display_bytes": 560258,
+      "original_sha256": "77e8c83d4b8933ee462995bdb4f84747d41737aa677da2960559507ae9c3220a",
+      "display_sha256": "1f9aaf193a157a3da436a70d96c09fa409ab4467d5fc13b22497064073bc8a78"
+    },
+    {
+      "src": "media/echinocereus-triglochidiatus/inat-622885851.jpg",
+      "original_bytes": 2023621,
+      "display_bytes": 767131,
+      "original_sha256": "3b64bcaafc6aa03ce0223085c98d306f28f78d4a7bfe6d902a9ab5759d8eb6a4",
+      "display_sha256": "8cc8dd0b0327df51481a9746ec41ff963ceece2d9beb93d1d972ceda33c90cfd"
+    },
+    {
+      "src": "media/echinocereus-triglochidiatus/inat-625513668.jpg",
+      "original_bytes": 4346170,
+      "display_bytes": 754232,
+      "original_sha256": "a695c473e22176441496fb9e46593f64b1d9e4f334a1701d98f8eaedd2c159b0",
+      "display_sha256": "f74d10938f88771e59238b2a3b4fa21da9ed0211c2408eb117f0dec730a1fb23"
+    },
+    {
+      "src": "media/echinocereus-triglochidiatus/inat-626001139.jpg",
+      "original_bytes": 1799114,
+      "display_bytes": 532138,
+      "original_sha256": "a56eb07a648662db9899287917796a06567bd242ff080b4939305586f9ea2464",
+      "display_sha256": "2b37be8cc4d0a6a4eb1fa499314f80f392ec3108a2e59ca56412ea53ca0856e0"
+    },
+    {
+      "src": "media/echinocereus-triglochidiatus/inat-627733355.jpg",
+      "original_bytes": 3405287,
+      "display_bytes": 645765,
+      "original_sha256": "12be8cf9516e835310f40efcce125db22ebff828ca0e94d9a46a4af6526521cf",
+      "display_sha256": "a54801565029abc5877f569602f41c3044af8e594a5be265ebc5ac9a212c9c24"
+    },
+    {
+      "src": "media/ferocactus-hamatacanthus/inat-192387137.jpeg",
+      "original_bytes": 2542157,
+      "display_bytes": 764984,
+      "original_sha256": "7d58c5c0a5fc71bb5fbf76c178c266ac52765f2fbe36414eec66a7113053a6da",
+      "display_sha256": "565dcba623465ae752426ae245f772ea42b91a755d3d310c23f8c77a65a58b15"
+    },
+    {
+      "src": "media/ferocactus-hamatacanthus/inat-192595266.jpg",
+      "original_bytes": 2075950,
+      "display_bytes": 716381,
+      "original_sha256": "8e80385b2eb2445931fdb901b757356afdb0a842f8d8f165163cc7e1b284fdbd",
+      "display_sha256": "97a05d57cb6c30cc84594fbe23fe500eb78e483912a279417a955c04ad81473a"
+    },
+    {
+      "src": "media/ferocactus-hamatacanthus/inat-368596800.jpeg",
+      "original_bytes": 2550368,
+      "display_bytes": 747450,
+      "original_sha256": "26e2215dbb0aed119e0056d5d7386faf734c124a465f65d375dc1f719a4fe7aa",
+      "display_sha256": "d6fd755387b78b0035cf2f89f77a5b3cca1e87cdbc34c4b5fe65d464a9bf3344"
+    },
+    {
+      "src": "media/ferocactus-hamatacanthus/inat-368602043.jpg",
+      "original_bytes": 1767847,
+      "display_bytes": 708521,
+      "original_sha256": "8b1c52e39ea26d4d0488817c5705301c187233929c9554b662c04b89aba041f4",
+      "display_sha256": "09520e34a88726a4d619cbb71371b8908cfcfca7f674e036fa04aa399643b8ed"
+    },
+    {
+      "src": "media/ferocactus-hamatacanthus/inat-646647024.jpg",
+      "original_bytes": 2053823,
+      "display_bytes": 723980,
+      "original_sha256": "4dd230d272b3c4ffdd711e125be2dbb055c19a9321816850bb5bd754f9858c45",
+      "display_sha256": "b5984844f2811a51022be856254e88f411c1221554c671df3948463ea6558918"
+    },
+    {
+      "src": "media/grusonia-aggeria/inat-620685255.jpg",
+      "original_bytes": 1765309,
+      "display_bytes": 657254,
+      "original_sha256": "b1eeacf7609205c3b5e468afac8609f556107176fda3d3787f898223a02f88c2",
+      "display_sha256": "036b6bca78c738a2e0a635174d97b0ce53e6a99bcd36f25aed8bee0f95697ce2"
+    },
+    {
+      "src": "media/grusonia-aggeria/inat-621540519.jpg",
+      "original_bytes": 3622441,
+      "display_bytes": 769779,
+      "original_sha256": "b3e55a175b24dbe152a08aeac6b019da7acea6221f1b425d8e242e0e2fa74457",
+      "display_sha256": "aac75db534b14ffa2b4438169228c7b501d7dd63ca4ae38bbdc738b93874b99e"
+    },
+    {
+      "src": "media/grusonia-aggeria/inat-621829254.jpg",
+      "original_bytes": 3220139,
+      "display_bytes": 703005,
+      "original_sha256": "b534c65927a7e76632563b07d692963b685ad386d3efdb1ce0d436a7383b68c8",
+      "display_sha256": "a567f1aa4efb1e65b6d23ba2ff883f7a4a12df523ab7c7c2b29a5032f4dbe096"
+    },
+    {
+      "src": "media/grusonia-aggeria/inat-622905775.jpg",
+      "original_bytes": 3618377,
+      "display_bytes": 767550,
+      "original_sha256": "0f9acc7ea55604389c11752d32ef81308562e84aab0e6bb82916d1337c9864dd",
+      "display_sha256": "d8798871d63538eb72ba83a95ca6fdc641afbe2dd6903963d3a9b23053d49283"
+    },
+    {
+      "src": "media/grusonia-aggeria/inat-624314316.jpg",
+      "original_bytes": 1641665,
+      "display_bytes": 726545,
+      "original_sha256": "600c3b525cdfdfca25aa1d8756119b10123c4cb0622510e6dc5a10c84862607e",
+      "display_sha256": "afe42823c9d89c4946e82a4759821f2a9dbe0e374459b65f1b2460bb7ca88b26"
+    },
+    {
+      "src": "media/homalocephala-texensis/inat-625043980.jpg",
+      "original_bytes": 4114013,
+      "display_bytes": 721196,
+      "original_sha256": "71e81073840660c51a517c1151c3b882b8c64ab938a9b2691dd0306fc5d78d37",
+      "display_sha256": "a7ddd442642e1b11445dadbb49aafccb59d6fd90edf90a5678fb7c0832b203d1"
+    },
+    {
+      "src": "media/homalocephala-texensis/inat-625044061.jpg",
+      "original_bytes": 4234088,
+      "display_bytes": 757487,
+      "original_sha256": "26a42d9633984ce0ac62997733dd17ecc3a277fb70e6644188978567c250fdce",
+      "display_sha256": "ae16054affa113516dcb3426edfeb46dbbc3527d976cd867122181fcd7881740"
+    },
+    {
+      "src": "media/homalocephala-texensis/inat-628514195.jpg",
+      "original_bytes": 2331066,
+      "display_bytes": 756419,
+      "original_sha256": "7cacd897813a39d99abfe1f2fed243ccd823f982d9996b77047ebe69162cffdb",
+      "display_sha256": "44212b13e55fe823d941fd46ab8cfccd3e29dc0df4eab7053d6cb05ab5e3e79e"
+    },
+    {
+      "src": "media/homalocephala-texensis/inat-629626168.jpg",
+      "original_bytes": 3763752,
+      "display_bytes": 729672,
+      "original_sha256": "9430093b7e9092633b0fc7d92cd04f7dae6918020e407e24e7bf89dac9083a01",
+      "display_sha256": "e5da811e9b2bf8dc67ca5ae40f8c6fe47c5645d2cacd2f805cc307b8359d3219"
+    },
+    {
+      "src": "media/homalocephala-texensis/inat-629626211.jpg",
+      "original_bytes": 3869727,
+      "display_bytes": 775149,
+      "original_sha256": "991249ac633fe34dcbef2c6165c3aa8feb623f50069dd843ab98309123a878db",
+      "display_sha256": "be48caa00397e050207df95347ca56088637e0f9dcb60e4fe1e0ec3b56ca8b47"
+    },
+    {
+      "src": "media/opuntia-engelmannii-var-lindheimeri/inat-627897384.jpg",
+      "original_bytes": 2536868,
+      "display_bytes": 765569,
+      "original_sha256": "f6132db02944aba2a83f89d7bc3e824e9699126757f123d6ea3b94b8c9e6d5c3",
+      "display_sha256": "e63c5ecb94b28c5d500879966dad815a64eac5f8db1d7c29cf3c67427804176b"
+    },
+    {
+      "src": "media/opuntia-engelmannii-var-lindheimeri/inat-629695203.jpg",
+      "original_bytes": 3595920,
+      "display_bytes": 725187,
+      "original_sha256": "546f3b79c7166edd8e68d4d8f6d72abd3feacfe0b3c2aef1e4607c99f6a7710b",
+      "display_sha256": "a9c5ffef92d57d6544acbc3088f9140f1789dc53cfd2523d815af4e0d44720a5"
+    },
+    {
+      "src": "media/opuntia-engelmannii-var-lindheimeri/inat-634451797.jpg",
+      "original_bytes": 3900707,
+      "display_bytes": 756392,
+      "original_sha256": "a018c666b37db2a3d139fa9302e33b2c92d241f3a27e5f6f80fe6e141a6e9b04",
+      "display_sha256": "aa795d6a07fa3c512a7d5c5c1620c0b7b8cfda4f779c06ea0ef64c127569923d"
+    },
+    {
+      "src": "media/opuntia-engelmannii-var-lindheimeri/inat-636317263.jpg",
+      "original_bytes": 3669781,
+      "display_bytes": 774782,
+      "original_sha256": "7e9710cbef5fb41f2e1f364fadc9d216ffa10d00161b586de3b70d69544bf7b8",
+      "display_sha256": "0eb9cb2f7d453ec1f9995f0af255e7f3f7fb66779db179c8636d1e72d2c28197"
+    },
+    {
+      "src": "media/opuntia-engelmannii-var-lindheimeri/inat-649918802.jpg",
+      "original_bytes": 951293,
+      "display_bytes": 604275,
+      "original_sha256": "1ab1e37478705182fd8f523566955c7152c463b8c2c10d3d9fa07cb27aa218d5",
+      "display_sha256": "d10dd5a061f8bafe10d5dbedf90944f93fb308462f18224270bfb89cb34d5038"
+    },
+    {
+      "src": "media/opuntia-macrorhiza/inat-632678228.jpg",
+      "original_bytes": 5148201,
+      "display_bytes": 636942,
+      "original_sha256": "475f9c5564fed7763170728b27dd3d7179df92a7ccb10b43b11ded34131af05b",
+      "display_sha256": "5cb96cbc72733574e2c76a5e07958f323fba036f1285ecc303d61708c510e13d"
+    },
+    {
+      "src": "media/opuntia-macrorhiza/inat-645180534.jpg",
+      "original_bytes": 1509044,
+      "display_bytes": 693375,
+      "original_sha256": "6e3a1ad5ff1bb4c59e57dd309d90823badf682548e17362f95f6fddad97e337a",
+      "display_sha256": "d75f1744c650ffd918a3c2c95828f9d1f625973b622a87ac01cae5dc0fd5711a"
+    },
+    {
+      "src": "media/opuntia-macrorhiza/inat-645424970.jpg",
+      "original_bytes": 2215956,
+      "display_bytes": 363983,
+      "original_sha256": "be77301b0b75675eeaff1d7071b34604e4c4b9e495b2dd59c0621d7d6ea03a67",
+      "display_sha256": "bb98e584272644994926a9e4aa7c462c2e044a7cbed1cba19373aae3279d1eec"
+    },
+    {
+      "src": "media/opuntia-macrorhiza/inat-647221117.jpg",
+      "original_bytes": 3769943,
+      "display_bytes": 737021,
+      "original_sha256": "b35b7a47e9fde94da63be111cf1dafa0b777f8f57adda5907ea01fd822324701",
+      "display_sha256": "f7fc6ff0a19e3d93961bf4c5a986a7e62fbf5b2d483e9f0001bfc2a480d5db02"
+    },
+    {
+      "src": "media/opuntia-macrorhiza/inat-647419840.jpg",
+      "original_bytes": 3303435,
+      "display_bytes": 703309,
+      "original_sha256": "7b75783d824c89a1bf3bee15342bd50ab74398b17924350591bfdae8043e7a85",
+      "display_sha256": "d9037b6cc3644e1e94bc67f1c3b98876a0635f8e01b6d17daa68165f9021c854"
+    },
+    {
+      "src": "media/opuntia-orbiculata/inat-110878511.jpg",
+      "original_bytes": 1646175,
+      "display_bytes": 755097,
+      "original_sha256": "9735d6152bbb9a12d283a3f029f0e6224a00fa7ebdfea0ee6487dd279f927005",
+      "display_sha256": "e78c779f800ee8c450892aadecc211160165073e5c10fb1462cf40064cce7cf9"
+    },
+    {
+      "src": "media/opuntia-orbiculata/inat-119403414.jpg",
+      "original_bytes": 1552331,
+      "display_bytes": 694153,
+      "original_sha256": "a52366fc67a620e890d67a97ebb584ca7155b23f700bd2942a0699ee52f8f8df",
+      "display_sha256": "842e87d03a74e14ba84f597ebc92672df3cd068ab90ca0be0f592565aee48f43"
+    },
+    {
+      "src": "media/opuntia-orbiculata/inat-31173382.jpg",
+      "original_bytes": 1836652,
+      "display_bytes": 698111,
+      "original_sha256": "fc39f11fb53dc537a7122f115d8087c821a261d3e90f2ca3b8d1f01454086674",
+      "display_sha256": "3bd0f047abbaf9f23bfcdb0f4c9d7989670c0f50065a6841656ed56a5e1b9cbe"
+    },
+    {
+      "src": "media/opuntia-orbiculata/inat-363931462.jpg",
+      "original_bytes": 1192590,
+      "display_bytes": 697933,
+      "original_sha256": "5eaca4e882151b1dae7bf81fb5bfad9c9dea1f1a477347e39bfbc2dec054d406",
+      "display_sha256": "2cdf4960de3e696f9559972b6ea24ac9c9a7863c0ce5a60def5c97214eeadc7d"
+    },
+    {
+      "src": "media/opuntia-phaeacantha/inat-192740866.jpeg",
+      "original_bytes": 1250582,
+      "display_bytes": 767006,
+      "original_sha256": "541bc4d6e3f0daa25b6c419f8637733832ada3614d49f7e55a96d3eaac888be5",
+      "display_sha256": "5e8d723a813e0e0ae480a94b4382d803c47753145e9252c13acf88e2b2841181"
+    },
+    {
+      "src": "media/opuntia-phaeacantha/inat-651126390.jpg",
+      "original_bytes": 1785341,
+      "display_bytes": 670086,
+      "original_sha256": "d3ccf5e4b473b51fe8dda99e565f58d094e1c9944dbc1f42313096cd638aed0d",
+      "display_sha256": "cea4a749b630a77bfced603b040c2d234931297604e78511443dace4c0661f08"
+    },
+    {
+      "src": "media/opuntia-rufida/inat-620685008.jpg",
+      "original_bytes": 924229,
+      "display_bytes": 547092,
+      "original_sha256": "176fb64dbc3c2661a0828e8d1315d6ce9c42fe0c03286f5ef526214500269b39",
+      "display_sha256": "663c83b5cc36c1729be5a24ff907b79e1c9bb8ad7255abec8d97af953a4a433d"
+    },
+    {
+      "src": "media/opuntia-rufida/inat-620685496.jpg",
+      "original_bytes": 2901336,
+      "display_bytes": 672358,
+      "original_sha256": "b04fc7f4e98f48d1f87ee29d033640760b33747f5aadde8f94d42adbd651f275",
+      "display_sha256": "1854859af47949d27a3b758173cad5196f3050d9c7f386fe0b7b48570e81714e"
+    },
+    {
+      "src": "media/opuntia-rufida/inat-620991813.jpg",
+      "original_bytes": 1327558,
+      "display_bytes": 768690,
+      "original_sha256": "6024c78b344099fa8f4cf98feeed2f40b1d57fa85f9f0172f1093cd775e08d73",
+      "display_sha256": "b8e9ec80f0af93268e3ff693b94dd5a96123742e302ed15cf59a6a5f5ce38e64"
+    },
+    {
+      "src": "media/opuntia-rufida/inat-623710894.jpg",
+      "original_bytes": 3199211,
+      "display_bytes": 734211,
+      "original_sha256": "37a9f4dd10ea4f963bba96e38f8ceaf2880c3a547a48f60c613bec3d24ea6e43",
+      "display_sha256": "4047f3aa728235404a9a6ada3a753205e044a4f6681f891d5e0c2a1fd5e06199"
+    },
+    {
+      "src": "media/sclerocactus-warnockii/inat-620396596.jpg",
+      "original_bytes": 2705852,
+      "display_bytes": 608549,
+      "original_sha256": "76179b7ed9f91ea27c91f173b56ceb31049bc3d1693b7eb825d6d1257e6fda43",
+      "display_sha256": "4e600510f93a8e97636f5061e61e2ef1e76388c141fd1955763f1d28d46c9a86"
+    },
+    {
+      "src": "media/sclerocactus-warnockii/inat-620425583.jpg",
+      "original_bytes": 2770580,
+      "display_bytes": 635759,
+      "original_sha256": "cf4853c496d65dea44d0e7c05e5a8a73846becf1964edd5016560db56a3f1f57",
+      "display_sha256": "13f0785bc71b29e997c3d59b49f0878d585b3acf2a4907cb74a0efdd9863ee49"
+    },
+    {
+      "src": "media/sclerocactus-warnockii/inat-620686182.jpg",
+      "original_bytes": 3286579,
+      "display_bytes": 743796,
+      "original_sha256": "9ecd82eaa6a6b2ea1e9783ff88b195dc73a93978d92736a9680e433d4815b64c",
+      "display_sha256": "6653080e5288ea76ab26b4ea08067e56acc78ae1e654f1011b2c04f6a3eea4f3"
+    },
+    {
+      "src": "media/sclerocactus-warnockii/inat-621032232.jpg",
+      "original_bytes": 2984675,
+      "display_bytes": 677845,
+      "original_sha256": "b098e78470aafd817e48e795244549212fa26577624d7eb4f5db7c9f621c352f",
+      "display_sha256": "49c849c934e57a9a38552605cc2bfa8d9793c3cacdc3508ff3d59832865dace8"
+    },
+    {
+      "src": "media/sclerocactus-warnockii/inat-623546437.jpg",
+      "original_bytes": 2336679,
+      "display_bytes": 441604,
+      "original_sha256": "f25d61ee57e831cd8a961fd1c6d7ebf8b9c27bca59d047c2ba404273f360f5a7",
+      "display_sha256": "36b0014714b5f772591ad13b6e73811ec63a9a475a0c54675055d442f7871ae5"
+    },
+    {
+      "src": "media/thelocactus-bicolor/inat-647081057.jpg",
+      "original_bytes": 955864,
+      "display_bytes": 576710,
+      "original_sha256": "2a602006faa192560bae67d1e10def3e07e52554173810ba443e32dba2709523",
+      "display_sha256": "67028010364f08da8b66ffcb9ba7bd9e3a8b21802ef0e1582a8c0105bb9c5bcb"
+    },
+    {
+      "src": "media/thelocactus-bicolor/inat-648948110.jpg",
+      "original_bytes": 2152072,
+      "display_bytes": 744056,
+      "original_sha256": "8dd2d96937d5f4a65a3b00e104bd494ac4f1f12a4debbcb20e301595ff6951fa",
+      "display_sha256": "a7c6e0b9a70f7b7157f03246024d4ba056c20096eb788f7294769c98527e3f2e"
+    },
+    {
+      "src": "media/thelocactus-bicolor/inat-648948983.jpg",
+      "original_bytes": 1698084,
+      "display_bytes": 680875,
+      "original_sha256": "7a15fdf82c3676731823b25fa99da8a3aeae55e6d850353975c0c6703dbc9fb7",
+      "display_sha256": "8055707c7a06685dd4dd6fbf9ccd131c4854680001e26ebca34a8e70fd3a38db"
+    },
+    {
+      "src": "media/thelocactus-bicolor/inat-625709176.jpg",
+      "original_bytes": 1157098,
+      "display_bytes": 656184,
+      "original_sha256": "b76d504b7def478a0e0d621a4ec53d480502b69dd196ad1f414782df7b314e79",
+      "display_sha256": "829afb5a376c53df09f4f7a99135b9847aeefca3c54aacf69501f47eecc7b0b0"
+    },
+    {
+      "src": "media/thelocactus-bicolor/inat-626602006.jpg",
+      "original_bytes": 1127628,
+      "display_bytes": 767798,
+      "original_sha256": "d53ad30964a2af0605a79d99616a6e01801bc787c4eae1074f56b6c2b09906b5",
+      "display_sha256": "766c60295120065c4e880cf401ab47388874150e8fb1d94ac437c0e20d954f5f"
+    },
+    {
+      "src": "media/arenaria-benthamii/inat-358173601.jpeg",
+      "original_bytes": 1126320,
+      "display_bytes": 468325,
+      "original_sha256": "f08c0f185a6aac5fc4e5dbe4c1de1fc6c55c66d7de9a15104691b7468ddf3039",
+      "display_sha256": "e42c2cb2ce15bd22ac5bd03e12a503464d8055ab6e8ca2ac61c93a456abbaf18"
+    },
+    {
+      "src": "media/arenaria-benthamii/inat-358957464.jpeg",
+      "original_bytes": 1142339,
+      "display_bytes": 455391,
+      "original_sha256": "8395b4502877842e09a417b7d49a03d384f82a6da9943f3371667870c32ba50f",
+      "display_sha256": "afc55cc19cf2c25710b4b83eaa01585257617f5880966f2ae202738aa2abb8c7"
+    },
+    {
+      "src": "media/arenaria-benthamii/inat-503898046.jpg",
+      "original_bytes": 2364378,
+      "display_bytes": 443738,
+      "original_sha256": "82d8d7ace73dc1798e691ea7ea396387ac42a4944c849e20e5c5c7256d81126e",
+      "display_sha256": "028d71a8c8be361bbe56ad43f1c27fabed04a8a90b73f9d5de7ad13cb87045df"
+    },
+    {
+      "src": "media/arenaria-benthamii/inat-647561329.jpg",
+      "original_bytes": 800999,
+      "display_bytes": 481483,
+      "original_sha256": "d061010d00cafed03c4e76462e9705aacdc5ed8905e0c2e275543b41f600cb22",
+      "display_sha256": "165edfd2c366a8511976cdcd32f4e71ff23909b775aae492ff131f3eed704a31"
+    },
+    {
+      "src": "media/arenaria-benthamii/inat-656802045.jpg",
+      "original_bytes": 2667052,
+      "display_bytes": 766286,
+      "original_sha256": "3cba8f8cc5ab9b870e5715d22ff800209707b386d59cf2d9ff9e257c09e3183f",
+      "display_sha256": "f08ee5e8becb33027ec44c3b49ba0b7430f0df352ff9f3ebb6f8b0b73d2e5e4a"
+    },
+    {
+      "src": "media/paronychia-virginica/inat-484352140.jpeg",
+      "original_bytes": 1837535,
+      "display_bytes": 771529,
+      "original_sha256": "d3c1a91b90483cc9e4bbe5c59ff3357921e5cd730bc5f97df3f48d215a40772d",
+      "display_sha256": "2518bc9911ea6bafb881faf4953a1387d1bc21d4c108083e5200414e71b0cad5"
+    },
+    {
+      "src": "media/paronychia-virginica/inat-484811566.jpg",
+      "original_bytes": 4034141,
+      "display_bytes": 712449,
+      "original_sha256": "e27574ec9c62b1a22d6755a07d31322bd639bec3058ef71eb8dfaa1f3d7aa7bc",
+      "display_sha256": "f1c54b910158d1027101dfa790b2622439f6e19b1b7942838270829b0b4cab06"
+    },
+    {
+      "src": "media/paronychia-virginica/inat-509800698.jpg",
+      "original_bytes": 1273302,
+      "display_bytes": 473957,
+      "original_sha256": "0723a692df1c832fa19ac2ebbf6b0d71674c0e83944b8c6a106d99a666a4db2b",
+      "display_sha256": "6933e152a6df859f966465f391f0058a3478d7d9f93dc700f79e8c7877e9c0b5"
+    },
+    {
+      "src": "media/saponaria-officinalis/inat-120344124.jpg",
+      "original_bytes": 934188,
+      "display_bytes": 508776,
+      "original_sha256": "05ac1056d566a44ff3f1aea3190cfbacce82fdf232417ef64122ded97b3709ff",
+      "display_sha256": "81722b23fe8fa68962198202fcb4fc9375e17fa82a05e196b9c7180db64045f9"
+    },
+    {
+      "src": "media/saponaria-officinalis/inat-239376473.jpeg",
+      "original_bytes": 1391434,
+      "display_bytes": 769717,
+      "original_sha256": "45eb5d6fa9e6342bba5eb6561a9d9bb9e77239ab25ca0bbf4460e4a405da4133",
+      "display_sha256": "cae562dfb42fbcdde63a61670a1ac8f3e22123ac1c5c69938af81e261de9c029"
+    },
+    {
+      "src": "media/saponaria-officinalis/inat-493858047.jpg",
+      "original_bytes": 1124194,
+      "display_bytes": 675025,
+      "original_sha256": "b26a5d9d9cdeb631286eef02d0b2de1b65f7872a65854ab193cbcfa870ed98b1",
+      "display_sha256": "e99a769bbfb61617b7879f0c4a3c63b3d9535c59ceec3daf70d3be48ef7d1b17"
+    },
+    {
+      "src": "media/saponaria-officinalis/inat-508433132.jpg",
+      "original_bytes": 1143082,
+      "display_bytes": 737404,
+      "original_sha256": "85869f985584f5f236c2aa4a1d913e63b1991497958f7f58f68cf508a656cd04",
+      "display_sha256": "8c9d6c6c6de58005735a05cd9ff03e7da4d78a9eaefb4b4889065da22212f999"
+    },
+    {
+      "src": "media/saponaria-officinalis/inat-662688319.jpg",
+      "original_bytes": 4483697,
+      "display_bytes": 653376,
+      "original_sha256": "5228c3feeca005662b5db08b5a3f59f602d0bddd56a667090adaa1d6a2445c3b",
+      "display_sha256": "2e5225b87cb4c73d86d7d0f74527a3e122c05dbe7309b10bd5def880bb9e3e6c"
+    },
+    {
+      "src": "media/silene-antirrhina/inat-496350107.jpg",
+      "original_bytes": 1815404,
+      "display_bytes": 300762,
+      "original_sha256": "856f3a189a32967e2a0cea17e4d1ca47bbf4672ce6edd3f8e322906fd01b6fda",
+      "display_sha256": "b80accdafccc635af297950c43c9a910e419eb6ba3b2ea94bd0056925e553c4a"
+    },
+    {
+      "src": "media/silene-antirrhina/inat-638320321.jpg",
+      "original_bytes": 1662295,
+      "display_bytes": 450451,
+      "original_sha256": "d4c7766683b5b3a490d16c57078e4990fc664a8d2942e01d2fdcf9883860f6f6",
+      "display_sha256": "30a56a22c5c7947715748808088e2b6ddeaff9ba687fba0a4569493133646869"
+    },
+    {
+      "src": "media/silene-antirrhina/inat-644155252.jpg",
+      "original_bytes": 2406915,
+      "display_bytes": 447533,
+      "original_sha256": "9a0df8432f2c7b142a63c95d90ff097009e8a104ef719dfdfc3ae837a7a53c7d",
+      "display_sha256": "51f3ead336e272cdefdc7e097739b8ce3e290831ca1313ead1410b517c07226d"
+    },
+    {
+      "src": "media/silene-antirrhina/inat-646885655.jpg",
+      "original_bytes": 3540004,
+      "display_bytes": 686020,
+      "original_sha256": "87982e83b7e246a2c4ca3e2527ef86acd284ee5820a658ad7ebf1f43bbe0cb6a",
+      "display_sha256": "252e223faef47679b6edd2f2ad37ec60a401bc9c0c9e7dab03f32709813f234c"
+    },
+    {
+      "src": "media/silene-antirrhina/inat-652454265.jpg",
+      "original_bytes": 3338642,
+      "display_bytes": 695863,
+      "original_sha256": "adf4699f5fbc8f16cc93c7570c491cf15d72abd617c4792f9f854fcbd5655ab3",
+      "display_sha256": "375979fd2b5edd59d8ab12e22ffe7a6663232d7d53529198136fe29208cc9863"
+    },
+    {
+      "src": "media/stellaria-media/inat-620248475.jpg",
+      "original_bytes": 1469153,
+      "display_bytes": 754128,
+      "original_sha256": "9613418bd026982ea0921a85e29dadd3c0282219a51ef5e71c50b1777693a40e",
+      "display_sha256": "a8c3049871805bc11457269b7712964ee95cd30eab3e57016a1d6005d22b7cf1"
+    },
+    {
+      "src": "media/stellaria-media/inat-620616390.jpg",
+      "original_bytes": 2349794,
+      "display_bytes": 427397,
+      "original_sha256": "3bea566cd5e9827b44d9db0832c30b2d4839b634bd2706d43051150e5f75e5f4",
+      "display_sha256": "c2fcfe1ba737dfb27a58f694757094269a89d97bc6495b67acb1888b1f8ec7a8"
+    },
+    {
+      "src": "media/stellaria-media/inat-621219748.jpg",
+      "original_bytes": 1463778,
+      "display_bytes": 708189,
+      "original_sha256": "dc4e1cf328ad531e246ab0ba35f8555a3bbf1b2f1345db2c21f2374ea202241a",
+      "display_sha256": "97296883945f08933f169250034077b762b0ea68506748debfd04af0a55dd8bd"
+    },
+    {
+      "src": "media/stellaria-media/inat-621503766.jpg",
+      "original_bytes": 3891423,
+      "display_bytes": 730572,
+      "original_sha256": "c99cd985525f0640c140e9b6e36b5dc02f2edccc213b008526f51d453fbc6133",
+      "display_sha256": "5422fe327c62ac90fff864f36f26fc433773a8a4ea8454d3a7fb9d619ce96613"
+    },
+    {
+      "src": "media/stellaria-media/inat-638643709.jpg",
+      "original_bytes": 3220837,
+      "display_bytes": 756707,
+      "original_sha256": "9531ba3d3fee8eec533d70f0f19c668e885138db90e16c3abed588dfebba1da0",
+      "display_sha256": "7af37b2d0de07019fb73006811c23961efe381d8853aabbad67924a60d88a338"
+    },
+    {
+      "src": "media/nephroia-carolina/inat-627754626.jpg",
+      "original_bytes": 2689561,
+      "display_bytes": 449567,
+      "original_sha256": "aea868b8a78cc57dcabb32fa842aa400a373bfb732f9797b6c06749c37947da1",
+      "display_sha256": "21fdd86892e8ed1f2cd4583f0cad9ef989c47d77030da19f4d1edfa4e2c48c79"
+    },
+    {
+      "src": "media/nephroia-carolina/inat-629089455.jpg",
+      "original_bytes": 2873054,
+      "display_bytes": 625016,
+      "original_sha256": "71868e4db55f321ad9f996d17518b35a90044162ecee51efa22dcbf5482c30da",
+      "display_sha256": "3db73210db806184693e9957f6b044ca2d6db727816549d25d9b8f041628d7de"
+    },
+    {
+      "src": "media/nephroia-carolina/inat-631028967.jpg",
+      "original_bytes": 3293031,
+      "display_bytes": 749980,
+      "original_sha256": "c9935741b6a66b57a014603c2eb741e25311644bbdf645e62d0edf78a9d1f374",
+      "display_sha256": "80e970459a1a90a7d10575a96671ce20d0f234d311029fde34d1c5367918f7f2"
+    },
+    {
+      "src": "media/nephroia-carolina/inat-631197485.jpg",
+      "original_bytes": 4264688,
+      "display_bytes": 677195,
+      "original_sha256": "33e5e66de30caf01e6e7f555eba79a74d7f3df3906c678aebec6d3229949d67a",
+      "display_sha256": "efbe18ef6e6515a15cd3e6b656d503e84fbe16a04ab082b3f27a3af1585de981"
+    },
+    {
+      "src": "media/nephroia-carolina/inat-636150142.jpg",
+      "original_bytes": 3097357,
+      "display_bytes": 737203,
+      "original_sha256": "f553c1a16fcc1c7671e2e9569da6b050bbba4251f7ab04aca50dcd797159476f",
+      "display_sha256": "4bf218abbeadfa461212cc3cc016266d07e356e103c8918d8267000b95992e1e"
+    },
+    {
+      "src": "media/acleisanthes-longiflora/inat-626350109.jpg",
+      "original_bytes": 2831316,
+      "display_bytes": 624864,
+      "original_sha256": "9c6d4f66a5f4d245359c47360bb007fccb6c8d58c9f509168d823b34efb95782",
+      "display_sha256": "c46e8227a6ee5a371f3ce79203e62b39357295fac9e7881f53e47d99630954a2"
+    },
+    {
+      "src": "media/acleisanthes-longiflora/inat-629063054.jpg",
+      "original_bytes": 782562,
+      "display_bytes": 461564,
+      "original_sha256": "07f951ef7aa3e11715edca41d4ff2b255fb6bd701571f188b477738de06aa12b",
+      "display_sha256": "2cf83a24828e954a39796746f58c1b49f5a757e58f13c78971c5af828d751290"
+    },
+    {
+      "src": "media/acleisanthes-longiflora/inat-638713087.jpg",
+      "original_bytes": 4195634,
+      "display_bytes": 712609,
+      "original_sha256": "9b4c5afc6752a558453d5ba25d32f284259fa1d51b14a182c0df363cf5b213ba",
+      "display_sha256": "efdcb924e99d71ac364c240f7556457f4f1f12dc262f84e1a1c6bf2f2811d5bd"
+    },
+    {
+      "src": "media/acleisanthes-longiflora/inat-643807914.jpg",
+      "original_bytes": 4818617,
+      "display_bytes": 773108,
+      "original_sha256": "8ded4399761fec79ab5d8e6211020e03efcf8cf832508cbea5c8b698275a22eb",
+      "display_sha256": "fc2c86c77e411bc0290796992c9c70a8b7319be0a0ead73a8a50d3fed907b2f5"
+    },
+    {
+      "src": "media/acleisanthes-obtusa/inat-629251676.jpg",
+      "original_bytes": 2236891,
+      "display_bytes": 737639,
+      "original_sha256": "bff939fd26dc70146928e9b83586a86f4c96fafec6a6ed09b687bd2c37dc80b7",
+      "display_sha256": "51665771bcfd9213d6a55eafab1eafac0630c157a1d303a62ce57ee4cab3a9c8"
+    },
+    {
+      "src": "media/acleisanthes-obtusa/inat-629316366.jpg",
+      "original_bytes": 3127375,
+      "display_bytes": 753234,
+      "original_sha256": "fad30a7d901086c1c9ae34195f80d16a34f7d7ddc046107fd880fca883ba1404",
+      "display_sha256": "d4e13e88457ebf1667b9f6ba5f29d247056f51e0e012e988eb6ac6d6888939b5"
+    },
+    {
+      "src": "media/acleisanthes-obtusa/inat-631480733.jpg",
+      "original_bytes": 2122342,
+      "display_bytes": 615001,
+      "original_sha256": "89547e8ff168090f5eaa23c755c456e2c85bae22620854e531825fe05c36da23",
+      "display_sha256": "95c7415084fc37145a173fb57ef716e3baae19ab36428039938ccf25e185cc88"
+    },
+    {
+      "src": "media/acleisanthes-obtusa/inat-644097194.jpg",
+      "original_bytes": 3387309,
+      "display_bytes": 662798,
+      "original_sha256": "59046ce0e606855a08468660984809b175c8e5330f3bd674a190b4a1c8b0c45d",
+      "display_sha256": "273a71e503f283bc2369135ea6d2772e945c3144481301cbc3d4f41479f36f25"
+    },
+    {
+      "src": "media/acleisanthes-obtusa/inat-651007867.jpg",
+      "original_bytes": 1575551,
+      "display_bytes": 708057,
+      "original_sha256": "f9ca0f06ddbb816d63a04a0812a704457548ec95b8d3d789bdfe400076f39547",
+      "display_sha256": "9d22f5c531bd4192c1ade0a2cada6145480e4b1383b9043aa295984289113fa6"
+    },
+    {
+      "src": "media/allionia-incarnata/inat-620565664.jpg",
+      "original_bytes": 2933875,
+      "display_bytes": 761970,
+      "original_sha256": "d8693840d531dec3ceaacee189f7b0e7e19244d7d55e577b8f205a12469c004b",
+      "display_sha256": "d754feebe931bc4b21fd6fd053821a8e5e401ee43cbe372453aea122f3b0656e"
+    },
+    {
+      "src": "media/allionia-incarnata/inat-620682917.jpg",
+      "original_bytes": 1757826,
+      "display_bytes": 747162,
+      "original_sha256": "3df11372619a29409c92dcae75f36655e36819ad98b2ed164851888bedd1747f",
+      "display_sha256": "f27a9959275e1d81eb462e0d559ebab985400b30b9695eb365702e2ec2d79f2c"
+    },
+    {
+      "src": "media/allionia-incarnata/inat-621463003.jpg",
+      "original_bytes": 3545677,
+      "display_bytes": 718187,
+      "original_sha256": "73c5177d149a5fa82de2ea83ec139c849ac31c2ebd10eb602782a34162052f34",
+      "display_sha256": "68b121f9be8f3b4b742d1f0382a7baf59dabfc4338555607c9b2526c1ac3c6aa"
+    },
+    {
+      "src": "media/allionia-incarnata/inat-725348237.jpg",
+      "original_bytes": 1315886,
+      "display_bytes": 718809,
+      "original_sha256": "0551dde8d67327d96891dd1fbe543b1ad8054a33db4c90218089edf4e2467fd5",
+      "display_sha256": "440ffdb60cbd274572e7ced3f9e9c5bb831c7521243f7b12ffbaf67137b065d3"
+    },
+    {
+      "src": "media/allionia-incarnata/inat-83734082.jpg",
+      "original_bytes": 1250670,
+      "display_bytes": 686815,
+      "original_sha256": "77326a27e7c62b49f60391d33fd22e47ac993d860d9a9c22efee9892619182ae",
+      "display_sha256": "137064f95697ab94e2b9f6101127dc76683181789ba3dd67b21c01af215170b0"
+    },
+    {
+      "src": "media/boerhavia-coccinea/inat-630471598.jpg",
+      "original_bytes": 1453395,
+      "display_bytes": 363662,
+      "original_sha256": "510b67454e2ef45c6335d6232f438940ea71a132a7162ecb387d1876b9869e86",
+      "display_sha256": "48ac623cbee272885a70247bbfdc48b3802cb043478cefc4f60a7abc64312674"
+    },
+    {
+      "src": "media/boerhavia-coccinea/inat-640130828.jpg",
+      "original_bytes": 3320379,
+      "display_bytes": 622950,
+      "original_sha256": "e98a3bc6028a60a14b7c3b4aeb76d980e8d68c6e760538b5ce4964aa81fb5ee9",
+      "display_sha256": "f49de873293a5a63e4f4dd5ca9d715fd07e69d046b9c7436a429443d8b35280d"
+    },
+    {
+      "src": "media/boerhavia-coccinea/inat-640180738.jpg",
+      "original_bytes": 3324810,
+      "display_bytes": 668757,
+      "original_sha256": "6089ee9d0a03d3db7e3e57a3ff3ca6b6137dd2e502368564e3e070e06b2301ca",
+      "display_sha256": "dd9ab3fec1d0e47f6098dba0a2dd8e629059bc4088057f7965d1bbefa80a1956"
+    },
+    {
+      "src": "media/boerhavia-coccinea/inat-646296782.jpg",
+      "original_bytes": 2455692,
+      "display_bytes": 440872,
+      "original_sha256": "425c1da7aefc1617719799f44631692e614932c772df020e4a6b9bd755c4a9cc",
+      "display_sha256": "17eaf4ca017c047342eed1702bf5b20d3854f603eda8f0b2790bad9a0e7b93d7"
+    },
+    {
+      "src": "media/boerhavia-coccinea/inat-647412696.jpg",
+      "original_bytes": 3489035,
+      "display_bytes": 771048,
+      "original_sha256": "94fcc4faf1c0c2e084a03cf7dc164eedd01229bab0bdb7a7216066813a823cf7",
+      "display_sha256": "1b410d390a28045800e004cc27310382c7c8f383debe832728060d59a42a107a"
+    },
+    {
+      "src": "media/boerhavia-erecta/inat-511519288.jpg",
+      "original_bytes": 2526829,
+      "display_bytes": 518980,
+      "original_sha256": "a612e40e8d58e70455265dfaac74c9d325124fb131835f4ed4d3dc51ccef8d11",
+      "display_sha256": "454b518d13886f457d0d776d64af0833d98d7c55d000b77572f5988550bfaba9"
+    },
+    {
+      "src": "media/boerhavia-erecta/inat-667043979.jpg",
+      "original_bytes": 2063571,
+      "display_bytes": 359211,
+      "original_sha256": "3cbe5c28cbfeccec3a3d652fc000bfe917c306d3f2df02509c74aa5ed5d773cc",
+      "display_sha256": "6b63c68a8a2b8f4957cbad04201d0e04466bd0a8df27c64afe4f70e8e88e64ca"
+    },
+    {
+      "src": "media/boerhavia-erecta/inat-667432968.jpg",
+      "original_bytes": 2863006,
+      "display_bytes": 439743,
+      "original_sha256": "7f03bd4c02cbab85e8e9e654f745fd412bb68e37ce8b1f8a4373e62191dcdf74",
+      "display_sha256": "0e2b6ea7e2032fff45bba83d16ab511c2128b6f08f7fba9908cd569e28d6e8ff"
+    },
+    {
+      "src": "media/boerhavia-erecta/inat-667896102.jpg",
+      "original_bytes": 822699,
+      "display_bytes": 467901,
+      "original_sha256": "c076c1d5b7865fb8be387daa9de91f5c73e1347b23422cead9a1f0b28e08e80b",
+      "display_sha256": "066d240389b46454eb919b7c64c47bc44874a4a38c09eff5e448ea66c2e9ad5c"
+    },
+    {
+      "src": "media/boerhavia-linearifolia/inat-506307222.jpg",
+      "original_bytes": 941670,
+      "display_bytes": 517229,
+      "original_sha256": "b71f7cf62e79eb3698ee32e4a4bdfd1015d91a58c830bfdbe0b2081bfa73e465",
+      "display_sha256": "a6648388753713b1f05e7210e77c1fb6f6de93e37f0a9b5272440616ac7da1b6"
+    },
+    {
+      "src": "media/boerhavia-linearifolia/inat-671097761.jpg",
+      "original_bytes": 3349961,
+      "display_bytes": 647850,
+      "original_sha256": "9f5d5efa0e3f4861a07407d2b305454f32f019dd3fb62e08d81c8e4404bf5a5e",
+      "display_sha256": "c193f50489ca874130d94cf6c22165b9ac6dec93f6e8433c126df09b722af6c7"
+    },
+    {
+      "src": "media/boerhavia-linearifolia/inat-671100247.jpg",
+      "original_bytes": 3489706,
+      "display_bytes": 678972,
+      "original_sha256": "acae3e81338b5fd8aee8971fde3108a559d4b377f8d2b4d5159b75d87ef5d9c0",
+      "display_sha256": "f7c6e0bcbb225c6670a0aab0d1bd30c369b0007060a090c035194c145380dfcb"
+    },
+    {
+      "src": "media/boerhavia-linearifolia/inat-714149733.jpg",
+      "original_bytes": 2113064,
+      "display_bytes": 554599,
+      "original_sha256": "f2a66cd50b5ef262dbad6deb10d40a3ed77352175afa79cfbeb7183f28bb8df0",
+      "display_sha256": "4de049fcf5545504ddf4374eccc31c7066216ff8f6e1c24622a5bdee15f531bd"
+    },
+    {
+      "src": "media/boerhavia-linearifolia/inat-725508017.jpg",
+      "original_bytes": 2085341,
+      "display_bytes": 400513,
+      "original_sha256": "27be4f79fcf7207703d1632ec7e02d7b3facb17022789a8646537627053467f3",
+      "display_sha256": "491e06df574754eb79c27c1506eb8610868fb617cd3a283e81da8a156a504179"
+    },
+    {
+      "src": "media/mirabilis-albida/inat-645904504.jpg",
+      "original_bytes": 2761700,
+      "display_bytes": 500608,
+      "original_sha256": "fef7e04f525512e68b7e2724de7654ddc921d30cafaa8cfc6613ff2cb9a2eb65",
+      "display_sha256": "ccb9c5f86c94cddbcdbbd840384b2f42e00f5678222ee89b281c75d8cd8069f7"
+    },
+    {
+      "src": "media/mirabilis-albida/inat-646058642.jpg",
+      "original_bytes": 3689760,
+      "display_bytes": 711537,
+      "original_sha256": "9f421a99c0eeba50f40e3cea84af6fab6bd0c9395655a913b7ffecf09388772f",
+      "display_sha256": "04a997b96261880b1b2066dfdd59813c13b0ad3daee42d29d76686d8d451e5b9"
+    },
+    {
+      "src": "media/mirabilis-albida/inat-647055565.jpg",
+      "original_bytes": 4170131,
+      "display_bytes": 694553,
+      "original_sha256": "07eaf30768e08dcdbf40ef80007d70a2f659e87a04eecf2f4cd188e406a57af7",
+      "display_sha256": "cadd7d28b603eed96247b48f87ef17ec4501d47987d0b516556d64e46649dad9"
+    },
+    {
+      "src": "media/mirabilis-albida/inat-648591503.jpg",
+      "original_bytes": 3396820,
+      "display_bytes": 627856,
+      "original_sha256": "eb0815d3eb1ddd4d10faaf1814b201141f9971c246bad6ce84be6c5a80892bdb",
+      "display_sha256": "1b7d1eb60fe661442748eed6145cd38adf655d57dc756fd3ccffd3d34daf5663"
+    },
+    {
+      "src": "media/mirabilis-albida/inat-649068398.jpg",
+      "original_bytes": 3918214,
+      "display_bytes": 730064,
+      "original_sha256": "1ff06f0d3ab728461a0029a2e2c2ea91947ceab7df781f7ef38f32d025e794bb",
+      "display_sha256": "f10f832c535a32b88bac469e42748795a36d33a78f097360d4d53e5d6b228bdd"
+    },
+    {
+      "src": "media/mirabilis-jalapa/inat-632005279.jpg",
+      "original_bytes": 853221,
+      "display_bytes": 528794,
+      "original_sha256": "142e48a1c42f5f6b2831b7adbbcd99f4a9c1822c3f663df106e80a9de6e7fcac",
+      "display_sha256": "0dffddabd8ab2dda9fe0f1edc2f8ee33e90535ca9ea7ef22d03aabfbc3e43cca"
+    },
+    {
+      "src": "media/mirabilis-jalapa/inat-638818129.jpg",
+      "original_bytes": 2799453,
+      "display_bytes": 657287,
+      "original_sha256": "672ff44bbc58a35fe796cf7115d4387e2a0fd8f96d930010ecebea5f90a7a251",
+      "display_sha256": "a9e8abc5638e5a8543928f0318655705f5197708ddc9af5fc67ac8521ff5b000"
+    },
+    {
+      "src": "media/mirabilis-jalapa/inat-640784434.jpg",
+      "original_bytes": 2664375,
+      "display_bytes": 537278,
+      "original_sha256": "0de7092aafd700dfc04fc8e532b225dbaecae63460deccb5de15a0a902a98377",
+      "display_sha256": "e52ba5a3795ab1e37dbf377f3a8bb0dd75e2172d93aab7a40d23ac05c7c0f9c9"
+    },
+    {
+      "src": "media/mirabilis-jalapa/inat-642749325.jpg",
+      "original_bytes": 1102152,
+      "display_bytes": 670763,
+      "original_sha256": "1ffa290a5b161b2e49c94f9bae73c0d1d161763594e28a4473159c28dc780708",
+      "display_sha256": "723a34b04fc317f74aa42b6e4de9014117a44e5a02c9d0dc3c732a79707a71cf"
+    },
+    {
+      "src": "media/mirabilis-jalapa/inat-644095081.jpg",
+      "original_bytes": 1949534,
+      "display_bytes": 738804,
+      "original_sha256": "32362d641a4a938c2a5fb5ca0a887f4a30bb6f6f7906346200716545acd229db",
+      "display_sha256": "aa76518cae38a683b8ab3a57b544d635b3a031aecf67a08586703e73e0ec90e4"
+    },
+    {
+      "src": "media/mirabilis-linearis/inat-154735742.jpg",
+      "original_bytes": 883414,
+      "display_bytes": 525917,
+      "original_sha256": "14774a051d06cf57ef7e7eb5f55fa4c0a59aba7f118513571492c4e3fbdf4afe",
+      "display_sha256": "b9972b7ae04a2adfe5ad5c465358207c83d7a09088b76318fbf40822acd436e7"
+    },
+    {
+      "src": "media/mirabilis-linearis/inat-203254813.jpg",
+      "original_bytes": 1318810,
+      "display_bytes": 769198,
+      "original_sha256": "edec35bffca0beff4ecbaab8ef79d3b809eab5de8918c07a1af779b2382fab28",
+      "display_sha256": "6668590b3dc923b9a971fad9e0802c3901304ae85cfe8832394428ddc95c5ccc"
+    },
+    {
+      "src": "media/mirabilis-linearis/inat-645769514.jpg",
+      "original_bytes": 2943520,
+      "display_bytes": 475104,
+      "original_sha256": "6e1aff4c7fee1ab1ccdfe4e4307957f3e015ab68d30b14ddc8a1078a2422ef6f",
+      "display_sha256": "7d32f6fe4a87475d41512d1fbe74b154f22ae7779e392f2b331ec252da191f50"
+    },
+    {
+      "src": "media/mirabilis-linearis/inat-645853895.jpg",
+      "original_bytes": 2716272,
+      "display_bytes": 770313,
+      "original_sha256": "611ceb502790a271195168cd61b0b0b79f0aa88a4b419cb42d188aa58cf39093",
+      "display_sha256": "a66c58c211fef29cbaaa32246a18ec892ce0b3902863744e3e5021b71bbdca95"
+    },
+    {
+      "src": "media/mirabilis-linearis/inat-667853889.jpg",
+      "original_bytes": 2492048,
+      "display_bytes": 500519,
+      "original_sha256": "16213a1c6a88b5f64a1b16a663e726517cea0b402a5b32c7da785584cfa1d6ba",
+      "display_sha256": "afca4edc03dfce864de1d4a213b91e56bd8a1b4e2f3b7a811ebdd04267196bee"
+    },
+    {
+      "src": "media/mirabilis-nyctaginea/inat-366808133.jpg",
+      "original_bytes": 937814,
+      "display_bytes": 566170,
+      "original_sha256": "81adc560db0e10a7bfa3816e15f916c246f5fc04475c94febe63b3db5f1d317b",
+      "display_sha256": "610bd8944c5195b74cd58914c753b31d49f4e65ccbeb5e33fa8d2095f86033ea"
+    },
+    {
+      "src": "media/mirabilis-nyctaginea/inat-368235664.jpg",
+      "original_bytes": 1609994,
+      "display_bytes": 697205,
+      "original_sha256": "498053544a85c8fe235e3380f3856c4116174ea518a20b3ed31a3d5ea3c8d636",
+      "display_sha256": "3029dcbf7ba8d08781b882f123c3110f07f7999bd3abcbdddd5df377c9f012d1"
+    },
+    {
+      "src": "media/mirabilis-nyctaginea/inat-646779243.jpg",
+      "original_bytes": 3585714,
+      "display_bytes": 686072,
+      "original_sha256": "e80bf0b80c59cb53ca4907f0c0a6c88791e4a80c4171d5db6c561a456eb03ed5",
+      "display_sha256": "199e4c9e153e05b4180f8aa5ed0f471673184ef106d74cc2ca1f4968564f87ab"
+    },
+    {
+      "src": "media/mirabilis-nyctaginea/inat-649519985.jpg",
+      "original_bytes": 3121660,
+      "display_bytes": 758421,
+      "original_sha256": "1c93a8d26b992d0b33d2b3c1e50b811e1f974768eb03bef7d1aecf4d24ac81a1",
+      "display_sha256": "55be493acca899658e902b2523ab79634ee2e143276bcbce051e515f23323a66"
+    },
+    {
+      "src": "media/argemone-albiflora-subsp-texana/inat-17512726.jpeg",
+      "original_bytes": 1416744,
+      "display_bytes": 367370,
+      "original_sha256": "34371bb8fd77680735ca75a4918d2f41e269b2578d21f84c7dcff6e055af8213",
+      "display_sha256": "a15af92d823411e0d76360037ea4f20538d3ce7707055c79d00726d37bf23d2d"
+    },
+    {
+      "src": "media/argemone-albiflora-subsp-texana/inat-17577855.jpg",
+      "original_bytes": 1123869,
+      "display_bytes": 747896,
+      "original_sha256": "56df6c5bca33e42a667dd848299d269571d13416e25f24ebacf708854b15ed88",
+      "display_sha256": "505ae9e4255f5465286f564c095d0c5663009875798605816ff5205f2ba50424"
+    },
+    {
+      "src": "media/argemone-albiflora-subsp-texana/inat-268470489.jpeg",
+      "original_bytes": 2372492,
+      "display_bytes": 747064,
+      "original_sha256": "458c6cdf0c8d1485b5e477e8d2b70340fdac339d3f1b9d6fee2e324e9a29ec3f",
+      "display_sha256": "fc91276ac691d018b6e2a32683ab89bfcf0664ceed917bc770de605fb8ccb9ef"
+    },
+    {
+      "src": "media/argemone-albiflora-subsp-texana/inat-3590614.jpg",
+      "original_bytes": 3288545,
+      "display_bytes": 617064,
+      "original_sha256": "6701124db25d052fccdc292ba9ae7af606ed635c4020a0a8b13ab05018834248",
+      "display_sha256": "be74e120dbf61caff139648c6cc9ff04d604a8b7d0a966943cf3582cf3d56bec"
+    },
+    {
+      "src": "media/argemone-aurantiaca/inat-637223587.jpg",
+      "original_bytes": 1717211,
+      "display_bytes": 656321,
+      "original_sha256": "0c760472701d773dc3e6602a77007bf2a8a483c4186e39feb1bc12fedae0cc32",
+      "display_sha256": "599118c4637885a22df019318ba1e132bbcb622ce9187cec203050fce417789a"
+    },
+    {
+      "src": "media/argemone-aurantiaca/inat-639626959.jpg",
+      "original_bytes": 3083323,
+      "display_bytes": 667624,
+      "original_sha256": "0d293f7c075bfe67d884e741a143bab44ef5918c18ad91eaabac860cb7564fb4",
+      "display_sha256": "837c956b958f7bf2cc2b3db0cf0dec31d28435a2a0d61f7f8534416cff18ca59"
+    },
+    {
+      "src": "media/argemone-aurantiaca/inat-642434492.jpg",
+      "original_bytes": 943418,
+      "display_bytes": 565246,
+      "original_sha256": "5ac2dfa203190600d7750f1f2e354cc165baf9555220c538a0f849e9f15ca026",
+      "display_sha256": "e51a891165196465c858129fe9642355c4f95b03486f09cb390241e85e59383d"
+    },
+    {
+      "src": "media/argemone-aurantiaca/inat-646919959.jpg",
+      "original_bytes": 2253595,
+      "display_bytes": 739390,
+      "original_sha256": "64c0db9d1acf005013eb46ff224767511e1601ff989d3ed0ba624bad569a421b",
+      "display_sha256": "7df70163df40444d0c7ab2feeb3e12a5a90b2dc9394915dbef9cb68fc038b145"
+    },
+    {
+      "src": "media/argemone-aurantiaca/inat-650429499.jpg",
+      "original_bytes": 2870608,
+      "display_bytes": 662964,
+      "original_sha256": "f3ccd158c7582abbb2372217130139474af9daf7caf165a4d210fd11876d1cf8",
+      "display_sha256": "11a45c64bbf49f7c5e1f25d0d5d98d99bcd2e8edbe274a1d7c0aaf7be56785ea"
+    },
+    {
+      "src": "media/argemone-polyanthemos/inat-32848417.jpeg",
+      "original_bytes": 876167,
+      "display_bytes": 230517,
+      "original_sha256": "c2f8b36ae98a133c0f04b10a6c8125ffbe6a919b91479c50f88f645766a9c130",
+      "display_sha256": "abad10d3a03601808d3582c11e64565cacfc33d3ed56ed97635539a4802622c3"
+    },
+    {
+      "src": "media/argemone-polyanthemos/inat-33009000.jpg",
+      "original_bytes": 1153399,
+      "display_bytes": 659889,
+      "original_sha256": "a86f8a1f6ca8023542c59ef9a529a9dcd0d1a22b0b6b6ce61a6b5c39ac0d2784",
+      "display_sha256": "a4782c82482afb33e0326eae99ca15f17a27542a09aafd679b6a4a849a9b32c4"
+    },
+    {
+      "src": "media/argemone-polyanthemos/inat-33097981.jpg",
+      "original_bytes": 830610,
+      "display_bytes": 377540,
+      "original_sha256": "3ea37c361335c5efbd3d28e5161833a2373feb639e0bacdb40ff8aebd19b6808",
+      "display_sha256": "13210ee2d11f597c566661c8415cf96f594d5cbb88a2ba8c5922947588b1f5bb"
+    },
+    {
+      "src": "media/argemone-polyanthemos/inat-33266473.jpg",
+      "original_bytes": 834057,
+      "display_bytes": 525238,
+      "original_sha256": "ca385c551e3d6c32ab98e9879ee82310a8bc1aa728a02bafb903a940dcd0d621",
+      "display_sha256": "26524166f0463f27e9d0e4b9f5a0a16f1d27ab2bad62db598cdfb8710d42577f"
+    },
+    {
+      "src": "media/argemone-polyanthemos/inat-73621556.jpg",
+      "original_bytes": 1114841,
+      "display_bytes": 680259,
+      "original_sha256": "8470b16e255c71fb5c5ed9086612edaedb6ff036a30b84e1b4a5a04c1074c08b",
+      "display_sha256": "c563628d4ebac86fd7f17e2d135ef63c3a3db57fc64cdc3836a6299e6dd4f3b7"
+    },
+    {
+      "src": "media/argemone-sanguinea/inat-357780567.jpeg",
+      "original_bytes": 2284865,
+      "display_bytes": 429343,
+      "original_sha256": "82cce131c0f6e657d47c8e831801f6a64758b1e99f75f971c7241dca8e7d579e",
+      "display_sha256": "b15802c6ad9bea0f9f4069a157e673fce624f25c0c55414921bc3f860d1c3603"
+    },
+    {
+      "src": "media/argemone-sanguinea/inat-630049413.jpg",
+      "original_bytes": 950444,
+      "display_bytes": 620717,
+      "original_sha256": "75bc32a49568c3d81ad05b012257510040ee1768fb518296736c5fa8232dd968",
+      "display_sha256": "cd97e9b373c81dd284f40c612b9044a5a719e89dda6698652fad0e5f9dbc3767"
+    },
+    {
+      "src": "media/argemone-sanguinea/inat-632724732.jpg",
+      "original_bytes": 1196687,
+      "display_bytes": 317979,
+      "original_sha256": "8b32b355bad67ee030a7612296dc69f104ab72831c975cf4f10ab62e47c9110b",
+      "display_sha256": "038ac614557f04f5ad231a19e564d5511dd2392feeca43bdffcd880351ddfc92"
+    },
+    {
+      "src": "media/argemone-sanguinea/inat-636330097.jpg",
+      "original_bytes": 3873543,
+      "display_bytes": 756717,
+      "original_sha256": "11a8ca8a30fef00440d0631a22f9ea728eb586a80fcd19a08137036628793135",
+      "display_sha256": "74d2caccc29f4dfbf74e02d651ebce8bdfb730efe2355e349aedf50af98904af"
+    },
+    {
+      "src": "media/argemone-sanguinea/inat-627090947.jpg",
+      "original_bytes": 4621790,
+      "display_bytes": 705390,
+      "original_sha256": "30bec63049bde40e2d557058e66bc7f90a9aca95495c5476b34020b61ce861fe",
+      "display_sha256": "0c89babac108e43bb619867ff7ae0ec66f666f3dfa54665a62d2db4c373aae55"
+    },
+    {
+      "src": "media/corydalis-aurea/inat-258880397.jpeg",
+      "original_bytes": 1384091,
+      "display_bytes": 507648,
+      "original_sha256": "10f5789d2252e1a4c9e85781446defea952690d5c8a4188487bd13342da0386b",
+      "display_sha256": "3d7490d439b899aa4f3f2ce37469aa21f43acc5e418bead1726b462c3b50a08c"
+    },
+    {
+      "src": "media/corydalis-aurea/inat-643094749.jpg",
+      "original_bytes": 1215432,
+      "display_bytes": 774277,
+      "original_sha256": "bf10d07a33783f999884268b81102ca799443c91e54821389d2b382702c775c4",
+      "display_sha256": "109f80f4a9ab49313e1278cce9805067fda57bc26f45bbe1d26118fdbf8dc961"
+    },
+    {
+      "src": "media/corydalis-aurea/inat-645726683.jpg",
+      "original_bytes": 3859136,
+      "display_bytes": 777766,
+      "original_sha256": "759dc28ebb677c7596cbd164e67849c913b334f17aee62d5da106f38d7310f3c",
+      "display_sha256": "d75b2c0c90f2265e4b3cc2b4d4ddb28936126edd7d7a4062d2b74625a867d52a"
+    },
+    {
+      "src": "media/corydalis-curvisiliqua/inat-32244888.jpeg",
+      "original_bytes": 2009688,
+      "display_bytes": 672275,
+      "original_sha256": "55ba7282306df87cad561c2065324d2a89c1f73d8a45fab84f09dfc9a41c265a",
+      "display_sha256": "0f93af3ed76e9b860d2b6b250dbb34b345a71d705aac05d4c5657aade6c31c2a"
+    },
+    {
+      "src": "media/corydalis-curvisiliqua/inat-32245161.jpeg",
+      "original_bytes": 1159529,
+      "display_bytes": 296604,
+      "original_sha256": "7fd9abd7c4495fd7631c2fe0143e9fda064820006635a5cebbb1823468754b9a",
+      "display_sha256": "5f156f93cc88ed75fcb6cefefa41ee67e8949421cb28cebf14b85a4e2a98d8da"
+    },
+    {
+      "src": "media/corydalis-curvisiliqua/inat-62599505.jpeg",
+      "original_bytes": 2057791,
+      "display_bytes": 561142,
+      "original_sha256": "198fb83bb4dc355948ca2535dd5d4a036a71e2a2bbb0faf19e359a2a32c18b69",
+      "display_sha256": "961e6b42b0f7024339e7ea2f031db07f636923ce259ce1b8c5cabfad1e8ee017"
+    },
+    {
+      "src": "media/corydalis-curvisiliqua/inat-67432289.jpeg",
+      "original_bytes": 1644068,
+      "display_bytes": 378990,
+      "original_sha256": "ad08034022e11d325289c95933519c628fb9fbed93a011880c2767fb1887d2b0",
+      "display_sha256": "13e221db76b805f8b946dcf4ab6cfcbe514cccdb81b4f01fcd500a6c37ca25fb"
+    },
+    {
+      "src": "media/corydalis-micrantha/inat-477047197.jpg",
+      "original_bytes": 1223333,
+      "display_bytes": 766276,
+      "original_sha256": "d2b038dc5e951d0842e218ac9b1f0d21e4de6303dbe66ab96def849bc4b663f8",
+      "display_sha256": "861c2e6ddab062c56d30704f7ab9075c39c2d2d28e5c9ed4a0d283defdbd4a81"
+    },
+    {
+      "src": "media/corydalis-micrantha/inat-732043.jpg",
+      "original_bytes": 1139231,
+      "display_bytes": 253476,
+      "original_sha256": "bdafeaf61ccc116d46d09c688e9895f583e3319cdd431e0dca9f3ed7d1e9d6bf",
+      "display_sha256": "7f97f437f347372fd887f4df556fec75ad76134b46cb649dd4e035816f98287d"
+    },
+    {
+      "src": "media/eschscholzia-californica/inat-355475209.jpg",
+      "original_bytes": 1031774,
+      "display_bytes": 628823,
+      "original_sha256": "cc0a3935db0f268826e79b7e9264221bfa7512628665a8e11939e3e68c626f84",
+      "display_sha256": "680591b990791168f851ad10f403d01b76e2ec8fa33f37a56879940d2ff3117d"
+    },
+    {
+      "src": "media/eschscholzia-californica/inat-506984987.jpg",
+      "original_bytes": 2828118,
+      "display_bytes": 594369,
+      "original_sha256": "673ba481a326ca81efd45442b458d8763965fdc8fb2377ba17b7ad358b27ce75",
+      "display_sha256": "0a6c2f303cdedfeafc0d406ddbad89fd4ae640ed82e622323558cfc6d8304907"
+    },
+    {
+      "src": "media/eschscholzia-californica/inat-624756234.jpg",
+      "original_bytes": 3216736,
+      "display_bytes": 742712,
+      "original_sha256": "da77241e5615bca0b6c2b852d99e34a38fb5d4551619472066a493d88ec763df",
+      "display_sha256": "6b44a79c400067b663e652900470d1c3e0274aff4658993f1d60d0ca2c6ee935"
+    },
+    {
+      "src": "media/eschscholzia-californica/inat-632614576.jpg",
+      "original_bytes": 3576808,
+      "display_bytes": 720402,
+      "original_sha256": "dd45c046c37cb8b03a96343c0e384df1679455fa828076c3866a98f66cb6e6b5",
+      "display_sha256": "9f14535d75571fd60510a5d54c00e3bb894fae7105f67cd11a8fb411a2f96955"
+    },
+    {
+      "src": "media/papaver-rhoeas/inat-623951390.jpg",
+      "original_bytes": 1494726,
+      "display_bytes": 435799,
+      "original_sha256": "3a91558cd715a8c253abbb31df41e98cbf30a9ddc0dffb6c3e5000524064760f",
+      "display_sha256": "711644b1a1a03aaf32937bfebdab8adc8c6ea7ae2967e3dcd97807cfc338b980"
+    },
+    {
+      "src": "media/papaver-rhoeas/inat-626369935.jpg",
+      "original_bytes": 3369638,
+      "display_bytes": 585992,
+      "original_sha256": "f0064e5f6259c0df54cff64ee1b47d65f3c7f482c12c2a657ddfdcdf0efecefc",
+      "display_sha256": "53096bb5a0ce61ab688ffc9f7296979a568ad28df5e6b38b18957710391ed0d3"
+    },
+    {
+      "src": "media/papaver-rhoeas/inat-631167250.jpg",
+      "original_bytes": 3707568,
+      "display_bytes": 721667,
+      "original_sha256": "42a19193cc5f816c31e3ed679d7485abd48a5ae27915eeac5b1913391768a38e",
+      "display_sha256": "2f2eb8634ddeb134f791814929f4fe8db323e6a3e24216942b7564985a2a6e16"
+    },
+    {
+      "src": "media/papaver-rhoeas/inat-631500552.jpg",
+      "original_bytes": 1185027,
+      "display_bytes": 750750,
+      "original_sha256": "0ba909b312f32f19ec724db876e1e2be7b8385a2b5f516b7bfa57fd005328741",
+      "display_sha256": "5cf364d8f2e8c0ebb3c9f65f7ad8a514c5779c4be3663816dff1d3edadc7ded0"
+    },
+    {
+      "src": "media/papaver-rhoeas/inat-631872003.jpg",
+      "original_bytes": 1805883,
+      "display_bytes": 509302,
+      "original_sha256": "7f6497c8a6d67bcfe7efb8e166f61195d59c50b9ef49aa9295e268f686a8af4d",
+      "display_sha256": "9505b5a98a842e32cd9891c88488675a36d9e16f71e888a4ad263c007d3d37d5"
+    },
+    {
+      "src": "media/papaver-somniferum/inat-625585291.jpg",
+      "original_bytes": 2845991,
+      "display_bytes": 627760,
+      "original_sha256": "3caacfa34d03241a2d3ee8e5b7d208b53f5b6cad9e30b932b241894dba9d0878",
+      "display_sha256": "910843e709784ad6d7251ac64d698feacbbca64c0bec38050f3775afdd5cfe0d"
+    },
+    {
+      "src": "media/papaver-somniferum/inat-630698970.jpg",
+      "original_bytes": 4505527,
+      "display_bytes": 696347,
+      "original_sha256": "e3ed826f9760f34cebd52168faa4956f0e6270996eaefa9657cc8448aaa3334b",
+      "display_sha256": "5edeb7e30670af091ee3a27117d45e1ef18034bd491d7d386c94e2a90f02e04f"
+    },
+    {
+      "src": "media/papaver-somniferum/inat-635205016.jpg",
+      "original_bytes": 2271048,
+      "display_bytes": 630902,
+      "original_sha256": "8c661738ea74e6cb54ec0f32c8129776d662e9e26fb0f1c486ff494281336ed5",
+      "display_sha256": "af0c2913865f6d99c6614469bb5c09601d47cd14bdae11a39419a6305fdd633a"
+    },
+    {
+      "src": "media/papaver-somniferum/inat-636684028.jpg",
+      "original_bytes": 796879,
+      "display_bytes": 445498,
+      "original_sha256": "3faf6bccb9afde97de3d203470078d363a5b698489d81826ec3bca10fa844327",
+      "display_sha256": "44c49a7ebf7673bbdcc1c81971bbadc7d8dddaeca52879e6f79451707d2c0bbd"
+    },
+    {
+      "src": "media/rivina-humilis/inat-630262039.jpg",
+      "original_bytes": 1147286,
+      "display_bytes": 715822,
+      "original_sha256": "09a9b36bea253d22fc81351973f202af9d682e14a81ee15ad2aec1ef2e9d25c0",
+      "display_sha256": "716b74656a6ffd56b1ffa6ed0f487487438ec7e272fd9b44b05223bd3f5ed7d7"
+    },
+    {
+      "src": "media/rivina-humilis/inat-636226816.jpg",
+      "original_bytes": 2870684,
+      "display_bytes": 617652,
+      "original_sha256": "a99dd048393a110c93bd48cd93b935a02bb3c529ca412825fe12c2cc14e5a71b",
+      "display_sha256": "75e88b1cde1767a0cb3b9cab314c6e059fa8c71be98147514fde83a905f6a3ee"
+    },
+    {
+      "src": "media/rivina-humilis/inat-637331566.jpg",
+      "original_bytes": 3241000,
+      "display_bytes": 572864,
+      "original_sha256": "650f20631c45d2cf6b4139a1a1422266e0b00d984a97e6392b170e0ef1a1d9d0",
+      "display_sha256": "83d837b5d16d98f902abcaf8b8a48de47cd8e037d4fd80e0ecf8d9b6b5c7d934"
+    },
+    {
+      "src": "media/rivina-humilis/inat-646058900.jpg",
+      "original_bytes": 2678996,
+      "display_bytes": 533060,
+      "original_sha256": "6b4dc263fad7d63517518cb3b46ed99cf6f943f01e55dc570b6c38e92fe27bc7",
+      "display_sha256": "fe5c756ead2f14626849b32be3620559724f598dd68b15b06e0d64102eac05c5"
+    },
+    {
+      "src": "media/rivina-humilis/inat-647555266.jpg",
+      "original_bytes": 3627994,
+      "display_bytes": 718861,
+      "original_sha256": "8e4aa1057e9d60bd6126f3decc1722264325b8fe08e4618c7e5932f9ad5e8f1e",
+      "display_sha256": "3b24cbd35f1ac7aa432a29345f3cd9ea06ac9c401282d41690db4dce8e35dc59"
+    },
+    {
+      "src": "media/phytolacca-americana/inat-624747257.jpg",
+      "original_bytes": 1998859,
+      "display_bytes": 679994,
+      "original_sha256": "b0831182305f54e2bd19fe23d79154795ffd3ac8b6564b1d5b9cb3d31f4b6c69",
+      "display_sha256": "d6d162aebdf202d75281f9a5c117beb3cb23757f140bfdc22221b360a7aea553"
+    },
+    {
+      "src": "media/phytolacca-americana/inat-625176187.jpg",
+      "original_bytes": 3179688,
+      "display_bytes": 755380,
+      "original_sha256": "2076a390cb61cf8a648f063f521aca7dac87eaa14f78f57aca86431dd1752e22",
+      "display_sha256": "83e0a5614866863f2ede95ad03f49baf0192b974b8cdd8a752501b9791cd203b"
+    },
+    {
+      "src": "media/phytolacca-americana/inat-626797475.jpg",
+      "original_bytes": 4585205,
+      "display_bytes": 669009,
+      "original_sha256": "0d9193d534f41bbf5ff03cd698e22ce2ec01b90f12cb291fed805d96bd3efa9e",
+      "display_sha256": "f3e35e43e99cc7f44c4cb5707de6f0ac4883358f54e142b534b2f123b0272fdb"
+    },
+    {
+      "src": "media/phytolacca-americana/inat-634603988.jpg",
+      "original_bytes": 3749125,
+      "display_bytes": 696373,
+      "original_sha256": "95cc3cbef392ee6a06e99993cd8e490c0232436b14eec43914396f292f89435e",
+      "display_sha256": "0d9f45372f6271c2f635e306d4750aeb12a9a90dbf56d766e592551c22f795f0"
+    },
+    {
+      "src": "media/phytolacca-americana/inat-637703056.jpg",
+      "original_bytes": 3172079,
+      "display_bytes": 736536,
+      "original_sha256": "98b4449bbe3ca9e745a3f70952a54ee4a16fe3148bf790cead87e5749fd109da",
+      "display_sha256": "9fe5500157a076d75adfa82eb07235b17b1fbe31a95a6e19b19f01c6e0b7f1a0"
+    },
+    {
+      "src": "media/ceratostigma-plumbaginoides/inat-567290036.jpg",
+      "original_bytes": 2595121,
+      "display_bytes": 767395,
+      "original_sha256": "90e4df6f745ce42a8aed2443c2e9f8e3520f73eb4deb04257d364b3b672998aa",
+      "display_sha256": "e9ce741e1ec88b40fe508227f676c977f10538861d9860c4b9003be316570b9c"
+    },
+    {
+      "src": "media/ceratostigma-plumbaginoides/inat-574006365.jpg",
+      "original_bytes": 1034734,
+      "display_bytes": 588903,
+      "original_sha256": "7d49f99da8c6859bb784f6d997702e23fb18d5f2550dfb0b59f2f0877c37367b",
+      "display_sha256": "d98775a47d5bea7215768f4591617a0a2db3f14ae0a2d90b0f1abb4eed04ecc9"
+    },
+    {
+      "src": "media/coccoloba-uvifera/inat-620469760.jpg",
+      "original_bytes": 1094526,
+      "display_bytes": 465377,
+      "original_sha256": "77a2b40b2665a5a6fe2db8ed9d4a990e2dbb8e630ececf6f52442061fc2ddd88",
+      "display_sha256": "86ba7e3163f3982f9cd9ed24afe22d613e8e2098968205e4bea205785b50df24"
+    },
+    {
+      "src": "media/coccoloba-uvifera/inat-620771237.jpg",
+      "original_bytes": 987302,
+      "display_bytes": 658327,
+      "original_sha256": "b63fbdb0e0811a5ad1e60938b4dd3e95b6aa586e08db703a6059739907a9ac88",
+      "display_sha256": "de8fd8ba5d8ec7cce00c5929bf9d2f1fd51b8ef858b74677e5e19dfd412d2998"
+    },
+    {
+      "src": "media/coccoloba-uvifera/inat-626355784.jpg",
+      "original_bytes": 1364853,
+      "display_bytes": 747012,
+      "original_sha256": "e568e051798d9d59ca60800298fabfd408a20e234ee61becdb98ad2d27e902ed",
+      "display_sha256": "86c70262f843627a7ca3524b3f1da140c7550e1e7b514f02d1960b9e55074880"
+    },
+    {
+      "src": "media/coccoloba-uvifera/inat-630317161.jpg",
+      "original_bytes": 1654616,
+      "display_bytes": 738248,
+      "original_sha256": "fdba453a0c1d6b6d633d44603adc567d8cb9ddda84ba98ebebce2e6bf13a414b",
+      "display_sha256": "28d55fafe59dd366688a89d0e879966758bec40a5f7c18538af849a8b987ac21"
+    },
+    {
+      "src": "media/coccoloba-uvifera/inat-632068134.jpg",
+      "original_bytes": 2173565,
+      "display_bytes": 581941,
+      "original_sha256": "d1da6070e1c8d114f0b8dfa707a869ec99b1c16dd1afc226bd03e318490f8398",
+      "display_sha256": "ba05d704723512fbdc47fd48637b7347025c253a5733b39a992f73e6ed58ba16"
+    },
+    {
+      "src": "media/eriogonum-longifolium/inat-17127801.jpeg",
+      "original_bytes": 2452244,
+      "display_bytes": 764985,
+      "original_sha256": "9ddaa909b05205c0d24cde87507ae52f060c5142ac8730eb4b0d4b4bab3717d4",
+      "display_sha256": "3ed3f12b5be4157744532ae16e6daaaba700ac3093ff431446e6c4a8aff59673"
+    },
+    {
+      "src": "media/eriogonum-longifolium/inat-207494184.jpg",
+      "original_bytes": 2114030,
+      "display_bytes": 720277,
+      "original_sha256": "1262fa08066898335bf8bf521885fe695dc11b437f191bc1fe29cbdf928daad3",
+      "display_sha256": "339d3b5f62de5d277d15798cd337846b549f7f565d5c79e7dc5bd5a7cb100f7f"
+    },
+    {
+      "src": "media/eriogonum-longifolium/inat-539691637.jpg",
+      "original_bytes": 1653970,
+      "display_bytes": 560122,
+      "original_sha256": "42be48ae41f8d495d91351549f552f12b0f284e4d94ed0bf39d04fd99fb25e5f",
+      "display_sha256": "fd0eaf50255c50334210ab7827ddb682297d02b5f4f1489f06420254efc1981c"
+    },
+    {
+      "src": "media/eriogonum-longifolium/inat-671963784.jpg",
+      "original_bytes": 1220528,
+      "display_bytes": 744452,
+      "original_sha256": "a52190f2e5a38b838d3dd902f821b2cfc0da56cbe7348a7623a3fccdda561935",
+      "display_sha256": "efe7e41671af742d6d2528efde315e080327fb3edae3bd42b0de20e39cb8f80f"
+    },
+    {
+      "src": "media/persicaria-bicornis/inat-291481747.jpeg",
+      "original_bytes": 1233051,
+      "display_bytes": 326925,
+      "original_sha256": "5281a5b2a1c3f885100bbf73e032cba7743285d4eb30fe20a1807ef801a38971",
+      "display_sha256": "bbebb8431d291406128dd48626d46f3564a2338bc03e94a89faaf5a6971154cf"
+    },
+    {
+      "src": "media/persicaria-bicornis/inat-656104210.jpg",
+      "original_bytes": 3097525,
+      "display_bytes": 666616,
+      "original_sha256": "4b65a62ca0b65826c24cf38531d3a49938739dc18d207fa6a67b8ebb41a6e1a9",
+      "display_sha256": "661ddfe94c67d7d62215ccea7177ba24829a3c13f7535db8948564b67d1d353c"
+    },
+    {
+      "src": "media/persicaria-bicornis/inat-672758552.jpg",
+      "original_bytes": 1772887,
+      "display_bytes": 371762,
+      "original_sha256": "885c9fbf6c90525760930ef86c0ffdfad909b1d42db051b1b2716247247548d5",
+      "display_sha256": "0733207918720161ab5b9b0b5df10fb575e13aaba9efac6494497c0583ab834c"
+    },
+    {
+      "src": "media/persicaria-glabra/inat-269001063.jpeg",
+      "original_bytes": 1783482,
+      "display_bytes": 473572,
+      "original_sha256": "53ae70661b893cc6a448cbe4207edf08decc1bf9f54abaa100c3eae48276bbd5",
+      "display_sha256": "6681ac6561b18591409a83c187f0873c80790afe1c357e5455661dcd6054231b"
+    },
+    {
+      "src": "media/persicaria-glabra/inat-536325658.jpg",
+      "original_bytes": 3190330,
+      "display_bytes": 570330,
+      "original_sha256": "4a9060c3efd81de347cd46de566411201190d0f8bc00b68195ca277a71a0d0e4",
+      "display_sha256": "3068fefadb53ce55ae3b0386d0de5ff63f642d96087cf7c65d8ade5e676e0a78"
+    },
+    {
+      "src": "media/persicaria-glabra/inat-740466639.jpg",
+      "original_bytes": 1832387,
+      "display_bytes": 419790,
+      "original_sha256": "b0d0fe346eba5b3b9d658c7b68f759b367e29789501dc4a6b3843be46f65a3b0",
+      "display_sha256": "ea4553000dfbde57a274c2c4fa813b21336ee39b0d87a877b6b81fbfc87141ee"
+    },
+    {
+      "src": "media/persicaria-hydropiperoides/inat-368641122.jpeg",
+      "original_bytes": 911616,
+      "display_bytes": 575596,
+      "original_sha256": "5960cbbe198e5b12e2ff4af71e14c366ff8734b2e5c3759683f62eb7a120fc53",
+      "display_sha256": "9e3479c68302ec6d1a14d353251eb7a88bd41d00648d8b93e37e9a61f40e18eb"
+    },
+    {
+      "src": "media/persicaria-hydropiperoides/inat-646800609.jpg",
+      "original_bytes": 3300482,
+      "display_bytes": 588886,
+      "original_sha256": "671d3d3216c0aa7ae424a7c49f980f3f604aff8000eb309581472a040ac1d2bf",
+      "display_sha256": "2aaf6963b2202eedce3216e53b9ed43d8ffc9d8c1cc5959270d5bed5ba537b9e"
+    },
+    {
+      "src": "media/persicaria-hydropiperoides/inat-651053319.jpg",
+      "original_bytes": 2798529,
+      "display_bytes": 386510,
+      "original_sha256": "89d0eab6ea9a5fb2a2763c5480090330a7a2a69acc9039ece65d47e13d55f20d",
+      "display_sha256": "cb48ea35fdd2901441a70cb6f4ef3344f1f81e35a4806cb7d7202b5cb8f16fd6"
+    },
+    {
+      "src": "media/persicaria-hydropiperoides/inat-673581367.jpg",
+      "original_bytes": 3516718,
+      "display_bytes": 648981,
+      "original_sha256": "db2667c4cf88bf85b1e24381f3af3e4c233f86d9e71905d94523b765b5977951",
+      "display_sha256": "346579939a38ebac40559967474ce33ad3ee23bf07f9159a923ae228f5b2bdb8"
+    },
+    {
+      "src": "media/persicaria-hydropiperoides/inat-684944561.jpg",
+      "original_bytes": 3181689,
+      "display_bytes": 513486,
+      "original_sha256": "f39effd278cd656a62629d6d6d64f1356083440584959e062c63b62d52737041",
+      "display_sha256": "fbbeb6725bc2a7c26249a780634edf46fe701334c0f4f2cb7f581e13f95ec533"
+    },
+    {
+      "src": "media/persicaria-lapathifolia/inat-364272110.jpeg",
+      "original_bytes": 2143688,
+      "display_bytes": 583940,
+      "original_sha256": "7b41da328673a3b7e73167ec46085b23622e836e46ac515164aab90eb1e2ce78",
+      "display_sha256": "59f51143a7050662729c6de2276043c7e749602a3bdb3aaac128d28e444d29f4"
+    },
+    {
+      "src": "media/persicaria-lapathifolia/inat-512642723.jpg",
+      "original_bytes": 3834516,
+      "display_bytes": 733427,
+      "original_sha256": "b7c459ab1e8be50294f8619ff72c6623815296a2c1e9f74a0f94dd9f67a4fad2",
+      "display_sha256": "6f811155cf454c50cab90eacbc019cd192ae9305b4710bfdecd97f086c596585"
+    },
+    {
+      "src": "media/persicaria-lapathifolia/inat-513564964.jpg",
+      "original_bytes": 1961232,
+      "display_bytes": 707679,
+      "original_sha256": "8df88c9ab6473d88a7dff64c1b951ccd630ddc6f4cf55cb2963e422aaa437305",
+      "display_sha256": "10f800cc5cc151d53dc8dea33aa4ece5df89a6184b337d40577f0fb8efe0348d"
+    },
+    {
+      "src": "media/persicaria-lapathifolia/inat-522717151.jpg",
+      "original_bytes": 2456091,
+      "display_bytes": 735293,
+      "original_sha256": "e21768253c7f8dd9da5f193812e613cb83e96601d6ef8e99b06a13a7dc0cf1dd",
+      "display_sha256": "6d0dad7814e6a7f7ed652afaf7c3205e5c13056c48b50eca2f48521bd7397dbf"
+    },
+    {
+      "src": "media/persicaria-pensylvanica/inat-334021347.jpeg",
+      "original_bytes": 1897247,
+      "display_bytes": 588000,
+      "original_sha256": "9083eb44f4f0e85a78dd3fed7f65a2ef1453b2559b8bd9c62d1971075995c077",
+      "display_sha256": "3ac676fe2faad212719a9974c7cc9399b0fa9d507882f870bb5d69125d3eb2bc"
+    },
+    {
+      "src": "media/persicaria-pensylvanica/inat-336722193.jpeg",
+      "original_bytes": 2439893,
+      "display_bytes": 770412,
+      "original_sha256": "e90810b1e31f9bf04208ce829aa7bb9dea0b3eb1e0fa47a1e6f76446f729a87c",
+      "display_sha256": "f274560c191191d94f475f41b40a0d0a6c0c90936ab7257d366e4313569c3f6d"
+    },
+    {
+      "src": "media/persicaria-pensylvanica/inat-52215780.jpg",
+      "original_bytes": 2378253,
+      "display_bytes": 741476,
+      "original_sha256": "a10689dbe014d147147e85a07f5fd8d66437f00def6d0c4dec70910826ecdaf8",
+      "display_sha256": "a08905bc368a090890a3ce3bc0385f28234306fb9bd3e8aa4f85ce6274078af1"
+    },
+    {
+      "src": "media/persicaria-pensylvanica/inat-734713414.jpg",
+      "original_bytes": 3131913,
+      "display_bytes": 663414,
+      "original_sha256": "f10bea1fb0d9bfa7f1d2cfa84879a7b33b5b006f1f34dd20dd32366159630907",
+      "display_sha256": "7072a2cf2674191b6c94a543133d9d07d8e23186a792ee1ed814c031066a2f26"
+    },
+    {
+      "src": "media/persicaria-punctata/inat-592147404.jpg",
+      "original_bytes": 2761774,
+      "display_bytes": 440268,
+      "original_sha256": "6b16804d5432d12131f996c5ef719d067d81be45c0c5a579fb1d1c8fc7741e15",
+      "display_sha256": "0334cf1378fd8793c340113d9438db8e76abe045abc387db994759c2617cf709"
+    },
+    {
+      "src": "media/persicaria-punctata/inat-654961530.jpg",
+      "original_bytes": 2013420,
+      "display_bytes": 470253,
+      "original_sha256": "b8e5b5522d2d13abd507f5c81c4ef44a6cf6f87871245af68220b57ef19b16fb",
+      "display_sha256": "ce3bd4bda7d8ff053663c7bad8d0baf7d329243be1d673794be960217450567b"
+    },
+    {
+      "src": "media/persicaria-punctata/inat-674980167.jpg",
+      "original_bytes": 3195134,
+      "display_bytes": 563194,
+      "original_sha256": "9d9222fa0d68b56acc0f6add92735ad0742fe8a2a5b4ae5f8ca8d505264572c5",
+      "display_sha256": "6a0456b5267ad632964ca0ac5693ef27cdfff99eab465e857c81b5f6fc0aa755"
+    },
+    {
+      "src": "media/persicaria-punctata/inat-721475783.jpg",
+      "original_bytes": 2755626,
+      "display_bytes": 659852,
+      "original_sha256": "36fb90666add38a51bee751bf8cc451f8f5d4af7825883f2e6eaca13b164dce0",
+      "display_sha256": "d2b4ea20639690a178f2eaf740d5f3acaea26ff2c5161b5a1b940771c20036cd"
+    },
+    {
+      "src": "media/persicaria-punctata/inat-743891661.jpg",
+      "original_bytes": 3111214,
+      "display_bytes": 479488,
+      "original_sha256": "f1b4fbc20cf2af16c1d3ec773af0ba365abc639bff1de542c01c5084d1dffd6d",
+      "display_sha256": "f949755b9848c15fff2f17669bc39705d82e32f5771d251603d6ba76f8522d34"
+    },
+    {
+      "src": "media/persicaria-setacea/inat-64570810.jpg",
+      "original_bytes": 977865,
+      "display_bytes": 155074,
+      "original_sha256": "efa8deb0729c572b2b360878d80d6773d9703c9b8c474c929feca9f5e6448dd0",
+      "display_sha256": "63396c58204c8d237f457abdae7de8f3ab1b8d0202cc5fbb5066b071a6a383f7"
+    },
+    {
+      "src": "media/rumex-chrysocarpos/inat-268389122.jpeg",
+      "original_bytes": 879679,
+      "display_bytes": 606714,
+      "original_sha256": "4a6a0fff8f54d24c54493fbe3a8b24eb97401fb1ad2b110a6d9a336623c43dd8",
+      "display_sha256": "e6b4023dfcf1d012cf7b4fb151ffe3dab54d921097068315cf3fd14b71821dd1"
+    },
+    {
+      "src": "media/rumex-chrysocarpos/inat-272073810.jpg",
+      "original_bytes": 1222495,
+      "display_bytes": 759290,
+      "original_sha256": "e8dbff8381635e5ad9276171ddc0c68c173f13955429ab255a672f5ead7034b1",
+      "display_sha256": "e08a5ae31df81305eb0c43d6dfaf22014ec859e1b1e80c4baa61f390db487237"
+    },
+    {
+      "src": "media/rumex-chrysocarpos/inat-275511273.jpg",
+      "original_bytes": 1088298,
+      "display_bytes": 745046,
+      "original_sha256": "e2f710c45ba6ee19dfa653bd25e35c7ec2bc1dd38d4f66383bdaf5bcbfc32e3d",
+      "display_sha256": "400056510aee29b6f2f05e088aa4c1bd287b067c1783b639a11c6082d137f0b8"
+    },
+    {
+      "src": "media/rumex-chrysocarpos/inat-491261739.jpg",
+      "original_bytes": 1137214,
+      "display_bytes": 747359,
+      "original_sha256": "329482a4b0c7aaa657ed6e343f11a0967a31f204eb96eb40848be670acfd6944",
+      "display_sha256": "e253f5c695169a0ed24d7e163fe29300c9776fa1ba4f25490d608880df41c480"
+    },
+    {
+      "src": "media/rumex-chrysocarpos/inat-493089829.jpeg",
+      "original_bytes": 1135674,
+      "display_bytes": 773761,
+      "original_sha256": "89e7aaaa6b3f6efdaeef83e9c1c626bd08f0423c111920ead24e491d1a90c141",
+      "display_sha256": "e576bd42dbeafb50a8db71ddd9a3aeeda015a0fd62e65dbc7654909aec65d58f"
+    },
+    {
+      "src": "media/rumex-crispus/inat-638840082.jpg",
+      "original_bytes": 2738486,
+      "display_bytes": 617942,
+      "original_sha256": "8096525597f7d4306ceb64beca1df3eef915fce32f906b55308324212d60a60a",
+      "display_sha256": "2e07bf91639337807acd4556aa5d7dff25b7c6b530c2d05ab0c5e1e98c063277"
+    },
+    {
+      "src": "media/rumex-crispus/inat-644122188.jpg",
+      "original_bytes": 2277597,
+      "display_bytes": 643420,
+      "original_sha256": "9227dcfcae15ee80a41cdf1e8d543f95c83f93a7b78d175ceebec897537e457a",
+      "display_sha256": "8e7852f5feacbb79fce924a95325a968b8bb4aef5fae318f671ad744a14524c7"
+    },
+    {
+      "src": "media/rumex-crispus/inat-646737405.jpg",
+      "original_bytes": 2482401,
+      "display_bytes": 750091,
+      "original_sha256": "0f4be8a4af45e270df41204f8d584cfc1c536c3983ebd82b64c1bea7ae6923cb",
+      "display_sha256": "79b993e77e5f57feacfec6bc665f78e05466fd68bb3349946699bd8901548861"
+    },
+    {
+      "src": "media/rumex-crispus/inat-656801404.jpg",
+      "original_bytes": 2734539,
+      "display_bytes": 762078,
+      "original_sha256": "62893e9dd49be846a2a93666f006e66dcd65f49b1b68ecdc517c7079a5859ec3",
+      "display_sha256": "62f9e5eaa30cd33c83794f944b2681c320fbd6a5d29550c9a89c01e45e3bd10d"
+    },
+    {
+      "src": "media/rumex-pulcher/inat-123498701.jpg",
+      "original_bytes": 1753063,
+      "display_bytes": 701649,
+      "original_sha256": "1d27b7855087c75d163984ad39a8aafe02d28d23cca1f6db87a41401c58ac4cd",
+      "display_sha256": "f5c7c4fca4b3fb3f14b1be41f8ce21858b39e284b99aef91460da9069d759c47"
+    },
+    {
+      "src": "media/rumex-pulcher/inat-37435680.jpg",
+      "original_bytes": 2954043,
+      "display_bytes": 775302,
+      "original_sha256": "d7d7fc83b7ed385bff0e4bda3e148ade3c63efc05fd5d720ebff07556583f209",
+      "display_sha256": "9718d7a5ffa7f5caaf08ea0c6ddf1fa3d5bedbb007bbdc4633c27b02dbadda9c"
+    },
+    {
+      "src": "media/rumex-pulcher/inat-656800255.jpg",
+      "original_bytes": 2056687,
+      "display_bytes": 566185,
+      "original_sha256": "3709b7b1ba35bf2177423dbf2d8fb017f41d08352c134140e7f36fc344c62733",
+      "display_sha256": "c35c6caa33564857c2f6a73bed6727817e746a1163d2c5782a93d8ebd4aed496"
+    },
+    {
+      "src": "media/portulaca-oleracea/inat-645467084.jpg",
+      "original_bytes": 2669364,
+      "display_bytes": 667028,
+      "original_sha256": "73558bdb3b9387ddd3d5220bc604c489e4332902d4814ea312bf897cb6c1c35b",
+      "display_sha256": "66157b04903e1bf30d9ad472d6ef1d95af6692cff7ef6e381b3db021dca7b4f2"
+    },
+    {
+      "src": "media/portulaca-oleracea/inat-646061849.jpg",
+      "original_bytes": 1648127,
+      "display_bytes": 463830,
+      "original_sha256": "f807be9b82d2239467a80cab0e336c0515cd8be6293e9b9b1fd4a7efe337bcd5",
+      "display_sha256": "b986815dc4d02bc5a7abfb7bec6f18041f5b81601af7f12280894cbafcd56b81"
+    },
+    {
+      "src": "media/portulaca-oleracea/inat-649426565.jpg",
+      "original_bytes": 3163962,
+      "display_bytes": 753440,
+      "original_sha256": "924c45ec6926c0c4c3b0eeef25ccbc43624e7583daf93c129ba599fdc59ff440",
+      "display_sha256": "a955e8c6cae5d00f5b6f931a9a3107dbb60cccf8c951ec48efd2fc099a5ef790"
+    },
+    {
+      "src": "media/portulaca-oleracea/inat-659662720.jpg",
+      "original_bytes": 3366902,
+      "display_bytes": 688214,
+      "original_sha256": "0edeaa8a48dd20d0bd6b40493ec5630a9382df6b9e8acce82e1baa462f011fe3",
+      "display_sha256": "2ac874613b6e51ee57f5105376c2a9c045e9c26f58319c64bd9f7391400d454b"
+    },
+    {
+      "src": "media/portulaca-oleracea/inat-666070073.jpg",
+      "original_bytes": 4844315,
+      "display_bytes": 751327,
+      "original_sha256": "20ab8e943abb8b71d055820c8a5bf1a99427ad94a98923bd9d6a896f27c53db5",
+      "display_sha256": "2591ac7c6c474c02e21daff352f666754c9ad618c0ab519eececcbb9e7f805fa"
+    },
+    {
+      "src": "media/portulaca-pilosa/inat-645532286.jpg",
+      "original_bytes": 4341578,
+      "display_bytes": 771988,
+      "original_sha256": "f847f0b575045ac2675d9a3e598cc0192bdc6ba61579b4a4ec48111e6fcd7040",
+      "display_sha256": "ba9d873cebf7c93616c0a49f6783f0167677ee56dd853b2b932430763782cf94"
+    },
+    {
+      "src": "media/portulaca-pilosa/inat-645664875.jpg",
+      "original_bytes": 3615619,
+      "display_bytes": 722910,
+      "original_sha256": "36bc1542f84d701888e9a744088d1c9b177a24fe19e27d39317353f2b97cbec5",
+      "display_sha256": "1a996bd8f6856af5f16b833ff3a489f03d3973b37871981ccba32b218b909a1d"
+    },
+    {
+      "src": "media/portulaca-pilosa/inat-647072817.jpg",
+      "original_bytes": 3543608,
+      "display_bytes": 764998,
+      "original_sha256": "d46b3dc16438b58e81dbf2ce9a8b45536257ccaabdf107ef12c89b0e33ab462e",
+      "display_sha256": "7e02a27ce9da9c7fa2a4c392841da9129cb4d0d1df4477e91224a16ae2b70533"
+    },
+    {
+      "src": "media/portulaca-pilosa/inat-649435980.jpg",
+      "original_bytes": 3604777,
+      "display_bytes": 677804,
+      "original_sha256": "3a758a684d5c2bb79ed4e1371d0307d050e85d1ee7ad038506d546bfc0e9afaa",
+      "display_sha256": "934aa421842da88b5640cb31d08797da7d2df4c23c3819e85c8e3b478c2378c5"
+    },
+    {
+      "src": "media/portulaca-pilosa/inat-658146255.jpg",
+      "original_bytes": 3427084,
+      "display_bytes": 620895,
+      "original_sha256": "a9b62a3ee99f58f93a6ac60d900a152593aecbc4788c385ba2eeab81f71533a3",
+      "display_sha256": "11b1c2e439f892ce8baaa72f36b621cadeee7b05baaf77f8457c229a891e4b1e"
+    },
+    {
+      "src": "media/portulaca-umbraticola/inat-132624785.jpg",
+      "original_bytes": 901001,
+      "display_bytes": 498762,
+      "original_sha256": "afe79efac0a74e26ee10b9d3f754893c30cfb63cdbfb4e1637b699142d1caf98",
+      "display_sha256": "a4208013c51d23486125f4255ceb8081651a6a81dc16432dfefa8ec59480a8f8"
+    },
+    {
+      "src": "media/portulaca-umbraticola/inat-497680198.jpeg",
+      "original_bytes": 2098938,
+      "display_bytes": 601119,
+      "original_sha256": "fdeaf2e538aceecaa9819be996e41c86530e6efe0852cbd63c85b7ddf23637f2",
+      "display_sha256": "7a3806805e30c9715516ebd87757cafa1b383007dcd587a4cc45d0da3de6f8c9"
+    },
+    {
+      "src": "media/portulaca-umbraticola/inat-671330951.jpg",
+      "original_bytes": 1625797,
+      "display_bytes": 565882,
+      "original_sha256": "04e07a4826c3ee2ef284c4164b0a286f6761fdce267a37517d92c4fb0eabf949",
+      "display_sha256": "da203aa439d82dc9438c97c0c4a0ed3a40e86bedd62ee91017bb1cc7fe100ad3"
+    },
+    {
+      "src": "media/portulaca-umbraticola/inat-675826451.jpg",
+      "original_bytes": 1109455,
+      "display_bytes": 691282,
+      "original_sha256": "27f8d9e1b0b0bf2ae758860203b78569b9d1b87c161f56b2854cd56820cc9b19",
+      "display_sha256": "fb47acd5facfca935e110356a5533e2624dba21981d30cc06573fda75f913bd8"
+    },
+    {
+      "src": "media/portulaca-umbraticola/inat-680370996.jpg",
+      "original_bytes": 1282239,
+      "display_bytes": 340739,
+      "original_sha256": "552f19799424b8ed234604e74839496b8e61766dcace98763f47aaac93b449ae",
+      "display_sha256": "9d52c170140e3c46a7b75836bff17bc2084e17d550b33f6f9982695ffa5c0ada"
+    },
+    {
+      "src": "media/anemone-berlandieri/inat-620320487.jpg",
+      "original_bytes": 2583414,
+      "display_bytes": 744429,
+      "original_sha256": "cd309677ca78ec3cacb9e77bdce569208e4ac0b1716dcd58f3d49ed54dd7370c",
+      "display_sha256": "939339c72a56540f03e867fb284a0fbbe5607c6b0c4207c2b209013ca0ab7ab8"
+    },
+    {
+      "src": "media/anemone-berlandieri/inat-620914666.jpg",
+      "original_bytes": 2721813,
+      "display_bytes": 611497,
+      "original_sha256": "c479cca59d4cf6be8ae5bc6c8f9ed4118f79f192079fe3203a0d560c70ffaba4",
+      "display_sha256": "ec8b0017d63107decf45828de4d6ad88235ffd0599075c49750646ffd51ab778"
+    },
+    {
+      "src": "media/anemone-berlandieri/inat-621551965.jpg",
+      "original_bytes": 1539923,
+      "display_bytes": 727852,
+      "original_sha256": "7c02a79751cd6e11a08df4fdb4c88cbd66f2a584fcc2d0a589ef295ee3fd319e",
+      "display_sha256": "b925c7e63e78c1b6d11eb204545858ca40721cfc330cbd3751479ef231478850"
+    },
+    {
+      "src": "media/anemone-berlandieri/inat-622092611.jpg",
+      "original_bytes": 4193455,
+      "display_bytes": 748232,
+      "original_sha256": "dfe32e4961235b0aa9dfba4c382a3a0b6aaf0f56e75e876cb80cf064af352399",
+      "display_sha256": "fbf228488ad642d3a2006ee2cb579eaed3e02778b36c632606c6d3436446aad1"
+    },
+    {
+      "src": "media/anemone-berlandieri/inat-624756325.jpg",
+      "original_bytes": 4449970,
+      "display_bytes": 667697,
+      "original_sha256": "dbcf7eb153a5e879d04a8583bc5e50d4d195475d44e01770a42aff91c72a7714",
+      "display_sha256": "a1f9c346ae05143dc5cdaaff66fb1b03ac64306a23483ac49a0692ab13d36e27"
+    },
+    {
+      "src": "media/anemone-caroliniana/inat-355124193.jpg",
+      "original_bytes": 1342421,
+      "display_bytes": 680931,
+      "original_sha256": "a913e9dec3b59a88d5ae3ccada1678cd1c72a7cc9fc9c986782a9e5f2a00a79c",
+      "display_sha256": "21bf355a5a1cb335b6e04b10e3ca0eda7480a7ec53336424860802f3d0fe92ee"
+    },
+    {
+      "src": "media/anemone-caroliniana/inat-355130527.jpg",
+      "original_bytes": 1164548,
+      "display_bytes": 554783,
+      "original_sha256": "0dc643e717c5993f8d443ec13d7874058ecf09ff5121ba493a15be38c8fc8af3",
+      "display_sha256": "61c417170a350b4b23252fbfb0ee3a99fb5867f4445778320fb09a5e11be652b"
+    },
+    {
+      "src": "media/anemone-caroliniana/inat-475663172.jpg",
+      "original_bytes": 1204553,
+      "display_bytes": 765676,
+      "original_sha256": "37b5efd984baaa6807580d3b3d5421ebf177295c0930b070ed0f24cfb2586dcb",
+      "display_sha256": "9403fa2f128eea44174d28df8a35529161410012236099e74b70dbf700ab1166"
+    },
+    {
+      "src": "media/anemone-caroliniana/inat-495968205.jpeg",
+      "original_bytes": 1981724,
+      "display_bytes": 642422,
+      "original_sha256": "0845fd63aae3dae83aa6ed7724135d09560905b8ac6711d3317db96ecac64609",
+      "display_sha256": "1d8ffdff7cc97cc58f876e40067dbd8725a184e48f9a80fcaac4225b79b897cf"
+    },
+    {
+      "src": "media/anemone-edwardsiana/inat-475604539.jpg",
+      "original_bytes": 1627511,
+      "display_bytes": 723907,
+      "original_sha256": "b242b37250c5a8d2b35fb10dcdba0be606e15663a173aa16f05f6bdc0f67ee7e",
+      "display_sha256": "f5544d83fb539c1196993cefefaa5bafb3555cf95a9ae0a22b70f8e86f1031e5"
+    },
+    {
+      "src": "media/anemone-edwardsiana/inat-622670388.jpg",
+      "original_bytes": 1237160,
+      "display_bytes": 755564,
+      "original_sha256": "862a02307c95cc2c214b7c01776b944550f533dc5630a07e9ce1e6eb3ea08fcf",
+      "display_sha256": "c3f55dbed8caac9601de3873923086e9b6fedbaf309d34a29dbc1667f103ef35"
+    },
+    {
+      "src": "media/anemone-edwardsiana/inat-623462012.jpg",
+      "original_bytes": 1427719,
+      "display_bytes": 384508,
+      "original_sha256": "2d3018cf56ce0fde3cc0cae7cb5bb71688ecddf7168d8200260e0ed9ae586d65",
+      "display_sha256": "c0638ba75e335b42318bed269ee709a7375afb2ef66b9e16765eaa96b7a3076a"
+    },
+    {
+      "src": "media/anemone-edwardsiana/inat-626502735.jpg",
+      "original_bytes": 3341025,
+      "display_bytes": 732380,
+      "original_sha256": "3cb7006e8cc02f7d8a7eebdcc4fbdfdd5050b3f927d76673b655177e50deeaf0",
+      "display_sha256": "aeb0b0b388a6a0404ec8ff9edae3edf24228c0186eba93921510119fe3a062ed"
+    },
+    {
+      "src": "media/aquilegia-canadensis/inat-622731940.jpg",
+      "original_bytes": 1329164,
+      "display_bytes": 309318,
+      "original_sha256": "7520d605b8446e9d68ba4449e572d5d9a0fc698e21d7d11141093fa64915cadf",
+      "display_sha256": "061a0a2cf9548fdd24972a106601ddaa698dd2a471de42682f219d3b8104e47f"
+    },
+    {
+      "src": "media/aquilegia-canadensis/inat-634936923.jpg",
+      "original_bytes": 3266833,
+      "display_bytes": 757327,
+      "original_sha256": "21c56c0d7334a7a57ad53babd17fcb12a4771e6f358c948679d634b7c0867584",
+      "display_sha256": "70f4bd3ec84074b1fbd3646326ac3de9e455446c1f661466740d218830afd0ce"
+    },
+    {
+      "src": "media/aquilegia-canadensis/inat-636633551.jpg",
+      "original_bytes": 3436148,
+      "display_bytes": 764815,
+      "original_sha256": "4545cfbae2af807fc4c1fd692ac21497b03d10465bd6336ec165a5a5b3cc01a1",
+      "display_sha256": "a5e3097d54ed943062ae5e0003a53d4344ae50ddf7dfab7a5b8650ca8110ae58"
+    },
+    {
+      "src": "media/aquilegia-canadensis/inat-636722988.jpg",
+      "original_bytes": 2865469,
+      "display_bytes": 754224,
+      "original_sha256": "d75991623bc1b81af6455ed649c88f64c63f386bf2b7ddbee7329d156c46e8df",
+      "display_sha256": "3b78eb77e1d9a1e9f1d1c0662eb7a505298fd889cef6df9915db465716f3c664"
+    },
+    {
+      "src": "media/aquilegia-canadensis/inat-636996294.jpg",
+      "original_bytes": 4443695,
+      "display_bytes": 691541,
+      "original_sha256": "2ee001f5f2183a1397fa60e5b97ba9de9ddd5d9ca691fba89deb91a8cb772dab",
+      "display_sha256": "002e714fc33decdccecd82eb72b9e893ac6157e90fee2ebed0f9ad8a5fe704c1"
+    },
+    {
+      "src": "media/clematis-drummondii/inat-622999948.jpg",
+      "original_bytes": 1228114,
+      "display_bytes": 735018,
+      "original_sha256": "d3d7318e180fdb41eb2c88c7a63d5b551045e5dfab5ea88ca3a3d5bdbe8fd462",
+      "display_sha256": "0029124d023111c52388e46b4474727d795cb4af96fe75e0b5ea7f5c071b6ac7"
+    },
+    {
+      "src": "media/clematis-drummondii/inat-626536290.jpg",
+      "original_bytes": 2414407,
+      "display_bytes": 425986,
+      "original_sha256": "4cb27bc3f2925bbf77579c5ab279d43866f39263a12d81f52e06d3fa1705b534",
+      "display_sha256": "d13a57519518c66d4cf6b8b0ef0753df1430af3b46dabb2fb2f11b6f74109c26"
+    },
+    {
+      "src": "media/clematis-drummondii/inat-630290719.jpg",
+      "original_bytes": 3547700,
+      "display_bytes": 685265,
+      "original_sha256": "5268a85f0b71bef20207f1913ec8a7fce7de4f01ef77d2c555655597c94d2f11",
+      "display_sha256": "e52a2011989d1327c8108dfe58c4c947dd57ec8e06129c454562fe96afd6398f"
+    },
+    {
+      "src": "media/clematis-drummondii/inat-644138938.jpg",
+      "original_bytes": 3702105,
+      "display_bytes": 736107,
+      "original_sha256": "63f2187600491760350a98e66c07559df22e1d628a5d9bce632afa1d0494bd9a",
+      "display_sha256": "1b7b9b98b98f4d87b6f7d73c4ada084d2b5a760421ee87eeef79077cc3baa1af"
+    },
+    {
+      "src": "media/clematis-drummondii/inat-644143451.jpg",
+      "original_bytes": 3825414,
+      "display_bytes": 750288,
+      "original_sha256": "584b9157d6a8a1a85519a712ae63a715ee2b2fbfe17a0a91d0e4bbf7b020c76e",
+      "display_sha256": "4fc921f2ece534c4a73e2cb157a70bff440c792bf5b990882b8493204a25c148"
+    },
+    {
+      "src": "media/clematis-pitcheri/inat-632779988.jpg",
+      "original_bytes": 3792326,
+      "display_bytes": 739429,
+      "original_sha256": "62bacb832bb307a11d8f0c41e6ead7e763598fe538589db8208fb179e0b72739",
+      "display_sha256": "864f3c2d2533f0936124038e6f93050e851a82539ef5533d021243d9b0e098e4"
+    },
+    {
+      "src": "media/clematis-pitcheri/inat-634903651.jpg",
+      "original_bytes": 1554272,
+      "display_bytes": 424612,
+      "original_sha256": "8f2c3e0b74ac3487181b31a8167b0435da4ff2eecd5bdc0bb484016b9fc3ec6e",
+      "display_sha256": "a81ec29a5e36393cc38c57bd35576f0be2b31d8ff0733d6022cdf3f29f15fa9e"
+    },
+    {
+      "src": "media/clematis-pitcheri/inat-635632697.jpg",
+      "original_bytes": 3585301,
+      "display_bytes": 733305,
+      "original_sha256": "43a5bb5e329a17ac2700537684bbad60c9107882b5066cf48a1907af5ec5c3a3",
+      "display_sha256": "97fc4f287c88e3a87d63920624877183fb88cde417728614e6034e0023c86a1b"
+    },
+    {
+      "src": "media/clematis-pitcheri/inat-637171058.jpg",
+      "original_bytes": 4424846,
+      "display_bytes": 745875,
+      "original_sha256": "721515d2bb23548b79d210d1738443d6037113f18b40947bb4a00ebd9dcd6816",
+      "display_sha256": "4cbe53772240ea4df11200d18309c77274d02d42c797132882d59a4329729b3e"
+    },
+    {
+      "src": "media/clematis-pitcheri/inat-637269328.jpg",
+      "original_bytes": 3664987,
+      "display_bytes": 730347,
+      "original_sha256": "2b984f93ee3e8ac19c17954414aef080b21ce94460c0245471ac76d8537b0128",
+      "display_sha256": "1b64b10c4ebf8821d9498544ac4cbc7aab892f39c3c8ad4bfd2078c66749e017"
+    },
+    {
+      "src": "media/clematis-terniflora/inat-263335481.jpg",
+      "original_bytes": 1190225,
+      "display_bytes": 764793,
+      "original_sha256": "c75fc0ff4ac8bec588fe1440a276a7484f2880524dc50ef26643250fe36db3b8",
+      "display_sha256": "4f302ba31bd99704b7132977eb2723b0308a7c2c99971384d052e58c91de3120"
+    },
+    {
+      "src": "media/clematis-terniflora/inat-263566124.jpg",
+      "original_bytes": 1151900,
+      "display_bytes": 757077,
+      "original_sha256": "f2fa4b742629b20996082a1e12441bb47cfd1fac1727ad32821be72dd8a9a8a4",
+      "display_sha256": "8b700e93c4c3ed1d67b06a8b9490b48d3bf0227c2e059d84dc627b26c1ce9209"
+    },
+    {
+      "src": "media/clematis-terniflora/inat-272850100.jpg",
+      "original_bytes": 939126,
+      "display_bytes": 567617,
+      "original_sha256": "e6572e0ee107e4abae95e8ac79accafdd4c61af066cf3b07c0af7279f485e1a4",
+      "display_sha256": "59607bfb64053ad0ac06ce5eee633cbcc489994b7429fa743a11677ffe21f166"
+    },
+    {
+      "src": "media/clematis-terniflora/inat-357107782.jpg",
+      "original_bytes": 923927,
+      "display_bytes": 519459,
+      "original_sha256": "c48d636e5a7461557ad275500cac9f3637d7a0f9220ddf7cf6772163a327f6a4",
+      "display_sha256": "8ec8f3bbf8ede238fe653ae90f0ec170cc375810a9f49864e4c13b8204cb41c5"
+    },
+    {
+      "src": "media/clematis-terniflora/inat-357490048.jpeg",
+      "original_bytes": 2369392,
+      "display_bytes": 739741,
+      "original_sha256": "e705b1665dfbb4221aa8b46d91adb4f12efbf231abc9948425b223dacd583fc2",
+      "display_sha256": "e68813c7a7d39958b83ed26ae8c7226f20367182a94e94c276104a0d05a52db0"
+    },
+    {
+      "src": "media/clematis-texensis/inat-630121683.jpg",
+      "original_bytes": 2561413,
+      "display_bytes": 770310,
+      "original_sha256": "af26c8b7f07a11f653dd103c2128a6895831c3157dfc490ca906af539dd6ba8f",
+      "display_sha256": "b50a3c8e88cf8037e1d1d385899697c7c59048a955459574d10730c0c599487a"
+    },
+    {
+      "src": "media/clematis-texensis/inat-633931914.jpg",
+      "original_bytes": 2229153,
+      "display_bytes": 293701,
+      "original_sha256": "60529ab268d17671767652ca67dd7bccfa5fda59cc0774fc606bc8ec855d7cb7",
+      "display_sha256": "c8c3a142464d1d726c6764e8c1c2980dc4cbff8f286d8e5fdfa4ca776cdbdf7d"
+    },
+    {
+      "src": "media/clematis-texensis/inat-645779876.jpg",
+      "original_bytes": 2961109,
+      "display_bytes": 559020,
+      "original_sha256": "050a17ebd25cc541558e1ea07e2d7820a28dca34ab0f3ce6c705c74c79cbb8c2",
+      "display_sha256": "d5adca2ccfbb443c7588d43d084ea46fb600e18fffa0c9b359c01aa753db1a22"
+    },
+    {
+      "src": "media/clematis-texensis/inat-646940111.jpg",
+      "original_bytes": 2929573,
+      "display_bytes": 689697,
+      "original_sha256": "b2864e6e647aad6bc55d283692bcbfa77a259f9aa427d8fbbc08efb8240da0e3",
+      "display_sha256": "f903b79ec3a1c80c44322802a005a66fddc32d9bf7164135dffbcc4d2c5b3c74"
+    },
+    {
+      "src": "media/clematis-texensis/inat-648072531.jpg",
+      "original_bytes": 2657048,
+      "display_bytes": 411751,
+      "original_sha256": "a62e62719cf70a6b84cd640822a52f39cb2d18f3cc33075bd53bd0b86b1ae077",
+      "display_sha256": "7f778c4f3df71c06d73f312090aeaaea7632dc3cb37f86144eaae20cb156243d"
+    },
+    {
+      "src": "media/delphinium-carolinianum/inat-633936813.jpg",
+      "original_bytes": 2600002,
+      "display_bytes": 405061,
+      "original_sha256": "9c3e52074ad13219a95e0a16ed1f603b7be169bf9cf1c5512bed5329481fb813",
+      "display_sha256": "a19b92273bdb42f20ce50f999197fd6dfae9ebf44e5260ebf13b6d1b7e3544d1"
+    },
+    {
+      "src": "media/delphinium-carolinianum/inat-633948327.jpg",
+      "original_bytes": 2954069,
+      "display_bytes": 455078,
+      "original_sha256": "58021498faac7e5661c1cbeab1f6b7f561623e9462e88056b011940a35fbf95b",
+      "display_sha256": "de8d8e573d92782e8d28e043c3c05d025894c4e72fb7ab4069cd1d60232cc448"
+    },
+    {
+      "src": "media/delphinium-carolinianum/inat-635788213.jpg",
+      "original_bytes": 1704246,
+      "display_bytes": 675154,
+      "original_sha256": "b27c031aa2e1171286271fbb444b442dc0d347c219ce62b5dac5bc6f139ebd87",
+      "display_sha256": "e014fb80f7c13ec62ab92552bc28056683d95884cc678f62485c52d7a68b49a8"
+    },
+    {
+      "src": "media/delphinium-carolinianum/inat-645815189.jpg",
+      "original_bytes": 2717539,
+      "display_bytes": 448692,
+      "original_sha256": "f0032ded47b5c0bcc2c21749e6d07d6974551a0b3f449ee7aed1f5addd12a560",
+      "display_sha256": "cdf39cebe5ce237acc6b47b23f3ba202037299cfdc5cde47b03a9e224ae1cac5"
+    },
+    {
+      "src": "media/ranunculus-macranthus/inat-620319494.jpg",
+      "original_bytes": 2013481,
+      "display_bytes": 561946,
+      "original_sha256": "6e64c12f3b84a5ecc83ba9be75b3d2bdab99c8b7e927180c7287a742b6959a11",
+      "display_sha256": "4ace5083a4509fae118d77a86618e14879e0342e9f7133f094720274bb93c32a"
+    },
+    {
+      "src": "media/ranunculus-macranthus/inat-621789409.jpg",
+      "original_bytes": 3456022,
+      "display_bytes": 768678,
+      "original_sha256": "42850b50a86995eb3f6881a1bcdfdd8f19751631ede4ee05be7192eeeccbafdb",
+      "display_sha256": "916752ba989154d281ee582b4319d488644136c2c30defb56537c31d4b4f25b2"
+    },
+    {
+      "src": "media/ranunculus-macranthus/inat-623020793.jpg",
+      "original_bytes": 3355548,
+      "display_bytes": 767992,
+      "original_sha256": "bd3e9ce92d3086177016c5b28f631169dbb51b8de2ffa2e8f197fd25487f47f2",
+      "display_sha256": "031586e78069a514144781df63fc8cf78e6270688938e7faab390535c3ffa088"
+    },
+    {
+      "src": "media/ranunculus-macranthus/inat-624320145.jpg",
+      "original_bytes": 1815912,
+      "display_bytes": 524513,
+      "original_sha256": "f42a2cae890cdd16059e9202b55e42812172ea628fba5645fb03ce08e9e4faa0",
+      "display_sha256": "16acd58ff6a08a13260513afa17dbe3123e48fc14c49571e95781a714bc58354"
+    },
+    {
+      "src": "media/ranunculus-sceleratus/inat-480257093.jpg",
+      "original_bytes": 987705,
+      "display_bytes": 590797,
+      "original_sha256": "fa71d79945d589ea1140db2251130b2268b472f0a2e2d9e9f28b3ab4da51c2f3",
+      "display_sha256": "08e3a077d63f001938ece4cd2172dacd70456b2a9f1da635939aa57591faa7f3"
+    },
+    {
+      "src": "media/ranunculus-sceleratus/inat-486522445.jpg",
+      "original_bytes": 1039349,
+      "display_bytes": 624052,
+      "original_sha256": "f074c25244b60b07bbf5434a6e8fd18d748e3073fec78012d313268e24802347",
+      "display_sha256": "6233733d56f04cdf56b446c938ec21e879e730a717f3a68969b7ed2b5d6757b9"
+    },
+    {
+      "src": "media/ranunculus-sceleratus/inat-624401614.jpg",
+      "original_bytes": 3376517,
+      "display_bytes": 671952,
+      "original_sha256": "01af872138d9f2e274871a0fcaeb559edbf462300242bd331e25a24ee75c0115",
+      "display_sha256": "94688dd585c851993dc278c2bf6a2f07242f641513d3b48dae638ccc2db237cc"
+    },
+    {
+      "src": "media/ranunculus-sceleratus/inat-631452884.jpg",
+      "original_bytes": 1993212,
+      "display_bytes": 511998,
+      "original_sha256": "2c08bcdcf8052343d8989def0a3a45704114e251a2021bcb1c4dff742cca2833",
+      "display_sha256": "a8e40c3e98ee5defe9cd92bb1e600cb7002484dbb56a981db8c73b6f93f0478e"
+    },
+    {
+      "src": "media/talinum-aurantiacum/inat-635235235.jpg",
+      "original_bytes": 961434,
+      "display_bytes": 584576,
+      "original_sha256": "9e0f6604dd8b7f6996157ff85f2496f3cc651a4d34e28d05e7cd5daed6951f38",
+      "display_sha256": "3ae4430b316bf40f772f39fb8b2c26ba714b79934795d9819233f82276414953"
+    },
+    {
+      "src": "media/talinum-aurantiacum/inat-639609477.jpg",
+      "original_bytes": 2504392,
+      "display_bytes": 775122,
+      "original_sha256": "bf1ca7b3e5d42a29681ee135bc0302b2b28fc3a45044a29dacd74feb46ef9c78",
+      "display_sha256": "ecca3eb69db0f6a2c487e347aaaf5844c45c26c6900072e7d242f034fb657468"
+    },
+    {
+      "src": "media/talinum-aurantiacum/inat-644430739.jpg",
+      "original_bytes": 2566236,
+      "display_bytes": 517507,
+      "original_sha256": "a0d779db8b323b1bd15866d5e1875f6eeeed81a723c4bd48d06d238f2b6f6e0b",
+      "display_sha256": "7fc9e84c81d659f99cb67902eccbc4f3fbd3bc5f105292bc2f9618a4187848b1"
+    },
+    {
+      "src": "media/talinum-aurantiacum/inat-651113790.jpg",
+      "original_bytes": 3206179,
+      "display_bytes": 741635,
+      "original_sha256": "e8a8eacaf19e168c3fe576ed95634c5c8fb34e7926d6130dc963ba98e4b8a078",
+      "display_sha256": "fce9ea4b95af75b14ea5623ba0e0ffce38a05891ad3d8255ad2bf6e310ea6d9c"
+    }
+  ]
+}

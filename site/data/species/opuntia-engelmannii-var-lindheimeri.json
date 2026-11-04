@@ -96,7 +96,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "8d7ec00bc5d2b6aca1169ca760eed431b41c0864",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -104,7 +104,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 344598057 and photo 627897384 checked individually for current cc-by rights, creator and identical SHA256 f6132db02944aba2a83f89d7bc3e824e9699126757f123d6ea3b94b8c9e6d5c3; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/627897384/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Opuntia lindheimeri' matches this Cactaceae species card opuntia-engelmannii-var-lindheimeri. Specialist morphology/field characters deferred.",
-      "sha256": "f6132db02944aba2a83f89d7bc3e824e9699126757f123d6ea3b94b8c9e6d5c3"
+      "sha256": "f6132db02944aba2a83f89d7bc3e824e9699126757f123d6ea3b94b8c9e6d5c3",
+      "display_sha256": "e63c5ecb94b28c5d500879966dad815a64eac5f8db1d7c29cf3c67427804176b",
+      "display_blob_sha": "ea74cd155973a82e3df610c46f339cf7194f416c",
+      "display_original_site_sha256": "f6132db02944aba2a83f89d7bc3e824e9699126757f123d6ea3b94b8c9e6d5c3",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/opuntia-engelmannii-var-lindheimeri/inat-629695203.jpg",
@@ -115,7 +120,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "37bb66fa74b3690a6077e0aa830124bedddfc474",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -123,7 +128,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 345521229 and photo 629695203 checked individually for current cc-by-nc rights, creator and identical SHA256 546f3b79c7166edd8e68d4d8f6d72abd3feacfe0b3c2aef1e4607c99f6a7710b; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/629695203/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Opuntia lindheimeri' matches this Cactaceae species card opuntia-engelmannii-var-lindheimeri. Specialist morphology/field characters deferred.",
-      "sha256": "546f3b79c7166edd8e68d4d8f6d72abd3feacfe0b3c2aef1e4607c99f6a7710b"
+      "sha256": "546f3b79c7166edd8e68d4d8f6d72abd3feacfe0b3c2aef1e4607c99f6a7710b",
+      "display_sha256": "a9c5ffef92d57d6544acbc3088f9140f1789dc53cfd2523d815af4e0d44720a5",
+      "display_blob_sha": "b9e8db4efd2cdbe4159f5c806e71b4a2ffee5dd7",
+      "display_original_site_sha256": "546f3b79c7166edd8e68d4d8f6d72abd3feacfe0b3c2aef1e4607c99f6a7710b",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/opuntia-engelmannii-var-lindheimeri/inat-634451797.jpg",
@@ -134,7 +144,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "46ca1eb34ad99395881fab1ca22b5f2538602642",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -142,7 +152,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 347923755 and photo 634451797 checked individually for current cc-by-nc rights, creator and identical SHA256 a018c666b37db2a3d139fa9302e33b2c92d241f3a27e5f6f80fe6e141a6e9b04; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/634451797/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Opuntia lindheimeri' matches this Cactaceae species card opuntia-engelmannii-var-lindheimeri. Specialist morphology/field characters deferred.",
-      "sha256": "a018c666b37db2a3d139fa9302e33b2c92d241f3a27e5f6f80fe6e141a6e9b04"
+      "sha256": "a018c666b37db2a3d139fa9302e33b2c92d241f3a27e5f6f80fe6e141a6e9b04",
+      "display_sha256": "aa795d6a07fa3c512a7d5c5c1620c0b7b8cfda4f779c06ea0ef64c127569923d",
+      "display_blob_sha": "b2e8d7ed5f12272b934f1cfd01ed4c4b73be7691",
+      "display_original_site_sha256": "a018c666b37db2a3d139fa9302e33b2c92d241f3a27e5f6f80fe6e141a6e9b04",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/opuntia-engelmannii-var-lindheimeri/inat-636317263.jpg",
@@ -153,7 +168,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7fa82079d1e1039b0b921f7e126d3fcc91fe35c9",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -161,7 +176,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 348862148 and photo 636317263 checked individually for current cc-by-nc rights, creator and identical SHA256 7e9710cbef5fb41f2e1f364fadc9d216ffa10d00161b586de3b70d69544bf7b8; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/636317263/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Opuntia lindheimeri' matches this Cactaceae species card opuntia-engelmannii-var-lindheimeri. Specialist morphology/field characters deferred.",
-      "sha256": "7e9710cbef5fb41f2e1f364fadc9d216ffa10d00161b586de3b70d69544bf7b8"
+      "sha256": "7e9710cbef5fb41f2e1f364fadc9d216ffa10d00161b586de3b70d69544bf7b8",
+      "display_sha256": "0eb9cb2f7d453ec1f9995f0af255e7f3f7fb66779db179c8636d1e72d2c28197",
+      "display_blob_sha": "bf5e8b52633adb0d63fc622c62afe38f3b0a7e33",
+      "display_original_site_sha256": "7e9710cbef5fb41f2e1f364fadc9d216ffa10d00161b586de3b70d69544bf7b8",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/opuntia-engelmannii-var-lindheimeri/inat-649918802.jpg",
@@ -172,7 +192,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4b49830000dfdf576bb18007be103a943156fb16",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -180,7 +200,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 356385033 and photo 649918802 checked individually for current cc-by-nc rights, creator and identical SHA256 1ab1e37478705182fd8f523566955c7152c463b8c2c10d3d9fa07cb27aa218d5; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/649918802/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Opuntia lindheimeri' matches this Cactaceae species card opuntia-engelmannii-var-lindheimeri. Specialist morphology/field characters deferred.",
-      "sha256": "1ab1e37478705182fd8f523566955c7152c463b8c2c10d3d9fa07cb27aa218d5"
+      "sha256": "1ab1e37478705182fd8f523566955c7152c463b8c2c10d3d9fa07cb27aa218d5",
+      "display_sha256": "d10dd5a061f8bafe10d5dbedf90944f93fb308462f18224270bfb89cb34d5038",
+      "display_blob_sha": "5be0a36cd65af3b4003e50423d26abcad5ebdfae",
+      "display_original_site_sha256": "1ab1e37478705182fd8f523566955c7152c463b8c2c10d3d9fa07cb27aa218d5",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

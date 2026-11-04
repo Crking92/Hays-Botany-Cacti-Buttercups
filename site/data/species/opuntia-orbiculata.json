@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a1faba690ba5a224e067314eb9ca2dd393f5389b",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 68471962 and photo 110878511 checked individually for current cc-by-nc rights, creator and identical SHA256 9735d6152bbb9a12d283a3f029f0e6224a00fa7ebdfea0ee6487dd279f927005; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/110878511/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Opuntia orbiculata' matches this Cactaceae species card opuntia-orbiculata. Specialist morphology/field characters deferred.",
-      "sha256": "9735d6152bbb9a12d283a3f029f0e6224a00fa7ebdfea0ee6487dd279f927005"
+      "sha256": "9735d6152bbb9a12d283a3f029f0e6224a00fa7ebdfea0ee6487dd279f927005",
+      "display_sha256": "e78c779f800ee8c450892aadecc211160165073e5c10fb1462cf40064cce7cf9",
+      "display_blob_sha": "9d5912c372d566fbb20e99fcebcf54815a93705d",
+      "display_original_site_sha256": "9735d6152bbb9a12d283a3f029f0e6224a00fa7ebdfea0ee6487dd279f927005",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/opuntia-orbiculata/inat-119403414.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "67a7c8b45ebe7d2c5d588c84b03383289fc3f7ce",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 73158021 and photo 119403414 checked individually for current cc-by-nc rights, creator and identical SHA256 a52366fc67a620e890d67a97ebb584ca7155b23f700bd2942a0699ee52f8f8df; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/119403414/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Opuntia orbiculata' matches this Cactaceae species card opuntia-orbiculata. Specialist morphology/field characters deferred.",
-      "sha256": "a52366fc67a620e890d67a97ebb584ca7155b23f700bd2942a0699ee52f8f8df"
+      "sha256": "a52366fc67a620e890d67a97ebb584ca7155b23f700bd2942a0699ee52f8f8df",
+      "display_sha256": "842e87d03a74e14ba84f597ebc92672df3cd068ab90ca0be0f592565aee48f43",
+      "display_blob_sha": "3c4e96820dc66066592e210effc3e68c387f7fc2",
+      "display_original_site_sha256": "a52366fc67a620e890d67a97ebb584ca7155b23f700bd2942a0699ee52f8f8df",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/opuntia-orbiculata/inat-160123254.jpeg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "82a421e722da41da95e6ba7dd51a0fdb08c0e381",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 20197291 and photo 31173382 checked individually for current cc-by rights, creator and identical SHA256 fc39f11fb53dc537a7122f115d8087c821a261d3e90f2ca3b8d1f01454086674; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/31173382/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Opuntia orbiculata' matches this Cactaceae species card opuntia-orbiculata. Specialist morphology/field characters deferred.",
-      "sha256": "fc39f11fb53dc537a7122f115d8087c821a261d3e90f2ca3b8d1f01454086674"
+      "sha256": "fc39f11fb53dc537a7122f115d8087c821a261d3e90f2ca3b8d1f01454086674",
+      "display_sha256": "3bd0f047abbaf9f23bfcdb0f4c9d7989670c0f50065a6841656ed56a5e1b9cbe",
+      "display_blob_sha": "2c4db0e89e0ad1df101130174a984cf4d4301ce5",
+      "display_original_site_sha256": "fc39f11fb53dc537a7122f115d8087c821a261d3e90f2ca3b8d1f01454086674",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/opuntia-orbiculata/inat-363931462.jpg",
@@ -115,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fab4915b726f50e39c739af9b23a9688defb0206",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -123,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 205799494 and photo 363931462 checked individually for current cc-by-nc rights, creator and identical SHA256 5eaca4e882151b1dae7bf81fb5bfad9c9dea1f1a477347e39bfbc2dec054d406; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/363931462/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Opuntia orbiculata' matches this Cactaceae species card opuntia-orbiculata. Specialist morphology/field characters deferred.",
-      "sha256": "5eaca4e882151b1dae7bf81fb5bfad9c9dea1f1a477347e39bfbc2dec054d406"
+      "sha256": "5eaca4e882151b1dae7bf81fb5bfad9c9dea1f1a477347e39bfbc2dec054d406",
+      "display_sha256": "2cdf4960de3e696f9559972b6ea24ac9c9a7863c0ce5a60def5c97214eeadc7d",
+      "display_blob_sha": "f5c7d5d7f5b33ca358aa1ecac505917ff35378f5",
+      "display_original_site_sha256": "5eaca4e882151b1dae7bf81fb5bfad9c9dea1f1a477347e39bfbc2dec054d406",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

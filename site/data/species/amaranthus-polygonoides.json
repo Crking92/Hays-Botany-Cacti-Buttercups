@@ -72,7 +72,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "14668baead29b4c185fab76c7c25b189864401fa",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -80,7 +80,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 163727355, photo 283211720, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a90b23a863106e93ea760772078d26ec7c0f3358243e63d26f3125ce46ab2705. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Amaranthus polygonoides maps to indexed species amaranthus-polygonoides (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "a90b23a863106e93ea760772078d26ec7c0f3358243e63d26f3125ce46ab2705"
+      "sha256": "a90b23a863106e93ea760772078d26ec7c0f3358243e63d26f3125ce46ab2705",
+      "display_sha256": "ee04e26c48c741cc8d2695bb8ae0fcf51b48eb6911d5527a172417e0238fd4ce",
+      "display_blob_sha": "3ddaa5d743a7a7a84fe55de83ab5a7ea541a3093",
+      "display_original_site_sha256": "a90b23a863106e93ea760772078d26ec7c0f3358243e63d26f3125ce46ab2705",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/amaranthus-polygonoides/inat-643822596.jpg",
@@ -91,7 +96,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6f9d2d56a4b4ec67389980c5be81f2b8c976c982",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +104,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 352801859, photo 643822596, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d37e13d9abd120c406a1f5c2eab7010cf87d854ee945cbb02c3017d25565aa98. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Amaranthus polygonoides maps to indexed species amaranthus-polygonoides (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "d37e13d9abd120c406a1f5c2eab7010cf87d854ee945cbb02c3017d25565aa98"
+      "sha256": "d37e13d9abd120c406a1f5c2eab7010cf87d854ee945cbb02c3017d25565aa98",
+      "display_sha256": "9d889908e8a67a6828aa2a8369d8abf6983a4fb51d186d4dfcd9f4020a5bc9fb",
+      "display_blob_sha": "3bc366240ae8d450ed77670e7af805c6ae946bd9",
+      "display_original_site_sha256": "d37e13d9abd120c406a1f5c2eab7010cf87d854ee945cbb02c3017d25565aa98",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/amaranthus-polygonoides/inat-646749743.jpg",
@@ -110,7 +120,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cf72a693dbd0da911239772ec45d60b1788cda1b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +128,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 354540798, photo 646749743, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1bafd123ebb22b57804208f081737a6dbc107c077f29ced993e7e583f47e6750. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Amaranthus polygonoides maps to indexed species amaranthus-polygonoides (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "1bafd123ebb22b57804208f081737a6dbc107c077f29ced993e7e583f47e6750"
+      "sha256": "1bafd123ebb22b57804208f081737a6dbc107c077f29ced993e7e583f47e6750",
+      "display_sha256": "1f6633802d933be5ffb06783cad60dfd95156a51c0a6e6d642f4027d2bab6215",
+      "display_blob_sha": "8b6f7e58f46e20acf3b7de8a6a2726a775ade0ad",
+      "display_original_site_sha256": "1bafd123ebb22b57804208f081737a6dbc107c077f29ced993e7e583f47e6750",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/amaranthus-polygonoides/inat-648131493.jpg",
@@ -129,7 +144,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c35643d86f33a54e9ab1a46074f01c095120034b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -137,7 +152,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 355374964, photo 648131493, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 24111b023f7d6167baedb8b7a35ba0ab04db824146eff089d121048945428adb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Amaranthus polygonoides maps to indexed species amaranthus-polygonoides (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "24111b023f7d6167baedb8b7a35ba0ab04db824146eff089d121048945428adb"
+      "sha256": "24111b023f7d6167baedb8b7a35ba0ab04db824146eff089d121048945428adb",
+      "display_sha256": "b7d72549721695cd5c0bc0908248401efe59e19b34bb88bf3d9bca004049266e",
+      "display_blob_sha": "e8820c77e65a63a14185eb57af059dec8a5bf52f",
+      "display_original_site_sha256": "24111b023f7d6167baedb8b7a35ba0ab04db824146eff089d121048945428adb",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/amaranthus-polygonoides/inat-682434488.jpg",
@@ -148,7 +168,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e3348311414d09795ffc5fc534da20800f24881c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -156,7 +176,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 373417421, photo 682434488, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 65a1a2d536b9dbd7260cf1352d81dc17b6d49e575b6f8c07a3d9dba656c98931. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Amaranthus polygonoides maps to indexed species amaranthus-polygonoides (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "65a1a2d536b9dbd7260cf1352d81dc17b6d49e575b6f8c07a3d9dba656c98931"
+      "sha256": "65a1a2d536b9dbd7260cf1352d81dc17b6d49e575b6f8c07a3d9dba656c98931",
+      "display_sha256": "9952ba78d6b5ffcb2cb4ebb4c09c34b3077fe036f3145b44deca8d99518aac6f",
+      "display_blob_sha": "f6fac54c497ba2c5c98af73b68157169abd676c0",
+      "display_original_site_sha256": "65a1a2d536b9dbd7260cf1352d81dc17b6d49e575b6f8c07a3d9dba656c98931",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

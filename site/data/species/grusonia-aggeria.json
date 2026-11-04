@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0841d40443c782661291fa3dd717304c2cfc778c",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 341009832 and photo 620685255 checked individually for current cc-by-nc rights, creator and identical SHA256 b1eeacf7609205c3b5e468afac8609f556107176fda3d3787f898223a02f88c2; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/620685255/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Grusonia aggeria' matches this Cactaceae species card grusonia-aggeria. Specialist morphology/field characters deferred.",
-      "sha256": "b1eeacf7609205c3b5e468afac8609f556107176fda3d3787f898223a02f88c2"
+      "sha256": "b1eeacf7609205c3b5e468afac8609f556107176fda3d3787f898223a02f88c2",
+      "display_sha256": "036b6bca78c738a2e0a635174d97b0ce53e6a99bcd36f25aed8bee0f95697ce2",
+      "display_blob_sha": "33be44015c66e7e277e9ef372224b59192d9d798",
+      "display_original_site_sha256": "b1eeacf7609205c3b5e468afac8609f556107176fda3d3787f898223a02f88c2",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/grusonia-aggeria/inat-621540519.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "197177319d7ce05baa8db77ed3b4fdd7674a2866",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 341423103 and photo 621540519 checked individually for current cc-by-nc rights, creator and identical SHA256 b3e55a175b24dbe152a08aeac6b019da7acea6221f1b425d8e242e0e2fa74457; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/621540519/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Grusonia aggeria' matches this Cactaceae species card grusonia-aggeria. Specialist morphology/field characters deferred.",
-      "sha256": "b3e55a175b24dbe152a08aeac6b019da7acea6221f1b425d8e242e0e2fa74457"
+      "sha256": "b3e55a175b24dbe152a08aeac6b019da7acea6221f1b425d8e242e0e2fa74457",
+      "display_sha256": "aac75db534b14ffa2b4438169228c7b501d7dd63ca4ae38bbdc738b93874b99e",
+      "display_blob_sha": "4228912924bb5edd8b23c11db7728d832fd164eb",
+      "display_original_site_sha256": "b3e55a175b24dbe152a08aeac6b019da7acea6221f1b425d8e242e0e2fa74457",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/grusonia-aggeria/inat-621829254.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "768665f816204012ac55e8b4a5faf8680aa401bb",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 341564633 and photo 621829254 checked individually for current cc-by-nc rights, creator and identical SHA256 b534c65927a7e76632563b07d692963b685ad386d3efdb1ce0d436a7383b68c8; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/621829254/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Grusonia aggeria' matches this Cactaceae species card grusonia-aggeria. Specialist morphology/field characters deferred.",
-      "sha256": "b534c65927a7e76632563b07d692963b685ad386d3efdb1ce0d436a7383b68c8"
+      "sha256": "b534c65927a7e76632563b07d692963b685ad386d3efdb1ce0d436a7383b68c8",
+      "display_sha256": "a567f1aa4efb1e65b6d23ba2ff883f7a4a12df523ab7c7c2b29a5032f4dbe096",
+      "display_blob_sha": "03883f1dadc676a14f0ffb24fbee566a91dfc84d",
+      "display_original_site_sha256": "b534c65927a7e76632563b07d692963b685ad386d3efdb1ce0d436a7383b68c8",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/grusonia-aggeria/inat-622905775.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4c46df4073a5deb4d32a65f13462466b1596da39",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 342096088 and photo 622905775 checked individually for current cc-by-nc rights, creator and identical SHA256 0f9acc7ea55604389c11752d32ef81308562e84aab0e6bb82916d1337c9864dd; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/622905775/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Grusonia aggeria' matches this Cactaceae species card grusonia-aggeria. Specialist morphology/field characters deferred.",
-      "sha256": "0f9acc7ea55604389c11752d32ef81308562e84aab0e6bb82916d1337c9864dd"
+      "sha256": "0f9acc7ea55604389c11752d32ef81308562e84aab0e6bb82916d1337c9864dd",
+      "display_sha256": "d8798871d63538eb72ba83a95ca6fdc641afbe2dd6903963d3a9b23053d49283",
+      "display_blob_sha": "cf10df563d32e088f87421d312feceff8c5e9d6b",
+      "display_original_site_sha256": "0f9acc7ea55604389c11752d32ef81308562e84aab0e6bb82916d1337c9864dd",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/grusonia-aggeria/inat-624314316.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "921580966822adde2fe1f6b97ab2117ad6771e49",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cactaceae original-media verifier",
       "source_review_evidence": "Exact iNaturalist observation 342801575 and photo 624314316 checked individually for current cc-by-nc rights, creator and identical SHA256 600c3b525cdfdfca25aa1d8756119b10123c4cb0622510e6dc5a10c84862607e; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/624314316/original.jpg.",
       "taxon_review_evidence": "User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon 'Grusonia aggeria' matches this Cactaceae species card grusonia-aggeria. Specialist morphology/field characters deferred.",
-      "sha256": "600c3b525cdfdfca25aa1d8756119b10123c4cb0622510e6dc5a10c84862607e"
+      "sha256": "600c3b525cdfdfca25aa1d8756119b10123c4cb0622510e6dc5a10c84862607e",
+      "display_sha256": "afe42823c9d89c4946e82a4759821f2a9dbe0e374459b65f1b2460bb7ca88b26",
+      "display_blob_sha": "0012abaa44ed4e1b5ada2aecfe97f07ffc059d4c",
+      "display_original_site_sha256": "600c3b525cdfdfca25aa1d8756119b10123c4cb0622510e6dc5a10c84862607e",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -50,7 +50,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "902d4dce6f982181532f8811a7e4d31ee575881d",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -58,7 +58,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 201622043 and photo 355941507 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 96f43af424224be327258f352b24a1fa7bc421ff16ce67d9b551a4f86079e698; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/355941507/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Berberis aquifolium' matches this assigned family species card berberis-aquifolium. Specialist morphology/field characters deferred.",
-      "sha256": "96f43af424224be327258f352b24a1fa7bc421ff16ce67d9b551a4f86079e698"
+      "sha256": "96f43af424224be327258f352b24a1fa7bc421ff16ce67d9b551a4f86079e698",
+      "display_sha256": "dac2432458442c40e5db70cd6801b83517e37b7cc46cb3361a2cd2f9a857e95f",
+      "display_blob_sha": "469469dee3b9d0ae22d8f3269d80568c81053271",
+      "display_original_site_sha256": "96f43af424224be327258f352b24a1fa7bc421ff16ce67d9b551a4f86079e698",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/berberis-aquifolium/inat-368652517.jpeg",
@@ -69,7 +74,7 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source_blob_sha": "ff9145657220c26d2a5dda010fea7eaff5f0d5f2",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -77,7 +82,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 208364229 and photo 368652517 checked individually for current cc0 rights, creator from original ZIP's exact-photo photographer credit, and identical SHA256 d71dc705999749965f14c1f1054cf6d1036fd47b30ce2253542f13ba3826281f; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/368652517/original.jpeg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Berberis aquifolium' matches this assigned family species card berberis-aquifolium. Specialist morphology/field characters deferred.",
-      "sha256": "d71dc705999749965f14c1f1054cf6d1036fd47b30ce2253542f13ba3826281f"
+      "sha256": "d71dc705999749965f14c1f1054cf6d1036fd47b30ce2253542f13ba3826281f",
+      "display_sha256": "9f782cffd7a8093f92ccb2bbd45f0ebdca6ce66a2ebc45d92a2bb3c4a713e726",
+      "display_blob_sha": "5dcd3f468dd9fd62a4450106828aec1e0d3c5027",
+      "display_original_site_sha256": "d71dc705999749965f14c1f1054cf6d1036fd47b30ce2253542f13ba3826281f",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/berberis-aquifolium/inat-491927125.jpg",
@@ -88,7 +98,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "54f84031b8782a84b0972940d9c223d77785b4e1",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -96,7 +106,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 273520320 and photo 491927125 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 b59939119f06ed69d1cacbae70c599b56535bb8b77667aebeda83957b2252595; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/491927125/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Berberis aquifolium' matches this assigned family species card berberis-aquifolium. Specialist morphology/field characters deferred.",
-      "sha256": "b59939119f06ed69d1cacbae70c599b56535bb8b77667aebeda83957b2252595"
+      "sha256": "b59939119f06ed69d1cacbae70c599b56535bb8b77667aebeda83957b2252595",
+      "display_sha256": "1401d1a1b7b1330acf967cb53d9788275c9f72d2bf9837552e21f690edcb0945",
+      "display_blob_sha": "e30abf6c1aa83f23f0b0c880b1e31dbc2fbc8bb2",
+      "display_original_site_sha256": "b59939119f06ed69d1cacbae70c599b56535bb8b77667aebeda83957b2252595",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/berberis-aquifolium/inat-622290522.jpg",
@@ -107,7 +122,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "da9fd82e5f1852633564285d10d561281d2a72a9",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -115,7 +130,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 341792022 and photo 622290522 checked individually for current cc-by rights, creator from live exact-photo attribution, and identical SHA256 635901b1dfaf057fb0a9b9aaee04133680204ab07577abd3f979bd157c6a069d; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/622290522/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Berberis aquifolium' matches this assigned family species card berberis-aquifolium. Specialist morphology/field characters deferred.",
-      "sha256": "635901b1dfaf057fb0a9b9aaee04133680204ab07577abd3f979bd157c6a069d"
+      "sha256": "635901b1dfaf057fb0a9b9aaee04133680204ab07577abd3f979bd157c6a069d",
+      "display_sha256": "f5fdaaee2d1c25f958598ec8b7acd4681c1c999e33bb1b301fbc7fb1fb74eb35",
+      "display_blob_sha": "faab66ec37e20e8d97d68053f2c9f847ce0980b8",
+      "display_original_site_sha256": "635901b1dfaf057fb0a9b9aaee04133680204ab07577abd3f979bd157c6a069d",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

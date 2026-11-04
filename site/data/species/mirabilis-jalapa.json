@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e779af4b7eb5efe360fdfd628a37d8859af25beb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 346691650, photo 632005279, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 142e48a1c42f5f6b2831b7adbbcd99f4a9c1822c3f663df106e80a9de6e7fcac. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Mirabilis jalapa maps to indexed species mirabilis-jalapa; specialist morphology and BONAP range deferred.",
-      "sha256": "142e48a1c42f5f6b2831b7adbbcd99f4a9c1822c3f663df106e80a9de6e7fcac"
+      "sha256": "142e48a1c42f5f6b2831b7adbbcd99f4a9c1822c3f663df106e80a9de6e7fcac",
+      "display_sha256": "0dffddabd8ab2dda9fe0f1edc2f8ee33e90535ca9ea7ef22d03aabfbc3e43cca",
+      "display_blob_sha": "596adfc90ea0ef2d980ba45e10a92a1a28349d31",
+      "display_original_site_sha256": "142e48a1c42f5f6b2831b7adbbcd99f4a9c1822c3f663df106e80a9de6e7fcac",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mirabilis-jalapa/inat-638818129.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c26a863454a11307227c0ca5f30f23b036442fb5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 350141950, photo 638818129, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 672ff44bbc58a35fe796cf7115d4387e2a0fd8f96d930010ecebea5f90a7a251. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Mirabilis jalapa maps to indexed species mirabilis-jalapa; specialist morphology and BONAP range deferred.",
-      "sha256": "672ff44bbc58a35fe796cf7115d4387e2a0fd8f96d930010ecebea5f90a7a251"
+      "sha256": "672ff44bbc58a35fe796cf7115d4387e2a0fd8f96d930010ecebea5f90a7a251",
+      "display_sha256": "a9e8abc5638e5a8543928f0318655705f5197708ddc9af5fc67ac8521ff5b000",
+      "display_blob_sha": "17cc757126b0fcf43a20dff93dd854b735047989",
+      "display_original_site_sha256": "672ff44bbc58a35fe796cf7115d4387e2a0fd8f96d930010ecebea5f90a7a251",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mirabilis-jalapa/inat-640784434.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3312b1f44d8a5e4481015b21e99ea1684a89048e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 351160295, photo 640784434, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0de7092aafd700dfc04fc8e532b225dbaecae63460deccb5de15a0a902a98377. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Mirabilis jalapa maps to indexed species mirabilis-jalapa; specialist morphology and BONAP range deferred.",
-      "sha256": "0de7092aafd700dfc04fc8e532b225dbaecae63460deccb5de15a0a902a98377"
+      "sha256": "0de7092aafd700dfc04fc8e532b225dbaecae63460deccb5de15a0a902a98377",
+      "display_sha256": "e52ba5a3795ab1e37dbf377f3a8bb0dd75e2172d93aab7a40d23ac05c7c0f9c9",
+      "display_blob_sha": "b2c8e11bb0d2b73bd97b2760b0b5be9c565f5cfb",
+      "display_original_site_sha256": "0de7092aafd700dfc04fc8e532b225dbaecae63460deccb5de15a0a902a98377",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mirabilis-jalapa/inat-642749325.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "824b75419fe8d1d2ae86548a7a294a091d6d7b11",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 352163927, photo 642749325, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1ffa290a5b161b2e49c94f9bae73c0d1d161763594e28a4473159c28dc780708. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Mirabilis jalapa maps to indexed species mirabilis-jalapa; specialist morphology and BONAP range deferred.",
-      "sha256": "1ffa290a5b161b2e49c94f9bae73c0d1d161763594e28a4473159c28dc780708"
+      "sha256": "1ffa290a5b161b2e49c94f9bae73c0d1d161763594e28a4473159c28dc780708",
+      "display_sha256": "723a34b04fc317f74aa42b6e4de9014117a44e5a02c9d0dc3c732a79707a71cf",
+      "display_blob_sha": "eb3d6d814079e1777c590720e7c040720977cb59",
+      "display_original_site_sha256": "1ffa290a5b161b2e49c94f9bae73c0d1d161763594e28a4473159c28dc780708",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mirabilis-jalapa/inat-644095081.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9db46f1a6cecb9a1ae4ed4cc527651e17c47eedd",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 352968629, photo 644095081, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 32362d641a4a938c2a5fb5ca0a887f4a30bb6f6f7906346200716545acd229db. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Mirabilis jalapa maps to indexed species mirabilis-jalapa; specialist morphology and BONAP range deferred.",
-      "sha256": "32362d641a4a938c2a5fb5ca0a887f4a30bb6f6f7906346200716545acd229db"
+      "sha256": "32362d641a4a938c2a5fb5ca0a887f4a30bb6f6f7906346200716545acd229db",
+      "display_sha256": "aa76518cae38a683b8ab3a57b544d635b3a031aecf67a08586703e73e0ec90e4",
+      "display_blob_sha": "60ff2a7b32c67ed2c26c826f8faeb1899e9cff35",
+      "display_original_site_sha256": "32362d641a4a938c2a5fb5ca0a887f4a30bb6f6f7906346200716545acd229db",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mirabilis-jalapa/archived-a048c09a91a6ae0a.jpg",

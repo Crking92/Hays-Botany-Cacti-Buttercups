@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6b161a3ba62f988b9f93eebf66b8f9d9440bf610",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 342612443, photo 623951390, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3a91558cd715a8c253abbb31df41e98cbf30a9ddc0dffb6c3e5000524064760f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Papaver rhoeas maps to indexed species papaver-rhoeas; specialist morphology and BONAP range deferred.",
-      "sha256": "3a91558cd715a8c253abbb31df41e98cbf30a9ddc0dffb6c3e5000524064760f"
+      "sha256": "3a91558cd715a8c253abbb31df41e98cbf30a9ddc0dffb6c3e5000524064760f",
+      "display_sha256": "711644b1a1a03aaf32937bfebdab8adc8c6ea7ae2967e3dcd97807cfc338b980",
+      "display_blob_sha": "179c0976e5c1922963a095d70fbcdd0aa17da76e",
+      "display_original_site_sha256": "3a91558cd715a8c253abbb31df41e98cbf30a9ddc0dffb6c3e5000524064760f",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/papaver-rhoeas/inat-626369935.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f15970ff1bfe5962527236b27c957f6ad6b987b9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 343816478, photo 626369935, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f0064e5f6259c0df54cff64ee1b47d65f3c7f482c12c2a657ddfdcdf0efecefc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Papaver rhoeas maps to indexed species papaver-rhoeas; specialist morphology and BONAP range deferred.",
-      "sha256": "f0064e5f6259c0df54cff64ee1b47d65f3c7f482c12c2a657ddfdcdf0efecefc"
+      "sha256": "f0064e5f6259c0df54cff64ee1b47d65f3c7f482c12c2a657ddfdcdf0efecefc",
+      "display_sha256": "53096bb5a0ce61ab688ffc9f7296979a568ad28df5e6b38b18957710391ed0d3",
+      "display_blob_sha": "c446b621a9de25bf470ba4ff5390b21b49f88de0",
+      "display_original_site_sha256": "f0064e5f6259c0df54cff64ee1b47d65f3c7f482c12c2a657ddfdcdf0efecefc",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/papaver-rhoeas/inat-631167250.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "75a91de18f1e76a6be79650de5b781785911df3b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 346267282, photo 631167250, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 42a19193cc5f816c31e3ed679d7485abd48a5ae27915eeac5b1913391768a38e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Papaver rhoeas maps to indexed species papaver-rhoeas; specialist morphology and BONAP range deferred.",
-      "sha256": "42a19193cc5f816c31e3ed679d7485abd48a5ae27915eeac5b1913391768a38e"
+      "sha256": "42a19193cc5f816c31e3ed679d7485abd48a5ae27915eeac5b1913391768a38e",
+      "display_sha256": "2f2eb8634ddeb134f791814929f4fe8db323e6a3e24216942b7564985a2a6e16",
+      "display_blob_sha": "237ac9c6b4344cc4c45cd555f300cf6581f81e8f",
+      "display_original_site_sha256": "42a19193cc5f816c31e3ed679d7485abd48a5ae27915eeac5b1913391768a38e",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/papaver-rhoeas/inat-631500552.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "32774e685d49324ddd4ba8912bedb78d502fd4d6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 346436613, photo 631500552, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0ba909b312f32f19ec724db876e1e2be7b8385a2b5f516b7bfa57fd005328741. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Papaver rhoeas maps to indexed species papaver-rhoeas; specialist morphology and BONAP range deferred.",
-      "sha256": "0ba909b312f32f19ec724db876e1e2be7b8385a2b5f516b7bfa57fd005328741"
+      "sha256": "0ba909b312f32f19ec724db876e1e2be7b8385a2b5f516b7bfa57fd005328741",
+      "display_sha256": "5cf364d8f2e8c0ebb3c9f65f7ad8a514c5779c4be3663816dff1d3edadc7ded0",
+      "display_blob_sha": "d2be1f7b9b6059e29ce254ed5105787742f2310b",
+      "display_original_site_sha256": "0ba909b312f32f19ec724db876e1e2be7b8385a2b5f516b7bfa57fd005328741",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/papaver-rhoeas/inat-631872003.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "949511fd6fe67316e70d108fb4f8009e44916c37",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 346624362, photo 631872003, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7f6497c8a6d67bcfe7efb8e166f61195d59c50b9ef49aa9295e268f686a8af4d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Papaver rhoeas maps to indexed species papaver-rhoeas; specialist morphology and BONAP range deferred.",
-      "sha256": "7f6497c8a6d67bcfe7efb8e166f61195d59c50b9ef49aa9295e268f686a8af4d"
+      "sha256": "7f6497c8a6d67bcfe7efb8e166f61195d59c50b9ef49aa9295e268f686a8af4d",
+      "display_sha256": "9505b5a98a842e32cd9891c88488675a36d9e16f71e888a4ad263c007d3d37d5",
+      "display_blob_sha": "abd016fd090d745a8e31c86a7f0d172c7a5b8879",
+      "display_original_site_sha256": "7f6497c8a6d67bcfe7efb8e166f61195d59c50b9ef49aa9295e268f686a8af4d",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/papaver-rhoeas/archived-c5d6720b6244cf41.jpg",

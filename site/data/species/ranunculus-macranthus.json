@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "7740d0a01d2b58538eeb0d47eebb819aa350b324",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 340831041, photo 620319494, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6e64c12f3b84a5ecc83ba9be75b3d2bdab99c8b7e927180c7287a742b6959a11.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Ranunculus macranthus maps to indexed species ranunculus-macranthus; specialist morphology and BONAP range deferred.",
-      "sha256": "6e64c12f3b84a5ecc83ba9be75b3d2bdab99c8b7e927180c7287a742b6959a11"
+      "sha256": "6e64c12f3b84a5ecc83ba9be75b3d2bdab99c8b7e927180c7287a742b6959a11",
+      "display_sha256": "4ace5083a4509fae118d77a86618e14879e0342e9f7133f094720274bb93c32a",
+      "display_blob_sha": "748fbd78bb57a168e8face21589308a48d92916d",
+      "display_original_site_sha256": "6e64c12f3b84a5ecc83ba9be75b3d2bdab99c8b7e927180c7287a742b6959a11",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ranunculus-macranthus/inat-621789409.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1e702d5f4474692617abaac7cb68bb9b67acfbbb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 341545353, photo 621789409, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 42850b50a86995eb3f6881a1bcdfdd8f19751631ede4ee05be7192eeeccbafdb.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Ranunculus macranthus maps to indexed species ranunculus-macranthus; specialist morphology and BONAP range deferred.",
-      "sha256": "42850b50a86995eb3f6881a1bcdfdd8f19751631ede4ee05be7192eeeccbafdb"
+      "sha256": "42850b50a86995eb3f6881a1bcdfdd8f19751631ede4ee05be7192eeeccbafdb",
+      "display_sha256": "916752ba989154d281ee582b4319d488644136c2c30defb56537c31d4b4f25b2",
+      "display_blob_sha": "ca741fb16467c4daca5860380b4b94e381a51bfe",
+      "display_original_site_sha256": "42850b50a86995eb3f6881a1bcdfdd8f19751631ede4ee05be7192eeeccbafdb",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ranunculus-macranthus/inat-623020793.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6eaadd707c998df338cdfd8608dcc4efc709a593",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 342155007, photo 623020793, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bd3e9ce92d3086177016c5b28f631169dbb51b8de2ffa2e8f197fd25487f47f2.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Ranunculus macranthus maps to indexed species ranunculus-macranthus; specialist morphology and BONAP range deferred.",
-      "sha256": "bd3e9ce92d3086177016c5b28f631169dbb51b8de2ffa2e8f197fd25487f47f2"
+      "sha256": "bd3e9ce92d3086177016c5b28f631169dbb51b8de2ffa2e8f197fd25487f47f2",
+      "display_sha256": "031586e78069a514144781df63fc8cf78e6270688938e7faab390535c3ffa088",
+      "display_blob_sha": "16eea131df5087dd1cc19ebeef406c188dff9417",
+      "display_original_site_sha256": "bd3e9ce92d3086177016c5b28f631169dbb51b8de2ffa2e8f197fd25487f47f2",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ranunculus-macranthus/inat-623455551.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7af37d20bf3cc7350468d45613fca015934f1a2b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 342803931, photo 624320145, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f42a2cae890cdd16059e9202b55e42812172ea628fba5645fb03ce08e9e4faa0.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Ranunculus macranthus maps to indexed species ranunculus-macranthus; specialist morphology and BONAP range deferred.",
-      "sha256": "f42a2cae890cdd16059e9202b55e42812172ea628fba5645fb03ce08e9e4faa0"
+      "sha256": "f42a2cae890cdd16059e9202b55e42812172ea628fba5645fb03ce08e9e4faa0",
+      "display_sha256": "16acd58ff6a08a13260513afa17dbe3123e48fc14c49571e95781a714bc58354",
+      "display_blob_sha": "33575b816b3ca8125e0e6b2aff3bc2f914fbccd8",
+      "display_original_site_sha256": "f42a2cae890cdd16059e9202b55e42812172ea628fba5645fb03ce08e9e4faa0",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ranunculus-macranthus/archived-bb0be5ab0378bb16.jpg",

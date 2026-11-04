@@ -70,7 +70,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "7fb4f4657d0a788a2cafdf3a3d7326ab5dea72d6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -78,7 +78,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 340831433, photo 620320487, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: cd309677ca78ec3cacb9e77bdce569208e4ac0b1716dcd58f3d49ed54dd7370c.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Anemone berlandieri maps to indexed species anemone-berlandieri; specialist morphology and BONAP range deferred.",
-      "sha256": "cd309677ca78ec3cacb9e77bdce569208e4ac0b1716dcd58f3d49ed54dd7370c"
+      "sha256": "cd309677ca78ec3cacb9e77bdce569208e4ac0b1716dcd58f3d49ed54dd7370c",
+      "display_sha256": "939339c72a56540f03e867fb284a0fbbe5607c6b0c4207c2b209013ca0ab7ab8",
+      "display_blob_sha": "ca4e9d5379906ad46e23a898e8e80032b04f351e",
+      "display_original_site_sha256": "cd309677ca78ec3cacb9e77bdce569208e4ac0b1716dcd58f3d49ed54dd7370c",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/anemone-berlandieri/inat-620914666.jpg",
@@ -89,7 +94,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3802e5a5c64013c84ad8c9e8c155adf9fc9b4aa6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -97,7 +102,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 341119939, photo 620914666, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c479cca59d4cf6be8ae5bc6c8f9ed4118f79f192079fe3203a0d560c70ffaba4.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Anemone berlandieri maps to indexed species anemone-berlandieri; specialist morphology and BONAP range deferred.",
-      "sha256": "c479cca59d4cf6be8ae5bc6c8f9ed4118f79f192079fe3203a0d560c70ffaba4"
+      "sha256": "c479cca59d4cf6be8ae5bc6c8f9ed4118f79f192079fe3203a0d560c70ffaba4",
+      "display_sha256": "ec8b0017d63107decf45828de4d6ad88235ffd0599075c49750646ffd51ab778",
+      "display_blob_sha": "79e54f32ea6d2e7fe7138ed46a1e52c10128c329",
+      "display_original_site_sha256": "c479cca59d4cf6be8ae5bc6c8f9ed4118f79f192079fe3203a0d560c70ffaba4",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/anemone-berlandieri/inat-621551965.jpg",
@@ -108,7 +118,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9437a7d5fec5c4110f25993990e5dbf73fdb73cd",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -116,7 +126,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 341428463, photo 621551965, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7c02a79751cd6e11a08df4fdb4c88cbd66f2a584fcc2d0a589ef295ee3fd319e.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Anemone berlandieri maps to indexed species anemone-berlandieri; specialist morphology and BONAP range deferred.",
-      "sha256": "7c02a79751cd6e11a08df4fdb4c88cbd66f2a584fcc2d0a589ef295ee3fd319e"
+      "sha256": "7c02a79751cd6e11a08df4fdb4c88cbd66f2a584fcc2d0a589ef295ee3fd319e",
+      "display_sha256": "b925c7e63e78c1b6d11eb204545858ca40721cfc330cbd3751479ef231478850",
+      "display_blob_sha": "a1920e218d3d30ccff22da4724c42b3e510f2d12",
+      "display_original_site_sha256": "7c02a79751cd6e11a08df4fdb4c88cbd66f2a584fcc2d0a589ef295ee3fd319e",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/anemone-berlandieri/inat-622092611.jpg",
@@ -127,7 +142,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "89f11b041614e5b16802271942a7892a87e68130",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -135,7 +150,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 341692513, photo 622092611, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: dfe32e4961235b0aa9dfba4c382a3a0b6aaf0f56e75e876cb80cf064af352399.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Anemone berlandieri maps to indexed species anemone-berlandieri; specialist morphology and BONAP range deferred.",
-      "sha256": "dfe32e4961235b0aa9dfba4c382a3a0b6aaf0f56e75e876cb80cf064af352399"
+      "sha256": "dfe32e4961235b0aa9dfba4c382a3a0b6aaf0f56e75e876cb80cf064af352399",
+      "display_sha256": "fbf228488ad642d3a2006ee2cb579eaed3e02778b36c632606c6d3436446aad1",
+      "display_blob_sha": "f7c6c52a944ebf0a50f65a2b6bc86a600433e736",
+      "display_original_site_sha256": "dfe32e4961235b0aa9dfba4c382a3a0b6aaf0f56e75e876cb80cf064af352399",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/anemone-berlandieri/inat-624756325.jpg",
@@ -146,7 +166,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1e6a5587f49bfe48aafd0dfb88df88911be93473",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -154,7 +174,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 343021718, photo 624756325, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: dbcf7eb153a5e879d04a8583bc5e50d4d195475d44e01770a42aff91c72a7714.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Anemone berlandieri maps to indexed species anemone-berlandieri; specialist morphology and BONAP range deferred.",
-      "sha256": "dbcf7eb153a5e879d04a8583bc5e50d4d195475d44e01770a42aff91c72a7714"
+      "sha256": "dbcf7eb153a5e879d04a8583bc5e50d4d195475d44e01770a42aff91c72a7714",
+      "display_sha256": "a1f9c346ae05143dc5cdaaff66fb1b03ac64306a23483ac49a0692ab13d36e27",
+      "display_blob_sha": "3ddf5ad52b584fd390a4bdc76c0f7efa4b351ebe",
+      "display_original_site_sha256": "dbcf7eb153a5e879d04a8583bc5e50d4d195475d44e01770a42aff91c72a7714",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/anemone-berlandieri/archived-acc5cbdca9ef5cdf.jpg",

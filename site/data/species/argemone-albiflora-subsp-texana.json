@@ -73,7 +73,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "62f1b2dc01a40c45f7014ffca3520195b59a73a7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -81,7 +81,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 12193359, photo 17512726, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 34371bb8fd77680735ca75a4918d2f41e269b2578d21f84c7dcff6e055af8213. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Argemone albiflora texana maps to indexed species argemone-albiflora-subsp-texana; specialist morphology and BONAP range deferred.",
-      "sha256": "34371bb8fd77680735ca75a4918d2f41e269b2578d21f84c7dcff6e055af8213"
+      "sha256": "34371bb8fd77680735ca75a4918d2f41e269b2578d21f84c7dcff6e055af8213",
+      "display_sha256": "a15af92d823411e0d76360037ea4f20538d3ce7707055c79d00726d37bf23d2d",
+      "display_blob_sha": "8539d8f2358f59eeece21d2c0b217700fb8c90c1",
+      "display_original_site_sha256": "34371bb8fd77680735ca75a4918d2f41e269b2578d21f84c7dcff6e055af8213",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/argemone-albiflora-subsp-texana/inat-17577855.jpg",
@@ -92,7 +97,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3de0adf1dad59e3efa3380460803c7cbd99c239d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -100,7 +105,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 12231279, photo 17577855, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 56df6c5bca33e42a667dd848299d269571d13416e25f24ebacf708854b15ed88. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Argemone albiflora texana maps to indexed species argemone-albiflora-subsp-texana; specialist morphology and BONAP range deferred.",
-      "sha256": "56df6c5bca33e42a667dd848299d269571d13416e25f24ebacf708854b15ed88"
+      "sha256": "56df6c5bca33e42a667dd848299d269571d13416e25f24ebacf708854b15ed88",
+      "display_sha256": "505ae9e4255f5465286f564c095d0c5663009875798605816ff5205f2ba50424",
+      "display_blob_sha": "47bdc2068df7abcf2de5eafd709647a14abccd2a",
+      "display_original_site_sha256": "56df6c5bca33e42a667dd848299d269571d13416e25f24ebacf708854b15ed88",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/argemone-albiflora-subsp-texana/inat-268470489.jpeg",
@@ -111,7 +121,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1d5a451432f82e8fcbe7420dbf6e2822bec6f9ff",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -119,7 +129,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 155320435, photo 268470489, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 458c6cdf0c8d1485b5e477e8d2b70340fdac339d3f1b9d6fee2e324e9a29ec3f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Argemone albiflora texana maps to indexed species argemone-albiflora-subsp-texana; specialist morphology and BONAP range deferred.",
-      "sha256": "458c6cdf0c8d1485b5e477e8d2b70340fdac339d3f1b9d6fee2e324e9a29ec3f"
+      "sha256": "458c6cdf0c8d1485b5e477e8d2b70340fdac339d3f1b9d6fee2e324e9a29ec3f",
+      "display_sha256": "fc91276ac691d018b6e2a32683ab89bfcf0664ceed917bc770de605fb8ccb9ef",
+      "display_blob_sha": "4bd0f628fcbd254338f9dfe74387a00ac7843767",
+      "display_original_site_sha256": "458c6cdf0c8d1485b5e477e8d2b70340fdac339d3f1b9d6fee2e324e9a29ec3f",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/argemone-albiflora-subsp-texana/inat-3590614.jpg",
@@ -130,7 +145,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e8ee9383f9fdccb0d007d986c53e9796619984de",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -138,7 +153,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 3107243, photo 3590614, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6701124db25d052fccdc292ba9ae7af606ed635c4020a0a8b13ab05018834248. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Argemone albiflora texana maps to indexed species argemone-albiflora-subsp-texana; specialist morphology and BONAP range deferred.",
-      "sha256": "6701124db25d052fccdc292ba9ae7af606ed635c4020a0a8b13ab05018834248"
+      "sha256": "6701124db25d052fccdc292ba9ae7af606ed635c4020a0a8b13ab05018834248",
+      "display_sha256": "be74e120dbf61caff139648c6cc9ff04d604a8b7d0a966943cf3582cf3d56bec",
+      "display_blob_sha": "66be2705ee42b75f1c982676f9cb45056b3c0cea",
+      "display_original_site_sha256": "6701124db25d052fccdc292ba9ae7af606ed635c4020a0a8b13ab05018834248",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/argemone-albiflora-subsp-texana/inat-7429122.jpg",

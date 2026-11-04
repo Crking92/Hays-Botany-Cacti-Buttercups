@@ -69,7 +69,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3f1b2aa5afba3e7a5fd903fe9d88777c89b32cb5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -77,7 +77,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 349326654, photo 637223587, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0c760472701d773dc3e6602a77007bf2a8a483c4186e39feb1bc12fedae0cc32. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Argemone aurantiaca maps to indexed species argemone-aurantiaca; specialist morphology and BONAP range deferred.",
-      "sha256": "0c760472701d773dc3e6602a77007bf2a8a483c4186e39feb1bc12fedae0cc32"
+      "sha256": "0c760472701d773dc3e6602a77007bf2a8a483c4186e39feb1bc12fedae0cc32",
+      "display_sha256": "599118c4637885a22df019318ba1e132bbcb622ce9187cec203050fce417789a",
+      "display_blob_sha": "9fa4e4f6cbc944102c647ac004c81344f6d60a7d",
+      "display_original_site_sha256": "0c760472701d773dc3e6602a77007bf2a8a483c4186e39feb1bc12fedae0cc32",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/argemone-aurantiaca/inat-639626959.jpg",
@@ -88,7 +93,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "00cde216b44e2dfbaee71914c6833482d10d7b93",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -96,7 +101,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 350554097, photo 639626959, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0d293f7c075bfe67d884e741a143bab44ef5918c18ad91eaabac860cb7564fb4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Argemone aurantiaca maps to indexed species argemone-aurantiaca; specialist morphology and BONAP range deferred.",
-      "sha256": "0d293f7c075bfe67d884e741a143bab44ef5918c18ad91eaabac860cb7564fb4"
+      "sha256": "0d293f7c075bfe67d884e741a143bab44ef5918c18ad91eaabac860cb7564fb4",
+      "display_sha256": "837c956b958f7bf2cc2b3db0cf0dec31d28435a2a0d61f7f8534416cff18ca59",
+      "display_blob_sha": "7404a26cb2036e4274a10a6dba1861b2e0620588",
+      "display_original_site_sha256": "0d293f7c075bfe67d884e741a143bab44ef5918c18ad91eaabac860cb7564fb4",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/argemone-aurantiaca/inat-642434492.jpg",
@@ -107,7 +117,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "69910317fe09c9357282959e2f623ef0b2bbefdd",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -115,7 +125,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 352003745, photo 642434492, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5ac2dfa203190600d7750f1f2e354cc165baf9555220c538a0f849e9f15ca026. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Argemone aurantiaca maps to indexed species argemone-aurantiaca; specialist morphology and BONAP range deferred.",
-      "sha256": "5ac2dfa203190600d7750f1f2e354cc165baf9555220c538a0f849e9f15ca026"
+      "sha256": "5ac2dfa203190600d7750f1f2e354cc165baf9555220c538a0f849e9f15ca026",
+      "display_sha256": "e51a891165196465c858129fe9642355c4f95b03486f09cb390241e85e59383d",
+      "display_blob_sha": "94e82b24d097aa6ad59f641a82f636c468d5d493",
+      "display_original_site_sha256": "5ac2dfa203190600d7750f1f2e354cc165baf9555220c538a0f849e9f15ca026",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/argemone-aurantiaca/inat-646919959.jpg",
@@ -126,7 +141,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e66c0c9b3b3b1ed4214ad7c3b91f441e4f011d3a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -134,7 +149,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 354642721, photo 646919959, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 64c0db9d1acf005013eb46ff224767511e1601ff989d3ed0ba624bad569a421b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Argemone aurantiaca maps to indexed species argemone-aurantiaca; specialist morphology and BONAP range deferred.",
-      "sha256": "64c0db9d1acf005013eb46ff224767511e1601ff989d3ed0ba624bad569a421b"
+      "sha256": "64c0db9d1acf005013eb46ff224767511e1601ff989d3ed0ba624bad569a421b",
+      "display_sha256": "7df70163df40444d0c7ab2feeb3e12a5a90b2dc9394915dbef9cb68fc038b145",
+      "display_blob_sha": "50a60f9faebe587d6dcf41a713abd920341d337e",
+      "display_original_site_sha256": "64c0db9d1acf005013eb46ff224767511e1601ff989d3ed0ba624bad569a421b",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/argemone-aurantiaca/inat-650429499.jpg",
@@ -145,7 +165,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ea5f8379f0b35255019a0c610466e18bf7b7dd66",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -153,7 +173,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 356660063, photo 650429499, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f3ccd158c7582abbb2372217130139474af9daf7caf165a4d210fd11876d1cf8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Argemone aurantiaca maps to indexed species argemone-aurantiaca; specialist morphology and BONAP range deferred.",
-      "sha256": "f3ccd158c7582abbb2372217130139474af9daf7caf165a4d210fd11876d1cf8"
+      "sha256": "f3ccd158c7582abbb2372217130139474af9daf7caf165a4d210fd11876d1cf8",
+      "display_sha256": "11a45c64bbf49f7c5e1f25d0d5d98d99bcd2e8edbe274a1d7c0aaf7be56785ea",
+      "display_blob_sha": "544413f1eff0ba9caca36a0d51f6ea8c4b2b3567",
+      "display_original_site_sha256": "f3ccd158c7582abbb2372217130139474af9daf7caf165a4d210fd11876d1cf8",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/argemone-aurantiaca/archived-05438ff68f288067.jpg",

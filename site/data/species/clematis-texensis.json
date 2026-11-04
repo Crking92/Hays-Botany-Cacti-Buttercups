@@ -95,7 +95,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "eef1156b74697c81b52616da23b0b6cf87c7652e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -103,7 +103,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 345737454, photo 630121683, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: af26c8b7f07a11f653dd103c2128a6895831c3157dfc490ca906af539dd6ba8f.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Clematis texensis maps to indexed species clematis-texensis; specialist morphology and BONAP range deferred.",
-      "sha256": "af26c8b7f07a11f653dd103c2128a6895831c3157dfc490ca906af539dd6ba8f"
+      "sha256": "af26c8b7f07a11f653dd103c2128a6895831c3157dfc490ca906af539dd6ba8f",
+      "display_sha256": "b50a3c8e88cf8037e1d1d385899697c7c59048a955459574d10730c0c599487a",
+      "display_blob_sha": "abf54e787976506a58931c70b8373e5c801eab6f",
+      "display_original_site_sha256": "af26c8b7f07a11f653dd103c2128a6895831c3157dfc490ca906af539dd6ba8f",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/clematis-texensis/inat-633931914.jpg",
@@ -114,7 +119,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1e25d77c78730bc2869590e8c30203e08d623f7d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -122,7 +127,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 347663561, photo 633931914, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 60529ab268d17671767652ca67dd7bccfa5fda59cc0774fc606bc8ec855d7cb7.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Clematis texensis maps to indexed species clematis-texensis; specialist morphology and BONAP range deferred.",
-      "sha256": "60529ab268d17671767652ca67dd7bccfa5fda59cc0774fc606bc8ec855d7cb7"
+      "sha256": "60529ab268d17671767652ca67dd7bccfa5fda59cc0774fc606bc8ec855d7cb7",
+      "display_sha256": "c8c3a142464d1d726c6764e8c1c2980dc4cbff8f286d8e5fdfa4ca776cdbdf7d",
+      "display_blob_sha": "b2607679b095f3bc19d0bb874be891e1b0ec54d5",
+      "display_original_site_sha256": "60529ab268d17671767652ca67dd7bccfa5fda59cc0774fc606bc8ec855d7cb7",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/clematis-texensis/inat-645779876.jpg",
@@ -133,7 +143,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d99ac0f2929dcd5ce14e360b02a3f8441476d74d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -141,7 +151,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 353963824, photo 645779876, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 050a17ebd25cc541558e1ea07e2d7820a28dca34ab0f3ce6c705c74c79cbb8c2.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Clematis texensis maps to indexed species clematis-texensis; specialist morphology and BONAP range deferred.",
-      "sha256": "050a17ebd25cc541558e1ea07e2d7820a28dca34ab0f3ce6c705c74c79cbb8c2"
+      "sha256": "050a17ebd25cc541558e1ea07e2d7820a28dca34ab0f3ce6c705c74c79cbb8c2",
+      "display_sha256": "d5adca2ccfbb443c7588d43d084ea46fb600e18fffa0c9b359c01aa753db1a22",
+      "display_blob_sha": "966bd28057a6b58fdeb758595b2e3d89eef9cfa4",
+      "display_original_site_sha256": "050a17ebd25cc541558e1ea07e2d7820a28dca34ab0f3ce6c705c74c79cbb8c2",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/clematis-texensis/inat-646940111.jpg",
@@ -152,7 +167,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d18d9b8cd410b81454d18b88fe80db6548af5a37",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -160,7 +175,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 354655002, photo 646940111, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b2864e6e647aad6bc55d283692bcbfa77a259f9aa427d8fbbc08efb8240da0e3.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Clematis texensis maps to indexed species clematis-texensis; specialist morphology and BONAP range deferred.",
-      "sha256": "b2864e6e647aad6bc55d283692bcbfa77a259f9aa427d8fbbc08efb8240da0e3"
+      "sha256": "b2864e6e647aad6bc55d283692bcbfa77a259f9aa427d8fbbc08efb8240da0e3",
+      "display_sha256": "f903b79ec3a1c80c44322802a005a66fddc32d9bf7164135dffbcc4d2c5b3c74",
+      "display_blob_sha": "c0f044a9b08a679ff6cc6aea8ea0270d7536818e",
+      "display_original_site_sha256": "b2864e6e647aad6bc55d283692bcbfa77a259f9aa427d8fbbc08efb8240da0e3",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/clematis-texensis/inat-648072531.jpg",
@@ -171,7 +191,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e36ac2ce6662e30db3b7a9aa214a6bc65b20cb9c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -179,7 +199,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 355336133, photo 648072531, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a62e62719cf70a6b84cd640822a52f39cb2d18f3cc33075bd53bd0b86b1ae077.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Clematis texensis maps to indexed species clematis-texensis; specialist morphology and BONAP range deferred.",
-      "sha256": "a62e62719cf70a6b84cd640822a52f39cb2d18f3cc33075bd53bd0b86b1ae077"
+      "sha256": "a62e62719cf70a6b84cd640822a52f39cb2d18f3cc33075bd53bd0b86b1ae077",
+      "display_sha256": "7f778c4f3df71c06d73f312090aeaaea7632dc3cb37f86144eaae20cb156243d",
+      "display_blob_sha": "7e3972642d1733650421ea215890265d2ca15d47",
+      "display_original_site_sha256": "a62e62719cf70a6b84cd640822a52f39cb2d18f3cc33075bd53bd0b86b1ae077",
+      "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
