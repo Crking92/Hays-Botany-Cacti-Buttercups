@@ -207,6 +207,25 @@
       "source_review_evidence": "iNaturalist observation 348764122 photo 636119614 individual CC code cc-by-nc; photographer (c) David Willis, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 06e7b0f8e83b019a482c099893f3585f6425bce3; exact image source https://www.inaturalist.org/photos/636119614",
       "taxon_review_evidence": "Original species record argemone aurantiaca linked to an original image and matching current inat photo of source taxon Argemone aurantiaca. Basic source-backed field recognition only; no diagnostic arrow certification.",
       "sha256": "f6ac9af580dfef08b7c3021db8ea198d19f56814218af5dff5caabacfe439685"
+    },
+    {
+      "src": "media/argemone-aurantiaca/archived-0069dd2f0da7b67b.jpg",
+      "creator": "Unspecified iNaturalist photographer (CC0; source linked)",
+      "source_page": "https://www.inaturalist.org/photos/367305031",
+      "source_page_is_exact": true,
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "40a1db8ba602ad8b0a29b3b8c4fbcc49dd6d74f9",
+      "role": "curated taxon reference 1",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Specific historical source image-sources.csv CC code cc0 and named photographer Unspecified iNaturalist photographer (CC0; source linked); exact photo 367305031; source image public open-data URL https://inaturalist-open-data.s3.amazonaws.com/photos/367305031/large.jpg; archived vs source pixel dHash distance 0; original species-card name argemone aurantiaca; historical CC permission is irrevocable but source license was not freshly revalidated; archived source SHA 40a1db8ba602ad8b0a29b3b8c4fbcc49dd6d74f9; exact image source https://www.inaturalist.org/photos/367305031",
+      "taxon_review_evidence": "Original species record argemone aurantiaca linked to an original image and matching current inat-archived-exact-photo photo of source taxon argemone aurantiaca. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "0069dd2f0da7b67b15fa3c6cd5245406c3abfd5b7f37e702cc7fd23f57da5dbe"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

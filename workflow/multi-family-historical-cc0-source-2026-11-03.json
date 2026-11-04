@@ -1,26 +1,53 @@
 {
   "repository": "Crking92/Hays-Botany-Cacti-Buttercups",
   "batch_key": "MULTIFAMILY_HISTORICAL_CC0_SOURCE_2026-11-03",
-  "checked_at": "2026-11-04T03:11:45.051529+00:00",
+  "checked_at": "2026-11-04T03:21:47.621051+00:00",
   "source_files": 194,
   "selection_window": 80,
-  "candidate_pool_with_usable_source_identifiers": 0,
+  "candidate_pool_with_usable_source_identifiers": 1,
   "remaining_candidates_not_yet_checked": 0,
-  "selected_candidates": 0,
-  "selected_by_lane": {},
+  "selected_candidates": 1,
+  "selected_by_lane": {
+    "inat": 1
+  },
   "skipped_or_previously_published": {
     "already_public_identical_bytes": 70,
     "original_historical_review_preserved": 114,
-    "not_explicit_archived_individual_cc0": 10
+    "not_explicit_archived_individual_cc0": 9
   },
-  "new_installed": 0,
+  "new_installed": 1,
   "held_checked": 0,
   "duplicates_found_during_review": 0,
-  "records": [],
-  "previous_batches": [],
-  "batch_number": 1,
+  "records": [
+    {
+      "species_id": "argemone-aurantiaca",
+      "family": "Papaveraceae",
+      "filename": "01-curated-reference.jpg",
+      "original_path": "content/taxa/Papaveraceae/Argemone/argemone-aurantiaca/images/01-curated-reference.jpg",
+      "archive_path": "migration/private-original-photo-holds/Papaveraceae/Argemone/argemone-aurantiaca/images/01-curated-reference.jpg",
+      "git_blob_sha": "40a1db8ba602ad8b0a29b3b8c4fbcc49dd6d74f9",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Unspecified iNaturalist photographer (CC0; source linked)",
+      "license": "CC0 1.0",
+      "source_page": "https://www.inaturalist.org/photos/367305031",
+      "taxon": "argemone aurantiaca",
+      "src": "media/argemone-aurantiaca/archived-0069dd2f0da7b67b.jpg",
+      "sha256": "0069dd2f0da7b67b15fa3c6cd5245406c3abfd5b7f37e702cc7fd23f57da5dbe"
+    }
+  ],
+  "previous_batches": [
+    {
+      "checked_at": "2026-11-04T03:11:45.051529+00:00",
+      "selected_candidates": 0,
+      "new_installed": 0,
+      "held_checked": 0,
+      "records": []
+    }
+  ],
+  "batch_number": 2,
   "verified_but_not_installed": 0,
   "held_by_reason": {},
-  "cumulative_installed": 0,
+  "cumulative_installed": 1,
   "cumulative_held_reviewed": 0
 }
