@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 107,
   "photo_species": 100,
-  "photo_count": 409,
+  "photo_count": 434,
   "entries": {
     "alternanthera-caracasana": {
       "count": 2,
@@ -186,7 +186,7 @@
       "first_src": "media/thelocactus-bicolor/archived-f2264d52308033dd.jpg"
     },
     "arenaria-benthamii": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/arenaria-benthamii/archived-a6e5a27306a55cb5.jpg"
     },
     "cerastium-brachypodum": {
@@ -194,15 +194,15 @@
       "first_src": "media/cerastium-brachypodum/archived-a950f6d23f282ff2.jpg"
     },
     "paronychia-virginica": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/paronychia-virginica/archived-56558f37a8588f46.jpeg"
     },
     "saponaria-officinalis": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/saponaria-officinalis/archived-a0a3d73eb1a40d76.jpg"
     },
     "silene-antirrhina": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/silene-antirrhina/archived-7e7e82b27ebc3060.jpg"
     },
     "stellaria-cuspidata-subsp-prostrata": {
@@ -210,7 +210,7 @@
       "first_src": "media/stellaria-cuspidata-subsp-prostrata/archived-b9ec74eab40c4d16.jpg"
     },
     "stellaria-media": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/stellaria-media/archived-38bb8e0b9e7310cc.jpg"
     },
     "nephroia-carolina": {
