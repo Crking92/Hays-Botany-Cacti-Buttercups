@@ -74,8 +74,22 @@ def local_audit():
             for key in ("creator", "source_page", "license", "license_url", "role"):
                 require(bool(str(photo.get(key) or "").strip()), sid + ": absent credit field " + key)
             is_nc = photo["license"] in {"CC BY-NC 4.0", "CC BY-NC-SA 4.0"}
-            require(bool(ALLOWED.fullmatch(photo["license"])) or is_nc,
-                    sid + ": unknown/non-public photo license: " + photo["license"])
+            label=photo["license"]
+            federal_public_domain=(
+                label=="PUBLIC DOMAIN (U.S. FEDERAL WORK)"
+                and photo.get("license_url")=="https://www.copyright.gov/title17/92chap1.html#105"
+                and photo.get("source_page","").startswith("https://commons.wikimedia.org/wiki/File:")
+                and "PUBLIC DOMAIN (U.S. FEDERAL WORK)" in str(photo.get("source_review_evidence") or "")
+                and bool(photo.get("creator"))
+            )
+            author_public_domain=(
+                label=="PUBLIC DOMAIN (AUTHOR RELEASED)"
+                and photo.get("license_url")=="https://creativecommons.org/publicdomain/mark/1.0/"
+                and photo.get("source_page","").startswith("https://commons.wikimedia.org/wiki/File:")
+                and "PUBLIC DOMAIN (AUTHOR RELEASED)" in str(photo.get("source_review_evidence") or "")
+            )
+            require(bool(ALLOWED.fullmatch(label)) or is_nc or federal_public_domain or author_public_domain,
+                    sid + ": unknown/non-public photo license: " + label)
             require(not photo.get("private_rights_review_only"),
                     sid + ": public gallery points to held/private image")
             require(photo.get("noncommercial_only") is is_nc,
