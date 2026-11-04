@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 107,
   "photo_species": 104,
-  "photo_count": 461,
+  "photo_count": 490,
   "entries": {
     "alternanthera-caracasana": {
       "count": 2,
@@ -138,11 +138,11 @@
       "first_src": "media/ferocactus-hamatacanthus/archived-7132700272d8d0f7.jpg"
     },
     "grusonia-aggeria": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/grusonia-aggeria/archived-9568e8a868bfd8b0.jpg"
     },
     "homalocephala-texensis": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/homalocephala-texensis/archived-e0e68b4045048dee.jpg"
     },
     "opuntia-azurea": {
@@ -158,19 +158,19 @@
       "first_src": null
     },
     "opuntia-macrorhiza": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/opuntia-macrorhiza/archived-phase2-2e4b0f7fbfec655a.jpg"
     },
     "opuntia-orbiculata": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/opuntia-orbiculata/archived-b08d8dd01c31aaf8.jpg"
     },
     "opuntia-phaeacantha": {
-      "count": 2,
+      "count": 4,
       "first_src": "media/opuntia-phaeacantha/opuntia-phaeacantha-provisional-face.jpg"
     },
     "opuntia-rufida": {
-      "count": 3,
+      "count": 7,
       "first_src": "media/opuntia-rufida/opuntia-rufida-coahuila-provisional.jpg"
     },
     "pelecyphora-macromeris-subsp-macromeris": {
@@ -182,7 +182,7 @@
       "first_src": "media/sclerocactus-warnockii/archived-8a842fb3f82bc8d6.jpg"
     },
     "thelocactus-bicolor": {
-      "count": 1,
+      "count": 4,
       "first_src": "media/thelocactus-bicolor/archived-f2264d52308033dd.jpg"
     },
     "arenaria-benthamii": {
