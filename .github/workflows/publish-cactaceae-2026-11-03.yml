@@ -4,6 +4,7 @@ on:
     branches: [main]
     paths:
       - '.github/workflows/publish-cactaceae-2026-11-03.yml'
+      - 'scripts/publish_verified_cactaceae_zip.py'
   workflow_dispatch:
 permissions:
   contents: write
