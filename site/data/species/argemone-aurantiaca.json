@@ -2,9 +2,9 @@
   "id": "argemone-aurantiaca",
   "family": "Papaveraceae",
   "genus": "Argemone",
-  "scientific_name": "",
+  "scientific_name": "Argemone aurantiaca",
   "common_name": "Texas Pricklypoppy",
-  "look_here_first": "",
+  "look_here_first": "Despite the name 'aurantiaca,' flowers are usually WHITE. Look for fresh orange to reddish-orange latex, very prickly leaves and stems, 8–12 mm prickly sepal horns, and exceptionally long unequal often branched mature capsule prickles (15–35 mm). Distinguish it from white-flowered A. albiflora subsp. texana by sap plus bud and fruit characters, not flower color.",
   "key_traits": [
     {
       "label": "Life cycle",
@@ -52,8 +52,12 @@
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Argemone albiflora subsp. texana",
+      "Argemone polyanthemos",
+      "Argemone sanguinea"
+    ],
+    "differences": "A. albiflora subsp. texana has pale/light-yellow latex and generally shorter, mostly simple capsule prickles. A. polyanthemos has an often unarmed upper leaf surface and widely spaced, much shorter fruit prickles. A. sanguinea may flower pale or lavender, but its capsules typically carry shorter prickles."
   },
   "verified_photos": [
     {
@@ -230,5 +234,7 @@
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "730f4a9f2d986be5b548667679a2e858ec7e4510b8aa9c8b68ad12d00396d4e8",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch",
+  "genus_compare_id": "argemone",
+  "genus_comparison_note": "Look at the existing Argemone four-species field key. BONAP target-county nativity has not yet been verified for all taxa; do not use genus membership as a native-plant certification."
 }
