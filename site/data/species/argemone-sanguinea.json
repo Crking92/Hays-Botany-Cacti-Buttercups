@@ -32,8 +32,12 @@
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": "Flower color is the quickest clue, but confirm with latex, bud, and capsule characters because pale-flowered individuals reduce the value of color alone."
+    "names": [
+      "Argemone albiflora subsp. texana",
+      "Argemone aurantiaca",
+      "Argemone polyanthemos"
+    ],
+    "differences": "Its rose/lavender/reddish petals are a useful clue, but flowers can be WHITE. Confirm with buds having 5–10 mm sometimes basally prickly horns, capsules with short uneven prickles generally 5–7(–10) mm, and upper leaves unarmed or sparingly prickly on main veins. Do not classify every white-flowered plant as A. albiflora or A. polyanthemos."
   },
   "verified_photos": [
     {
@@ -166,5 +170,7 @@
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "d423136791854dacfe30d0325c6601066dc1a3eba3038d4ada69f97c7103b1dd",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch",
+  "genus_compare_id": "argemone",
+  "genus_comparison_note": "Look at the existing Argemone four-species field key. BONAP target-county nativity has not yet been verified for all taxa; do not use genus membership as a native-plant certification."
 }
