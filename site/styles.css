@@ -24,3 +24,21 @@
 .results button{display:flow-root;overflow:hidden;min-height:60px}
 .result-thumb{float:left;width:65px;height:62px;object-fit:cover;border-radius:9px;background:#e8eee4;margin-right:10px}
 .photo-count{display:block;font-size:.75rem;color:#236444;font-weight:750;margin-top:3px}
+
+/* Argemone genus study: compare four existing photo-backed species without new image downloads */
+.argemone-guide{border-top:1px solid var(--line,#a9afa8);margin:1.5rem 0;padding-top:1rem}
+.argemone-guide>h3{margin-bottom:.5rem}
+.argemone-guide .argemone-steps{padding-left:1.35rem;line-height:1.5}
+.argemone-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.85rem;margin:1.1rem 0}
+.argemone-tile{display:flex;flex-direction:column;align-items:stretch;text-align:left;gap:.35rem;padding:.8rem;border-radius:.65rem;border:1px solid var(--line,#a9afa8);background:var(--surface,#f6f5f0);color:inherit;cursor:pointer;font:inherit;max-width:100%;min-width:0}
+.argemone-tile[aria-current="true"]{outline:2px solid currentColor;outline-offset:1px}
+.argemone-tile:hover{filter:brightness(.97)}
+.argemone-tile img{width:100%;height:9rem;object-fit:cover;border-radius:.4rem}
+.argemone-tile strong{font-weight:700}
+.argemone-tile em{font-size:.92em}
+.argemone-tile p{margin:.3rem 0;font-size:.9em;line-height:1.4}
+.argemone-cue{font-weight:600;line-height:1.45}
+.argemone-range{font-size:.8em;opacity:.83;line-height:1.45}
+.argemone-needs{margin-top:1rem;padding:.6rem .8rem;border:1px solid var(--line,#a9afa8);border-radius:.4rem}
+.argemone-needs summary{cursor:pointer;font-weight:650}
+@media(max-width:640px){.argemone-grid{grid-template-columns:1fr}.argemone-tile img{height:11rem}}
