@@ -31,6 +31,10 @@ KEW_VERIFIED_SYNONYMS={
     "ferocactus-hamatacanthus":{"hamatocactus hamatacanthus"},
     "opuntia-engelmannii-var-lindheimeri":{"opuntia lindheimeri"},
     "sclerocactus-warnockii":{"echinomastus warnockii"},
+    # iNaturalist omits the rank token and uses 'metorni' for metornii;
+    # POWO accepts E. fobeanus subsp. metornii as a synonym of
+    # E. chisoensis subsp. chisoensis (POWO taxon 77229216-1).
+    "echinocereus-chisoensis":{"echinocereus fobeanus metorni"},
 }
 def taxon_matches(sid,name):
     a=norm(sid);b=norm(name)
