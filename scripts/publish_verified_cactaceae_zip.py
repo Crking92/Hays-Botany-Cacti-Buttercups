@@ -25,9 +25,19 @@ def grab(url,maximum):
             time.sleep(2+attempt)
 def norm(s):
     return re.sub(r"[^a-z0-9]+"," ",str(s).lower().replace("×","x")).strip()
+# Only directly supported same-taxon names; Opuntia azurea/phaeacantha and
+# E. enneacanthus var. carnosus are NOT mapped to different target cards.
+KEW_VERIFIED_SYNONYMS={
+    "ferocactus-hamatacanthus":{"hamatocactus hamatacanthus"},
+    "opuntia-engelmannii-var-lindheimeri":{"opuntia lindheimeri"},
+    "sclerocactus-warnockii":{"echinomastus warnockii"},
+}
 def taxon_matches(sid,name):
     a=norm(sid);b=norm(name)
-    return a==b or (len(a.split())==2 and (b.startswith(a+" var ") or b.startswith(a+" subsp ")))
+    rankless=lambda s:" ".join(w for w in s.split() if w not in {"var","subsp","ssp","subspecies"})
+    return (a==b or rankless(a)==rankless(b)
+            or (len(a.split())==2 and b.startswith(a+" "))
+            or b in KEW_VERIFIED_SYNONYMS.get(sid,set()))
 def main():
     parser=argparse.ArgumentParser()
     parser.add_argument("--manifest",required=True,type=Path)
