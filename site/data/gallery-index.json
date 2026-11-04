@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 107,
-  "photo_species": 101,
-  "photo_count": 436,
+  "photo_species": 104,
+  "photo_count": 461,
   "entries": {
     "alternanthera-caracasana": {
       "count": 2,
@@ -90,19 +90,19 @@
       "first_src": "media/nandina-domestica/archived-849575122f6d573a.jpg"
     },
     "coryphantha-echinus": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/coryphantha-echinus/inat-622350638.jpg"
     },
     "coryphantha-sulcata": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/coryphantha-sulcata/inat-626029176.jpg"
     },
     "cylindropuntia-imbricata": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/cylindropuntia-imbricata/inat-623728641.jpg"
     },
     "cylindropuntia-leptocaulis": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/cylindropuntia-leptocaulis/archived-b08204c23e4d08f7.jpg"
     },
     "echinocactus-horizonthalonius-subsp-horizonthalonius": {
@@ -126,7 +126,7 @@
       "first_src": "media/echinocereus-reichenbachii/archived-95b8d48a115521cd.jpg"
     },
     "echinocereus-stramineus": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/echinocereus-stramineus/archived-7d41986d1038950e.jpg"
     },
     "echinocereus-triglochidiatus": {

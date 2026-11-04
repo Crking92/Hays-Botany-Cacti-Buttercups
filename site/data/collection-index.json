@@ -198,8 +198,8 @@
       "genus": "Coryphantha",
       "scientific_name": "Coryphantha echinus",
       "common_name": "Hedgehog nipple cactus",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "coryphantha-sulcata",
@@ -207,8 +207,8 @@
       "genus": "Coryphantha",
       "scientific_name": "Coryphantha sulcata",
       "common_name": "Grooved nipple cactus",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "cylindropuntia-imbricata",
@@ -216,8 +216,8 @@
       "genus": "Cylindropuntia",
       "scientific_name": "Cylindropuntia imbricata",
       "common_name": "Tree cholla",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "cylindropuntia-leptocaulis",
@@ -225,7 +225,7 @@
       "genus": "Cylindropuntia",
       "scientific_name": "Cylindropuntia leptocaulis",
       "common_name": "Christmas cholla",
-      "photo_count": 3,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -279,7 +279,7 @@
       "genus": "Echinocereus",
       "scientific_name": "Echinocereus stramineus",
       "common_name": "Strawberry hedgehog cactus",
-      "photo_count": 3,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
