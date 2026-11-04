@@ -27,7 +27,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           repository: Crking92/Hays-Botany-Public
-          ref: b5b7fecf7e06da469d5242a9716cc415db344cbc
+          ref: 3bf9e973926c56f192a638ff5080039ec4ca990a
           path: .shared-photo-audit
           persist-credentials: false
       - run: python3 -m pip install --disable-pip-version-check Pillow==11.3.0
