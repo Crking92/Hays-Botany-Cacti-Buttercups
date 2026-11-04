@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 107,
   "photo_species": 104,
-  "photo_count": 532,
+  "photo_count": 547,
   "entries": {
     "alternanthera-caracasana": {
       "count": 2,
@@ -90,15 +90,15 @@
       "first_src": "media/nandina-domestica/archived-849575122f6d573a.jpg"
     },
     "coryphantha-echinus": {
-      "count": 5,
+      "count": 7,
       "first_src": "media/coryphantha-echinus/inat-622350638.jpg"
     },
     "coryphantha-sulcata": {
-      "count": 5,
+      "count": 8,
       "first_src": "media/coryphantha-sulcata/inat-626029176.jpg"
     },
     "cylindropuntia-imbricata": {
-      "count": 5,
+      "count": 7,
       "first_src": "media/cylindropuntia-imbricata/inat-623728641.jpg"
     },
     "cylindropuntia-leptocaulis": {
@@ -250,7 +250,7 @@
       "first_src": "media/mirabilis-jalapa/inat-632005279.jpg"
     },
     "mirabilis-linearis": {
-      "count": 5,
+      "count": 7,
       "first_src": "media/mirabilis-linearis/inat-154735742.jpg"
     },
     "mirabilis-nyctaginea": {
@@ -410,7 +410,7 @@
       "first_src": "media/clematis-texensis/01-scarlet-flower.jpg"
     },
     "delphinium-carolinianum": {
-      "count": 5,
+      "count": 8,
       "first_src": "media/delphinium-carolinianum/inat-633936813.jpg"
     },
     "ranunculus-fascicularis": {
@@ -430,7 +430,7 @@
       "first_src": "media/ranunculus-sceleratus/inat-480257093.jpg"
     },
     "talinum-aurantiacum": {
-      "count": 5,
+      "count": 8,
       "first_src": "media/talinum-aurantiacum/inat-635235235.jpg"
     }
   }
