@@ -239,5 +239,75 @@
       "Flora of North America / World Flora Online Argemone treatment",
       "existing project species packages and provenance"
     ]
+  },
+  "photo_first_genus_review_20261104": {
+    "phase": "GENERAL_GALLERY_REUSED; DIAGNOSTIC_ROLE_REVIEW_NEXT",
+    "target_repo": "Crking92/Hays-Botany-Cacti-Buttercups",
+    "public_site": "https://crking92.github.io/Hays-Botany-Cacti-Buttercups/site/",
+    "examined_public_species": [
+      "argemone-albiflora-subsp-texana",
+      "argemone-aurantiaca",
+      "argemone-polyanthemos",
+      "argemone-sanguinea"
+    ],
+    "public_gallery_reference_counts": {
+      "argemone-albiflora-subsp-texana": 10,
+      "argemone-aurantiaca": 9,
+      "argemone-polyanthemos": 7,
+      "argemone-sanguinea": 7
+    },
+    "reference_total": 33,
+    "findings": [
+      "The public website already has credited field photographs for all four indexed species; collect no duplicate general photos before visual role audit.",
+      "Existing October 2026 genotype key is retained. A. albiflora subsp. texana and A. aurantiaca public cards have blank scientific names and empty first-look paragraphs and need repair.",
+      "No BONAP county-specific confirmation has been obtained during this pass for Hays plus nearby west/north target. A. polyanthemos and A. sanguinea continue as range-review comparisons, not confirmed target natives.",
+      "Some galleries include alternate renditions of the same photographer's original; compare source photo IDs and image hashes before treating them as distinct coverage."
+    ],
+    "remaining_master_photo_needs_queue_targets": [
+      {
+        "scope": "all four",
+        "roles": [
+          "whole plant with rooted crown",
+          "basal rosette and upper leaf face",
+          "lower leaf midrib prickles",
+          "unopened bud with millimeter scale",
+          "mature capsule side view with millimeter scale"
+        ]
+      },
+      {
+        "scope": "Argemone aurantiaca",
+        "roles": [
+          "fresh orange or orange-red latex",
+          "branched unequal long capsule prickles with scale"
+        ]
+      },
+      {
+        "scope": "Argemone albiflora subsp. texana",
+        "roles": [
+          "fresh yellow latex",
+          "shorter unequal simple capsule prickles"
+        ]
+      },
+      {
+        "scope": "Argemone polyanthemos",
+        "roles": [
+          "unarmed upper leaf surface",
+          "widely spaced capsule prickles and cylindrical sepal horns"
+        ]
+      },
+      {
+        "scope": "Argemone sanguinea",
+        "roles": [
+          "pale and lavender flowering forms with supporting buds and fruit",
+          "shorter capsule prickles"
+        ]
+      }
+    ],
+    "morphology_sources": [
+      "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500124",
+      "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500126",
+      "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500143",
+      "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500144"
+    ]
   }
 }
