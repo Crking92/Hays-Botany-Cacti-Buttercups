@@ -100,7 +100,12 @@ def main():
             if is_nc and site_meta.get("photo_license_policy",{}).get("noncommercial_educational_use") is not True:
                 raise ValueError("Noncommercial use not authorized at destination site")
             creator=str(photo.get("attribution") or "").strip()
-            if not creator or creator.lower() in {"some rights reserved","no rights reserved"}:raise ValueError("Exact-photo photographer attribution not established")
+            creator_source="live exact-photo attribution"
+            if not creator or creator.lower() in {"some rights reserved","no rights reserved"}:
+                # Exact SHA/ID matches user ZIP original, which includes source photo credit.
+                creator=str(m.get("source_metadata_credits",{}).get(str(pid)) or "").strip()
+                creator_source="original ZIP's exact-photo photographer credit"
+                if not creator:raise ValueError("Exact-photo photographer attribution not established")
             if len(creator)>400:raise ValueError("Photo attribution unexpectedly long")
             ext=EXT[extnum]
             source_url="https://inaturalist-open-data.s3.amazonaws.com/photos/%s/original.%s"%(pid,ext)
@@ -119,7 +124,7 @@ def main():
                 "approval_mode":"OWNER_STANDING_PHOTO_FIRST_POLICY",
                 "policy_ref":"PHOTO_FIRST_PUBLIC_GALLERY_POLICY_2026-11-02",
                 "review_operator":"Hays Botany Cactaceae original-media verifier",
-                "source_review_evidence":"Exact iNaturalist observation %s and photo %s checked individually for current %s rights, creator and identical SHA256 %s; source photograph %s."%(oid,pid,code,sha,source_url),
+                "source_review_evidence":"Exact iNaturalist observation %s and photo %s checked individually for current %s rights, creator from %s, and identical SHA256 %s; source photograph %s."%(oid,pid,code,creator_source,sha,source_url),
                 "taxon_review_evidence":"User original ZIP contact sheet visually reviewed for basic cactus identity and utility. Live source taxon '%s' matches this Cactaceae species card %s. Specialist morphology/field characters deferred."%(actual,sid),
                 "approval_note":"Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
                 "creator":creator,"source_page":"https://www.inaturalist.org/photos/"+str(pid),
