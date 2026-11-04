@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "id": "argemone",
+  "genus": "Argemone",
+  "family": "Papaveraceae",
+  "title": "Compare pricklypoppies: four Argemone species",
+  "intro": "For Texas crews: the white flowers alone will not separate these species. Follow fresh sap color, whether upper leaf blades have prickles, the horns on unopened sepal buds, and spines on mature capsules. Do not infer any fine structure from an unscaled gallery photo.",
+  "scope": "Four indexed teaching species. County-level BONAP NAPA distribution remains a separate screening gate; representation in the learner does not prove native occurrence in Hays County or its designated west/north target.",
+  "field_sequence": [
+    "Start with flower color, but don't identify from petals alone: sanguinea can be lavender, rose, or pale, while the other three are commonly white.",
+    "When appropriate and safely handling a known plant, observe freshly exposed latex without touching eyes or skin: aurantiaca has orange to reddish-orange sap, whereas the others have yellow or pale-yellow sap.",
+    "Examine the UPPER leaf surface separately from the spine-tipped margins: polyanthemos is typically unarmed above; look also at leaf lobing and how the upper leaves clasp the stem.",
+    "Photograph an unopened bud side-on with a millimeter scale. Measure sepal horns and see whether their surfaces have prickles.",
+    "Photograph an intact MATURE capsule with a millimeter scale: compare simple versus branched prickles, their length and spacing, and whether the capsule wall is visible."
+  ],
+  "safety_note": "Sharp prickles and potentially irritating/toxic latex: use gloves and avoid touching your face. If sap cannot be inspected safely, rely on buds, capsules, leaves, and several corroborating traits.",
+  "species": [
+    {
+      "id": "argemone-albiflora-subsp-texana",
+      "scientific_name": "Argemone albiflora subsp. texana",
+      "common_name": "White pricklypoppy",
+      "cue": "White flowers; pale to light-yellow latex. Upper foliage often nearly smooth except margins/veins.",
+      "bud": "Shorter sepal horns about 4–6 mm, occasionally to 10 mm, mostly unarmed.",
+      "fruit": "Usually narrowly ellipsoid capsule; mostly simple, unequal prickles with longest about 6–10 mm, occasionally 12 mm.",
+      "range": "Eastern Texas subspecies; Hays and target-county BONAP status not independently verified in this pass.",
+      "reference": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500124"
+    },
+    {
+      "id": "argemone-aurantiaca",
+      "scientific_name": "Argemone aurantiaca",
+      "common_name": "Texas pricklypoppy",
+      "cue": "White flowers despite its name; orange to reddish-orange latex is a strong clue.",
+      "bud": "Larger, prickly angular or flattened sepal horns, approximately 8–12 mm.",
+      "fruit": "Very long, unequal, often branched capsule prickles; longest about 15–35 mm.",
+      "range": "Native to south-central Texas; local target-county BONAP records require separate verification.",
+      "reference": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500126"
+    },
+    {
+      "id": "argemone-polyanthemos",
+      "scientific_name": "Argemone polyanthemos",
+      "common_name": "Crested pricklypoppy",
+      "cue": "White flowers and yellow latex; the upper leaf blade typically lacks prickles.",
+      "bud": "Ellipsoid-oblong bud; generally unarmed, round sepal horns about 6–10 mm, sometimes 15 mm.",
+      "fruit": "Widely spaced mostly simple capsule prickles, longest about 4–10 mm, sometimes 12 mm; wall readily visible.",
+      "range": "Native in west-central/central Great Plains; exact Hays and adjacent west/north target nativity unresolved.",
+      "reference": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500143"
+    },
+    {
+      "id": "argemone-sanguinea",
+      "scientific_name": "Argemone sanguinea",
+      "common_name": "Red pricklypoppy",
+      "cue": "Rose, lavender, reddish or sometimes WHITE petals; yellow latex, so petal color is only a clue.",
+      "bud": "Bud often ellipsoid-oblong; angular sepal horns about 5–10 mm, slightly prickly at the base.",
+      "fruit": "Narrow to broad capsule with comparatively short unequal prickles, usually 5–7 mm, occasionally 10 mm.",
+      "range": "Native mainly to southern Texas and northeastern Mexico; Hays and target-county BONAP status unverified, comparison only.",
+      "reference": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500144"
+    }
+  ],
+  "next_photo_targets": [
+    "All four: whole plant, basal rosette, both leaf surfaces, unopened bud with scale, and mature fruit with scale",
+    "A. aurantiaca versus A. albiflora: fresh orange versus yellow latex, sepal horns and capsule prickle branching",
+    "A. polyanthemos: upper blade lacking prickles plus mature capsule wall and horn comparison",
+    "A. sanguinea: pale/white and lavender flowers tied to bud and fruit on the SAME individual"
+  ],
+  "counts_as_of": "2026-11-04",
+  "source_gallery_photo_counts": {
+    "argemone-albiflora-subsp-texana": 10,
+    "argemone-aurantiaca": 9,
+    "argemone-polyanthemos": 7,
+    "argemone-sanguinea": 7
+  },
+  "sources": [
+    {
+      "title": "Flora of North America — Argemone identification key",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=102532"
+    },
+    {
+      "title": "Kew POWO — Argemone albiflora subsp. texana",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:18786-2"
+    },
+    {
+      "title": "Kew POWO — Argemone aurantiaca",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:18790-2"
+    }
+  ],
+  "attribution_policy": "Reference species photos are displayed through the existing species galleries with original photographer, exact photo URL and applicable license. Do not copy unverified external reference imagery into the site.",
+  "photos_newly_downloaded_for_this_genus_pass": 0,
+  "precise_anatomy_arrows_added": 0
+}
