@@ -67,6 +67,25 @@
       "source_review_evidence": "Live iNaturalist observation 359962271, photo 656800255, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3709b7b1ba35bf2177423dbf2d8fb017f41d08352c134140e7f36fc344c62733. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Rumex pulcher maps to indexed species rumex-pulcher; specialist morphology and BONAP range deferred.",
       "sha256": "3709b7b1ba35bf2177423dbf2d8fb017f41d08352c134140e7f36fc344c62733"
+    },
+    {
+      "src": "media/rumex-pulcher/archived-4322d3aa66fe1169.jpg",
+      "creator": "Krzysztof Ziarnek, Kenraiz",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Rumex_pulcher_kz08.jpg",
+      "source_page_is_exact": true,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "858031ecb313b428abbc470d8ff344ecd84374fa",
+      "role": "Provisional introduced-dock whole plant recognition; fruiting-valve macros needed",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Exact Commons file page, creator and image-specific CC BY-SA 4.0 independently reviewed 2026-11-03; same original URL https://upload.wikimedia.org/wikipedia/commons/4/4f/Rumex_pulcher_kz08.jpg; image fingerprint distance 0; archived source SHA 858031ecb313b428abbc470d8ff344ecd84374fa; exact image source https://commons.wikimedia.org/wiki/File:Rumex_pulcher_kz08.jpg",
+      "taxon_review_evidence": "Original species record Rumex pulcher linked to an original image and matching current commons photo of source taxon Rumex pulcher. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "4322d3aa66fe11697d42e5b28f34845f242a90450bf27993b6cd3d254eb355b9"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

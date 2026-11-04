@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 107,
   "photo_species": 100,
-  "photo_count": 434,
+  "photo_count": 435,
   "entries": {
     "alternanthera-caracasana": {
       "count": 2,
@@ -362,7 +362,7 @@
       "first_src": "media/rumex-crispus/inat-181859430.jpg"
     },
     "rumex-pulcher": {
-      "count": 3,
+      "count": 4,
       "first_src": "media/rumex-pulcher/inat-123498701.jpg"
     },
     "portulaca-oleracea": {
