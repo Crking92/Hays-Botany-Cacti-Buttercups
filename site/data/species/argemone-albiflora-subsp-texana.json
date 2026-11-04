@@ -2,9 +2,9 @@
   "id": "argemone-albiflora-subsp-texana",
   "family": "Papaveraceae",
   "genus": "Argemone",
-  "scientific_name": "",
+  "scientific_name": "Argemone albiflora subsp. texana",
   "common_name": "White Pricklypoppy",
-  "look_here_first": "",
+  "look_here_first": "White papery petals and blue-gray spiny foliage only establish pricklypoppy. For this eastern-Texas subspecies, check pale yellow fresh latex, relatively short usually unarmed sepal horns about 4–6(–10) mm, and narrow capsules with simple unequal prickles mostly shorter than those of A. aurantiaca. White flowers alone do not separate these species.",
   "key_traits": [
     {
       "label": "Life cycle",
@@ -56,8 +56,12 @@
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Argemone aurantiaca",
+      "Argemone polyanthemos",
+      "Argemone sanguinea"
+    ],
+    "differences": "A. aurantiaca usually has orange-red sap, prickly 8–12 mm sepal horns, and much longer often branched fruit prickles (15–35 mm). A. polyanthemos has a typically unarmed upper leaf surface, longer rounded usually unarmed sepal horns, and spaced fruit prickles. A. sanguinea can also have white petals; inspect bud and fruit, not just corolla color."
   },
   "verified_photos": [
     {
@@ -253,5 +257,7 @@
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "468fc77f7fb0b32486f260617287720a673f80aeb35c94536fb83092cf32d863",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch",
+  "genus_compare_id": "argemone",
+  "genus_comparison_note": "Look at the existing Argemone four-species field key. BONAP target-county nativity has not yet been verified for all taxa; do not use genus membership as a native-plant certification."
 }
