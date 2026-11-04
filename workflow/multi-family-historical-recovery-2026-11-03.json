@@ -1756,5 +1756,50 @@
     "Wikimedia current image license URL unsupported https://creativecommons.org/publicdomain/zero/1.0/deed.en/": 1
   },
   "cumulative_installed": 91,
-  "cumulative_held_reviewed": 23
+  "cumulative_held_reviewed": 23,
+  "owner_20261103_hold_closures": {
+    "policy": "Keep unverified or taxon-mismatched photos off all public family sites; owner requested no further retry. Preserve original provenance for audit; do not delete source files.",
+    "records": [
+      {
+        "git_blob_sha": "633b8fd239ba1f77d79b85318cc7e130335980d2",
+        "species_id": "berberis-aquifolium",
+        "filename": "library-review015-5217e746b481633.jpg",
+        "disposition": "CLOSED_EXCLUDED_FROM_PUBLIC_RELEASE",
+        "reason": "Taxon name in GBIF source disagrees with target; exact per-media license version unavailable",
+        "original_archived_preserved": true
+      },
+      {
+        "git_blob_sha": "e2c66e1dfd9bf9ee999927a304ec3b2b87634f84",
+        "species_id": "berberis-aquifolium",
+        "filename": "library-review015-7fe2b3ff5cb2856.jpg",
+        "disposition": "CLOSED_EXCLUDED_FROM_PUBLIC_RELEASE",
+        "reason": "Taxon name in GBIF source disagrees with target; exact per-media license version unavailable",
+        "original_archived_preserved": true
+      },
+      {
+        "git_blob_sha": "ac353ea441aad37716ff63158893c86ad6ff6247",
+        "species_id": "opuntia-azurea",
+        "filename": "gbif-manual-6130207737-000b4ff04.jpg",
+        "disposition": "CLOSED_EXCLUDED_FROM_PUBLIC_RELEASE",
+        "reason": "Source identifies Opuntia phaeacantha rather than target Opuntia azurea",
+        "original_archived_preserved": true
+      },
+      {
+        "git_blob_sha": "b5ab29bb6b05441a83eb8b4d887312f221fd36e7",
+        "species_id": "opuntia-gilvescens",
+        "filename": "gbif-manual-4028859348-07fc1cec5.jpg",
+        "disposition": "CLOSED_EXCLUDED_FROM_PUBLIC_RELEASE",
+        "reason": "Source identifies Opuntia phaeacantha rather than target Opuntia gilvescens",
+        "original_archived_preserved": true
+      },
+      {
+        "git_blob_sha": "ba58c2aab521cc22fe1ad14a5bbd1641ce8a0971",
+        "species_id": "opuntia-gilvescens",
+        "filename": "inat-first-717565310.jpg",
+        "disposition": "CLOSED_EXCLUDED_FROM_PUBLIC_RELEASE",
+        "reason": "Current exact photo attribution/license does not support original CC0 assertion",
+        "original_archived_preserved": true
+      }
+    ]
+  }
 }
