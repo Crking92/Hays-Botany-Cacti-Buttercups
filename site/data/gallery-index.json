@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 107,
   "photo_species": 104,
-  "photo_count": 512,
+  "photo_count": 531,
   "entries": {
     "alternanthera-caracasana": {
       "count": 2,
@@ -130,11 +130,11 @@
       "first_src": "media/echinocereus-stramineus/archived-7d41986d1038950e.jpg"
     },
     "echinocereus-triglochidiatus": {
-      "count": 3,
+      "count": 5,
       "first_src": "media/echinocereus-triglochidiatus/archived-e81a1b57266fc38a.jpg"
     },
     "ferocactus-hamatacanthus": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/ferocactus-hamatacanthus/archived-7132700272d8d0f7.jpg"
     },
     "grusonia-aggeria": {
@@ -150,7 +150,7 @@
       "first_src": "media/opuntia-azurea/opuntia-azurea-mexico-provisional.jpg"
     },
     "opuntia-engelmannii-var-lindheimeri": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/opuntia-engelmannii-var-lindheimeri/archived-f7ffa026a966c1b5.jpg"
     },
     "opuntia-gilvescens": {
@@ -178,11 +178,11 @@
       "first_src": "media/pelecyphora-macromeris-subsp-macromeris/archived-f62f0d752f2afb25.jpg"
     },
     "sclerocactus-warnockii": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/sclerocactus-warnockii/archived-8a842fb3f82bc8d6.jpg"
     },
     "thelocactus-bicolor": {
-      "count": 4,
+      "count": 6,
       "first_src": "media/thelocactus-bicolor/archived-f2264d52308033dd.jpg"
     },
     "arenaria-benthamii": {
