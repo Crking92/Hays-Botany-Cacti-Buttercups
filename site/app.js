@@ -60,6 +60,10 @@ async function select(id,push){
      if(card.lookalikes.names?.length)d.append(el("p","Compare with: "+card.lookalikes.names.join(", ")));
      if(card.lookalikes.differences)d.append(el("p",card.lookalikes.differences));
    }
+   if(card.genus==="Argemone"){
+     try{await renderArgemoneGuide(id,d)}catch(err){if(siteState.active===id)d.append(el("p","Genus comparison not available: "+err.message,"muted"));}
+     if(siteState.active!==id)return;
+   }
    if(Array.isArray(card.verified_photos)&&card.verified_photos.length){
      const heading=el("h3","Real species photographs");d.append(heading);
      d.append(el("p","Scroll sideways to compare the photographed structures. Image rights vary by photograph; review each caption. Anatomy arrows have not yet been individually certified.","muted"));
@@ -86,6 +90,53 @@ async function select(id,push){
    if(siteState.active===id)d.append(el("p","Teaching summary pending: "+error.message,"muted"));
  }
 }
+
+async function renderArgemoneGuide(id,d){
+  const response=await fetch("data/genus/argemone.json");
+  if(!response.ok)throw Error("Argemone genus guide unavailable");
+  const guide=await response.json();
+  if(siteState.active!==id)return;
+  const section=el("section",undefined,"argemone-guide");
+  section.append(el("h3",guide.title),el("p",guide.intro));
+  const steps=el("ol",undefined,"argemone-steps");
+  for(const step of guide.field_sequence)steps.append(el("li",step));
+  section.append(steps);
+  section.append(el("p",guide.safety_note,"muted"));
+  const grid=el("div",undefined,"argemone-grid");
+  for(const plant of guide.species){
+    const tile=el("button",undefined,"argemone-tile");
+    tile.type="button";
+    if(plant.id===id)tile.setAttribute("aria-current","true");
+    const thumb=siteState.photoIndex[plant.id];
+    if(thumb?.first_src){
+      const im=document.createElement("img");
+      im.src=thumb.first_src;im.alt="";im.loading="lazy";im.onerror=()=>im.remove();
+      tile.append(im);
+    }
+    tile.append(el("strong",plant.common_name));
+    tile.append(el("em",plant.scientific_name));
+    tile.append(el("span",plant.cue,"argemone-cue"));
+    for(const [key,value] of [["Bud",plant.bud],["Mature capsule",plant.fruit]]){
+      const line=el("p");line.append(el("b",key+": "),document.createTextNode(value));tile.append(line);
+    }
+    tile.append(el("span",plant.range,"argemone-range"));
+    tile.addEventListener("click",()=>select(plant.id,true));
+    grid.append(tile);
+  }
+  section.append(grid);
+  section.append(el("p",guide.scope,"muted"));
+  const source=el("a","Flora of North America genus key");
+  source.href="https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=102532";
+  source.target="_blank";source.rel="noopener noreferrer";section.append(source);
+  const photos=el("details",undefined,"argemone-needs");
+  photos.append(el("summary","Still-needed diagnostic photo views"));
+  const list=el("ul");
+  for(const target of guide.next_photo_targets)list.append(el("li",target));
+  photos.append(list);
+  section.append(photos);
+  d.append(section);
+}
+
 function setMode(mode){
  siteState.mode=mode;
  for(const b of document.querySelectorAll("[data-mode]"))b.setAttribute("aria-pressed",String(b.dataset.mode===mode));
