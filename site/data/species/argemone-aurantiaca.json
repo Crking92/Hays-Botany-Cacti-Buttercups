@@ -116,7 +116,7 @@
       "license": "CC BY-NC 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "69910317fe09c9357282959e2f623ef0b2bbefdd",
-      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "role": "White flower on flowering stem in grassy habitat",
       "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
@@ -130,7 +130,13 @@
       "display_blob_sha": "94e82b24d097aa6ad59f641a82f636c468d5d493",
       "display_original_site_sha256": "5ac2dfa203190600d7750f1f2e354cc165baf9555220c538a0f849e9f15ca026",
       "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
-      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual archived JPEG pixels inspected; no taxonomic reidentification or scale inference",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     },
     {
       "src": "media/argemone-aurantiaca/inat-646919959.jpg",
@@ -188,7 +194,7 @@
       "license": "CC BY-NC 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a91b574fa6d6b6ccca348be525d34c5cfdb24c8e",
-      "role": "same-observation field view 1",
+      "role": "White open flower and attached green spiny bud",
       "modified": "Original archived photograph; no additional modifications",
       "noncommercial_only": true,
       "private_rights_review_only": false,
@@ -197,7 +203,13 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "iNaturalist observation 348764122 photo 636119577 individual CC code cc-by-nc; photographer (c) David Willis, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA a91b574fa6d6b6ccca348be525d34c5cfdb24c8e; exact image source https://www.inaturalist.org/photos/636119577",
       "taxon_review_evidence": "Original species record argemone aurantiaca linked to an original image and matching current inat photo of source taxon Argemone aurantiaca. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "05438ff68f288067004a85215a193d369bc20e4a5cc80148c1351f42ff9dda15"
+      "sha256": "05438ff68f288067004a85215a193d369bc20e4a5cc80148c1351f42ff9dda15",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual archived JPEG pixels inspected; no taxonomic reidentification or scale inference",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     },
     {
       "src": "media/argemone-aurantiaca/archived-167f8e3da99f9969.jpg",
@@ -207,7 +219,7 @@
       "license": "CC BY-NC 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1f909c6fa9ccd70936bcda43124e4144960d44cb",
-      "role": "same-observation field view 3",
+      "role": "Close-up of deeply lobed prickly leaf and veins",
       "modified": "Original archived photograph; no additional modifications",
       "noncommercial_only": true,
       "private_rights_review_only": false,
@@ -216,7 +228,13 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "iNaturalist observation 348764122 photo 636119643 individual CC code cc-by-nc; photographer (c) David Willis, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 1f909c6fa9ccd70936bcda43124e4144960d44cb; exact image source https://www.inaturalist.org/photos/636119643",
       "taxon_review_evidence": "Original species record argemone aurantiaca linked to an original image and matching current inat photo of source taxon Argemone aurantiaca. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "167f8e3da99f9969ecd0054e69242d603e57151a45524c4d0d40689979766108"
+      "sha256": "167f8e3da99f9969ecd0054e69242d603e57151a45524c4d0d40689979766108",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual archived JPEG pixels inspected; no taxonomic reidentification or scale inference",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     },
     {
       "src": "media/argemone-aurantiaca/archived-f6ac9af580dfef08.jpg",
@@ -226,7 +244,7 @@
       "license": "CC BY-NC 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "06e7b0f8e83b019a482c099893f3585f6425bce3",
-      "role": "same-observation field view 2",
+      "role": "Unopened heavily prickly flower bud and pointed sepal horns; no scale",
       "modified": "Original archived photograph; no additional modifications",
       "noncommercial_only": true,
       "private_rights_review_only": false,
@@ -235,7 +253,13 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "iNaturalist observation 348764122 photo 636119614 individual CC code cc-by-nc; photographer (c) David Willis, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 06e7b0f8e83b019a482c099893f3585f6425bce3; exact image source https://www.inaturalist.org/photos/636119614",
       "taxon_review_evidence": "Original species record argemone aurantiaca linked to an original image and matching current inat photo of source taxon Argemone aurantiaca. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "f6ac9af580dfef08b7c3021db8ea198d19f56814218af5dff5caabacfe439685"
+      "sha256": "f6ac9af580dfef08b7c3021db8ea198d19f56814218af5dff5caabacfe439685",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual archived JPEG pixels inspected; no taxonomic reidentification or scale inference",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     },
     {
       "src": "media/argemone-aurantiaca/archived-0069dd2f0da7b67b.jpg",
@@ -245,7 +269,7 @@
       "license": "CC0 1.0",
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source_blob_sha": "40a1db8ba602ad8b0a29b3b8c4fbcc49dd6d74f9",
-      "role": "curated taxon reference 1",
+      "role": "White flower face, yellow stamens and gray-green prickly foliage",
       "modified": "Historical archived photograph; no new changes.",
       "noncommercial_only": false,
       "private_rights_review_only": false,
@@ -254,7 +278,13 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "Specific historical source image-sources.csv CC code cc0 and named photographer Unspecified iNaturalist photographer (CC0; source linked); exact photo 367305031; source image public open-data URL https://inaturalist-open-data.s3.amazonaws.com/photos/367305031/large.jpg; archived vs source pixel dHash distance 0; original species-card name argemone aurantiaca; historical CC permission is irrevocable but source license was not freshly revalidated; archived source SHA 40a1db8ba602ad8b0a29b3b8c4fbcc49dd6d74f9; exact image source https://www.inaturalist.org/photos/367305031",
       "taxon_review_evidence": "Original species record argemone aurantiaca linked to an original image and matching current inat-archived-exact-photo photo of source taxon argemone aurantiaca. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "0069dd2f0da7b67b15fa3c6cd5245406c3abfd5b7f37e702cc7fd23f57da5dbe"
+      "sha256": "0069dd2f0da7b67b15fa3c6cd5245406c3abfd5b7f37e702cc7fd23f57da5dbe",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual archived JPEG pixels inspected; no taxonomic reidentification or scale inference",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
