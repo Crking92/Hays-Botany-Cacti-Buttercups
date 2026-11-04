@@ -1,0 +1,43 @@
+{
+  "repository": "Crking92/Hays-Botany-Cacti-Buttercups",
+  "batch_key": "MULTIFAMILY_HISTORICAL_NAMED_INDIVIDUAL_CC_2026-11-03",
+  "checked_at": "2026-11-04T02:56:41.521335+00:00",
+  "source_files": 194,
+  "selection_window": 80,
+  "candidate_pool_with_usable_source_identifiers": 1,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 1,
+  "selected_by_lane": {
+    "inat": 1
+  },
+  "skipped_or_previously_published": {
+    "already_public_identical_bytes": 69,
+    "original_historical_review_preserved": 114,
+    "no_specific_named_cc_license_and_author": 9,
+    "no_exact_individual_open_data_photo_url": 1
+  },
+  "new_installed": 0,
+  "held_checked": 1,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "argemone-albiflora-subsp-texana",
+      "family": "Papaveraceae",
+      "filename": "01-curated-reference.jpg",
+      "original_path": "content/taxa/Papaveraceae/Argemone/argemone-albiflora-subsp-texana/images/01-curated-reference.jpg",
+      "archive_path": "migration/private-original-photo-holds/Papaveraceae/Argemone/argemone-albiflora-subsp-texana/images/01-curated-reference.jpg",
+      "git_blob_sha": "a708586b00676f4d14b43aef836f740e0ad80094",
+      "lane": "inat",
+      "status": "HELD",
+      "reason": "Original named species card does not match assigned species ID"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {
+    "Original named species card does not match assigned species ID": 1
+  },
+  "cumulative_installed": 0,
+  "cumulative_held_reviewed": 1
+}
