@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 107,
   "photo_species": 104,
-  "photo_count": 490,
+  "photo_count": 512,
   "entries": {
     "alternanthera-caracasana": {
       "count": 2,
@@ -106,15 +106,15 @@
       "first_src": "media/cylindropuntia-leptocaulis/archived-b08204c23e4d08f7.jpg"
     },
     "echinocactus-horizonthalonius-subsp-horizonthalonius": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/echinocactus-horizonthalonius-subsp-horizonthalonius/archived-b26cb3de63f0160e.jpg"
     },
     "echinocereus-chisoensis": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/echinocereus-chisoensis/archived-a612816d47e2b0b1.jpg"
     },
     "echinocereus-dasyacanthus-subsp-dasyacanthus": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/echinocereus-dasyacanthus-subsp-dasyacanthus/archived-e636c97e42f959cf.jpg"
     },
     "echinocereus-enneacanthus-var-enneacanthus": {
@@ -122,7 +122,7 @@
       "first_src": "media/echinocereus-enneacanthus-var-enneacanthus/archived-c33da55aef57d423.jpg"
     },
     "echinocereus-reichenbachii": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/echinocereus-reichenbachii/archived-95b8d48a115521cd.jpg"
     },
     "echinocereus-stramineus": {
@@ -130,7 +130,7 @@
       "first_src": "media/echinocereus-stramineus/archived-7d41986d1038950e.jpg"
     },
     "echinocereus-triglochidiatus": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/echinocereus-triglochidiatus/archived-e81a1b57266fc38a.jpg"
     },
     "ferocactus-hamatacanthus": {
