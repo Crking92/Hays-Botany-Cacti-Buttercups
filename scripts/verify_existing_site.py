@@ -131,7 +131,8 @@ def live_audit(base, ids, photos):
     base = base.rstrip("/") + "/"
     html = get_live(base, "index.html")
     require(b"collection-title" in html and b"app.js" in html, "missing live learner shell")
-    paths = ["data/collection-index.json", "data/gallery-index.json", "data/collection-meta.json"]
+    paths = ["index.html", "app.js", "styles.css", "data/genus/argemone.json",
+             "data/collection-index.json", "data/gallery-index.json", "data/collection-meta.json"]
     paths += ["data/species/" + sid + ".json" for sid in ids]
     paths += photos
     def verify(rel):
