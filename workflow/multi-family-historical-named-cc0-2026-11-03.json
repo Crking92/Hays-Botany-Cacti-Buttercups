@@ -1,0 +1,40 @@
+{
+  "repository": "Crking92/Hays-Botany-Cacti-Buttercups",
+  "batch_key": "MULTIFAMILY_HISTORICAL_NAMED_CC0_2026-11-03",
+  "checked_at": "2026-11-04T00:05:58.764524+00:00",
+  "source_files": 194,
+  "selection_window": 80,
+  "candidate_pool_with_usable_source_identifiers": 1,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 1,
+  "selected_by_lane": {
+    "inat": 1
+  },
+  "skipped_or_previously_published": {
+    "outside_reviewed_commons_recovery_lane": 193
+  },
+  "new_installed": 0,
+  "held_checked": 1,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "opuntia-gilvescens",
+      "family": "Cactaceae",
+      "filename": "inat-first-717565310.jpg",
+      "original_path": "content/taxa/Cactaceae/Opuntia/opuntia-gilvescens/images/inat-first-717565310.jpg",
+      "archive_path": "migration/private-original-photo-holds/Cactaceae/Opuntia/opuntia-gilvescens/images/inat-first-717565310.jpg",
+      "git_blob_sha": "ba58c2aab521cc22fe1ad14a5bbd1641ce8a0971",
+      "lane": "inat",
+      "status": "HELD",
+      "reason": "No individually named original photo creator; stay held"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {
+    "No individually named original photo creator; stay held": 1
+  },
+  "cumulative_installed": 0,
+  "cumulative_held_reviewed": 1
+}
