@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/echinocereus-chisoensis/archived-a612816d47e2b0b1.jpg",
+      "creator": "NPS Photo",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Chisos_Hedgehog_Cactus_(690f9968-2897-4893-9a2c-c56b240218dc).JPG",
+      "source_page_is_exact": true,
+      "license": "PUBLIC DOMAIN (U.S. FEDERAL WORK)",
+      "license_url": "https://www.copyright.gov/title17/92chap1.html#105",
+      "source_blob_sha": "3726e714cadf623a75a6db53bcf1264ea6e26691",
+      "role": "Provisional species recognition photograph; exact source taxon reviewed, diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Exact Commons file page, creator and image-specific PUBLIC DOMAIN (U.S. FEDERAL WORK) independently reviewed 2026-11-03; same original URL https://upload.wikimedia.org/wikipedia/commons/0/07/Chisos_Hedgehog_Cactus_%28690f9968-2897-4893-9a2c-c56b240218dc%29.JPG; image fingerprint distance 0; archived source SHA 3726e714cadf623a75a6db53bcf1264ea6e26691; exact image source https://commons.wikimedia.org/wiki/File:Chisos_Hedgehog_Cactus_(690f9968-2897-4893-9a2c-c56b240218dc).JPG",
+      "taxon_review_evidence": "Original species record Echinocereus chisoensis linked to an original image and matching current commons photo of source taxon Echinocereus chisoensis. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "a612816d47e2b0b11e17171b4cf4e810bffe866f958a3ee1339c73307bbdf810"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "00c3788b113f938f0fd8f96c558200698a367eab95e8d0bddf678787c90c5c62",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

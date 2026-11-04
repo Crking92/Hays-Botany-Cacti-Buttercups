@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 107,
-  "photo_species": 100,
-  "photo_count": 435,
+  "photo_species": 101,
+  "photo_count": 436,
   "entries": {
     "alternanthera-caracasana": {
       "count": 2,
@@ -110,8 +110,8 @@
       "first_src": "media/echinocactus-horizonthalonius-subsp-horizonthalonius/archived-b26cb3de63f0160e.jpg"
     },
     "echinocereus-chisoensis": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/echinocereus-chisoensis/archived-a612816d47e2b0b1.jpg"
     },
     "echinocereus-dasyacanthus-subsp-dasyacanthus": {
       "count": 1,

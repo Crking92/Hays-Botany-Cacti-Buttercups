@@ -1,9 +1,9 @@
 {
   "repository": "Crking92/Hays-Botany-Cacti-Buttercups",
   "batch_key": "MULTIFAMILY_COMMONS_EXACT_PAGE_CC_RECOVERY_2026-11-03",
-  "checked_at": "2026-11-04T01:09:42.136710+00:00",
+  "checked_at": "2026-11-04T01:32:45.288123+00:00",
   "source_files": 194,
-  "historical_cc0_deed_holds": 2,
+  "historical_cc0_deed_holds": 3,
   "selection_window": 15,
   "candidate_pool_with_usable_source_identifiers": 1,
   "remaining_candidates_not_yet_checked": 0,
@@ -12,28 +12,28 @@
     "commons": 1
   },
   "skipped_or_previously_published": {
-    "not_a_prior_cc0_deed_hold": 192,
-    "previous_cc0_recheck_decision_preserved": 1
+    "not_a_prior_cc0_deed_hold": 191,
+    "previous_cc0_recheck_decision_preserved": 2
   },
   "new_installed": 1,
   "held_checked": 0,
   "duplicates_found_during_review": 0,
   "records": [
     {
-      "species_id": "rumex-pulcher",
-      "family": "Polygonaceae",
-      "filename": "commons-rumex-pulcher.jpg",
-      "original_path": "content/taxa/Polygonaceae/Rumex/rumex-pulcher/images/commons-rumex-pulcher.jpg",
-      "archive_path": "migration/private-original-photo-holds/Polygonaceae/Rumex/rumex-pulcher/images/commons-rumex-pulcher.jpg",
-      "git_blob_sha": "858031ecb313b428abbc470d8ff344ecd84374fa",
+      "species_id": "echinocereus-chisoensis",
+      "family": "Cactaceae",
+      "filename": "inat-commons-nps-chisos-hedgehog-2013.jpg",
+      "original_path": "content/taxa/Cactaceae/Echinocereus/echinocereus-chisoensis/images/inat-commons-nps-chisos-hedgehog-2013.jpg",
+      "archive_path": "migration/private-original-photo-holds/Cactaceae/Echinocereus/echinocereus-chisoensis/images/inat-commons-nps-chisos-hedgehog-2013.jpg",
+      "git_blob_sha": "3726e714cadf623a75a6db53bcf1264ea6e26691",
       "lane": "commons",
       "status": "SOURCE_VERIFIED_READY",
-      "creator": "Krzysztof Ziarnek, Kenraiz",
-      "license": "CC BY-SA 4.0",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Rumex_pulcher_kz08.jpg",
-      "taxon": "Rumex pulcher",
-      "src": "media/rumex-pulcher/archived-4322d3aa66fe1169.jpg",
-      "sha256": "4322d3aa66fe11697d42e5b28f34845f242a90450bf27993b6cd3d254eb355b9"
+      "creator": "NPS Photo",
+      "license": "PUBLIC DOMAIN (U.S. FEDERAL WORK)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Chisos_Hedgehog_Cactus_(690f9968-2897-4893-9a2c-c56b240218dc).JPG",
+      "taxon": "Echinocereus chisoensis",
+      "src": "media/echinocereus-chisoensis/archived-a612816d47e2b0b1.jpg",
+      "sha256": "a612816d47e2b0b11e17171b4cf4e810bffe866f958a3ee1339c73307bbdf810"
     }
   ],
   "previous_batches": [
@@ -60,11 +60,35 @@
           "sha256": "7132700272d8d0f7e5f3c84aeed94c124894aaf7d6967c441c925d55a13b3e31"
         }
       ]
+    },
+    {
+      "checked_at": "2026-11-04T01:09:42.136710+00:00",
+      "selected_candidates": 1,
+      "new_installed": 1,
+      "held_checked": 0,
+      "records": [
+        {
+          "species_id": "rumex-pulcher",
+          "family": "Polygonaceae",
+          "filename": "commons-rumex-pulcher.jpg",
+          "original_path": "content/taxa/Polygonaceae/Rumex/rumex-pulcher/images/commons-rumex-pulcher.jpg",
+          "archive_path": "migration/private-original-photo-holds/Polygonaceae/Rumex/rumex-pulcher/images/commons-rumex-pulcher.jpg",
+          "git_blob_sha": "858031ecb313b428abbc470d8ff344ecd84374fa",
+          "lane": "commons",
+          "status": "SOURCE_VERIFIED_READY",
+          "creator": "Krzysztof Ziarnek, Kenraiz",
+          "license": "CC BY-SA 4.0",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Rumex_pulcher_kz08.jpg",
+          "taxon": "Rumex pulcher",
+          "src": "media/rumex-pulcher/archived-4322d3aa66fe1169.jpg",
+          "sha256": "4322d3aa66fe11697d42e5b28f34845f242a90450bf27993b6cd3d254eb355b9"
+        }
+      ]
     }
   ],
-  "batch_number": 2,
+  "batch_number": 3,
   "verified_but_not_installed": 0,
   "held_by_reason": {},
-  "cumulative_installed": 2,
+  "cumulative_installed": 3,
   "cumulative_held_reviewed": 0
 }
