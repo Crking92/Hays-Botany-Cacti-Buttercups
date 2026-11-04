@@ -32,8 +32,12 @@
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": "A. polyanthemos overlaps strongly with A. albiflora subsp. texana in white flower color and yellow latex; use leaf, bud, sepal-horn, and capsule characters rather than flower color alone."
+    "names": [
+      "Argemone albiflora subsp. texana",
+      "Argemone aurantiaca",
+      "Argemone sanguinea"
+    ],
+    "differences": "White petals and yellow latex overlap strongly with A. albiflora subsp. texana. Compare the often unarmed UPPER leaf blade, ellipsoid-oblong buds, 6–10(–15) mm rounded usually unarmed sepal horns, and widely spaced shorter capsule prickles (4–10[–12] mm). A. aurantiaca has much longer, often branched capsule prickles and orange-red latex; pale A. sanguinea can be mistaken from flowers alone."
   },
   "verified_photos": [
     {
@@ -166,5 +170,7 @@
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "91d5728b4d4a67ab8977c83b6b1c85bab54a661978322b0be4fa3d0da30e686e",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch",
+  "genus_compare_id": "argemone",
+  "genus_comparison_note": "Look at the existing Argemone four-species field key. BONAP target-county nativity has not yet been verified for all taxa; do not use genus membership as a native-plant certification."
 }
