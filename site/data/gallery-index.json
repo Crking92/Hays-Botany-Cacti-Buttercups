@@ -3,30 +3,30 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 107,
   "photo_species": 105,
-  "photo_count": 569,
+  "photo_count": 609,
   "entries": {
     "alternanthera-caracasana": {
-      "count": 2,
+      "count": 6,
       "first_src": "media/alternanthera-caracasana/alternanthera-caracasana-habit-starr.jpg"
     },
     "alternanthera-philoxeroides": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/alternanthera-philoxeroides/alternanthera-philoxeroides-flower-nrcs.jpg"
     },
     "alternanthera-pungens": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/alternanthera-pungens/alternanthera-pungens-habit-harry-rose.jpg"
     },
     "amaranthus-palmeri": {
-      "count": 3,
+      "count": 7,
       "first_src": "media/amaranthus-palmeri/archived-phase2-27d82eba2b45402f.jpg"
     },
     "amaranthus-polygonoides": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/amaranthus-polygonoides/archived-phase2-c89bba9ee1605fb6.jpg"
     },
     "amaranthus-retroflexus": {
-      "count": 1,
+      "count": 5,
       "first_src": "media/amaranthus-retroflexus/archived-phase2-005257ea5e682537.jpg"
     },
     "amaranthus-scleropoides": {
@@ -34,19 +34,19 @@
       "first_src": null
     },
     "amaranthus-spinosus": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/amaranthus-spinosus/archived-phase2-353ff00300b51046.jpg"
     },
     "amaranthus-viridis": {
-      "count": 1,
+      "count": 5,
       "first_src": "media/amaranthus-viridis/archived-phase2-6fa4760ec98064f4.jpg"
     },
     "atriplex-canescens": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/atriplex-canescens/archived-4726e77bbd338e33.jpg"
     },
     "blitum-nuttallianum": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/blitum-nuttallianum/archived-207144337b77f26e.jpg"
     },
     "celosia-nitida": {
