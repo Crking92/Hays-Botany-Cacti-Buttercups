@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 107,
-  "photo_species": 104,
-  "photo_count": 547,
+  "photo_species": 105,
+  "photo_count": 548,
   "entries": {
     "alternanthera-caracasana": {
       "count": 2,
@@ -78,8 +78,8 @@
       "first_src": "media/berberis-aquifolium/berberis-aquifolium-provisional-face.jpg"
     },
     "berberis-swaseyi": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/berberis-swaseyi/archived-81991fe94e7e9405.jpg"
     },
     "berberis-trifoliolata": {
       "count": 2,

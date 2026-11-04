@@ -1,0 +1,45 @@
+{
+  "repository": "Crking92/Hays-Botany-Cacti-Buttercups",
+  "batch_key": "MULTIFAMILY_HISTORICAL_CARD_INAT_EXPANDED_2026-11-03",
+  "checked_at": "2026-11-04T02:34:45.262775+00:00",
+  "source_files": 194,
+  "selection_window": 80,
+  "candidate_pool_with_usable_source_identifiers": 1,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 1,
+  "selected_by_lane": {
+    "inat": 1
+  },
+  "skipped_or_previously_published": {
+    "already_public_identical_bytes": 68,
+    "prior_historical_review_preserved": 114,
+    "card_lacks_exact_photo_and_observation_ids": 11
+  },
+  "new_installed": 1,
+  "held_checked": 0,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "berberis-swaseyi",
+      "family": "Berberidaceae",
+      "filename": "public-inat-berberis-swaseyi-713852138.jpg",
+      "original_path": "content/taxa/Berberidaceae/Berberis/berberis-swaseyi/images/public-inat-berberis-swaseyi-713852138.jpg",
+      "archive_path": "migration/private-original-photo-holds/Berberidaceae/Berberis/berberis-swaseyi/images/public-inat-berberis-swaseyi-713852138.jpg",
+      "git_blob_sha": "2a0269069330b0eb62870e87643f56ae4850c050",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Noland Martin",
+      "license": "CC BY 4.0",
+      "source_page": "https://www.inaturalist.org/photos/713852138",
+      "taxon": "Berberis swaseyi",
+      "src": "media/berberis-swaseyi/archived-81991fe94e7e9405.jpg",
+      "sha256": "81991fe94e7e94057ff5e77068217b002806aadebe28a76afd68fec2d8b420cd"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 1,
+  "cumulative_held_reviewed": 0
+}
