@@ -51,11 +51,17 @@
       "license": "CC BY-SA 3.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
       "source_blob_sha": "1e1dbbd114a3fc026005ee0e47635ba037d30b70",
-      "role": "Whole flowering plant and foliage",
+      "role": "Low flowering habit in leaf litter, clusters of yellow spurred flowers and finely divided gray-green foliage; no mature fruit or seeds visible",
       "modified": "Exact archived original photograph; no modification",
       "noncommercial_only": false,
       "private_rights_review_only": false,
-      "source_page_is_exact": true
+      "source_page_is_exact": true,
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual GitHub-hosted JPEG pixels inspected; descriptive structure coverage only; not a specialist taxonomic re-identification",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     },
     {
       "src": "media/corydalis-aurea/inat-258880397.jpeg",
@@ -65,7 +71,7 @@
       "license": "CC BY-NC 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0d907b9bccce885a311a40ca78669b233fc96377",
-      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "role": "Upright yellow spurred flower racemes with branching stems and scattered finely divided leaves; a reproductive-stage habit view",
       "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
@@ -79,7 +85,13 @@
       "display_blob_sha": "6d32d773183d488acf12439d62b2bc9e9f302b0c",
       "display_original_site_sha256": "10f5789d2252e1a4c9e85781446defea952690d5c8a4188487bd13342da0386b",
       "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
-      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual GitHub-hosted JPEG pixels inspected; descriptive structure coverage only; not a specialist taxonomic re-identification",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     },
     {
       "src": "media/corydalis-aurea/inat-261330390.jpg",
@@ -89,7 +101,7 @@
       "license": "CC BY-NC 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "97d38aadbb4fc4c44f66fa283aca4ecc66593b04",
-      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "role": "Side-on yellow spurred flowers and finely dissected green leaves on an upright stem; flowering detail",
       "modified": "Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
@@ -98,7 +110,13 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 151456167, photo 261330390, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fa239e50c22bc93f8d0b4fb5590186d638de07842335d22d7f64f8a871d4cc37. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Corydalis aurea maps to indexed species corydalis-aurea; specialist morphology and BONAP range deferred.",
-      "sha256": "fa239e50c22bc93f8d0b4fb5590186d638de07842335d22d7f64f8a871d4cc37"
+      "sha256": "fa239e50c22bc93f8d0b4fb5590186d638de07842335d22d7f64f8a871d4cc37",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual GitHub-hosted JPEG pixels inspected; descriptive structure coverage only; not a specialist taxonomic re-identification",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     },
     {
       "src": "media/corydalis-aurea/inat-474440220.jpg",
@@ -108,7 +126,7 @@
       "license": "CC BY-NC 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6e8a10dde2ba9177f13d54efd82e25fb3d222c0d",
-      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "role": "Yellow spurred flowers with narrow green capsule-like structure beside fingers and blue-green dissected leaves; fruit maturity unconfirmed",
       "modified": "Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
@@ -117,7 +135,13 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 264037729, photo 474440220, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6f5b0cfbfa94577b18f204d0e297fa7f34570fa6c46da2f98f5a3b011d162de0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Corydalis aurea maps to indexed species corydalis-aurea; specialist morphology and BONAP range deferred.",
-      "sha256": "6f5b0cfbfa94577b18f204d0e297fa7f34570fa6c46da2f98f5a3b011d162de0"
+      "sha256": "6f5b0cfbfa94577b18f204d0e297fa7f34570fa6c46da2f98f5a3b011d162de0",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual GitHub-hosted JPEG pixels inspected; descriptive structure coverage only; not a specialist taxonomic re-identification",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     },
     {
       "src": "media/corydalis-aurea/inat-643094749.jpg",
@@ -127,7 +151,7 @@
       "license": "CC BY-NC 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "05710c22c9ebf75e7e78737a51901a1615b321a2",
-      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "role": "Patch of flowering Corydalis with fine divided foliage and hand for rough field scale; plant bases not individually isolated",
       "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
@@ -141,7 +165,13 @@
       "display_blob_sha": "106d6016efb94410e53b946a84fa6ffe203a3b9c",
       "display_original_site_sha256": "bf10d07a33783f999884268b81102ca799443c91e54821389d2b382702c775c4",
       "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
-      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual GitHub-hosted JPEG pixels inspected; descriptive structure coverage only; not a specialist taxonomic re-identification",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     },
     {
       "src": "media/corydalis-aurea/inat-645726683.jpg",
@@ -151,7 +181,7 @@
       "license": "CC BY-NC 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "aaaf30f52add250a2015034c359d6f10bf0316be",
-      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "role": "Clusters of yellow spurred flowers and divided foliage growing among unrelated three-part leaves; mixed-vegetation context",
       "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
@@ -165,7 +195,13 @@
       "display_blob_sha": "0ec6c422cc1d6b23524fab01bd8273d4dd4198a7",
       "display_original_site_sha256": "759dc28ebb677c7596cbd164e67849c913b334f17aee62d5da106f38d7310f3c",
       "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
-      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual GitHub-hosted JPEG pixels inspected; descriptive structure coverage only; not a specialist taxonomic re-identification",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     },
     {
       "src": "media/corydalis-aurea/archived-e0b627362aba6c1a.jpg",
@@ -175,7 +211,7 @@
       "license": "CC BY 4.0",
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "c0c7f4685134f5a9ac4ca64cc44e8de9083e05fa",
-      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "role": "Flowering stem and broad deeply lobed gray-green foliage against exposed soil; no ripe capsule or seeds shown",
       "modified": "Resized JPEG and EXIF removed",
       "noncommercial_only": false,
       "private_rights_review_only": false,
@@ -184,7 +220,13 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "GBIF occurrence 6159240811 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/615727773/original.jpg; image-level license https://creativecommons.org/licenses/by/4.0/; creator CK2AZ; dHash distance 0; archived source SHA c0c7f4685134f5a9ac4ca64cc44e8de9083e05fa; exact image source https://www.inaturalist.org/photos/615727773",
       "taxon_review_evidence": "Original species record Corydalis aurea linked to an original image and matching current gbif photo of source taxon Corydalis aurea. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "e0b627362aba6c1a5e934b51d68ade4f30f73331fba11dbc1aeb8bc46719417e"
+      "sha256": "e0b627362aba6c1a5e934b51d68ade4f30f73331fba11dbc1aeb8bc46719417e",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual GitHub-hosted JPEG pixels inspected; descriptive structure coverage only; not a specialist taxonomic re-identification",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
