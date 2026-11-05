@@ -52,7 +52,10 @@ for row in idx["entries"]:
         assert path.is_file() and path.stat().st_size>500,src
         content=path.read_bytes()
         assert content.startswith((b"\xff\xd8\xff",b"\x89PNG\r\n\x1a\n",b"RIFF")),src
-        assert hashlib.sha1(b"blob "+str(len(content)).encode()+b"\x00"+content).hexdigest()==p["source_blob_sha"],src
+        # The public gallery can use an optimized display copy; its blob SHA
+        # is recorded separately from the preserved original source blob SHA.
+        expected_display_sha=p.get("display_blob_sha") or p["source_blob_sha"]
+        assert hashlib.sha1(b"blob "+str(len(content)).encode()+b"\x00"+content).hexdigest()==expected_display_sha,src
         approved.add(path.resolve())
         total+=1
 assert total==g["photo_count"] and total>=report["photos_copied_and_eligible"]
