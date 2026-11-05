@@ -51,11 +51,17 @@
       "license": "CC BY 2.0",
       "license_url": "https://creativecommons.org/licenses/by/2.0/",
       "source_blob_sha": "0f9681c4cc307c399e59a74047d5ddf30c8563ab",
-      "role": "Yellow spurred flowers and finely divided leaves visible; fruit and seed not shown",
+      "role": "Flowering shoot with several yellow spurred flowers and large blue-green finely divided leaves; fruit and seed not visible",
       "modified": "Exact archived original photograph; no modification",
       "noncommercial_only": false,
       "private_rights_review_only": false,
-      "source_page_is_exact": true
+      "source_page_is_exact": true,
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual GitHub-hosted JPEG pixels inspected; descriptive structure coverage only; not a specialist taxonomic re-identification",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     },
     {
       "src": "media/corydalis-micrantha/inat-477047197.jpg",
@@ -65,7 +71,7 @@
       "license": "CC BY-NC 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8f21a0c357562a8ab19ffe29e50c93aaf67a56bd",
-      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "role": "Thin flowering stem held by hand above mixed low vegetation with deeply cut leaves; flowers out of focus, no mature fruit confirmed",
       "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
@@ -79,7 +85,13 @@
       "display_blob_sha": "4568d04673fd06146928f3b103e068f29a41e4f2",
       "display_original_site_sha256": "d2b038dc5e951d0842e218ac9b1f0d21e4de6303dbe66ab96def849bc4b663f8",
       "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
-      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual GitHub-hosted JPEG pixels inspected; descriptive structure coverage only; not a specialist taxonomic re-identification",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     },
     {
       "src": "media/corydalis-micrantha/inat-732043.jpg",
@@ -89,7 +101,7 @@
       "license": "CC BY-NC 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "af5d226fd6a5541246b8f5346962a9b44c8194b3",
-      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "role": "Cluster of yellow spurred flowers and green floral bracts in side view; fruit and seed absent from view",
       "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
@@ -103,7 +115,13 @@
       "display_blob_sha": "65e4864e24035dc4961dbc71c4fd0c1952059380",
       "display_original_site_sha256": "bdafeaf61ccc116d46d09c688e9895f583e3319cdd431e0dca9f3ed7d1e9d6bf",
       "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
-      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual GitHub-hosted JPEG pixels inspected; descriptive structure coverage only; not a specialist taxonomic re-identification",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     },
     {
       "src": "media/corydalis-micrantha/archived-b3b754d10741a2dc.jpg",
@@ -113,7 +131,7 @@
       "license": "CC BY 4.0",
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "a2a3480f66a4cf71da16667bd7e5c192bfb8724a",
-      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "role": "Close side view of yellow spurred flowers and bracts above fingers; no mature fruit, minute closed flowers, or seeds distinguishable",
       "modified": "Resized JPEG and EXIF removed",
       "noncommercial_only": false,
       "private_rights_review_only": false,
@@ -122,7 +140,13 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "GBIF occurrence 6163087410 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/617032846/original.jpg; image-level license https://creativecommons.org/licenses/by/4.0/; creator Aubrey French; dHash distance 0; archived source SHA a2a3480f66a4cf71da16667bd7e5c192bfb8724a; exact image source https://www.inaturalist.org/photos/617032846",
       "taxon_review_evidence": "Original species record Corydalis micrantha linked to an original image and matching current gbif photo of source taxon Corydalis micrantha. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "b3b754d10741a2dc78a587dd9fbc28fab8d823f3a4ba4c0b88aebc766e3068b5"
+      "sha256": "b3b754d10741a2dc78a587dd9fbc28fab8d823f3a4ba4c0b88aebc766e3068b5",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual GitHub-hosted JPEG pixels inspected; descriptive structure coverage only; not a specialist taxonomic re-identification",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
