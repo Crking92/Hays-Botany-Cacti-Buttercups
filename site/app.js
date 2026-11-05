@@ -124,6 +124,17 @@ async function renderArgemoneGuide(id,d){
     grid.append(tile);
   }
   section.append(grid);
+  const mapLinks=el("p",undefined,"argemone-bonap-links");
+  mapLinks.append(document.createTextNode("BONAP NAPA county maps (range references, not local nativity approvals): "));
+  for(const plant of guide.species){
+    if(!plant.bonap_county_map_url)continue;
+    if(mapLinks.querySelector("a"))mapLinks.append(document.createTextNode(" · "));
+    const link=el("a",plant.scientific_name);
+    link.href=plant.bonap_county_map_url;
+    link.target="_blank";link.rel="noopener noreferrer";
+    mapLinks.append(link);
+  }
+  section.append(mapLinks);
   section.append(el("p",guide.scope,"muted"));
   const source=el("a","Flora of North America genus key");
   source.href="https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=102532";
