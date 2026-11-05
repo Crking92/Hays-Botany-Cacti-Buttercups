@@ -5,7 +5,7 @@
   "family": "Papaveraceae",
   "title": "Compare pricklypoppies: four Argemone species",
   "intro": "For Texas crews: the white flowers alone will not separate these species. Follow fresh sap color, whether upper leaf blades have prickles, the horns on unopened sepal buds, and spines on mature capsules. Do not infer any fine structure from an unscaled gallery photo.",
-  "scope": "Four indexed teaching species. County-level BONAP NAPA distribution remains a separate screening gate; representation in the learner does not prove native occurrence in Hays County or its designated west/north target.",
+  "scope": "Four indexed teaching species. County-level BONAP NAPA distribution remains a separate screening gate; representation in the learner does not prove native occurrence in Hays County or its designated west/north target. BONAP links are provided for direct map inspection only; do not equate a county distribution record with species-level field identification, and do not override existing range holds from map appearance alone.",
   "field_sequence": [
     "Start with flower color, but don't identify from petals alone: sanguinea can be lavender, rose, or pale, while the other three are commonly white.",
     "When appropriate and safely handling a known plant, observe freshly exposed latex without touching eyes or skin: aurantiaca has orange to reddish-orange sap, whereas the others have yellow or pale-yellow sap.",
@@ -23,7 +23,9 @@
       "bud": "Shorter sepal horns about 4–6 mm, occasionally to 10 mm, mostly unarmed.",
       "fruit": "Usually narrowly ellipsoid capsule; mostly simple, unequal prickles with longest about 6–10 mm, occasionally 12 mm.",
       "range": "Eastern Texas subspecies; Hays and target-county BONAP status not independently verified in this pass.",
-      "reference": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500124"
+      "reference": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500124",
+      "bonap_county_map_url": "https://bonap.net/Napa/TaxonMaps/Genus/County/Argemone",
+      "bonap_county_map_status": "Genus map directory only; subspecies-specific BONAP county nativity unconfirmed"
     },
     {
       "id": "argemone-aurantiaca",
@@ -33,7 +35,9 @@
       "bud": "Larger, prickly angular or flattened sepal horns, approximately 8–12 mm.",
       "fruit": "Very long, unequal, often branched capsule prickles; longest about 15–35 mm.",
       "range": "Native to south-central Texas; local target-county BONAP records require separate verification.",
-      "reference": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500126"
+      "reference": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500126",
+      "bonap_county_map_url": "https://bonap.net/MapGallery/County/Argemone%20aurantiaca.png",
+      "bonap_county_map_status": "Official BONAP 2014 county map; local target-county interpretation not separately certified"
     },
     {
       "id": "argemone-polyanthemos",
@@ -43,7 +47,9 @@
       "bud": "Ellipsoid-oblong bud; generally unarmed, round sepal horns about 6–10 mm, sometimes 15 mm.",
       "fruit": "Widely spaced mostly simple capsule prickles, longest about 4–10 mm, sometimes 12 mm; wall readily visible.",
       "range": "Native in west-central/central Great Plains; exact Hays and adjacent west/north target nativity unresolved.",
-      "reference": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500143"
+      "reference": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500143",
+      "bonap_county_map_url": "https://bonap.net/MapGallery/County/Argemone%20polyanthemos.png",
+      "bonap_county_map_status": "Official BONAP 2014 county map; local target-county interpretation not separately certified"
     },
     {
       "id": "argemone-sanguinea",
@@ -53,7 +59,9 @@
       "bud": "Bud often ellipsoid-oblong; angular sepal horns about 5–10 mm, slightly prickly at the base.",
       "fruit": "Narrow to broad capsule with comparatively short unequal prickles, usually 5–7 mm, occasionally 10 mm.",
       "range": "Native mainly to southern Texas and northeastern Mexico; Hays and target-county BONAP status unverified, comparison only.",
-      "reference": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500144"
+      "reference": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500144",
+      "bonap_county_map_url": "https://bonap.net/MapGallery/County/Argemone%20sanguinea.png",
+      "bonap_county_map_status": "Official BONAP 2014 county map; local target-county interpretation not separately certified"
     }
   ],
   "next_photo_targets": [
@@ -81,6 +89,10 @@
     {
       "title": "Kew POWO — Argemone aurantiaca",
       "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:18790-2"
+    },
+    {
+      "title": "BONAP NAPA — Argemone 2014 county range maps",
+      "url": "https://bonap.net/Napa/TaxonMaps/Genus/County/Argemone"
     }
   ],
   "attribution_policy": "Reference species photos are displayed through the existing species galleries with original photographer, exact photo URL and applicable license. Do not copy unverified external reference imagery into the site.",
