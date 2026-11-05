@@ -19,7 +19,7 @@
       "license": "CC BY 4.0",
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "9fc8851c60aa4b007712b76b6d9396ae086b7758",
-      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "role": "Elongated curved green developing capsules still attached to a flowering shoot, with yellow spurred flowers and lobed leaves; maturity and true size unconfirmed",
       "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
@@ -33,7 +33,13 @@
       "display_blob_sha": "a2087a1493e901463ae924a9a55cd5a6b5a788fa",
       "display_original_site_sha256": "55ba7282306df87cad561c2065324d2a89c1f73d8a45fab84f09dfc9a41c265a",
       "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
-      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual GitHub-hosted JPEG pixels inspected; descriptive structure coverage only; not a specialist taxonomic re-identification",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     },
     {
       "src": "media/corydalis-curvisiliqua/inat-32245161.jpeg",
@@ -43,7 +49,7 @@
       "license": "CC BY 4.0",
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "df1156c487a81b7b77bc9d43a25ab385c4c51548",
-      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "role": "Close side view of yellow spurred flowers, showing spur and flared petal tip; no ripe fruit shown",
       "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
@@ -57,7 +63,13 @@
       "display_blob_sha": "878f47625b8ee467ad70f55c9de616f3779e1035",
       "display_original_site_sha256": "7fd9abd7c4495fd7631c2fe0143e9fda064820006635a5cebbb1823468754b9a",
       "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
-      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual GitHub-hosted JPEG pixels inspected; descriptive structure coverage only; not a specialist taxonomic re-identification",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     },
     {
       "src": "media/corydalis-curvisiliqua/inat-32833788.jpeg",
@@ -67,7 +79,7 @@
       "license": "CC BY-NC 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5edb3b5a72e45c2ec4272e0510c1c19f872de3e3",
-      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "role": "Sharp cluster of yellow spurred flowers with minimal leaves, emphasizing petal and spur shape",
       "modified": "Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
@@ -76,7 +88,13 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 21240001, photo 32833788, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2aad950398a0329bfef3861ed4f235c499b38d9bce1ba6f4bf9a8d2a75c80b18. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Corydalis curvisiliqua maps to indexed species corydalis-curvisiliqua; specialist morphology and BONAP range deferred.",
-      "sha256": "2aad950398a0329bfef3861ed4f235c499b38d9bce1ba6f4bf9a8d2a75c80b18"
+      "sha256": "2aad950398a0329bfef3861ed4f235c499b38d9bce1ba6f4bf9a8d2a75c80b18",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual GitHub-hosted JPEG pixels inspected; descriptive structure coverage only; not a specialist taxonomic re-identification",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     },
     {
       "src": "media/corydalis-curvisiliqua/inat-62599505.jpeg",
@@ -86,7 +104,7 @@
       "license": "CC BY-NC 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c5a2ff53e18babc09e7c84505cf95a9af38d0449",
-      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "role": "Yellow flower raceme and divided gray-green foliage in grassy woodland habitat; whole rooted plant not isolated",
       "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
@@ -100,7 +118,13 @@
       "display_blob_sha": "62ed91043e10039cf568ce4eff748f7f912a0c8b",
       "display_original_site_sha256": "198fb83bb4dc355948ca2535dd5d4a036a71e2a2bbb0faf19e359a2a32c18b69",
       "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
-      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual GitHub-hosted JPEG pixels inspected; descriptive structure coverage only; not a specialist taxonomic re-identification",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     },
     {
       "src": "media/corydalis-curvisiliqua/inat-67432289.jpeg",
@@ -110,7 +134,7 @@
       "license": "CC BY-NC 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4b7789b57a537259288ff0cc84253a0bef7fc34e",
-      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "role": "Yellow spurred flowers on a slender stem with small finely divided foliage; no capsule or seed detail",
       "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
@@ -124,7 +148,13 @@
       "display_blob_sha": "2b756b428b27b679b0ea4dbd28b2c204d4a6fce2",
       "display_original_site_sha256": "ad08034022e11d325289c95933519c628fb9fbed93a011880c2767fb1887d2b0",
       "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
-      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual GitHub-hosted JPEG pixels inspected; descriptive structure coverage only; not a specialist taxonomic re-identification",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     },
     {
       "src": "media/corydalis-curvisiliqua/archived-3dcdb5631106db9e.jpg",
@@ -134,7 +164,7 @@
       "license": "CC BY-NC 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "de6990c539be63076393a0fa99c2dda775ff3331",
-      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "role": "Smaller-resolution repeat of iNaturalist photo 67432289: yellow spurred flowers and fine leaves; not an independent structural view",
       "modified": "Historical archived photograph; no new changes.",
       "noncommercial_only": true,
       "private_rights_review_only": false,
@@ -143,7 +173,13 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "iNaturalist observation 42468062 photo 67432289 individual CC code cc-by-nc; photographer (c) Tanya, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA de6990c539be63076393a0fa99c2dda775ff3331; exact image source https://www.inaturalist.org/photos/67432289",
       "taxon_review_evidence": "Original species record Corydalis curvisiliqua linked to an original image and matching current inat photo of source taxon Corydalis curvisiliqua. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "3dcdb5631106db9e0baca64323a35d85a1da6c1f1965c92faa35c61ea2a29e55"
+      "sha256": "3dcdb5631106db9e0baca64323a35d85a1da6c1f1965c92faa35c61ea2a29e55",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual GitHub-hosted JPEG pixels inspected; descriptive structure coverage only; not a specialist taxonomic re-identification",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
