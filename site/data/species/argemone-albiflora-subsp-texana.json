@@ -72,7 +72,7 @@
       "license": "CC BY-NC 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "62f1b2dc01a40c45f7014ffca3520195b59a73a7",
-      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "role": "White flower with yellow stamens, prickly glaucous foliage and adjacent unopened green buds",
       "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
@@ -86,7 +86,13 @@
       "display_blob_sha": "8539d8f2358f59eeece21d2c0b217700fb8c90c1",
       "display_original_site_sha256": "34371bb8fd77680735ca75a4918d2f41e269b2578d21f84c7dcff6e055af8213",
       "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
-      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual JPEG image pixels inspected; anatomical scale, latex, and taxon reidentification not inferred",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     },
     {
       "src": "media/argemone-albiflora-subsp-texana/inat-17577855.jpg",
@@ -96,7 +102,7 @@
       "license": "CC BY-NC 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3de0adf1dad59e3efa3380460803c7cbd99c239d",
-      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "role": "Branched flowering stem with white blooms, unopened buds, spent flower structures and deeply lobed spiny leaves; unscaled",
       "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
@@ -110,7 +116,13 @@
       "display_blob_sha": "47bdc2068df7abcf2de5eafd709647a14abccd2a",
       "display_original_site_sha256": "56df6c5bca33e42a667dd848299d269571d13416e25f24ebacf708854b15ed88",
       "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
-      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual JPEG image pixels inspected; anatomical scale, latex, and taxon reidentification not inferred",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     },
     {
       "src": "media/argemone-albiflora-subsp-texana/inat-268470489.jpeg",
@@ -120,7 +132,7 @@
       "license": "CC BY-NC 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1d5a451432f82e8fcbe7420dbf6e2822bec6f9ff",
-      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "role": "Nearly whole flowering plant in grassy habitat; upright stems, deeply lobed bluish leaves and several unopened buds",
       "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
@@ -134,7 +146,13 @@
       "display_blob_sha": "4bd0f628fcbd254338f9dfe74387a00ac7843767",
       "display_original_site_sha256": "458c6cdf0c8d1485b5e477e8d2b70340fdac339d3f1b9d6fee2e324e9a29ec3f",
       "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
-      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual JPEG image pixels inspected; anatomical scale, latex, and taxon reidentification not inferred",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     },
     {
       "src": "media/argemone-albiflora-subsp-texana/inat-3590614.jpg",
@@ -144,7 +162,7 @@
       "license": "CC BY-NC 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e8ee9383f9fdccb0d007d986c53e9796619984de",
-      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "role": "White flower face, strongly veined spiny foliage and several developing or spent reproductive structures; fruit maturity unconfirmed",
       "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
@@ -158,7 +176,13 @@
       "display_blob_sha": "66be2705ee42b75f1c982676f9cb45056b3c0cea",
       "display_original_site_sha256": "6701124db25d052fccdc292ba9ae7af606ed635c4020a0a8b13ab05018834248",
       "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
-      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual JPEG image pixels inspected; anatomical scale, latex, and taxon reidentification not inferred",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     },
     {
       "src": "media/argemone-albiflora-subsp-texana/inat-7429122.jpg",
