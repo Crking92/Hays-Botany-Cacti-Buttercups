@@ -97,7 +97,7 @@
       "license": "CC BY-NC 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "174fe6260ddefff3b773bbd08954db007eb6b59c",
-      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "role": "White flower with yellow stamens, pinkish stigma, adjacent spiny leaves and a small unopened bud",
       "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
@@ -111,7 +111,13 @@
       "display_blob_sha": "036f801a59e44bce30de2ec6d752bdc028c0488d",
       "display_original_site_sha256": "a86f8a1f6ca8023542c59ef9a529a9dcd0d1a22b0b6b6ce61a6b5c39ac0d2784",
       "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
-      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual JPEG image pixels inspected; anatomical scale, latex, and taxon reidentification not inferred",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     },
     {
       "src": "media/argemone-polyanthemos/inat-33097981.jpg",
@@ -181,7 +187,7 @@
       "license": "CC BY-NC 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "be182b31b3cbe65622ddfebb439a6382943e145a",
-      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "role": "White flower face with yellow stamens against deeply lobed blue-green leaves; upper leaf prickles not diagnostically resolved",
       "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
@@ -195,7 +201,13 @@
       "display_blob_sha": "85ac8519c35adac417cdb7862848e185e7696ca3",
       "display_original_site_sha256": "8470b16e255c71fb5c5ed9086612edaedb6ff036a30b84e1b4a5a04c1074c08b",
       "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
-      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual JPEG image pixels inspected; anatomical scale, latex, and taxon reidentification not inferred",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     },
     {
       "src": "media/argemone-polyanthemos/archived-3770c410bf1730ae.jpg",
