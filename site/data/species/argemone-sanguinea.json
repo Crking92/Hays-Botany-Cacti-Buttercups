@@ -67,7 +67,7 @@
       "license": "CC BY-NC 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1b97e736b1619283126f00e1eabb6a8894ff853a",
-      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "role": "Deep rose-magenta flower on slender prickly stem with some green foliage in surrounding vegetation",
       "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
@@ -81,7 +81,13 @@
       "display_blob_sha": "83701b4cf46670f3be0998a8ce51b58dc8ff77c0",
       "display_original_site_sha256": "82cce131c0f6e657d47c8e831801f6a64758b1e99f75f971c7241dca8e7d579e",
       "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
-      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual JPEG image pixels inspected; anatomical scale, latex, and taxon reidentification not inferred",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     },
     {
       "src": "media/argemone-sanguinea/inat-630049413.jpg",
@@ -151,7 +157,7 @@
       "license": "CC BY 4.0",
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "d8db115d8ad338353179a2dbf30cef9eb334f34a",
-      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "role": "Magenta flower beneath deeply lobed prickly blue-green leaves and several small green buds",
       "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
@@ -165,7 +171,13 @@
       "display_blob_sha": "1fb0c6ef13638163ba25002860be265136712b0b",
       "display_original_site_sha256": "11a8ca8a30fef00440d0631a22f9ea728eb586a80fcd19a08137036628793135",
       "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
-      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual JPEG image pixels inspected; anatomical scale, latex, and taxon reidentification not inferred",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     },
     {
       "src": "media/argemone-sanguinea/inat-627090947.jpg",
@@ -175,7 +187,7 @@
       "license": "CC0 1.0",
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source_blob_sha": "8d23706a514dd74fb13bdf8c365bbbcc34c8e35c",
-      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "role": "Magenta blooms and a pale or white bloom in one habitat view; unclear whether flowers belong to one individual",
       "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
@@ -189,7 +201,13 @@
       "display_blob_sha": "719b2416c3332941e744dad43df9b0b41ee6148f",
       "display_original_site_sha256": "30bec63049bde40e2d557058e66bc7f90a9aca95495c5476b34020b61ce861fe",
       "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
-      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_PUBLISHED_IMAGE",
+        "reviewed_on": "2026-11-04",
+        "method": "Actual JPEG image pixels inspected; anatomical scale, latex, and taxon reidentification not inferred",
+        "confidence": "IMAGE_CONTENT_ONLY"
+      }
     },
     {
       "src": "media/argemone-sanguinea/archived-a18fa3399e66c518.jpg",
