@@ -19,7 +19,7 @@
       "license": "CC BY-NC 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ead04a2b6f08f2c316dca4b705011633b0e3e2e1",
-      "role": "General field photograph, no anatomy claims",
+      "role": "Small nonflowering cactus with spiny body in rocky field habitat; habit context, but cactus occupies a small portion of frame",
       "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
@@ -33,7 +33,12 @@
       "display_blob_sha": "02878a1ba98de6fb18491a63dc1a4433ef98c8cc",
       "display_original_site_sha256": "87328969674a90686384378f421e9d7841dcd646f3c2b4dd51388ff2baba774e",
       "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
-      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_EXISTING_IMAGE",
+        "reviewed_on": "2026-11-05",
+        "method": "Direct inspection of existing GitHub-hosted JPEG; image-content description only"
+      }
     },
     {
       "src": "media/coryphantha-echinus/inat-622684027.jpg",
@@ -115,7 +120,7 @@
       "license": "CC BY-NC 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0fbf1be9cb64162e3547dca60c209c2cc0c0cdea",
-      "role": "General field photograph, no anatomy claims",
+      "role": "Open yellow flowers with visible stamens and stigma area; spiny cactus body and rocky habitat also shown; mature fruit not visible",
       "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
@@ -129,7 +134,12 @@
       "display_blob_sha": "d397c38f2c4c0c2eb99352c16bdddd2b5f289464",
       "display_original_site_sha256": "e9b225ce6c685d6744d902892c6366b641033294cbddc1845de9800aa1dce91b",
       "display_original_archive_commit": "be333f03b10c7341897b494d823d39fcad2680da",
-      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive",
+      "visual_role_review": {
+        "status": "VISUALLY_CONFIRMED_EXISTING_IMAGE",
+        "reviewed_on": "2026-11-05",
+        "method": "Direct inspection of existing GitHub-hosted JPEG; field-ID image-content description only, not specialist taxon certification"
+      }
     },
     {
       "src": "media/coryphantha-echinus/archived-810a8d027c0020e2.jpg",
