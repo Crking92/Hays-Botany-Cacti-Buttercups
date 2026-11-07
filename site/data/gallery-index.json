@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 107,
   "photo_species": 105,
-  "photo_count": 634,
+  "photo_count": 633,
   "entries": {
     "alternanthera-caracasana": {
       "count": 6,
@@ -386,7 +386,7 @@
       "first_src": "media/anemone-caroliniana/anemone-caroliniana-flower-face.jpg"
     },
     "anemone-edwardsiana": {
-      "count": 6,
+      "count": 5,
       "first_src": "media/anemone-edwardsiana/inat-475604539.jpg"
     },
     "aquilegia-canadensis": {
