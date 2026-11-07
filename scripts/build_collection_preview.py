@@ -62,7 +62,11 @@ assert total==g["photo_count"] and total>=report["photos_copied_and_eligible"]
 assert species==g["photo_species"] and species>=report["species_with_photos"]
 assert len(approved)==total
 actual={f.resolve() for f in (SITE/"media").rglob("*") if f.is_file()}
-assert approved==actual,"Public media folder has images not covered by explicit approved gallery"
+# Exact wrong-taxon original retained, never approved as a gallery reference.
+archived=SITE/"media/anemone-edwardsiana/inat-622670388.jpg"
+assert archived.is_file() and hashlib.sha1(b"blob "+str(archived.stat().st_size).encode()+b"\x00"+archived.read_bytes()).hexdigest()=="a3d3833b91ee4049a5d238a1d31e3454da9516ac"
+assert archived.resolve() not in approved,"Misidentified original restored to gallery"
+assert actual-approved=={archived.resolve()} and approved<=actual,"Unexpected media without approved gallery reference"
 html=(SITE/"index.html").read_text(encoding="utf-8")
 script=(SITE/"app.js").read_text(encoding="utf-8")
 style=(SITE/"styles.css").read_text(encoding="utf-8")
