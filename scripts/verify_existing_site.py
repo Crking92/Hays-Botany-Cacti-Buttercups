@@ -100,7 +100,14 @@ def local_audit():
             require(photo["source_page"].startswith("https://") and photo["license_url"].startswith("https://"),
                     sid + ": missing exact source/license URL")
     actual = {p.relative_to(SITE).as_posix() for p in (SITE / "media").rglob("*") if p.is_file()}
-    require(actual == refs, "orphan media files or untracked photo references")
+    # Exact wrong-taxon original preserved in Git, never approved as a gallery image.
+    archived_exception = "media/anemone-edwardsiana/inat-622670388.jpg"
+    archived_file = SITE / archived_exception
+    require(archived_file.is_file() and git_blob_sha(archived_file.read_bytes()) == "a3d3833b91ee4049a5d238a1d31e3454da9516ac",
+            "documented misidentified archival image missing or changed")
+    require(archived_exception not in refs, "misidentified archival image restored to public gallery")
+    require(actual - refs == {archived_exception} and refs <= actual,
+            "unexpected orphan media files or untracked photo references")
     require(gallery.get("photo_count") == count and gallery.get("photo_species") == featured,
             "photo totals do not agree with actual linked files")
     require(count >= migration.get("photos_copied_and_eligible", 0)
