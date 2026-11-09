@@ -23,18 +23,23 @@ jobs:
           python3 - <<'PY'
           import time,urllib.request
           from pathlib import Path
-          expected=Path("site/data/gallery-index.json").read_bytes()
-          url="https://crking92.github.io/Hays-Botany-Cacti-Buttercups/site/data/gallery-index.json"
+          checks=[Path("site/data/gallery-index.json"),Path("site/data/species/ranunculus-macranthus.json")]
+          base="https://crking92.github.io/Hays-Botany-Cacti-Buttercups/"
           for attempt in range(30):
-              try:
-                  with urllib.request.urlopen(urllib.request.Request(url+"?audit="+str(attempt),headers={"User-Agent":"HaysBotanyLivePhotos/1.0"}),timeout=20) as response:
-                      if response.read()==expected:
-                          print("PUBLIC_GALLERY_INDEX_IS_CURRENT")
-                          break
-              except Exception as exc:
-                  print("Pages update pending",str(exc))
+              pending=[]
+              for path in checks:
+                  try:
+                      url=base+str(path)+"?audit="+str(attempt)
+                      with urllib.request.urlopen(urllib.request.Request(url,headers={"User-Agent":"HaysBotanyLivePhotos/1.0","Cache-Control":"no-cache"}),timeout=20) as response:
+                          if response.read()!=path.read_bytes(): pending.append(str(path)+" byte mismatch")
+                  except Exception as exc:
+                      pending.append(str(path)+": "+str(exc))
+              if not pending:
+                  print("PUBLIC_GALLERY_INDEX_AND_CHANGED_SPECIES_ARE_CURRENT")
+                  break
+              print("Pages update pending:", "; ".join(pending))
               time.sleep(8)
-          else: raise SystemExit("Live gallery has not reached current commit")
+          else: raise SystemExit("Live gallery index or Ranunculus species card has not reached current commit")
           PY
       - name: Verify published species JSON and gallery images
         run: python3 scripts/verify_existing_site.py --live https://crking92.github.io/Hays-Botany-Cacti-Buttercups/site/
